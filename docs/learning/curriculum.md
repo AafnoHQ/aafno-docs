@@ -84,13 +84,28 @@ For learners starting from little or no Nepali.
 
 ## Placement
 
-Placement is a short check, not a long exam. It should sort a learner into a pathway and a starting band inside that pathway:
+Placement is a short check, not a long exam. It produces a starting recommendation, not a permanent label. It checks independent skills so a learner can be strong in one and new to another:
 
-- How much spoken Nepali they understand.
-- How much they can produce.
-- Whether they can read a simple Devanagari sentence.
+- Listening: how much spoken Nepali they understand.
+- Speaking: how much they can produce from a prompt.
+- Reading: whether they can read a simple Devanagari sentence.
+- Writing: whether they can type a simple Devanagari response when typing is offered.
+- Grammar: whether they can apply the sentence patterns that separate neighbouring starting bands.
 
-Someone may be heritage in speech and a beginner in script. The two results are allowed to differ. That split is the point of separate strands.
+The first release may use a self-check and a small number of tasks. It must show the learner the recommended path and let them change it. Someone may be heritage in speech and a beginner in script. The results are allowed to differ; that split is the point of separate strands.
+
+## Unit contract
+
+Every buildable unit has a small, explicit contract before it is written:
+
+- A learner-facing outcome: what the learner can understand or say after it.
+- The grammar point, sentence frames, vocabulary, and prerequisite units.
+- The listening, construction, variation, and exchange activities required by the method.
+- The accepted answers or a clear marking rule for each activity.
+- The reading and writing requirement, if the script strand is in scope.
+- A content-QA status and acceptance record before the unit is visible to learners.
+
+The exact lesson sequence, unit count, and starting bands remain open decisions. They should be agreed as a validated starter syllabus, rather than inferred from this framework.
 
 ## Done, for a unit
 

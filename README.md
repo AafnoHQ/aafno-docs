@@ -46,6 +46,7 @@ Aafno is built around structured grammar, sentence construction, real conversati
 | [What sets Aafno apart](docs/product/usps.md) | Product differences from typical language apps |
 | [Methodology](docs/learning/methodology.md) | How learning is designed |
 | [Curriculum](docs/learning/curriculum.md) | Skill strands and pathways |
+| [Content QA](docs/learning/content-qa.md) | How learner-facing Nepali is reviewed and released |
 | [Architecture](docs/technical/architecture.md) | Platforms and how the pieces fit |
 | [AI integration](docs/technical/ai-integration.md) | Planned use of Tarka and Nepali models |
 | [Data](docs/technical/database.md) | Information the product needs to remember |

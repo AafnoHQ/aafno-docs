@@ -57,7 +57,11 @@ Review returns forms that were wrong or hesitant. It does not only return whatev
 
 ## Validation
 
-A lesson is draft until a native speaker has checked the Nepali, the explanation, and the audio notes. Review looks for incorrect language, unnatural example sentences, missing honorific context, and explanations that would teach a false rule. Drafts can be generated or outlined with tools. Publication cannot.
+A lesson is draft until a native speaker has checked the Nepali, the explanation, and the audio notes. Review looks for incorrect language, unnatural example sentences, missing honorific context, and explanations that would teach a false rule. Drafts can be generated or outlined with tools. Publication cannot. The release workflow and the required review record are in [Content QA](content-qa.md).
+
+## Naturalness, register, and variation
+
+Correct is not always the same as useful. Examples should identify the register they teach where it matters: everyday, respectful, or formal. Standard Nepali is the shared teaching baseline; regional, family, and code-switched expressions may be introduced as labelled variation, never as an unmarked universal rule. A lesson must not present one household's usage as the only natural way to speak.
 
 ## Tone of instruction
 

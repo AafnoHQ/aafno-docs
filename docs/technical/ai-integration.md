@@ -31,6 +31,8 @@ Speech models, when licensed and validated, may:
 - Score or comment on pronunciation for sounds and forms the lesson is actually teaching.
 - Accept spoken answers in conversation practice.
 
+These are separate capabilities. Speech-to-text (ASR) determines what a learner said; text-to-speech (TTS) creates audio; pronunciation assessment judges how it was said. A successful ASR transcription is not evidence of accurate pronunciation, and no capability may be represented to the learner as another.
+
 ## What AI is not for
 
 - Publishing an explanation, sentence, or audio file as curriculum without native-speaker validation.
@@ -55,6 +57,8 @@ A model that is impressive in open chat and unreliable on honorifics does not pa
 
 Results of those checks belong with the decision to adopt a model. They are not written here in advance.
 
+The test set must include validated examples from the early curriculum, respectful and everyday speech, likely learner errors, and out-of-scope prompts. Evaluation records identify the task, model and version, reviewer result, known failure cases, and the decision to enable, limit, or reject the capability. Model output used for learner feedback must be traceable to that record.
+
 ## Personalisation
 
 Personalisation may use model help to choose the next validated item. The items themselves remain from the validated set. The rules for pathway and placement are in [Curriculum](../learning/curriculum.md) and stay legible without a model: comprehension, production, and script are assessed separately.
@@ -62,6 +66,8 @@ Personalisation may use model help to choose the next validated item. The items 
 ## Privacy and licensing
 
 Learner audio and free-text answers are personal data. They go to Tarka, or to any later provider, only under a commercial agreement that covers this product, with the retention and training terms known and acceptable. Licensing is a gate, not a footnote. If the licence is unclear, the integration does not ship.
+
+Optional provider processing requires a clear learner consent state where the product and applicable law require it. The exact consent wording, retention period, deletion process, and whether any data may be used for provider improvement are open decisions that must be resolved before launch.
 
 Keys and credentials live in the application’s secret store. They are not committed to this documentation repository or to source.
 

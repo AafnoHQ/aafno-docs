@@ -36,6 +36,15 @@ The product learners touch is a Base44 application. It is responsible for accoun
 
 Base44 is the platform choice. Detailed service boundaries inside Base44 should be written down when the app repository exists, next to the code they describe. Until then, this page states responsibilities, not a folder layout we do not have.
 
+At minimum, the application separates these responsibilities even if Base44 implements them together:
+
+- **Learning delivery:** resolve an eligible unit, render its activities, and use only accepted content.
+- **Assessment and progress:** store independent listening, speaking, reading, writing, and grammar results; derive a transparent next step.
+- **Content administration:** draft, review, accept, revise, and retire curriculum without exposing drafts to learners.
+- **Optional AI gateway:** make approved provider calls from the server side, apply task-specific constraints, and record the provider and version used.
+
+Client screens must not hold provider keys or decide whether unreviewed content is publishable.
+
 ## Documentation
 
 Human-facing product and engineering notes live here, under `docs/`. GitHub Pages serves them. The [repository README](https://github.com/AafnoHQ/aafno-docs) is the front door for anyone landing on the repository.
@@ -51,6 +60,14 @@ The curriculum must be teachable without an unvalidated model in the loop. Core 
 ## Data
 
 What the application needs to remember is described in [Data](database.md). The store is part of the Base44 application. This repo does not host learner data.
+
+## Delivery rules
+
+- A learner can only receive content whose status is accepted.
+- A learner's pathway can combine different starting bands by skill and strand; it is not one global level.
+- Core lesson delivery, placement, and progress continue when an AI provider is unavailable.
+- Content updates are versioned so an attempt remains attributable to the material the learner actually saw.
+- Application secrets, provider agreements, and learner data stay outside GitHub and documentation builds.
 
 ## Environments and source control
 
@@ -71,3 +88,5 @@ There is no production deployment described here beyond GitHub Pages for docs an
 | AI provider is Tarka | Planned |
 | Nepali language and speech models | Planned, subject to commercial licensing and validation |
 | Internal schema and service layout | Not yet specified |
+| Content review workflow | Defined; reviewer operations remain open |
+| AI gateway and provider failover | Required boundary; implementation not yet specified |

@@ -27,6 +27,8 @@ Placement can be a concise self-check plus a few tasks (understand, produce, rea
 - Guided conversation turns that ask the learner to answer and to ask back.
 - A script sequence that reaches reading and typing a simple sentence, usable on its own by the literacy pathway and in parallel by the others.
 
+The MVP does not set a unit count before content review capacity is known. Each unit must have the outcome, prerequisites, activities, accepted answers, and QA record defined in [Curriculum](../learning/curriculum.md) and [Content QA](../learning/content-qa.md).
+
 **Practice that matches the method.** For each unit, the learner hears a correct sentence, sees how it is built, rebuilds it, varies one slot, and uses it in a short exchange. Completion means they can understand and produce the form, and read it when the unit includes reading.
 
 **Progress that respects the split.** Speaking progress and script progress are stored separately, as in [Data](../technical/database.md). The next unit follows prerequisites and obvious weaknesses (missed endings, missed letters).
@@ -45,7 +47,19 @@ Placement can be a concise self-check plus a few tasks (understand, produce, rea
 
 ## Content rule for the MVP
 
-Every Nepali sentence, explanation, and audio file in the learner path has a native-speaker acceptance recorded against it. Volume is whatever can be validated, not whatever can be generated. A short course that is right is the MVP. A long course that is unreviewed is a different product, and not this one.
+Every Nepali sentence, explanation, accepted answer, transcript, and audio file in the learner path has a native-speaker acceptance recorded against its version. Volume is whatever can be validated, not whatever can be generated. A short course that is right is the MVP. A long course that is unreviewed is a different product, and not this one.
+
+## Acceptance criteria
+
+The MVP is ready for learner testing when:
+
+1. A new learner can sign in, complete placement, see a recommended pathway, and change that recommendation.
+2. Each starter pathway opens only accepted curriculum content and has a usable first unit.
+3. Every unit follows the core pattern: hear/read, understand construction, rebuild, vary, then use in an exchange.
+4. Progress for speech and script is recorded independently; the next unit explains its prerequisite or review reason.
+5. A learner can replay audio, view an answer or feedback result, and resume their latest progress.
+6. No live provider call is necessary to complete placement, a unit, or the starter pathway.
+7. A content issue can be reported to the review process and a corrected content version can replace the learner-facing one.
 
 ## Done
 
