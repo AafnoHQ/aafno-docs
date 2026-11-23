@@ -53,6 +53,14 @@ Typical dependency rules:
 
 Shared content reduces duplication but does not erase assessment distinctions. One sentence may be reused across modalities, while completion, scaffolding, scoring, and the resulting skill update remain separate.
 
+## Completion and concept mastery
+
+Exposure to a concept, completion of a lesson, and completion of an individual practice activity are useful progress records. None of them alone establishes concept mastery. They show that a learner encountered or attempted material; they do not show that the learner can use it beyond its original example or scaffold.
+
+At this architecture level, **concept mastery** means evidence that a learner can independently transfer and use the concept across appropriate task types for the relevant skill profile. For example, that may include understanding it in a new listening or reading context, adapting it in construction, and using it in a less scripted spoken or written response. The evidence needed may differ by pathway and modality, so mastery does not collapse into one overall course percentage.
+
+Detailed assessment rules, evidence counts, and promotion thresholds belong to a later assessment-design phase. Until then, the system should record exposure, completion, practice evidence, and demonstrated mastery separately rather than infer mastery from exercise completion.
+
 ## Content object proposal for Base44
 
 For later implementation, model a content concept separately from its rendered activities:

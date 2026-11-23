@@ -14,9 +14,9 @@ Aafno uses CEFR-inspired A1–C2 bands to make progress legible, while assessing
 | --- | --- | --- |
 | Receptive | Listening, reading | Interpret meaning, intent, key detail, and relevant register from unfamiliar but level-appropriate input. |
 | Productive | Speaking, writing | Create an understandable, context-appropriate response; adapt known patterns rather than repeat a fixed line. |
-| Enabling | Grammar | Recognise and apply the forms needed by the band, including choosing between known alternatives in context. |
+| Independently reported | Grammar | Recognise, understand, and apply the forms needed by the band, including choosing between known alternatives in context. |
 
-Grammar does not substitute for communication evidence. Likewise, receptive success alone does not award a productive level. Devanagari literacy is measured through reading and writing, and is independent of spoken fluency.
+Grammar does not substitute for communication evidence, nor is it merely hidden enabling knowledge. It is reported as its own profile dimension because comprehension of a form does not demonstrate explicit grammatical understanding or productive control, and knowing how to explain a form does not demonstrate that it can be used in interaction. Likewise, receptive success alone does not award a productive level. Devanagari literacy is measured through reading and writing, and is independent of spoken fluency.
 
 ## Nepali-specific band descriptors
 
@@ -31,6 +31,20 @@ Grammar does not substitute for communication evidence. Likewise, receptive succ
 
 These descriptors deliberately avoid prescribing a single 'correct' family or regional voice. At upper levels, variation awareness means recognising what a given speaker or context calls for, not erasing variation.
 
+## Descriptors and future assessment criteria
+
+The A1–C2 table is a set of high-level learner-facing descriptors. It describes the intended shape of a band; it is not yet a scoring rubric, placement algorithm, or set of promotion thresholds.
+
+Later assessment criteria will operationalise these descriptors with observable evidence. In adjacent **speaking** bands, the criteria will need to distinguish at least:
+
+- sentence complexity and control when constructing or adapting an utterance;
+- conversational independence, including initiating, maintaining, clarifying, and repairing an exchange;
+- usable vocabulary range and lexical choice for the task;
+- ability to handle less predictable prompts or turns; and
+- grammatical accuracy and control of register, including appropriate honorific choices.
+
+The same separation applies to the other profiles: a grammar result will need evidence of recognition, explicit understanding where relevant, and use; receptive results will need evidence of interpretation; and productive results will need independently generated responses. Detailed task design, weighting, cut scores, and scoring thresholds are deliberately out of scope until the descriptors and tasks have been piloted.
+
 ## Observable evidence
 
 Placement and progression tasks should elicit evidence rather than rely only on self-rating:
@@ -41,7 +55,7 @@ Placement and progression tasks should elicit evidence rather than rely only on 
 - Reading: derive meaning from Devanagari appropriate to the learner's literacy band, not merely name characters.
 - Writing: create a Devanagari response for a purpose; typing is valid evidence while handwriting capability is not yet a product requirement.
 
-Tasks may offer Romanisation as learning support according to the learner setting. It must not make a reading result appear higher than the learner's Devanagari reading evidence.
+Tasks show Romanisation alongside Devanagari by default, and the learner setting can hide it independently. Romanisation support must not make a reading result appear higher than the learner's Devanagari reading evidence.
 
 ## Placement and progression principles
 
@@ -58,4 +72,4 @@ Tasks may offer Romanisation as learning support according to the learner settin
 
 **Requires native-speaker validation:** all final task prompts, benchmark answers, register judgments, audio, scoring annotations, and descriptors that reference naturalness or variation. Assessment accessibility and reliability require separate testing with the three starting profiles.
 
-**Open decisions:** whether the MVP displays bands beyond A2/B1, the evidence threshold and reassessment cadence, how confidence is explained to learners, and whether handwriting becomes separately reported once supported.
+**Open decisions:** whether the MVP displays bands beyond A2/B1, the evidence threshold and reassessment cadence, how confidence is explained to learners, and whether handwriting becomes separately reported once supported. Detailed assessment rules and cut scores remain a later-phase decision.

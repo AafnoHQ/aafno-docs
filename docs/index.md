@@ -25,6 +25,8 @@ Aafno (आफ्नो) is a Nepali language-learning platform. It helps people 
 
 - [Methodology](learning/methodology.md) — principles that shape lessons and practice.
 - [Curriculum](learning/curriculum.md) — skill strands and how the three audiences move through them.
+- [Proficiency framework](learning/proficiency-framework.md) — CEFR-inspired skill descriptors and the assessment principles that will support them.
+- [Curriculum structure](learning/curriculum-structure.md) — reusable concepts, dependencies, and flexible routes through the curriculum.
 
 ## Technical
 

@@ -40,15 +40,21 @@ Each unit combines a small set of linked strands: a form or pattern, vocabulary 
 
 The normal learning cycle is **hear/read in context → understand construction → rebuild → vary → use in an exchange → retrieve in review**. Grammar is the explanatory layer; sentence construction is the bridge from explanation to speech or writing. Listening remains receptive and speaking/writing productive: success in one does not automatically unlock the other.
 
+## Script and Romanisation display
+
+**Product requirement:** learner-facing Nepali displays Devanagari and Romanised Nepali together by default. A learner can independently hide Romanisation at any time; hiding it must not hide Devanagari or change the active literacy pathway. Romanisation supports access and early practice, but it does not replace Devanagari literacy evidence.
+
+The precise Romanisation convention remains an editorial decision and must be applied consistently once it is approved.
+
 ## Skill-based personalisation
 
 Placement and progress use five independent profiles:
 
 - **Listening** and **reading** are receptive: can the learner derive meaning from spoken or written Nepali?
 - **Speaking** and **writing** are productive: can the learner create an appropriate response without relying on a memorised line?
-- **Grammar** is enabling knowledge: can the learner recognise and apply the forms that support the neighbouring bands?
+- **Grammar** is independently reported knowledge and control: can the learner recognise, explain where appropriate, and apply the forms that support the neighbouring bands?
 
-A learner receives a recommended starting point for each active skill and can revise it. The system may compress validated content already demonstrated, but it must retain prerequisites for the target skill. A high listening result does not presume speaking ability; a fluent speaker may start at an early literacy level.
+A learner receives a recommended starting point for each active skill and can revise it. Grammar is not hidden behind the other skills: comprehension of a form does not prove explicit grammatical understanding, and explicit understanding does not by itself prove productive control. The system may compress validated content already demonstrated, but it must retain prerequisites for the target skill. A high listening result does not presume speaking ability; a fluent speaker may start at an early literacy level.
 
 The proposed A1–C2 descriptors and placement principles are in [Proficiency framework](proficiency-framework.md). The proposed reusable concept map is in [Curriculum structure](curriculum-structure.md).
 
@@ -88,4 +94,4 @@ Progression is based on demonstrated readiness, not calendar time or streaks. A 
 
 **Requires native-speaker validation:** wording and examples for honorific/register guidance; which regional and family variants are labelled; pronunciation targets; all claims about form, spelling, naturalness, or equivalence; and all accepted responses.
 
-**Open decisions:** the first validated starter scope, placement-task length and scoring thresholds, Romanisation editorial convention and when it is hidden by default, reviewer roster, and the criteria for an optional variation to become teachable content.
+**Open decisions:** the first validated starter scope, placement-task length and scoring thresholds, the precise Romanisation editorial convention, reviewer roster, and the criteria for an optional variation to become teachable content.
