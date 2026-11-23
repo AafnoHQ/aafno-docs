@@ -1,9 +1,9 @@
-title: Boli
-description: आफ्नो भाषा, आफ्नै बोली। Your language. Your voice.
+title: Aafno
+description: "Aafno · आफ्नो. Your language. Your roots. Your own."
 remote_theme: just-the-docs/just-the-docs@v0.12.0
-url: https://boliapp.github.io
-baseurl: /boli-docs
-color_scheme: boli
+url: https://aafnohq.github.io
+baseurl: /aafno-docs
+color_scheme: aafno
 
 plugins:
   - jekyll-remote-theme
@@ -16,10 +16,10 @@ heading_anchors: true
 
 aux_links:
   GitHub:
-    - https://github.com/BoliApp/boli-docs
+    - https://github.com/AafnoHQ/aafno-docs
 aux_links_new_tab: true
 
-footer_content: "आफ्नो भाषा, आफ्नै बोली। · Your language. Your voice."
+footer_content: "आफ्नो भाषा, आफ्नै पहिचान। · Your language. Your roots. Your own."
 
 relative_links:
   enabled: true

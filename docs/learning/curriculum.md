@@ -6,7 +6,7 @@ nav_order: 2
 
 # Curriculum
 
-This page is the map of what Boli teaches. It is not a lesson catalogue. Individual lessons are written later, and they become curriculum only after native-speaker validation, as described in [Methodology](methodology.md).
+This page is the map of what Aafno teaches. It is not a lesson catalogue. Individual lessons are written later, and they become curriculum only after native-speaker validation, as described in [Methodology](methodology.md).
 
 Nepali here means Standard Nepali for general use: the language of everyday conversation, with honorifics taught as normal rather than advanced.
 

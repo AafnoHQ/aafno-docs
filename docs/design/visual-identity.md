@@ -5,14 +5,18 @@ nav_order: 5
 
 # Visual identity
 
-Boli’s brand direction is refined Nepali modernism: contemporary, warm, and culturally rooted. The work draws on Nepali architecture, traditional textiles, patterns, art, and Devanagari typography. Culture is the structure of the identity. It is not a sticker set applied to a generic language app.
+Aafno’s brand direction is refined Nepali modernism: contemporary, warm, and culturally rooted. The work draws on Nepali architecture, traditional textiles, patterns, art, and Devanagari typography. Culture is the structure of the identity. It is not a sticker set applied to a generic language app.
 
-The slogan is part of the identity, not a campaign line that can be swapped out:
+The name and the lines are part of the identity, not campaign copy that can be swapped out:
 
-> आफ्नो भाषा, आफ्नै बोली।  
-> Your language. Your voice.
+> Aafno · आफ्नो
 
-बोली is speech, the thing the product is for. The wordmark uses the Latin name **Boli** with **बोली** available beside it. Neither is a translation footnote. In Nepali-first moments, बोली can lead.
+> Your language. Your roots. Your own.
+
+> आफ्नो भाषा, आफ्नै पहिचान।  
+> Your language, your identity.
+
+आफ्नो means one’s own. The product message follows from the name: reconnect with the language that’s yours. The wordmark uses the Latin name **Aafno** with **आफ्नो** beside it. Neither is a translation footnote. In Nepali-first moments, आफ्नो can lead.
 
 ## What the references are for
 

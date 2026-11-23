@@ -5,7 +5,7 @@ nav_order: 6
 
 # MVP
 
-The first release proves that a person can get better at Nepali on Boli — speak more than they could, follow a short utterance, or read a sentence they could not read — using the method in [Methodology](../learning/methodology.md). It does not prove every future strand, and it does not depend on Tarka.
+The first release proves that a person can get better at Nepali on Aafno — speak more than they could, follow a short utterance, or read a sentence they could not read — using the method in [Methodology](../learning/methodology.md). It does not prove every future strand, and it does not depend on Tarka.
 
 ## Who the MVP is for
 
@@ -40,7 +40,7 @@ Placement can be a concise self-check plus a few tasks (understand, produce, rea
 - Live AI conversation, speech scoring, and model-written curriculum. Those wait for Tarka licensing and the validation in [AI integration](../technical/ai-integration.md).
 - Handwriting instruction, if the first build can only support reading and typing.
 - A large topic catalogue, dialect lessons, exam courses, and classrooms.
-- A finished visual system. The MVP should look calm and readable, and follow [Visual identity](../design/visual-identity.md) without inventing a second brand. Logo lockups and a licensed palette can land as soon as they exist; they do not block the first units.
+- A finished visual system. The MVP should look calm and readable, and follow [Visual identity](../design/visual-identity.md) — Aafno · आफ्नो, “Your language. Your roots. Your own.” — without inventing a second brand. Logo lockups and a licensed palette can land as soon as they exist; they do not block the first units.
 - Payments and growth features that the platform does not already provide.
 
 ## Content rule for the MVP

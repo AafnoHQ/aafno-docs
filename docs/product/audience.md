@@ -6,7 +6,7 @@ nav_order: 2
 
 # Audience
 
-Boli starts with three groups. They share a language and do not share a starting point. One linear beginner course would waste the first group, ignore the second, and under-teach the third.
+Aafno starts with three groups. They share a language and do not share a starting point. One linear beginner course would waste the first group, ignore the second, and under-teach the third.
 
 ## 1. Second-generation Nepalis
 
@@ -50,7 +50,7 @@ What wastes their time: immersion with no structure, and translation drills that
 
 ## Shared needs
 
-All three groups need native-speaker-validated content, a clear explanation when a form changes, and feedback that is about the Nepali they produced. Personalisation is how Boli respects the difference between these starts. It is not a separate product for each group. See [Curriculum](../learning/curriculum.md) for the pathways.
+All three groups need native-speaker-validated content, a clear explanation when a form changes, and feedback that is about the Nepali they produced. Personalisation is how Aafno respects the difference between these starts. It is not a separate product for each group. See [Curriculum](../learning/curriculum.md) for the pathways.
 
 ## Who is outside the first release
 

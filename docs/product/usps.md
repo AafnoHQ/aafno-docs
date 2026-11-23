@@ -1,12 +1,12 @@
 ---
-title: What sets Boli apart
+title: What sets Aafno apart
 parent: Product
 nav_order: 3
 ---
 
-# What sets Boli apart
+# What sets Aafno apart
 
-Most language apps optimise for time-in-app: short drills, recognition tasks, and a streak. Boli optimises for use. Six differences follow from that. They are product requirements, not slogans.
+Most language apps optimise for time-in-app: short drills, recognition tasks, and a streak. Aafno optimises for use. Six differences follow from that. They are product requirements, not slogans.
 
 ## Structured grammar
 
@@ -14,7 +14,7 @@ Grammar is taught. A learner should be able to say what changed in a sentence an
 
 ## Sentence construction
 
-Boli treats building a sentence as its own skill. Learners assemble and vary sentences, swap slots, and repair a sentence that is almost right. Memorising a line is allowed as a start. It is not the goal. The goal is a sentence the learner has not been shown, made from parts they understand.
+Aafno treats building a sentence as its own skill. Learners assemble and vary sentences, swap slots, and repair a sentence that is almost right. Memorising a line is allowed as a start. It is not the goal. The goal is a sentence the learner has not been shown, made from parts they understand.
 
 ## Real conversational practice
 
@@ -34,4 +34,4 @@ Anything that teaches Nepali — explanations, example sentences, audio, correct
 
 ## What this excludes
 
-Boli does not compete on the size of a word list, on gamified hearts, or on an unstructured chatbot that “talks Nepali” with nobody accountable for the grammar. Those can exist beside the product later. They are not the difference.
+Aafno does not compete on the size of a word list, on gamified hearts, or on an unstructured chatbot that “talks Nepali” with nobody accountable for the grammar. Those can exist beside the product later. They are not the difference.

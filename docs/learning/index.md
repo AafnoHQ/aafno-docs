@@ -6,4 +6,4 @@ has_children: true
 
 # Learning
 
-How Boli teaches Nepali, and the strands and pathways a learner moves through.
+How Aafno teaches Nepali, and the strands and pathways a learner moves through.

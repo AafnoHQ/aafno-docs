@@ -8,11 +8,11 @@ nav_order: 2
 
 AI is planned, not switched on. The intended provider is Tarka. The intended models are Nepali-specialised language models and Nepali-specialised speech models. Neither is approved for the product until two conditions are met: a commercial licence that allows this use, and a validation pass that shows the model is fit for teaching Nepali.
 
-Until both are true, Boli teaches with human-authored, native-speaker-validated material.
+Until both are true, Aafno teaches with human-authored, native-speaker-validated material.
 
 ## Why the bar is this high
 
-A language app repeats its mistakes into someone’s speech. A fluent-sounding error about honorifics, agreement, or spelling becomes a habit. General-purpose models are not assumed to know Nepali well enough to teach it. Specialisation is required, and specialisation still has to be checked on Boli’s own lesson types.
+A language app repeats its mistakes into someone’s speech. A fluent-sounding error about honorifics, agreement, or spelling becomes a habit. General-purpose models are not assumed to know Nepali well enough to teach it. Specialisation is required, and specialisation still has to be checked on Aafno’s own lesson types.
 
 ## What AI is for, once approved
 
@@ -43,7 +43,7 @@ Drafts are allowed. A draft is labelled as a draft in the content workflow and s
 
 ## Validation
 
-Validation is a recorded check, not a vibe. For a model under consideration, reviewers who are native speakers of Nepali assess it on tasks Boli actually uses:
+Validation is a recorded check, not a vibe. For a model under consideration, reviewers who are native speakers of Nepali assess it on tasks Aafno actually uses:
 
 - Grammatical accuracy on the forms in the early curriculum.
 - Honorifics in context.

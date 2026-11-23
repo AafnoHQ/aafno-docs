@@ -6,7 +6,7 @@ nav_order: 3
 
 # Data
 
-Boli needs a durable record of who is learning, what they have been taught, and what they can do. The store lives with the Base44 application. This page names the information. It is not a schema: tables, field names, and indexes are chosen in the application repository when the data model is designed.
+Aafno needs a durable record of who is learning, what they have been taught, and what they can do. The store lives with the Base44 application. This page names the information. It is not a schema: tables, field names, and indexes are chosen in the application repository when the data model is designed.
 
 No learner data is stored in this documentation repository.
 

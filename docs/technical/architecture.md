@@ -6,7 +6,7 @@ nav_order: 1
 
 # Architecture
 
-Boli’s technical shape is intentionally small at the start. The learning product runs on Base44. This repository holds the documentation and is published with GitHub Pages. Day-to-day writing and editing happen in Cursor. Source control is GitHub.
+Aafno’s technical shape is intentionally small at the start. The learning product runs on Base44. This repository holds the documentation and is published with GitHub Pages. Day-to-day writing and editing happen in Cursor. Source control is GitHub.
 
 ```text
 Learners
@@ -25,7 +25,7 @@ Tarka (planned)           ← Nepali language and speech models,
 
 GitHub
    ├── Application source (separate repository)
-   └── boli-docs (this repository)
+   └── aafno-docs (this repository)
           │
           └── GitHub Pages
 ```
@@ -38,7 +38,7 @@ Base44 is the platform choice. Detailed service boundaries inside Base44 should 
 
 ## Documentation
 
-Human-facing product and engineering notes live here, under `docs/`. GitHub Pages serves them. The [repository README](https://github.com/BoliApp/boli-docs) is the front door for anyone landing on the repository.
+Human-facing product and engineering notes live here, under `docs/`. GitHub Pages serves them. The [repository README](https://github.com/AafnoHQ/aafno-docs) is the front door for anyone landing on the repository.
 
 Pages in this repo are Markdown. They are the source of truth for intent. If the app disagrees with a page, either the app is unfinished or the page is out of date — and the change should be explicit in a commit, not silent.
 
@@ -56,7 +56,7 @@ What the application needs to remember is described in [Data](database.md). The 
 
 - Development happens locally in Cursor.
 - Version control is Git on GitHub.
-- Documentation changes land in this repository (`BoliApp/boli-docs`).
+- Documentation changes land in this repository (`AafnoHQ/aafno-docs`).
 - Application code lands in its own repository when that project is created.
 
 There is no production deployment described here beyond GitHub Pages for docs and whatever Base44 provides for the app. Secrets, keys, and model credentials do not belong in this repository.

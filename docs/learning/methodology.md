@@ -6,7 +6,7 @@ nav_order: 1
 
 # Methodology
 
-Boli teaches Nepali so that a learner can speak it, follow it, and read it. The method is the set of choices that make the [vision](../product/vision.md) and the [differences](../product/usps.md) concrete.
+Aafno teaches Nepali so that a learner can speak it, follow it, and read it. The method is the set of choices that make the [vision](../product/vision.md) and the [differences](../product/usps.md) concrete.
 
 ## Language before points
 

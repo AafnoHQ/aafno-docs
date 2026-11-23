@@ -4,18 +4,22 @@ nav_order: 1
 permalink: /
 ---
 
-# Boli documentation
+# Aafno documentation
 
-**आफ्नो भाषा, आफ्नै बोली।**  
-Your language. Your voice.
+**Aafno · आफ्नो**
 
-Boli (बोली) is a Nepali language-learning platform. These pages are the working record of the product: who it is for, how people learn, how it is built, how it should look and sound, and what the first release includes.
+Your language. Your roots. Your own.
+
+**आफ्नो भाषा, आफ्नै पहिचान।**  
+Your language, your identity.
+
+Aafno (आफ्नो) is a Nepali language-learning platform. It helps people reconnect with the language that’s theirs. These pages are the working record of the product: who it is for, how people learn, how it is built, how it should look and sound, and what the first release includes.
 
 ## Product
 
-- [Vision](product/vision.md) — the outcome Boli exists to produce.
+- [Vision](product/vision.md) — the outcome Aafno exists to produce.
 - [Audience](product/audience.md) — second-generation speakers, oral speakers learning literacy, and complete beginners.
-- [What sets Boli apart](product/usps.md) — grammar, sentence construction, conversation, listening, personalisation, and native-speaker validation.
+- [What sets Aafno apart](product/usps.md) — grammar, sentence construction, conversation, listening, personalisation, and native-speaker validation.
 
 ## Learning
 

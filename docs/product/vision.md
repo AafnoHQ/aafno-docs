@@ -6,16 +6,18 @@ nav_order: 1
 
 # Vision
 
-Boli helps people genuinely learn to speak, understand, and read Nepali with confidence.
+Aafno helps people reconnect with the language that’s theirs: to speak, understand, and read Nepali with confidence.
 
-The name is the aim. बोली is speech: a voice that belongs to the person using it. The slogan says the same thing twice, once in Nepali and once in English.
+The name is the aim. आफ्नो means one’s own. Nepali here is not a borrowed subject. It is the learner’s language, their roots, and their identity.
 
-> आफ्नो भाषा, आफ्नै बोली।  
-> Your language. Your voice.
+> Your language. Your roots. Your own.
+
+> आफ्नो भाषा, आफ्नै पहिचान।  
+> Your language, your identity.
 
 ## Outcome
 
-A learner who finishes a Boli path should be able to do three things without leaning on translation as a crutch:
+A learner who finishes an Aafno path should be able to do three things without leaning on translation as a crutch:
 
 - Follow spoken Nepali in ordinary situations and respond in Nepali.
 - Build sentences on purpose, using grammar they can name and reuse.
@@ -27,11 +29,11 @@ Confidence here means use, not a score. A second-generation speaker who already 
 
 Recognising isolated words, tapping the right picture, or completing a streak is not the product. Those activities can support practice. They are not the result.
 
-Boli also does not treat Nepali as a generic “target language” skinned with a flag. Lessons have to respect how the language actually works: honorifics, postpositions, verb agreement, the sound system, and the script.
+Aafno also does not treat Nepali as a generic “target language” skinned with a flag. Lessons have to respect how the language actually works: honorifics, postpositions, verb agreement, the sound system, and the script.
 
 ## Shape of the product
 
-Boli teaches the language in public, structured form and then asks the learner to use it.
+Aafno teaches the language in public, structured form and then asks the learner to use it.
 
 - Grammar is taught, not left for the learner to induce from examples alone.
 - Sentence construction is a skill of its own, practised until a pattern can be varied.
@@ -41,6 +43,6 @@ Boli teaches the language in public, structured form and then asks the learner t
 
 ## Scope of this vision
 
-The first audiences are described in [Audience](audience.md). The differences from typical language apps are in [What sets Boli apart](usps.md). The first slice of the product is in [MVP](../roadmap/mvp.md).
+The first audiences are described in [Audience](audience.md). The differences from typical language apps are in [What sets Aafno apart](usps.md). The first slice of the product is in [MVP](../roadmap/mvp.md).
 
 AI can support practice later. It does not define the vision. A learner should be able to trust a lesson because a person who speaks Nepali stood behind it. Model use is described in [AI integration](../technical/ai-integration.md) and stays behind licensing and validation.
