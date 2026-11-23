@@ -6,113 +6,86 @@ nav_order: 2
 
 # Curriculum
 
-This page is the map of what Aafno teaches. It is not a lesson catalogue. Individual lessons are written later, and they become curriculum only after native-speaker validation, as described in [Methodology](methodology.md).
+This is Aafno's curriculum architecture: the shared system behind a learner's personalised path. It is not a lesson catalogue or detailed grammar syllabus. Those are written later from approved concepts and become learner-facing only after the review process in [Content QA](content-qa.md).
 
-Nepali here means Standard Nepali for general use: the language of everyday conversation, with honorifics taught as normal rather than advanced.
+The curriculum teaches broadly useful Standard Nepali while making register, conversational usage, regional usage, family expressions, and code-switching visible where they affect what a learner should say. A labelled variation is not an error merely because it differs from a formal or textbook form.
 
-## Strands
+## Educational philosophy
 
-Every pathway is made of the same strands. Pathways differ in where they start and how dense each strand is.
+- **Use is the outcome.** Learners must understand and build new utterances, not only recognise fixed phrases.
+- **Grammar is explicit and applied.** A rule is introduced through a practical sentence, rebuilt, varied, and used in an exchange.
+- **Skills are independent.** Listening, speaking, grammar, reading, and writing are placed, progressed, and reported separately.
+- **Literacy is a parallel strand, not a gate.** Spoken Nepali can progress without Devanagari; reading and writing can progress from an already fluent spoken base.
+- **Social meaning belongs in the language.** Honorific choices and register are taught with context, never as a generic politeness score.
+- **Validated material only.** Native-speaker review is the publication gate for language, explanations, audio, accepted answers, and variation notes.
 
-### Sound
+## Curriculum strands
 
-The sound system needed to be understood: vowels, consonants, aspiration, and the contrasts learners of this audience typically collapse. Sounds are taught because they change meaning, and they are tied to letters only when the learner is on the script strand.
+| Strand | Purpose | Primary skills |
+| --- | --- | --- |
+| Sound and pronunciation | Hear and produce distinctions that affect intelligibility and meaning. | Listening, speaking |
+| Devanagari literacy | Recognise, decode, type, and later write Nepali in Devanagari. | Reading, writing |
+| Grammar and meaning | Understand reusable forms, their constraints, and the meanings they express. | Grammar; supports all skills |
+| Sentence construction | Assemble, adapt, and repair sentences from known patterns. | Speaking, writing |
+| Listening comprehension | Interpret utterances and exchanges for meaning, intent, and relevant register. | Listening |
+| Conversation and interaction | Respond, ask back, clarify, manage turn-taking, and choose context-appropriate language. | Speaking, listening |
+| Vocabulary and lexical patterns | Learn high-use words with the sentence behaviour and collocations needed to use them. | All skills |
+| Cultural and register awareness | Notice choices shaped by relationship, setting, and audience. | All skills |
 
-### Script
+The final strand is cross-cutting: it is embedded in content rather than taught as detached cultural trivia.
 
-Devanagari for Nepali: consonants, vowels, conjuncts as they actually appear in frequent words, and the spelling of words the learner can already say or has just learned. Reading short sentences comes before long text. Typing in Devanagari is part of writing. Calligraphy is not required for the strand to count.
+## How strands interact
 
-### Grammar
+Each unit combines a small set of linked strands: a form or pattern, vocabulary that makes it usable, listening that makes it recognisable, and production that makes it available. Script is attached when the learner's literacy pathway calls for it; it never blocks oral practice.
 
-Forms needed to build and understand ordinary sentences, introduced in a usable order rather than in textbook-chapter order for its own sake. Early priorities:
+The normal learning cycle is **hear/read in context → understand construction → rebuild → vary → use in an exchange → retrieve in review**. Grammar is the explanatory layer; sentence construction is the bridge from explanation to speech or writing. Listening remains receptive and speaking/writing productive: success in one does not automatically unlock the other.
 
-- Word order in a simple sentence.
-- Pronouns and honorific levels, including when each is appropriate.
-- Postpositions that mark place, time, and relationship.
-- Verb forms for present, past, and future in the persons learners need first, including negation.
-- Agreement and the places where a learner’s guess from another language will be wrong.
-- Questions, existence and possession, and simple connectors.
+## Skill-based personalisation
 
-Later grammar (causatives, complex clause types, nuanced aspect, formal register) waits until the early forms are stable in speech. The ordered list of lessons is a writing task, not something this page pretends to finish.
+Placement and progress use five independent profiles:
 
-### Sentence construction
+- **Listening** and **reading** are receptive: can the learner derive meaning from spoken or written Nepali?
+- **Speaking** and **writing** are productive: can the learner create an appropriate response without relying on a memorised line?
+- **Grammar** is enabling knowledge: can the learner recognise and apply the forms that support the neighbouring bands?
 
-For each grammar point, a small set of sentence frames the learner can vary. Frames are full Nepali sentences with a known slot to change. Construction exercises sit between the explanation and free speech.
+A learner receives a recommended starting point for each active skill and can revise it. The system may compress validated content already demonstrated, but it must retain prerequisites for the target skill. A high listening result does not presume speaking ability; a fluent speaker may start at an early literacy level.
 
-### Listening
+The proposed A1–C2 descriptors and placement principles are in [Proficiency framework](proficiency-framework.md). The proposed reusable concept map is in [Curriculum structure](curriculum-structure.md).
 
-Short utterances that use the current forms, then slightly longer turns. Questions check meaning: who did what, what is being asked, which honorific was used and what that implies. Listening items are written with the lesson, not pulled from random audio.
+## Pathways and flexible entry points
 
-### Conversation
+| Starting profile | Typical emphasis | What must not be assumed |
+| --- | --- | --- |
+| Heritage speech | Turn recognition into controlled and spontaneous production; make grammar and register explicit. | That listening, literacy, or formal vocabulary is advanced. |
+| Fluent speech, new to Devanagari | Decode and write words and messages the learner already knows; connect spelling and grammar where useful. | That an oral beginner path is needed. |
+| Complete beginner | Build a controlled oral core with sounds, meanings, grammar, and script introduced at manageable rates. | That Romanisation alone can substitute for literacy. |
 
-Guided exchanges that require the learner to answer in Nepali and to ask something back. Situations stay ordinary: family, food, plans, getting somewhere, asking someone to repeat, softening a request. The other speaker’s lines are validated Nepali, whether recorded by a person or later produced under the rules in [AI integration](../technical/ai-integration.md).
+These are entry profiles, not permanent tracks. A learner may combine them, add a strand later, or reassess after sustained practice.
 
-### Vocabulary
+## Relationship to product features
 
-Words enter because a sentence or a situation needs them. A word is learned with its grammar behaviour where that behaviour is surprising (how it takes a postposition, whether it is counted, which verb it prefers). Topic lists can organise review. They do not define the syllabus by themselves.
+| Product capability | Curriculum responsibility |
+| --- | --- |
+| Placement | Collect enough evidence to recommend separate skill starting bands. |
+| Lessons and exercises | Deliver the unit contract: outcome, prerequisites, target forms, marking rule, and QA state. |
+| Flashcards and review | Retrieve validated vocabulary, forms, and sentence patterns by weakness and topic; never replace productive practice. |
+| Role play | Recombine already approved forms in bounded situations; later AI use remains subject to [AI integration](../technical/ai-integration.md). |
+| Listening/audio | Use approved text, audio, transcript, and meaning checks. |
+| Devanagari practice | Support recognition, typing, and—when built—tracing or handwriting without delaying speech. |
+| Progress view | Show evidence and next steps by skill/strand, rather than one opaque course percentage. |
 
-## Pathways
+External videos or children's books may be curated as optional exposure after review; they are not evidence of mastery and must not silently define the syllabus.
 
-### Heritage speech
+## Unit contract and progression
 
-For second-generation learners who understand more than they can say.
+Every buildable unit records its intended outcome, target skills and strands, prerequisites, forms/patterns, vocabulary, register notes, activities, accepted-answer or marking rules, content version, and QA status. A unit is complete only when the learner demonstrates the stated evidence—normally comprehension plus a non-memorised production task, and literacy evidence when it is in scope.
 
-- Assess comprehension and production separately.
-- Start production at the frames they almost have, not at first greetings, unless greetings are actually weak.
-- Teach the grammar that explains their errors.
-- Offer the script strand in parallel when they cannot read. Do not block speech on it.
-- Conversation practice early, with honorifics made explicit.
+Progression is based on demonstrated readiness, not calendar time or streaks. A learner can advance one skill while receiving retrieval practice in another. The application must explain why a recommended unit or review item appears.
 
-### Literacy
+## Proposals and validation boundaries
 
-For people who speak Nepali and need Devanagari.
+**Proposed:** Aafno uses CEFR-inspired A1–C2 bands as learner-facing waypoints, not as a claim of formal CEFR certification or equivalence. The descriptors need piloting against accepted assessment tasks.
 
-- Assess spoken level only to avoid baby-talk materials.
-- Teach letters against words they already use.
-- Move quickly to reading and writing sentences at their spoken level.
-- Add grammar in writing where the spoken form and the spelling need each other.
-- Conversation is available and is not the main work of this path.
+**Requires native-speaker validation:** wording and examples for honorific/register guidance; which regional and family variants are labelled; pronunciation targets; all claims about form, spelling, naturalness, or equivalence; and all accepted responses.
 
-### Beginner
-
-For learners starting from little or no Nepali.
-
-- Sound and a small spoken core first, with Devanagari introduced alongside so reading does not become a second language learned years later.
-- One new demand at a time: a new sound, a new ending, or a new situation, rarely all three.
-- Every new form is heard, built, varied, and used in a short exchange before the next form.
-- Translation can gloss a new item. The practice itself stays in Nepali as soon as the learner has enough to stay there.
-
-## Placement
-
-Placement is a short check, not a long exam. It produces a starting recommendation, not a permanent label. It checks independent skills so a learner can be strong in one and new to another:
-
-- Listening: how much spoken Nepali they understand.
-- Speaking: how much they can produce from a prompt.
-- Reading: whether they can read a simple Devanagari sentence.
-- Writing: whether they can type a simple Devanagari response when typing is offered.
-- Grammar: whether they can apply the sentence patterns that separate neighbouring starting bands.
-
-The first release may use a self-check and a small number of tasks. It must show the learner the recommended path and let them change it. Someone may be heritage in speech and a beginner in script. The results are allowed to differ; that split is the point of separate strands.
-
-## Unit contract
-
-Every buildable unit has a small, explicit contract before it is written:
-
-- A learner-facing outcome: what the learner can understand or say after it.
-- The grammar point, sentence frames, vocabulary, and prerequisite units.
-- The listening, construction, variation, and exchange activities required by the method.
-- The accepted answers or a clear marking rule for each activity.
-- The reading and writing requirement, if the script strand is in scope.
-- A content-QA status and acceptance record before the unit is visible to learners.
-
-The exact lesson sequence, unit count, and starting bands remain open decisions. They should be agreed as a validated starter syllabus, rather than inferred from this framework.
-
-## Done, for a unit
-
-A unit is done when the learner can, without the example in front of them:
-
-- Understand a short utterance that uses the unit’s forms.
-- Produce a sentence in those forms that was not memorised as a fixed line.
-- Read the sentence if this unit includes script, or if their pathway already requires reading.
-
-A unit is not done because every activity was opened.
+**Open decisions:** the first validated starter scope, placement-task length and scoring thresholds, Romanisation editorial convention and when it is hidden by default, reviewer roster, and the criteria for an optional variation to become teachable content.
