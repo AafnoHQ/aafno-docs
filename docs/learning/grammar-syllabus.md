@@ -12,7 +12,7 @@ Phase 2A.1 records the agreed scope of Aafno’s master Nepali grammar inventory
 
 G01–G31 are stable category IDs across five groupings. Learners can encounter a concept in several pathways and at several depths. The IDs organise coverage, with sequencing, prerequisites and integrated MVP selection scheduled in the [curriculum roadmap](curriculum-roadmap.md). Overlapping entries point to one canonical concept identity. The links below are coverage relationships. Individual concept specifications belong to Phase 2A.2 Step 3.
 
-Phase 2A.1 product scope is approved and linguistic validation is pending. Phase 2A.2 step 1 defines the [concept framework](grammar-concept-framework.md) and [teaching depth](grammar-teaching-depth.md), with a [present habitual worked example](concepts/present-habitual.md). The Step 2 [grammar catalogue](grammar-catalogue/index.md) records agreed product coverage for [58 concepts in G01–G06](grammar-catalogue/grammar-foundations.md), [106 concepts in G07–G13](grammar-catalogue/verbs-and-conjugation.md) and [101 concepts in G14–G18](grammar-catalogue/relationships-and-transformations.md). This totals 265 agreed concepts across 18 of 31 categories (58.1% category coverage). G19–G24 is next, with 13 categories remaining. Concept IDs remain provisional until full catalogue reconciliation, and linguistic and native-speaker validation is pending.
+Phase 2A.1 product scope is approved and linguistic validation is pending. Phase 2A.2 step 1 defines the [concept framework](grammar-concept-framework.md) and [teaching depth](grammar-teaching-depth.md), with a [present habitual worked example](concepts/present-habitual.md). The Step 2 [grammar catalogue](grammar-catalogue/index.md) records agreed product coverage for [58 concepts in G01–G06](grammar-catalogue/grammar-foundations.md), [106 concepts in G07–G13](grammar-catalogue/verbs-and-conjugation.md), [101 concepts in G14–G18](grammar-catalogue/relationships-and-transformations.md) and [114 concepts in G19–G24](grammar-catalogue/connecting-ideas.md). This totals 379 agreed concepts across 24 of 31 categories (77.4% category coverage). G25–G31 are next, with 7 categories remaining. Concept IDs remain provisional until full catalogue reconciliation, and linguistic and native-speaker validation is pending.
 
 Apply the [family honorific requirement](grammar-concept-framework.md#family-honorifics-across-conjugations) to every applicable conjugation, including habitual, progressive, past, future, perfect, negation, questions, imperatives, modality and compound verbs. Document reviewed family forms, contextual usage, validated native audio and accepted assessment variants. Record a research gap wherever an equivalent is unknown or unvalidated. [G25](#g25) explains register choice across the syllabus.
 
@@ -475,6 +475,8 @@ This is particularly important for helping learners move beyond short, isolated 
 
 ### G19. Conjunctions and connectors {#g19}
 
+[Catalogue entries](grammar-catalogue/connecting-ideas.md#g19)
+
 | Function | Examples |
 |--------|--------|
 | Addition | र, अनि |
@@ -492,6 +494,8 @@ This is particularly important for helping learners move beyond short, isolated 
 | Topic transition | अब, अर्को कुरा |
 
 ### G20. Participles and non-finite constructions {#g20}
+
+[Catalogue entries](grammar-catalogue/connecting-ideas.md#g20)
 
 | Construction | Example | Approximate meaning |
 |--------|--------|--------|
@@ -529,6 +533,8 @@ These are incredibly useful constructions for real conversation, and they deserv
 
 ### G21. Conditional and hypothetical sentences {#g21}
 
+[Catalogue entries](grammar-catalogue/connecting-ideas.md#g21)
+
 | Subtopic | Coverage |
 |--------|--------|
 | Real conditions | If this happens... |
@@ -543,6 +549,8 @@ These are incredibly useful constructions for real conversation, and they deserv
 | Consequence constructions | Expressing what would happen |
 
 ### G22. Relative and subordinate clauses {#g22}
+
+[Catalogue entries](grammar-catalogue/connecting-ideas.md#g22)
 
 | Subtopic | Coverage |
 |--------|--------|
@@ -560,6 +568,8 @@ These are incredibly useful constructions for real conversation, and they deserv
 
 ### G23. Direct and reported speech {#g23}
 
+[Catalogue entries](grammar-catalogue/connecting-ideas.md#g23)
+
 | Subtopic | Coverage |
 |--------|--------|
 | Direct speech | Quoting someone's exact words |
@@ -575,6 +585,8 @@ These are incredibly useful constructions for real conversation, and they deserv
 | Distinguishing reported and witnessed information | Source of information |
 
 ### G24. Voice, agency and causation {#g24}
+
+[Catalogue entries](grammar-catalogue/connecting-ideas.md#g24)
 
 | Subtopic | Coverage |
 | --- | --- |

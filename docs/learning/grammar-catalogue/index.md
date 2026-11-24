@@ -7,17 +7,17 @@ has_children: true
 
 # Grammar catalogue
 
-Phase 2A.2 Step 2 identifies independently teachable and assessable concepts across the 31 categories in the [grammar syllabus](../grammar-syllabus.md). The first three groupings contain **265 agreed concepts** across **18 of 31 categories (58.1% category coverage)**, with 13 categories remaining. The full catalogue has no preset concept count. Category coverage tracks how many syllabus categories have been catalogued.
+Phase 2A.2 Step 2 identifies independently teachable and assessable concepts across the 31 categories in the [grammar syllabus](../grammar-syllabus.md). The first four groupings contain **379 agreed concepts** across **24 of 31 categories (77.4% category coverage)**, with 7 categories remaining. The full catalogue has no preset concept count. Category coverage tracks how many syllabus categories have been catalogued.
 
 | Grouping | Step 2 status | Concepts |
 | --- | --- | ---: |
 | G01–G06 · [Grammar foundations](grammar-foundations.md) | Product coverage agreed and documented | 58 |
 | G07–G13 · [Verbs, conjugation and time](verbs-and-conjugation.md) | Product coverage agreed and documented | 106 |
 | G14–G18 · [Relationships and sentence transformations](relationships-and-transformations.md) | Product coverage agreed and documented | 101 |
-| G19–G24 · Connecting ideas and constructing complex sentences | Next | — |
-| G25–G31 · Honorifics, naturalness and advanced language | Planned | — |
+| G19–G24 · [Connecting ideas and constructing complex sentences](connecting-ideas.md) | Product coverage agreed and documented | 114 |
+| G25–G31 · Honorifics, naturalness and advanced language | Next | — |
 
-Concept IDs are provisional until the full catalogue is reconciled. Product agreement covers the scope and granularity of G01–G18. Linguistic and native-speaker validation is pending, including for all examples. Detailed specifications are planned for Step 3 under the [grammar concept framework](../grammar-concept-framework.md). The [curriculum roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth) tracks subsequent work.
+Concept IDs are provisional until the full catalogue is reconciled. Product agreement covers the scope and granularity of G01–G24. Linguistic and native-speaker validation is pending, including for all examples. Detailed specifications are planned for Step 3 under the [grammar concept framework](../grammar-concept-framework.md). The [curriculum roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth) tracks subsequent work.
 
 ## What counts as a concept
 
