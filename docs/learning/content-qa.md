@@ -31,6 +31,12 @@ Each accepted content item needs a durable record of its version, status, review
 - For grammar, check classification, terminology, formation, conjugation, Romanisation, naturalness, glosses, alternatives, explanatory feedback, pronunciation and source and reuse rights using the [concept framework checklist](grammar-concept-framework.md#validation-before-publication).
 - Has every applicable verb and construction been checked for [Highest honorific (Ati Uchcha Aadar)](highest-honorific.md)? Verify spelling, Romanisation, formation, agreement including the claimed third-person singular endings, irregularity, productivity, tense and aspect labels, actual usage and the full–contracted relationship. Have speakers who naturally use the register reviewed usage, pronunciation, recorded native audio and contextually acceptable assessment alternatives? Track evidence and rights, and keep draft or unverified forms out of learner-facing content.
 
+## Pilot validation and variant review
+
+Track an open question, example or form, relevant concept and outcome, evidence and context, source and reuse rights, audio and transcript status, reviewer decision and approved version for each applicable check. Include unresolved representations, naturalness, scope of use, register, shared ownership, feedback and accepted alternatives. Apply the [five assessment response categories](proficiency-framework.md#variant-aware-assessment). Treat unknown household forms as review candidates without automatic mastery or publication.
+
+Distinguish speaker-reported usage, recorded contextual attestation, linguistic review and approved content versions. Seek speakers who naturally use the register, preserve the context of household attestations and limit distribution claims to the evidence. Generated illustrations and unverified guide forms remain draft research material. The [seven pilot drafts](concepts/index.md) await linguistic and native-speaker approval. Apply the same approved-version gate to reference tools, activities and future AI use.
+
 ## Corrections in production
 
 Reported content is triaged as either a typo, a teaching-risk issue, or a broader curriculum change. A teaching-risk issue is unpublished or disabled until reviewed. A correction keeps the original review history and records why the learner-facing version changed.

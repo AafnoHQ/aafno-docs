@@ -6,7 +6,7 @@ nav_order: 9
 
 # Grammar teaching depth
 
-Depth describes what learners can do with a concept and under what conditions. A concept can be introduced early and revisited at greater depth. Depth is independent of CEFR-inspired placement. Placement can establish evidence without requiring lesson completion. Use this guidance with the [concept framework](grammar-concept-framework.md) and [worked example](concepts/present-habitual.md).
+Depth describes what learners can do with a concept and under what conditions. A concept can be introduced early and revisited at greater depth. Depth is independent of CEFR-inspired placement. Placement can establish evidence without requiring lesson completion. Use this guidance with the [concept framework](grammar-concept-framework.md) and [pilot specifications](concepts/index.md).
 
 | Depth | Learner performance |
 | --- | --- |
@@ -14,6 +14,10 @@ Depth describes what learners can do with a concept and under what conditions. A
 | Guided application | Apply the construction to familiar examples with scaffolding such as sentence frames, cues or a worked model. |
 | Independent application | Construct original sentences without a supplied target form or sentence frame, and use them to communicate in a familiar context. |
 | Flexible application | Transfer the construction to unfamiliar contexts, select register and distinguish it from competing constructions while communicating. |
+
+## Mapping outcomes to depth
+
+Track each local learning outcome at its applicable depths. Introduction can establish recognition in a clearly cued example. Guided application adds scaffolded interpretation or production. Independent application removes relevant prompts and checks the target in its own right. Flexible application varies contexts, interlocutors or validated forms. Recognition alone establishes receptive evidence. Record the cueing, response modality and demonstrated target whenever one task draws on several concepts.
 
 ## Evidence
 

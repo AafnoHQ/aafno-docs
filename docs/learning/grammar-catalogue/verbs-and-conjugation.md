@@ -9,7 +9,7 @@ nav_order: 2
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-This batch contains **96 planned learner targets** in G07–G13. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-2.md).
+This batch contains **96 planned learner targets** in G07–G13. The reconciliation is structurally approved and its repository implementation has been merged. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-2.md).
 
 Each heading identifies the primary coverage category for its entries. The related-category notes record proposed canonical ownership and linked applications.
 
@@ -56,7 +56,7 @@ Coverage · [G08 in the grammar syllabus](../grammar-syllabus.md#g08) · 12 plan
 | G08-002 | Number agreement | Apply relevant singular and plural agreement patterns. | Planned |
 | G08-003 | Gender agreement | Apply gender-dependent verb forms where required. | Planned |
 | G08-004 | Standard honorific agreement | Apply intimate, familiar and standard respectful conjugation patterns. | Planned |
-| G08-005 | Highest-honorific conjugation and agreement | Form and apply highest-honorific conjugation and agreement using validated patterns. | Planned |
+| G08-005 | [Highest-honorific conjugation and agreement](../concepts/highest-honorific-conjugation-and-agreement.md) | Form and apply highest-honorific conjugation and agreement using validated patterns. | Planned |
 | G08-006 | Tense-dependent conjugation | Apply conjugation patterns across temporal constructions in unfamiliar contexts. | Planned |
 | G08-007 | Aspect-dependent conjugation | Manipulate stems, participles and auxiliaries across aspectual constructions. | Planned |
 | G08-008 | Negative conjugation patterns | Apply negative formation and agreement across paradigms, including to unfamiliar verbs. | Planned |
@@ -93,7 +93,7 @@ English grammatical terminology serves as an approximate guide.
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
-| G09-001 | Present habitual | Express habits, routines and general facts. | Planned |
+| G09-001 | [Present habitual](../concepts/present-habitual.md) | Express habits, routines and general facts. | Planned |
 | G09-002 | Present progressive | Express actions currently in progress. | Planned |
 | G09-003 | Present perfect | Express completed actions with present relevance. | Planned |
 | G09-004 | Past habitual | Express recurring actions and habits in the past. | Planned |
@@ -117,7 +117,7 @@ English grammatical terminology serves as an approximate guide.
 | G09-022 | Temporal reference and sequencing | Establish relationships between actions occurring before, during or after others. | Planned |
 | G09-023 | Tense and aspect switching | Maintain coherent temporal meaning while moving between constructions in conversation or narrative. | Planned |
 
-The [present habitual worked example](../concepts/present-habitual.md) retains the provisional ID G09-001.
+The [present habitual specification](../concepts/present-habitual.md) uses catalogue ID G09-001.
 
 **Related categories.** [G08](#g08) owns shared formation and agreement mechanisms. [G13](#g13) teaches the formation of relevant compound and advanced verb constructions. [G09](#g09) teaches their temporal and aspectual meanings. [G27](../grammar-syllabus.md#g27) owns evidentiality and discovery constructions such as गरेछ and रहेछ. [G05](../grammar-syllabus.md#g05) and [G06](../grammar-syllabus.md#g06) teach relevant temporal expressions. [G11](#g11) teaches modal intention and related meanings. [G20](../grammar-syllabus.md#g20) and [G22](../grammar-syllabus.md#g22) teach relevant temporal and non-finite clause constructions.
 
@@ -432,14 +432,21 @@ During detailed specification work, maintain a research matrix to systematically
 | Simple past | Required | Required where applicable |
 | Past habitual | Required | Required where applicable |
 | Future | Required | Required where applicable |
-| Perfect | Required | Required where applicable |
+| Perfect, including present perfect | Required | Required where applicable |
+| Past progressive | Required | Required where applicable |
 | Negation | Required | Required where applicable |
 | Questions | Required | Required where applicable |
 | Imperatives | Required | Required where applicable |
 | Ability and modality | Required | Required where applicable |
 | Compound verbs | Required | Required where applicable |
+| Conditionals | Required | Required where applicable |
+| Subordinate constructions | Required | Required where applicable |
+| Reported speech | Required | Required where applicable |
+| Evidentiality and inference | Required | Required where applicable |
 
-This matrix guides Step 3 research. Family forms remain subject to validation.
+Initial verb coverage: हुनु / Hunu / to be, खानु / Khaanu / to eat, जानु / Jaanu / to go, आउनु / Aaunu / to come, बस्नु / Basnu / to sit or stay, गर्नु / Garnu / to do, भन्नु / Bhannu / to say, दिनु / Dinu / to give, लिनु / Linu / to take, हेर्नु / Hernu / to look or watch, खेल्नु / Khelnu / to play, and बोल्नु / Bolnu / to speak.
+
+For each applicable combination record direct-address and third-person evidence, agreement, full and contracted variants in the same register, usage context, evidence type and scope, review status and gaps. Retain guide paradigms as research candidates. See [G08-005](../concepts/highest-honorific-conjugation-and-agreement.md).
 
 Apply these review requirements.
 
@@ -449,6 +456,6 @@ Apply these review requirements.
 - Validate spelling, Romanisation, pronunciation, grammatical formation and contextual usage.
 - Include validated native audio and accepted assessment variants when appropriate.
 - Avoid unsupported generalisations about caste, ethnicity, region or community.
-- Maintain selectable family register in the future [Verb Conjugation Reference](../../product/language-reference.md#verb-conjugation-reference).
+- Provide the selectable highest-honorific register in the future [Verb Conjugation Reference](../../product/language-reference.md#verb-conjugation-reference).
 
 ---

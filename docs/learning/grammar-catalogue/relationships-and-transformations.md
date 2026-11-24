@@ -9,7 +9,7 @@ nav_order: 3
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-This batch contains **95 planned learner targets** in G14–G18. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-3.md).
+This batch contains **95 planned learner targets** in G14–G18. The reconciliation is structurally approved and its repository implementation has been merged. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-3.md).
 
 Each heading identifies the primary coverage category for its entries. The related-category notes record proposed canonical ownership and linked applications. Static demonstrations illustrate product-design prototypes. They are neither implemented features nor approved lessons or assessments.
 
@@ -20,7 +20,7 @@ Coverage · [G14 in the grammar syllabus](../grammar-syllabus.md#g14) · 26 plan
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
 | G14-002 | Unmarked noun constructions | Understand when nouns and pronouns appear without explicit case markers. | Planned |
-| G14-003 | Agentive and ergative marking — ले | Identify and apply ले to agents in appropriate constructions. | Planned |
+| G14-003 | [Agentive and ergative marking — ले](../concepts/agentive-and-ergative-marking.md) | Identify and apply ले to agents in appropriate constructions. | Planned |
 | G14-004 | Instrumental marking — ले | Express the instrument or means through which an action is performed. | Planned |
 | G14-005 | Object marking — लाई | Apply लाई to direct objects where appropriate. | Planned |
 | G14-006 | Recipient marking — लाई | Identify and express recipients of actions. | Planned |

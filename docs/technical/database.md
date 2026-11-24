@@ -15,7 +15,7 @@ No learner data is stored in this documentation repository.
 Enough identity to run an account, and a profile that placement can update.
 
 - Account identity, shared across clients.
-- Romanisation display preference. Learner-facing Nepali shows Devanagari and Romanised Nepali together by default. The learner can hide Romanisation independently of Devanagari and their literacy pathway.
+- Persistent Devanagari, Romanisation and English display preferences under the [language presentation policy](../learning/curriculum.md#script-and-romanisation-display).
 - Pathway: heritage speech, literacy, beginner, or a combination (speech pathway plus script strand).
 - Starting band within each active strand, from placement.
 - Consent flags relevant to optional AI processing, left unset until [AI integration](ai-integration.md) is real.
@@ -43,6 +43,8 @@ The [language reference tools](../product/language-reference.md) need conceptual
 - A grammar concept can link to multiple forms and examples. A shared example can illustrate several concepts or senses, with pronunciation or example audio attached where reviewed.
 - A saved word or personal flashcard can reference an entry, sense, form or approved example. Learner ownership and practice evidence are recorded separately from the shared language content.
 - Reused content carries its source, rights, version and review decision under [Content QA](../learning/content-qa.md).
+
+Use the [shared variants and evidence model](../product/language-reference.md#shared-variants-and-evidence) for conceptual responsibilities and review dependencies.
 
 ## Progress
 

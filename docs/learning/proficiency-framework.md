@@ -55,7 +55,19 @@ Placement and progression tasks should elicit evidence rather than rely only on 
 - Reading: derive meaning from Devanagari appropriate to the learner's literacy band, not merely name characters.
 - Writing: create a Devanagari response for a purpose; typing is valid evidence while handwriting capability is not yet a product requirement.
 
-Tasks show Romanisation alongside Devanagari by default, and the learner setting can hide it independently. Romanisation support must not make a reading result appear higher than the learner's Devanagari reading evidence.
+Apply the [language presentation policy](curriculum.md#script-and-romanisation-display) to assessment. Assess reading from the learner’s Devanagari evidence and keep oral evidence accessible independent of script literacy.
+
+## Variant-aware assessment
+
+| Response category | Assessment treatment |
+| --- | --- |
+| Validated target form | Accept if it satisfies the assessed outcome and context. |
+| Validated equivalent alternative | Accept when it preserves the intended meaning and satisfies the grammatical target and context. Use reviewed alternatives across multiple surface forms. |
+| Valid form in a different register or context | Explain why the form fits a different relationship or situation. Give a contextual retry cue. |
+| Unreviewed household or unfamiliar form | Flag it for review. Withhold a definitive correctness decision and automatic mastery credit. |
+| Confirmed grammatical error | Explain the specific grammatical issue and cue a meaningful retry. |
+
+Record communicative success separately from evidence of the target. A preference expressed using another construction, a report delivered with an explicit reporting verb, and a well-formed answer with an explicit subject can communicate successfully while leaving the experiencer, रे, or subject omission targets unobserved. Learner preferences guide practice selection. Reviewed language evidence and activity context govern correctness. Apply this policy to deterministic, written, spoken and future AI-assisted assessment. Scoring thresholds remain open.
 
 ## Placement and progression principles
 
