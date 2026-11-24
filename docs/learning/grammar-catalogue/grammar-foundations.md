@@ -9,25 +9,25 @@ nav_order: 1
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-Product coverage is agreed for all 58 concepts in G01–G06. IDs are provisional until full catalogue reconciliation. Linguistic and native-speaker validation is pending for the entries and all draft examples, including forms, Romanisation, glosses and usage notes. Detailed specifications are planned for Step 3.
+This batch contains **55 planned learner targets** in G01–G06. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-1.md).
 
 Each heading identifies the coverage category for its entries. The related categories below each table record shared coverage and linked applications.
 
 ## G01. Sentence structure {#g01}
 
-Coverage · [G01 in the grammar syllabus](../grammar-syllabus.md#g01) · 9 concepts
+Coverage · [G01 in the grammar syllabus](../grammar-syllabus.md#g01) · 9 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
 | G01-001 | Basic sentence structure | Understand and construct basic subject–object–verb sentences. | Planned |
 | G01-002 | Sentence components | Identify subjects, predicates, objects and other sentence components. | Planned |
 | G01-003 | Direct and indirect objects | Distinguish what is acted upon and who receives or benefits from an action. | Planned |
-| G01-004 | Subject omission | Understand and construct sentences without an explicitly stated subject where appropriate. | Planned |
+| G01-004 | Subject omission | Understand and construct sentences with an omitted subject and recover the subject from context where appropriate. | Planned |
 | G01-005 | Flexible word order | Recognise how word order changes without necessarily changing the core meaning. | Planned |
 | G01-006 | Sentence expansion | Add time, place, manner or other circumstances to a sentence. | Planned |
 | G01-007 | Simple sentences | Express a complete idea with a single independent clause. | Planned |
-| G01-008 | Compound sentences | Connect independent ideas. | Planned |
-| G01-009 | Complex sentences | Express relationships between main and subordinate clauses. | Planned |
+| G01-008 | Compound sentences | Construct coordinated independent clauses expressing additive, alternative and contrastive relationships. | Planned |
+| G01-009 | Complex sentences | Express basic relationships between main and dependent clauses. | Planned |
 
 **Related categories.** [G29](../grammar-syllabus.md#g29) owns topic, focus and contrastive emphasis. Related coverage includes [G19](../grammar-syllabus.md#g19) connectors, [G22](../grammar-syllabus.md#g22) subordinate clauses, [G05](#g05) adverbs, [G09](../grammar-syllabus.md#g09) tense and aspect, and [G20](../grammar-syllabus.md#g20) non-finite constructions.
 
@@ -40,7 +40,7 @@ Coverage · [G01 in the grammar syllabus](../grammar-syllabus.md#g01) · 9 conce
 
 ## G02. Pronouns {#g02}
 
-Coverage · [G02 in the grammar syllabus](../grammar-syllabus.md#g02) · 12 concepts
+Coverage · [G02 in the grammar syllabus](../grammar-syllabus.md#g02) · 10 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
@@ -50,20 +50,23 @@ Coverage · [G02 in the grammar syllabus](../grammar-syllabus.md#g02) · 12 conc
 | G02-004 | Plural personal pronouns | Recognise and use forms such as उनीहरू and तपाईंहरू. | Planned |
 | G02-005 | Demonstrative pronouns | Recognise and use यो, त्यो, यी and ती to refer to entities. | Planned |
 | G02-006 | Interrogative pronouns | Choose को, के or कुन in appropriate contexts. | Planned |
-| G02-007 | Possessive pronouns and forms | Recognise and use मेरो, तिम्रो, हाम्रो and related forms. | Planned |
 | G02-008 | Reflexive pronouns | Use आफू and आफैँ to refer back to a participant. | Planned |
-| G02-009 | Reflexive possession | Interpret the meaning and reference of आफ्नो. | Planned |
 | G02-010 | Indefinite pronouns | Use कोही and केही to refer to unspecified entities. | Planned |
 | G02-011 | Relative pronouns | Recognise and use जो and जुन. | Planned |
 | G02-012 | Reciprocal pronouns | Use एकअर्का to express reciprocity. | Planned |
 
-**Related categories.** [G14](../grammar-syllabus.md#g14) owns case transformations such as म → मैले. [G08](../grammar-syllabus.md#g08) owns verb agreement, and [G25](../grammar-syllabus.md#g25) owns social choice and family honorific usage. See [G15](../grammar-syllabus.md#g15) for possession, [G17](../grammar-syllabus.md#g17) for questions, [G22](../grammar-syllabus.md#g22) for relative clauses and [G06](#g06) for demonstrative determiners.
+**Shared coverage and orientation**
+
+- **Possessive pronouns and forms** · Find the shared treatment under [G15-001](relationships-and-transformations.md#g15). [G02-007](traceability-1.md#g02-007).
+- **Reflexive possession** · Find the shared treatment under [G15-003](relationships-and-transformations.md#g15). [G02-009](traceability-1.md#g02-009).
+
+**Related categories.** [G14](../grammar-syllabus.md#g14) owns case transformations such as म → मैले. [G08](../grammar-syllabus.md#g08) owns verb agreement, and [G25](../grammar-syllabus.md#g25) owns social choice and highest-honorific usage. See [G15](../grammar-syllabus.md#g15) for possession, [G17](../grammar-syllabus.md#g17) for questions, [G22](../grammar-syllabus.md#g22) for relative clauses and [G06](#g06) for demonstrative determiners.
 
 Draft address examples include तँ (intimate or low honorific where appropriate in close relationships), तिमी (familiar), तपाईं (standard respectful) and हजुर (respectful address, including family contexts). Usage varies with relationship, setting and family practice.
 
 ## G03. Nouns {#g03}
 
-Coverage · [G03 in the grammar syllabus](../grammar-syllabus.md#g03) · 8 concepts
+Coverage · [G03 in the grammar syllabus](../grammar-syllabus.md#g03) · 8 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
@@ -88,12 +91,12 @@ In तीनवटा किताब, the number already communicates plurality
 
 ## G04. Adjectives {#g04}
 
-Coverage · [G04 in the grammar syllabus](../grammar-syllabus.md#g04) · 7 concepts
+Coverage · [G04 in the grammar syllabus](../grammar-syllabus.md#g04) · 7 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
 | G04-001 | Descriptive adjectives | Use adjectives to express qualities and characteristics. | Planned |
-| G04-002 | Variable adjectives | Recognise and use forms that change with relevant agreement. | Planned |
+| G04-002 | Variable adjectives | Recognise variable adjective classes and alternating forms. | Planned |
 | G04-003 | Invariable adjectives | Recognise and use forms that stay constant in the same contexts. | Planned |
 | G04-004 | Adjective agreement | Apply relevant gender and number patterns. | Planned |
 | G04-005 | Attributive adjectives | Describe a noun within a noun phrase. | Planned |
@@ -113,7 +116,7 @@ Coverage · [G04 in the grammar syllabus](../grammar-syllabus.md#g04) · 7 conce
 
 ## G05. Adverbs {#g05}
 
-Coverage · [G05 in the grammar syllabus](../grammar-syllabus.md#g05) · 10 concepts
+Coverage · [G05 in the grammar syllabus](../grammar-syllabus.md#g05) · 9 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
@@ -125,8 +128,12 @@ Coverage · [G05 in the grammar syllabus](../grammar-syllabus.md#g05) · 10 conc
 | G05-006 | Adverbial duration | Express how long something lasts. | Planned |
 | G05-007 | Adverbs of sequence | Order events using forms such as पहिले and त्यसपछि. | Planned |
 | G05-008 | Adverbs of certainty and probability | Express confidence or uncertainty using forms such as पक्कै and सायद. | Planned |
-| G05-009 | Interrogative adverbs | Ask about time, place, manner or reason using कहिले, कहाँ, कसरी and किन. | Planned |
 | G05-010 | Adverb placement and scope | Identify what an adverb modifies and how placement affects interpretation. | Planned |
+
+**Shared coverage and orientation**
+
+- **Interrogative adverbs** · Find the shared treatment under [G17-005](relationships-and-transformations.md#g17), [G17-006](relationships-and-transformations.md#g17), [G17-007](relationships-and-transformations.md#g17), [G17-008](relationships-and-transformations.md#g17). [G05-009](traceability-1.md#g05-009).
+- Use the interrogative-adverb grouping to navigate across कहिले, कहाँ, कसरी and किन. The linked question targets retain the corresponding outcomes.
 
 **Related categories.** [G17](../grammar-syllabus.md#g17) owns question formation, [G11](../grammar-syllabus.md#g11) owns modality and [G27](../grammar-syllabus.md#g27) owns inference and evidentiality. See also [G09](../grammar-syllabus.md#g09) for tense and aspect, [G16](../grammar-syllabus.md#g16) for negation, and [G06](#g06) for numerical time expressions.
 
@@ -142,7 +149,7 @@ Use म [frequency] फुटबल खेल्छु। with the first four fr
 
 ## G06. Numbers, quantities and determiners {#g06}
 
-Coverage · [G06 in the grammar syllabus](../grammar-syllabus.md#g06) · 12 concepts
+Coverage · [G06 in the grammar syllabus](../grammar-syllabus.md#g06) · 12 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
@@ -169,4 +176,4 @@ Coverage · [G06 in the grammar syllabus](../grammar-syllabus.md#g06) · 12 conc
 
 ## Reconciliation notes
 
-Review the boundaries between compound sentences and G19 connectors, complex sentences and G22 subordinate clauses, and sentence expansion and G05 adverbs. Also review adjective and adverb degree across G04, G05 and G18, demonstrative pronouns and determiners across G02 and G06, interrogative forms and question formation across G02, G05 and G17, and duration across G05 and G06. Track nominalisation ownership across G20 and G28. Retain the agreed entries during reconciliation and link shared applications to their eventual canonical entries.
+The [traceability records](traceability-1.md) document the approved boundaries for basic sentence construction, pronouns, demonstratives, comparison, questions and duration.

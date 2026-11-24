@@ -9,7 +9,7 @@ nav_order: 5
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-Product coverage is agreed for all 148 concepts in G25–G31. IDs remain provisional until full catalogue reconciliation. All detailed specifications are **Planned** for Step 3. Classifications, Devanagari, Romanisation, glosses and usage examples are draft material pending linguistic and native-speaker validation. The demonstrations and assessment prompts are static illustrations.
+This batch contains **143 planned learner targets** in G25–G31. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-5.md).
 
 [Highest honorific (Ati Uchcha Aadar)](../highest-honorific.md) documents the register, the distinction between guide claims and reported family usage, and validation requirements.
 
@@ -25,11 +25,10 @@ G25 focuses on the social and contextual decisions behind those grammatical choi
 
 | ID | Concept | Learning target | Specification status |
 | --- | --- | --- | --- |
-| G25-001 | Honorific system foundations | Understand how grammatical choices express social relationships and respect. | Planned |
 | G25-002 | Intimate address | Recognise and appropriately use intimate address forms. | Planned |
 | G25-003 | Familiar address | Recognise and appropriately use familiar address forms. | Planned |
 | G25-004 | Standard respectful address | Recognise and appropriately use standard respectful address forms. | Planned |
-| G25-005 | Family honorific address | Recognise and appropriately use validated family-specific honorific forms. | Planned |
+| G25-005 | Highest-honorific address | Select and use validated highest-honorific forms appropriately in social contexts. | Planned |
 | G25-006 | Third-person honorific reference | Refer respectfully to people who are not being directly addressed. | Planned |
 | G25-007 | Honorific pronoun selection | Select pronouns according to social relationships and context. | Planned |
 | G25-008 | Honorific agreement consistency | Maintain appropriate agreement throughout an utterance. | Planned |
@@ -46,11 +45,15 @@ G25 focuses on the social and contextual decisions behind those grammatical choi
 | G25-019 | Register switching | Adapt honorific choices as participants, relationships or situations change. | Planned |
 | G25-020 | Honorifics across multiple participants | Maintain appropriate reference and agreement when several people are involved. | Planned |
 | G25-021 | Honorific variation across families and communities | Recognise that honorific conventions differ between speakers and communities. | Planned |
-| G25-022 | Social appropriateness and unintended offence | Identify potentially inappropriate address choices and their contextual implications. | Planned |
+| G25-022 | Social appropriateness and unintended offence | Identify potentially inappropriate honorific choices and interpret their likely interpersonal effects within a given social context. | Planned |
 | G25-023 | Register clarification and repair | Clarify preferred address forms and recover from inappropriate register choices. | Planned |
 | G25-024 | Contextual honorific selection | Independently select appropriate honorific constructions in unfamiliar situations. | Planned |
 
-Total: 24 concepts.
+**Shared coverage and orientation**
+
+- **Honorific system foundations** · Shared orientation. Understand how grammatical choices express social relationships and respect. Learner evidence is recorded through [G25-007](honorifics-naturalness-and-advanced-language.md#g25), [G25-018](honorifics-naturalness-and-advanced-language.md#g25), [G25-024](honorifics-naturalness-and-advanced-language.md#g25). [G25-001](traceability-5.md#g25-001).
+
+**Total:** 23 planned learner targets.
 
 ### Understanding the different forms
 
@@ -128,7 +131,6 @@ They are also particularly difficult to learn through direct English translation
 
 | ID | Concept | Learning target | Specification status |
 | --- | --- | --- | --- |
-| G26-001 | Particle foundations | Understand how particles contribute grammatical and pragmatic meaning. | Planned |
 | G26-002 | Shared understanding and emphasis — नि | Interpret and use नि in appropriate contextual functions. | Planned |
 | G26-003 | Topic and contrast — त | Interpret and use त to express relevant contrastive and discourse meanings. | Planned |
 | G26-004 | Specificity and emphasis — नै | Express emphasis, specificity and related meanings using नै. | Planned |
@@ -136,22 +138,27 @@ They are also particularly difficult to learn through direct English translation
 | G26-006 | Restriction — मात्र and मात्रै | Restrict meaning to particular participants, quantities or alternatives. | Planned |
 | G26-007 | Contrastive topic — चाहिँ | Highlight or contrast a particular topic or alternative. | Planned |
 | G26-008 | Confirmation and interpersonal softening — है | Interpret and use है in confirmation, requests and interpersonal interaction. | Planned |
-| G26-009 | Reported information — रे | Interpret the grammatical and discourse behaviour of रे. | Planned |
+| G26-009 | Reported information — रे | Interpret and use the placement, scope and discourse behaviour of रे where distinct learner evidence supports this outcome. | Planned |
 | G26-010 | Surprise and unexpected contrast — पो | Interpret and express unexpected, corrective or contrastive information. | Planned |
 | G26-011 | Acceptance and transition — ल | Use ल in appropriate acceptance, instruction and transition contexts. | Planned |
 | G26-012 | Attention and reaction — लौ | Interpret and use लौ in attention, reaction and related discourse contexts. | Planned |
 | G26-013 | Request softening — न | Interpret and use न in applicable request and interpersonal constructions. | Planned |
-| G26-014 | Colloquial emphasis — जो | Investigate and apply validated colloquial emphatic uses of जो. | Planned |
+| G26-014 | Colloquial emphasis using जो | Recognise and appropriately use attested colloquial emphatic functions of जो, where independently validated. | Planned |
 | G26-015 | Concessive particle constructions | Interpret particles within concessive constructions such as भए पनि. | Planned |
 | G26-016 | Particle combinations | Interpret and use combinations of particles in natural utterances. | Planned |
 | G26-017 | Particle placement | Position particles appropriately relative to their grammatical hosts. | Planned |
 | G26-018 | Particle scope | Identify which element or proposition a particle affects. | Planned |
 | G26-019 | Particle omission | Understand how meaning and interpersonal tone change when particles are omitted. | Planned |
 | G26-020 | Particles and intonation | Interpret how intonation affects particle meaning and function. | Planned |
-| G26-021 | Particles and social register | Select particles appropriate to relationships and communicative situations. | Planned |
+| G26-021 | Particles and social register | Select and interpret particles according to interpersonal relationships, social register and intended conversational tone. | Planned |
 | G26-022 | Contextual particle selection | Select appropriate particles according to intended meaning and conversational context. | Planned |
 
-Total: 22 concepts.
+**Shared coverage and orientation**
+
+- **Particle foundations** · Shared orientation. Understand how particles contribute grammatical and pragmatic meaning. Learner evidence is recorded through [G26-017](honorifics-naturalness-and-advanced-language.md#g26), [G26-018](honorifics-naturalness-and-advanced-language.md#g26), [G26-022](honorifics-naturalness-and-advanced-language.md#g26). [G26-001](traceability-5.md#g26-001).
+- The shared hearsay account for रे is owned by [G27-007](honorifics-naturalness-and-advanced-language.md#g27). G26-009 covers placement, scope and discourse behaviour provisionally, subject to distinct learner evidence.
+
+**Total:** 21 planned learner targets.
 
 ### How particles change meaning
 
@@ -222,26 +229,26 @@ English can express these distinctions, but often requires additional words or p
 
 | ID | Concept | Learning target | Specification status |
 | --- | --- | --- | --- |
-| G27-001 | Evidentiality foundations | Understand how language communicates information sources and speaker knowledge. | Planned |
+| G27-001 | Evidentiality foundations | Distinguish reported, inferred, newly recognised and source-unspecified information across contextualised utterances. | Planned |
 | G27-002 | Unmarked assertions | Recognise assertions that do not explicitly specify an information source. | Planned |
-| G27-003 | Directly witnessed information | Express and identify information based on firsthand observation. | Planned |
+| G27-003 | Directly witnessed information | Identify and express firsthand observation using validated grammatical and contextual cues, distinguishing it from source-unspecified assertions. | Planned |
 | G27-004 | Discovery constructions — रहेछ | Express newly discovered or newly recognised information. | Planned |
 | G27-005 | Event discovery — गरेछ | Express discovery or recognition of an event through appropriate verb forms. | Planned |
 | G27-006 | Negative discovery constructions | Express discovery that an expected event or state did not occur or exist. | Planned |
-| G27-007 | Reported information and hearsay | Interpret information attributed to another speaker or source. | Planned |
+| G27-007 | Reported information and hearsay | Interpret and use hearsay रे to attribute information to another speaker or source, including in reported speech. | Planned |
 | G27-008 | Inference from evidence | Express conclusions based on available evidence rather than direct observation. | Planned |
 | G27-009 | Assumption and conjecture — होला | Express assumptions and conjectures using appropriate constructions. | Planned |
 | G27-010 | Past-event inference | Infer or speculate about events that occurred in the past. | Planned |
 | G27-011 | Present-state inference | Infer or speculate about a current state or situation. | Planned |
 | G27-012 | Future prediction and uncertainty | Express predictions with appropriate degrees of uncertainty. | Planned |
-| G27-013 | Unexpected discovery and surprise | Interpret and express information that conflicts with prior expectations. | Planned |
-| G27-014 | Confirmation and revised understanding | Express changes in understanding after receiving new information. | Planned |
-| G27-015 | Degrees of speaker commitment | Distinguish assertion, assumption, inference and uncertainty. | Planned |
+| G27-013 | Unexpected discovery and surprise | Interpret and express discoveries that conflict with prior expectations, recognising contextual and grammatical cues of surprise. | Planned |
+| G27-014 | Confirmation and revised understanding | Express and interpret confirmation or revision of an existing understanding after receiving new information. | Planned |
+| G27-015 | Degrees of speaker commitment | Compare and interpret degrees of speaker commitment across different information sources, distinguishing certainty from evidential status. | Planned |
 | G27-016 | Evidential agreement and temporal variation | Apply relevant agreement and temporal forms within evidential constructions. | Planned |
 | G27-017 | Combined evidential and modal meanings | Interpret constructions combining information source and modality. | Planned |
 | G27-018 | Contextual evidential selection | Select appropriate constructions according to information source and speaker knowledge. | Planned |
 
-Total: 18 concepts.
+**Total:** 18 planned learner targets.
 
 ### Four different relationships to the same information
 
@@ -324,8 +331,8 @@ It should help learners recognise unfamiliar words, expand their vocabulary and 
 | G28-009 | Adjective derivation | Recognise adjectives formed from other lexical categories. | Planned |
 | G28-010 | Adverbial derivation | Recognise and interpret derived adverbial forms. | Planned |
 | G28-011 | Verb derivation | Recognise verbs derived from other roots or lexical categories. | Planned |
-| G28-012 | Causative derivation | Understand morphological processes involved in causative verb formation. | Planned |
-| G28-013 | Nominalisation processes | Recognise morphological processes that produce noun-like forms. | Planned |
+| G28-012 | Causative derivation | Recognise and apply validated causative word-formation patterns, including stem changes, and interpret the resulting causative meaning. Distinguish productive patterns from established forms. | Planned |
+| G28-013 | Nominalisation processes | Recognise and interpret morphological processes that produce noun-like words, distinguishing productive formation from established lexical items and syntactic nominalisation. | Planned |
 | G28-014 | Noun compounds | Interpret and recognise compound nouns. | Planned |
 | G28-015 | Adjectival compounds | Interpret and recognise compound adjectival constructions. | Planned |
 | G28-016 | Verbal compounds and lexical formation | Distinguish lexicalised compound verbs from productive grammatical combinations. | Planned |
@@ -336,7 +343,7 @@ It should help learners recognise unfamiliar words, expand their vocabulary and 
 | G28-021 | Productivity and lexicalisation | Distinguish productive word-formation patterns from established lexical items. | Planned |
 | G28-022 | Morphological interpretation | Use knowledge of word components to interpret unfamiliar forms while recognising ambiguity. | Planned |
 
-Total: 22 concepts.
+**Total:** 22 planned learner targets.
 
 ### Learning word families
 
@@ -431,13 +438,13 @@ This category focuses on how grammar operates within actual conversations.
 
 | ID | Concept | Learning target | Specification status |
 | --- | --- | --- | --- |
-| G29-001 | Information structure foundations | Understand how utterances organise established and newly introduced information. | Planned |
+| G29-001 | Information structure foundations | Interpret how utterances organise established and newly introduced information across conversational contexts. | Planned |
 | G29-002 | Topic and comment | Identify and construct utterances around a topic and information about it. | Planned |
 | G29-003 | Given and new information | Organise utterances according to what participants already know. | Planned |
 | G29-004 | Information focus | Highlight the information most relevant to a communicative purpose. | Planned |
 | G29-005 | Contrastive focus | Emphasise contrasts between participants, actions or alternatives. | Planned |
 | G29-006 | Word order and information structure | Adjust word order to support topic, focus and contextual meaning. | Planned |
-| G29-007 | Subject and argument omission | Omit recoverable participants where context permits. | Planned |
+| G29-007 | Subject and argument omission | Omit and recover contextually identifiable subjects and other grammatical arguments in natural conversation without introducing unintended ambiguity. | Planned |
 | G29-008 | Predicate and clause ellipsis | Omit recoverable predicates or larger grammatical elements. | Planned |
 | G29-009 | Short and fragmentary responses | Produce contextually complete responses without unnecessary full sentences. | Planned |
 | G29-010 | Conversational contractions and reductions | Recognise and use validated reduced spoken forms. | Planned |
@@ -447,14 +454,17 @@ This category focuses on how grammar operates within actual conversations.
 | G29-014 | Conversational acknowledgements | Recognise and produce responses that acknowledge another speaker. | Planned |
 | G29-015 | Turn-taking constructions | Use grammatical and discourse forms to enter, maintain and yield conversational turns. | Planned |
 | G29-016 | Topic maintenance and development | Maintain and develop a conversational topic coherently. | Planned |
-| G29-017 | Topic changes | Introduce new topics or return to previous topics naturally. | Planned |
 | G29-018 | Indirect communicative meaning | Interpret meanings implied rather than explicitly stated. | Planned |
 | G29-019 | Conversational softening and mitigation | Express disagreement, requests or uncertainty with appropriate interpersonal sensitivity. | Planned |
 | G29-020 | Conversational repair and clarification | Resolve misunderstandings through appropriate grammatical constructions. | Planned |
 | G29-021 | Context-dependent interpretation | Recover intended meaning from incomplete or ambiguous utterances using context. | Planned |
 | G29-022 | Natural conversational restructuring | Reformulate grammatically complete sentences into appropriate natural conversational forms. | Planned |
 
-Total: 22 concepts.
+**Shared coverage and orientation**
+
+- **Topic changes** · Find the shared treatment under [G19-013](connecting-ideas.md#g19). [G29-017](traceability-5.md#g29-017).
+
+**Total:** 21 planned learner targets.
 
 ### Textbook versus conversational Nepali
 
@@ -533,8 +543,8 @@ However, G30 should not become an enormous list of individual idioms. The gramma
 | ID | Concept | Learning target | Specification status |
 | --- | --- | --- | --- |
 | G30-001 | Idiomatic meaning foundations | Distinguish literal, conventional and idiomatic meanings. | Planned |
-| G30-002 | Fixed expressions | Recognise and appropriately use established multiword expressions. | Planned |
-| G30-003 | Semi-fixed expressions | Apply reusable expressions containing restricted variable elements. | Planned |
+| G30-002 | Fixed expressions | Recognise and appropriately use established multiword expressions whose structure or word selection is conventionally restricted. | Planned |
+| G30-003 | Semi-fixed expressions | Judge acceptable substitutions and productively use semi-fixed expressions with restricted variable elements. Distinguish them from genuinely fixed idioms. | Planned |
 | G30-004 | Lexical collocations | Recognise and use conventional combinations of words. | Planned |
 | G30-005 | Light-verb constructions | Express lexical meanings through combinations such as nouns with गर्नु. | Planned |
 | G30-006 | Body-related idiomatic constructions | Interpret figurative meanings expressed through body-related vocabulary. | Planned |
@@ -542,18 +552,21 @@ However, G30 should not become an enormous list of individual idioms. The gramma
 | G30-008 | Metaphorical constructions | Recognise and interpret metaphorical relationships in language. | Planned |
 | G30-009 | Similes and figurative comparison | Interpret and construct appropriate figurative comparisons. | Planned |
 | G30-010 | Proverbs and sayings — उखान | Interpret conventional sayings and their contextual implications. | Planned |
-| G30-011 | Idiomatic expressions — टुक्का | Interpret and use validated idiomatic expressions. | Planned |
+| G30-011 | Idiomatic expressions — टुक्का | Interpret and appropriately use validated idiomatic expressions, distinguishing their conventional meanings from literal readings and proverbial statements. | Planned |
 | G30-012 | Echo-word constructions | Interpret and use echo forms expressing associated or approximate categories. | Planned |
-| G30-013 | Expressive reduplication | Interpret repeated forms expressing intensity, distribution or other expressive meanings. | Planned |
+| G30-013 | Expressive reduplication | Interpret and use validated reduplicated forms expressing intensity, distribution and other expressive meanings, distinguishing these effects from ordinary grammatical repetition. | Planned |
 | G30-014 | Figurative intensification | Interpret exaggeration and conventional intensifying expressions. | Planned |
-| G30-015 | Cultural and situational expressions | Recognise expressions associated with culturally established situations. | Planned |
+| G30-015 | Cultural and situational expressions | Interpret the communicative and cultural functions of conventional expressions and recognise the situations in which they are appropriately used. | Planned |
 | G30-016 | Humour and wordplay | Interpret language-based humour using grammatical and lexical context. | Planned |
 | G30-017 | Irony and sarcasm | Distinguish literal utterance meaning from intended ironic or sarcastic meaning. | Planned |
-| G30-018 | Idiomatic variation and flexibility | Recognise which elements of established expressions can be changed naturally. | Planned |
 | G30-019 | Contextual idiom selection | Select appropriate idiomatic or figurative expressions according to meaning and register. | Planned |
 | G30-020 | Unfamiliar figurative interpretation | Use contextual and linguistic evidence to interpret unfamiliar figurative expressions. | Planned |
 
-Total: 20 concepts.
+**Shared coverage and orientation**
+
+- **Idiomatic variation and flexibility** · Find the shared treatment under [G30-003](honorifics-naturalness-and-advanced-language.md#g30). [G30-018](traceability-5.md#g30-018).
+
+**Total:** 19 planned learner targets.
 
 ### Literal versus idiomatic meaning
 
@@ -626,28 +639,31 @@ Aafno should teach a reliable common foundation while helping learners understan
 
 | ID | Concept | Learning target | Specification status |
 | --- | --- | --- | --- |
-| G31-001 | Language variation foundations | Understand that grammatical and lexical usage can vary systematically between speakers and contexts. | Planned |
-| G31-002 | Standard Nepali | Recognise commonly established standard grammatical and lexical forms. | Planned |
+| G31-002 | Standard Nepali | Recognise forms belonging to a documented reference variety. | Planned |
 | G31-003 | Everyday spoken Nepali | Recognise and use validated constructions characteristic of ordinary conversation. | Planned |
 | G31-004 | Formal spoken register | Adapt language to formal spoken situations. | Planned |
 | G31-005 | Formal written register | Recognise and construct language appropriate to formal written communication. | Planned |
 | G31-006 | Literary register | Recognise grammatical and lexical patterns associated with literary language. | Planned |
-| G31-007 | Family-specific variation | Recognise and appropriately use validated language patterns associated with particular families. | Planned |
-| G31-008 | Regional variation | Recognise validated grammatical and lexical alternatives associated with regional usage. | Planned |
-| G31-009 | Community variation | Recognise validated language patterns associated with different speech communities. | Planned |
-| G31-010 | Generational variation | Recognise differences in language use between generations. | Planned |
-| G31-011 | Diaspora language variation | Recognise validated patterns occurring in Nepali-speaking diaspora communities. | Planned |
+| G31-007 | Family-specific variation | Understand and appropriately use validated family-specific language variation, including variation beyond honorifics. | Planned |
+| G31-008 | Regional variation | Comprehend validated regional grammatical and lexical alternatives. | Planned |
+| G31-009 | Community variation | Comprehend attested patterns across speech communities. | Planned |
+| G31-010 | Generational variation | Recognise and comprehend documented differences in usage across generations. | Planned |
+| G31-011 | Diaspora language variation | Comprehend validated language patterns documented in diaspora contexts. | Planned |
 | G31-012 | Code-switching | Interpret and appropriately participate in conversations involving multiple languages. | Planned |
 | G31-013 | Borrowed vocabulary in context | Recognise how borrowed vocabulary functions within Nepali utterances. | Planned |
 | G31-014 | Spoken and written grammatical differences | Distinguish appropriate spoken constructions from conventional written forms. | Planned |
-| G31-015 | Pronunciation and spoken-form variation | Recognise validated pronunciation and reduction patterns affecting grammatical comprehension. | Planned |
+| G31-015 | Pronunciation and spoken-form variation | Recognise validated pronunciation, contraction and reduction patterns that affect grammatical comprehension across spoken varieties of Nepali. | Planned |
 | G31-016 | Alternative grammatical constructions | Recognise different acceptable constructions expressing comparable meanings. | Planned |
 | G31-017 | Acceptable variation versus grammatical error | Distinguish validated alternatives from errors within the relevant target variety. | Planned |
 | G31-018 | Register adaptation | Reformulate language according to audience, purpose and situation. | Planned |
 | G31-019 | Receptive understanding across varieties | Understand unfamiliar but validated language varieties using contextual knowledge. | Planned |
 | G31-020 | Productive variety selection | Select and consistently use appropriate forms from a learner's intended language variety. | Planned |
 
-Total: 20 concepts.
+**Shared coverage and orientation**
+
+- **Language variation foundations** · Shared orientation. Understand that grammatical and lexical usage can vary systematically between speakers and contexts. Learner evidence is recorded through [G31-014](honorifics-naturalness-and-advanced-language.md#g31), [G31-017](honorifics-naturalness-and-advanced-language.md#g31), [G31-019](honorifics-naturalness-and-advanced-language.md#g31), [G31-020](honorifics-naturalness-and-advanced-language.md#g31). [G31-001](traceability-5.md#g31-001).
+
+**Total:** 19 planned learner targets.
 
 ### Spoken versus formal language
 
@@ -845,7 +861,7 @@ Explanation: The proverb uses a figurative situation to describe misplaced blame
 
 ### Question 7 of 7 — G31 · Language variation
 
-**A learner uses a validated family honorific form instead of a standard respectful form. How should Aafno respond?**
+**A learner uses a validated highest-honorific form instead of a standard respectful form. How should Aafno respond?**
 
 A. Always mark it incorrect.
 
@@ -871,7 +887,7 @@ The objective would be to gather evidence of natural grammatical application rat
 
 ## Cross-category reconciliation
 
-These proposed ownership boundaries identify overlaps for full catalogue reconciliation. The approved target IDs and rows remain in the inventory for that review.
+These boundaries explain shared coverage across the reconciled catalogue. The [traceability records](traceability-5.md) carry the approved row decisions and reopening conditions.
 
 | Overlapping categories | Proposed ownership distinction |
 | --- | --- |
@@ -911,17 +927,17 @@ These proposed ownership boundaries identify overlaps for full catalogue reconci
 
 ### Priority reconciliation areas
 
-| Priority area | Coverage | Question for reconciliation |
+| Priority area | Coverage | Approved boundary |
 | --- | --- | --- |
 | Honorifics and register | G02 · G08-004–005 · G12-001–004 · G25 · G31-007 | Share canonical knowledge of forms and agreement while distinguishing social selection and family-specific variation. |
-| Reported information | G23-016–017 · G26-009 · G27-007 | Establish shared canonical knowledge of रे rather than maintaining three competing explanations. |
+| Reported information | G23-017 · G26-009 · G27-007 | G27-007 owns hearsay meaning. G26-009 preserves provisional particle evidence and G23-017 covers reporting contrasts. |
 | Modality and inference | G11-009–010 · G11-014 · G27-008–012 · G27-015 | Determine which targets represent distinct meanings and which require shared specifications. |
 | Subject omission and ellipsis | G01-004 · G29-007–009 | Distinguish basic omission from broader context-dependent conversational reduction. |
 | Reduplication and echo formation | G06-012 · G13-014 · G28-017–018 · G30-012–013 | Share formation rules while distinguishing distributive, verbal and expressive functions. |
 | Nominalisation and causation | G13 · G20 · G22 · G24 · G28 | Resolve the previously identified overlaps between formation, syntax, meaning and participant relationships. |
 | Language variation | G31 · All other categories | Determine which variation targets need dedicated teaching specifications and which are cross-cutting content metadata or linked applications. |
 
-Full catalogue reconciliation comes next, before detailed specifications.
+Detailed specifications follow review and merge of the reconciliation implementation.
 
 ## Highest-honorific coverage and family contexts
 
@@ -962,4 +978,4 @@ Record where form variation is supported, where a construction does not vary by 
 
 ## Catalogue status
 
-The [full catalogue](index.md) contains 527 provisional coverage targets across 31 of 31 categories. Full catalogue reconciliation is next, followed by detailed specifications and validation.
+The [full catalogue](index.md) contains 500 planned targets across 31 categories. [Traceability records](reconciliation.md) preserve all 527 original IDs.
