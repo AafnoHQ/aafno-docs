@@ -7,17 +7,17 @@ has_children: true
 
 # Grammar catalogue
 
-Phase 2A.2 Step 2 identifies independently teachable and assessable concepts across the 31 categories in the [grammar syllabus](../grammar-syllabus.md). The first grouping covers **6 of 31 categories (19.4%)** and contains **58 agreed concepts**. The full catalogue has no preset concept count.
+Phase 2A.2 Step 2 identifies independently teachable and assessable concepts across the 31 categories in the [grammar syllabus](../grammar-syllabus.md). The first two groupings contain **164 agreed concepts** across **13 of 31 categories (41.9% category coverage)**, with 18 categories remaining. The full catalogue has no preset concept count. Category coverage tracks how many syllabus categories have been catalogued.
 
-| Grouping | Step 2 status |
-| --- | --- |
-| G01–G06 · [Grammar foundations](grammar-foundations.md) | Product coverage agreed · 58 concepts |
-| G07–G13 · Verbs, conjugation and time | Next |
-| G14–G18 · Relationships and sentence transformations | Planned |
-| G19–G24 · Connecting ideas and constructing complex sentences | Planned |
-| G25–G31 · Honorifics, naturalness and advanced language | Planned |
+| Grouping | Step 2 status | Concepts |
+| --- | --- | ---: |
+| G01–G06 · [Grammar foundations](grammar-foundations.md) | Product coverage agreed and documented | 58 |
+| G07–G13 · [Verbs, conjugation and time](verbs-and-conjugation.md) | Product coverage agreed and documented | 106 |
+| G14–G18 · Relationships and sentence transformations | Next | — |
+| G19–G24 · Connecting ideas and constructing complex sentences | Planned | — |
+| G25–G31 · Honorifics, naturalness and advanced language | Planned | — |
 
-Concept IDs are provisional until the full catalogue is reconciled. Product agreement covers the scope and granularity of G01–G06. Linguistic and native-speaker validation is pending, including for all examples. Detailed specifications are planned for Step 3 under the [grammar concept framework](../grammar-concept-framework.md). The [curriculum roadmap](../curriculum-roadmap.md#phase-2a2--concept-specification-and-teaching-depth) tracks subsequent work.
+Concept IDs are provisional until the full catalogue is reconciled. Product agreement covers the scope and granularity of G01–G13. Linguistic and native-speaker validation is pending, including for all examples. Detailed specifications are planned for Step 3 under the [grammar concept framework](../grammar-concept-framework.md). The [curriculum roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth) tracks subsequent work.
 
 ## What counts as a concept
 
@@ -27,4 +27,4 @@ Give each shared concept one canonical entry and link its applications from rela
 
 ## Family honorifics
 
-Family honorifics apply wherever relevant. [G25](../grammar-syllabus.md#g25) owns social usage and register choice, and [G08](../grammar-syllabus.md#g08) owns verb agreement. Include validated family forms in each applicable conjugation specification under the [family honorific requirements](../grammar-concept-framework.md#family-honorifics-across-conjugations). Record unknown or unvalidated forms as research gaps and use attested forms for eventual teaching and assessment.
+Family honorifics apply wherever relevant. [G25](../grammar-syllabus.md#g25) owns social usage and register choice, and [G08-005](verbs-and-conjugation.md#g08) owns family honorific agreement, and [G12-004](verbs-and-conjugation.md#g12) owns family honorific imperative formation. Include validated family forms in each applicable conjugation specification under the [family honorific requirements](../grammar-concept-framework.md#family-honorifics-across-conjugations). Record unknown or unvalidated forms as research gaps and use attested forms for eventual teaching and assessment.
