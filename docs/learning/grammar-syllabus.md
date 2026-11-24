@@ -10,8 +10,6 @@ Phase 2A.1 records the agreed scope of Aafno’s master Nepali grammar inventory
 
 **Status:** documented for review. All linguistic classifications, examples, English glosses, spelling, Romanisation, conjugations and claims about variation are drafts pending native-speaker and linguistic expert validation. English tense and aspect labels are approximate signposts. Family and community usage varies by speaker, relationship and setting. Learner-facing material must pass [Content QA](content-qa.md).
 
-**Source coverage:** the available Phase 2A.1 conversation ends partway through G24. G01–G23 and the first three G24 rows retain the recovered subtopics and examples. The rest of G24 and G25–G31 are provisional reconstructions from the agreed category list and related discussion. Their original subtopics, examples and exact fifth grouping title still need reconciliation against the full response.
-
 G01–G31 are stable catalogue IDs across five groupings. Learners can encounter a concept in several pathways and at several depths. The IDs organise coverage, with sequencing, prerequisites and integrated MVP selection scheduled in the [curriculum roadmap](curriculum-roadmap.md). Overlapping entries point to one canonical concept identity. The links below are coverage relationships. Individual concept specifications belong to Phase 2A.2.
 
 ## Part 1 — Grammar foundations
@@ -575,106 +573,178 @@ These are incredibly useful constructions for real conversation, and they deserv
 ### G24. Voice, agency and causation {#g24}
 
 | Subtopic | Coverage |
-|--------|--------|
+| --- | --- |
 | Active voice | Subject performs an action |
 | Passive voice | Focus on the affected entity |
 | Causative voice | Making someone perform an action |
+| Indirect causation | Arranging for something to happen |
+| Impersonal expressions | Actions without a named agent |
+| Experiencer constructions | Expressing feelings and experiences |
+| Agent omission | When the performer is unknown or irrelevant |
+| Reflexive constructions | Actions directed towards oneself |
+| Reciprocal constructions | Actions involving each other |
 
-The remaining G24 coverage is reconstructed.
+For practice, compare गरिन्छ and गरिएको छ in context and track who causes, performs or is affected by an action as the choice of voice shifts the focus. Link verb valency in [G07](#g07), case marking in [G14](#g14), reflexive possession in [G15](#g15) and causative word formation in [G28](#g28), including the draft example गर्नु → गराउनु.
 
-| Subtopic | Coverage |
-| --- | --- |
-| Indirect agency | Expressing that someone arranged or caused an action |
-| Causative formation | Base and causative verbs, such as गर्नु → गराउनु |
-| Participant roles | Who causes, performs or is affected by the action |
-| Agent expression and omission | When the agent is explicit, implicit or absent |
-| Passive and impersonal uses | Compare गरिन्छ and गरिएको छ in context |
-| Voice choice | How attention shifts between actor, action and affected participant |
-
-## Part 5 — Usage, discourse and variation
-
-G25–G31 below are provisional reconstructions.
+## Part 5 — Honorifics, naturalness and advanced language
 
 ### G25. Honorifics and social register {#g25}
 
-| Subtopic | Coverage and illustrative examples |
+Teach the full grammatical system of honorifics, including how speakers address listeners and refer to other people. Address choices depend on relationships, community, context and individual preferences.
+
+| Address | Romanisation | Register | Illustrative contexts |
+| --- | --- | --- | --- |
+| तँ | Ta | Intimate or low honorific | Close relationships and some family contexts. It can be disrespectful in other contexts. |
+| तिमी | Timi | Familiar | Friends, peers, younger people and familiar relationships. |
+| तपाईं | Tapaai | Respectful | Polite interaction with elders or strangers and in professional contexts. |
+| हजुर | Hajur | Respectful address | Respectful interaction, including many family settings. |
+
+| Subtopic | Coverage |
 | --- | --- |
-| Pronouns and agreement | तँ, तिमी, तपाईं, हजुर, उहाँ and corresponding verb forms |
-| Address and reference | Respect toward the listener and toward a person being discussed |
-| Social context | Relationship, familiarity, age, setting and audience |
-| Requests and commands | How agreement and softening change the force of a request |
-| Register shifts | Shifts within a conversation and between informal and formal settings |
-| Family and community variation | Compare *hajur sanchai hoisinchha* and *tapaai sanchai hunnuhunchha* as reported illustrations requiring contextual validation |
+| Second-person honorifics | तँ, तिमी, तपाईं, हजुर |
+| Third-person honorifics | ऊ, उनी, उहाँ |
+| Honorific verb conjugation | Different endings and constructions |
+| Honorific imperatives | Commands and requests |
+| Honorific questions | Asking respectfully |
+| Honorific negation | Negative respectful constructions |
+| Honorific vocabulary | Alternative respectful verbs and expressions |
+| Family relationships | Parents, grandparents, relatives |
+| Age and familiarity | Choosing socially appropriate forms |
+| Professional register | Workplace and formal interactions |
+| Family-specific conjugations | Forms such as आइस्यो and होइसिन्छ |
+| Regional and community variation | Differences in actual usage |
+| Register switching | Adapting speech to different people |
+| Pragmatic meaning | How respect, affection and distance are communicated |
+| Social mistakes and repair | Recovering from inappropriate register |
+
+| Context | Nepali | Romanisation | English |
+| --- | --- | --- | --- |
+| Standard respectful | तपाईं सन्चै हुनुहुन्छ? | Tapaai sanchai hunnuhunchha? | Are you well? |
+| Family usage variant | हजुर सन्चै होइसिन्छ? | Hajur sanchai hoisinchha? | Are you well? |
+
+Validate the spelling, conjugation patterns, usage and distribution of both examples. Family forms may vary within a community. Explain the social context in which each form is used and evaluate it in that context. In request practice, compare how agreement and softening change the force of a request. Link pronouns in [G02](#g02), agreement in [G08](#g08), requests in [G12](#g12), negation in [G16](#g16), questions in [G17](#g17) and variation in [G31](#g31).
 
 ### G26. Particles and discourse markers {#g26}
 
-| Subtopic | Coverage and illustrative examples |
+| Subtopic | Coverage |
 | --- | --- |
-| Topic and contrast | त and context-dependent emphasis |
-| Additive and scalar focus | पनि, including possible ‘also’ and ‘even’ readings |
-| Restriction and emphasis | मात्र and नै |
-| Appeals and shared understanding | नि, है and context-sensitive interpretations |
-| Confirmation and stance | होइन र? and related tags |
-| Discourse sequencing | Signals for continuation, transition and closure |
+| नि — Ni | Emphasis, shared understanding |
+| त — Ta | Contrast, emphasis, topic focus |
+| नै — Nai | Emphasis, specificity |
+| पनि — Pani | Also, even |
+| मात्रै — Maatrai | Only |
+| चाहिँ — Chaahi | Contrastive topic |
+| है — Hai | Confirmation, softening |
+| रे — Re | Reported information |
+| पो — Po | Surprise, contrast, discovery |
+| ल — La | Acceptance, transition |
+| लौ — Lau | Attention, surprise, transition |
+| न — Na | Softening certain requests |
+| जो — Jo | Emphasis in particular colloquial usages (requires validation) |
+
+Particles can express several meanings depending on intonation and context. Teach them through authentic conversations and use the English glosses as prompts for discussing each example. For supplemental comparisons, use मात्र alongside मात्रै and compare confirmation tags such as होइन र? with particle-based confirmation. Link questions in [G17](#g17), the reporting function of रे in [G27](#g27) and conversational focus in [G29](#g29).
 
 ### G27. Evidentiality, inference and discovery {#g27}
 
-| Subtopic | Coverage and illustrative examples |
+| Subtopic | Coverage |
 | --- | --- |
-| Discovery | रहेछ and the discovery reading of उसले गरेछ |
-| Inference | Forms such as गरेको होला in a context of inference |
-| Hearsay | रे and reported information |
-| Source and commitment | Contextual differences between witnessing, reporting, inferring and speculating |
-| Narrative use | How a speaker introduces or reacts to newly learned information |
+| Direct knowledge | Personally known information |
+| Newly discovered information | रहेछ |
+| Discovery-related verb forms | गएछ, गरेछ |
+| Reported information | रे |
+| Inferred information | होला |
+| Assumptions | Expressing what is presumed |
+| Surprise | Discovering unexpected facts |
+| Degrees of certainty | Certain, probable, possible |
+| Source of information | Heard, witnessed or inferred |
 
-### G28. Morphology and word formation {#g28}
+| Information source or stance | Nepali | Romanisation | English |
+| --- | --- | --- | --- |
+| Direct | ऊ घरमा छ। | U gharma chha. | They are at home. |
+| Discovery | ऊ घरमा रहेछ। | U gharma rahechha. | It turns out they are at home. |
+| Reported | ऊ घरमा छ रे। | U gharma chha re. | Apparently, they are at home — someone said so. |
+| Inferred | ऊ घरमा होला। | U gharma hola. | They are probably at home. |
 
-| Subtopic | Coverage and illustrative examples |
+Heritage learners may recognise these distinctions and still need practice producing them. In narrative practice, compare how speakers introduce or react to newly learned information using examples such as उसले गरेछ, and how they express an inference with forms such as गरेको होला. Link modality in [G11](#g11), reported speech in [G23](#g23) and the discourse use of रे in [G26](#g26).
+
+### G28. Word formation and morphology {#g28}
+
+| Subtopic | Coverage |
 | --- | --- |
-| Roots, stems and affixes | Identify recurring pieces across related forms |
-| Inflection and derivation | Compare word forms and related new words |
-| Compounding | Noun and verb compounds |
-| Nominalisation and derived modifiers | Relationships among forms such as गर्नु, गरेको and गर्ने |
-| Reduplication | Repetition patterns such as गर्दागर्दै |
-| Productivity and lexicalisation | Which patterns generalise and which expressions need to be learned individually |
+| Root words | Understanding word foundations |
+| Prefixes | Adding meaning before roots |
+| Suffixes | Adding meaning after roots |
+| Noun formation | Deriving nouns |
+| Verb formation | Deriving verbs |
+| Adjective formation | Deriving descriptions |
+| Causative formation | Changing action relationships |
+| Nominalisation | Turning actions into concepts |
+| Compound words | Combining words |
+| Reduplication | Repeated words and expressions |
+| Sound changes | Changes during word formation |
+| Borrowed words | Adaptation into Nepali grammar |
+
+Supplemental coverage includes recognising stems, comparing inflection with derivation, and distinguishing productive patterns from lexicalised expressions learned individually. Link agreement and inflection in [G08](#g08), non-finite forms such as गर्नु, गरेको and गर्ने and repetition patterns such as गर्दागर्दै in [G20](#g20), causative relationships in [G24](#g24) and conventional reduplicated expressions in [G30](#g30).
 
 ### G29. Information structure and conversational grammar {#g29}
 
-| Subtopic | Coverage and illustrative examples |
+| Subtopic | Coverage |
 | --- | --- |
-| Topic and focus | Given and new information, contrast and emphasis |
-| Flexible order and omission | Recoverable subjects and other material in ongoing conversation |
-| Short responses and ellipsis | Context-dependent answers and fragments |
-| Turn management | Open, hold, yield and resume a turn |
-| Repair and clarification | Follow-up questions, clarification and reformulation |
-| Spoken cues | Intonation and particles that change interpretation |
+| Topic and comment | Introducing and discussing information |
+| Focus | Highlighting important information |
+| Contrastive emphasis | Distinguishing alternatives |
+| Ellipsis | Omitting understood words |
+| Short responses | Natural incomplete sentences |
+| Conversational contractions | Reduced spoken forms |
+| Repetition | Emphasis and clarification |
+| Self-correction | Reformulating speech |
+| Hesitation | Natural pauses and fillers |
+| Turn-taking | Starting, continuing and ending speech |
+| Indirect meaning | Communicating more than the literal words |
+| Politeness strategies | Softening disagreement or criticism |
+
+In conversation practice, track given and new information, compare intonation patterns, and practise holding, yielding and resuming a turn. Include clarification questions and conversational repair. Link flexible word order and subject omission in [G01](#g01), questions in [G17](#g17) and particles in [G26](#g26).
 
 ### G30. Idiomatic and figurative constructions {#g30}
 
-| Subtopic | Coverage and illustrative examples |
+| Subtopic | Coverage |
 | --- | --- |
-| Idioms and fixed expressions | Conventional readings alongside contextual examples |
-| Figurative language | Metaphor, comparisons and nonliteral meanings |
-| Proverbs and sayings | Context, social function and limits of use |
-| Collocations and semi-fixed frames | Which parts can vary and which combinations are conventional |
-| Formulaic interaction | Greetings, leave-taking, well-wishing and everyday responses |
-| Register and ambiguity | When an expression has literal and figurative readings or carries social restrictions |
+| Idioms | Conventional non-literal expressions |
+| Proverbs | उखान टुक्का |
+| Metaphorical constructions | Figurative descriptions |
+| Fixed expressions | Conventional phrases |
+| Collocations | Words that naturally occur together |
+| Light verb constructions | Combining nouns with verbs such as गर्नु |
+| Echo words | Expressions such as चिया-सिया |
+| Reduplicated expressions | बिस्तारै बिस्तारै |
+| Intensifying expressions | Natural ways of adding emphasis |
+| Cultural expressions | Context-dependent meanings |
+| Humour and sarcasm | Non-literal conversational meaning |
 
-### G31. Variation and register {#g31}
+In contextual practice, compare which parts of a semi-fixed phrase can vary, when a phrase can have both literal and figurative readings, and how setting affects its use. Compare light verb constructions with multi-verb patterns in [G13](#g13) and link word formation to [G28](#g28). Draw on vocabulary examples from Phase 2C and conversational routines such as greetings, leave-taking and well-wishing from Phase 2D in the [curriculum roadmap](curriculum-roadmap.md).
 
-| Subtopic | Coverage and illustrative examples |
+### G31. Language variation and register {#g31}
+
+| Subtopic | Coverage |
 | --- | --- |
-| Standard and spoken Nepali | Compare broadly useful standard forms and contextual spoken alternatives |
-| Formal and informal settings | Choice of vocabulary, grammatical forms and discourse style |
-| Regional and community usage | Document attested variants and the relevant speakers and contexts |
-| Family and heritage usage | Recognise family-specific patterns without treating them as universal |
-| Code-switching and borrowing | Describe mixed-language usage in context |
-| Written and spoken conventions | Spelling, Romanisation and transcription choices |
-| Accepted variants | Record which forms a task accepts and why after review |
+| Standard Nepali | Broadly useful baseline |
+| Everyday spoken Nepali | Natural conversational forms |
+| Formal Nepali | Professional and official communication |
+| Literary Nepali | Written and literary constructions |
+| Family-specific language | Household conventions |
+| Regional variation | Geographical differences |
+| Community variation | Community-specific usage |
+| Generational variation | Differences between age groups |
+| Code-switching | Nepali mixed with English and other languages |
+| Borrowed vocabulary | Natural integration of borrowed words |
+| Spoken versus written grammar | Differences in sentence construction |
+| Acceptable alternatives | Multiple valid ways of expressing an idea |
+
+Variation runs through all grammar categories. Use representative examples to help learners recognise natural Nepali beyond textbook forms. Document who uses attested variants and in which contexts. Compare spelling, Romanisation and transcription where relevant, and record which variants an activity accepts and why after review. Link social choice in [G25](#g25) and spoken interaction in [G29](#g29).
 
 ## Cross-category relationships
 
-Use one concept across the inventory and [language reference tools](../product/language-reference.md). A category can introduce a form while linking to its fuller treatment elsewhere.
+Use one concept across the inventory, the [Grammar Library](../product/language-reference.md#grammar-library) and the [Verb Conjugation Reference](../product/language-reference.md#verb-conjugation-reference). A category can introduce a form and link to its fuller treatment elsewhere. Reuse those concepts in explanations, flashcards, listening, sentence-building and AI roleplay.
 
 | Shared coverage | Canonical treatment and related categories |
 | --- | --- |
@@ -687,3 +757,7 @@ Use one concept across the inventory and [language reference tools](../product/l
 | Passive and causative constructions | [G24](#g24) covers voice and agency, linked from verb valency [G07](#g07), advanced verbs [G13](#g13) and case [G14](#g14). |
 | Quantities and classifiers | [G06](#g06) covers classifier constructions, linked from countability and plurality in [G03](#g03). |
 | Topic, focus and natural interaction | [G29](#g29) covers discourse-level information structure and conversational grammar, linked from sentence structure [G01](#g01), connectors [G19](#g19), particles [G26](#g26) and idiomatic use [G30](#g30). |
+
+The five parts contain 6, 7, 5, 6 and 7 categories respectively, for 31 categories in all. Lessons draw on this inventory as needed rather than following 31 linear courses.
+
+For example, a lesson about talking to a grandmother about tomorrow’s plans can bring together [G02](#g02) for choosing हजुर, [G08](#g08) for appropriate verb endings, [G09](#g09) for future plans, [G14](#g14) for destinations, [G17](#g17) for questions, [G25](#g25) for showing respect and [G26](#g26) for particles.

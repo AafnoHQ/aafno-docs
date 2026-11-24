@@ -30,7 +30,7 @@ Register and variation run through every stage. Document how everyday, respectfu
 
 | Step | Deliverable | Status |
 | --- | --- | --- |
-| 2A.1 | [Master Nepali grammar inventory](grammar-syllabus.md) | Scope agreed and documented for review. Linguistic and native-speaker validation and reconciliation with the full conversation are pending. |
+| 2A.1 | [Master Nepali grammar inventory](grammar-syllabus.md) | Scope agreed and documented for review. Linguistic and native-speaker validation pending. |
 | 2A.2 | Concept specification and teaching depth | Next, after review of 2A.1. |
 | 2A.3 | Provisional A1–C2 grammar progression | Planned. Map when forms are introduced, developed and demonstrated. |
 | 2A.4 | Grammar prerequisites and dependencies | Planned. Identify the grammar knowledge and evidence that later concepts depend on. |
