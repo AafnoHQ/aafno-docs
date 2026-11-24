@@ -27,14 +27,17 @@ Aafno is built around structured grammar, sentence construction, real conversati
 
 ## Technology
 
-| Area | Direction |
+| Area | Status |
 | --- | --- |
-| Application platform | Base44 |
-| AI provider | Tarka (planned) |
-| Models | Nepali-specialised language and speech models, subject to commercial licensing and validation |
-| Development | Cursor |
-| Version control | GitHub |
-| Documentation | GitHub Pages, from this repository |
+| Application | Confirmed — custom TypeScript codebase, web first with Next.js and Tailwind CSS |
+| Development | Confirmed — Claude Code as development agent, Cursor as IDE |
+| Source and docs | Confirmed — GitHub source control and GitHub Pages for these docs |
+| Backend and hosting | Proposed — Supabase PostgreSQL, Auth and Storage, server-side APIs and Edge Functions, and Vercel web hosting |
+| Native mobile | Future direction — Expo / React Native for iOS and Android, with EAS for builds |
+| Code organisation | Proposed — Turborepo monorepo with shared domain logic, types and API client |
+| Product AI | Planned — Tarka, subject to quality, licensing, commercial and privacy validation |
+
+See [Architecture](docs/technical/architecture.md) for the web and mobile responsibilities and the decisions still open.
 
 ## Documentation
 
@@ -53,6 +56,7 @@ Aafno is built around structured grammar, sentence construction, real conversati
 | [AI integration](docs/technical/ai-integration.md) | Planned use of Tarka and Nepali models |
 | [Data](docs/technical/database.md) | Information the product needs to remember |
 | [Visual identity](docs/design/visual-identity.md) | Brand direction |
+| [Curriculum roadmap](docs/learning/curriculum-roadmap.md) | Five phases from product design to implementation requirements |
 | [MVP](docs/roadmap/mvp.md) | First release |
 
 ## Brand

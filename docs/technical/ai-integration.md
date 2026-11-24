@@ -6,9 +6,9 @@ nav_order: 2
 
 # AI integration
 
-AI is planned, not switched on. The intended provider is Tarka. The intended models are Nepali-specialised language models and Nepali-specialised speech models. Neither is approved for the product until two conditions are met: a commercial licence that allows this use, and a validation pass that shows the model is fit for teaching Nepali.
+AI is planned, not switched on. The intended provider is Tarka. The intended models are Nepali-specialised language models and Nepali-specialised speech models. Adoption depends on task-level quality validation, licences for the intended use, acceptable commercial terms, and a privacy review of data handling.
 
-Until both are true, Aafno teaches with human-authored, native-speaker-validated material.
+Until those checks pass, Aafno teaches with human-authored, native-speaker-validated material.
 
 ## Why the bar is this high
 
@@ -71,10 +71,16 @@ Optional provider processing requires a clear learner consent state where the pr
 
 Keys and credentials live in the application’s secret store. They are not committed to this documentation repository or to source.
 
+## Server-side integration
+
+Web and future mobile clients request approved capabilities through the shared backend. A server-side provider interface isolates Tarka-specific calls and allows a later provider to be evaluated against the same task contract. The backend checks identity, permission and consent, limits the data sent, and records the capability and model version used. Provider secrets stay server-side.
+
+Generated curriculum drafts follow the same versioned native-speaker review and acceptance gate as human-authored material. The backend enforces publication and official assessment rules. Core lessons, placement and progress remain available when provider calls are disabled or fail.
+
 ## Build order
 
 1. Teach the MVP with validated, non-model content. See [MVP](../roadmap/mvp.md).
-2. Confirm licence terms with Tarka for the specific Nepali language and speech models.
+2. Confirm licensing, commercial and privacy terms with Tarka for each proposed language and speech capability.
 3. Run the validation set. Record pass or fail by task.
 4. Enable one task at a time, starting with the lowest risk: for example, drafting extra examples for human review, before live conversation.
 5. Keep a path that still works if the provider is unavailable. A lesson does not hard-depend on a live model for its core explanation.

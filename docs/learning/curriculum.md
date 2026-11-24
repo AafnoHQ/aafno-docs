@@ -6,7 +6,7 @@ nav_order: 2
 
 # Curriculum
 
-This is Aafno's curriculum architecture: the shared system behind a learner's personalised path. It is not a lesson catalogue or detailed grammar syllabus. Those are written later from approved concepts and become learner-facing only after the review process in [Content QA](content-qa.md).
+This is Aafno's curriculum architecture: the shared system behind a learner's personalised path. It is not a lesson catalogue or detailed grammar syllabus. The [curriculum roadmap](curriculum-roadmap.md) sets out when those are developed. They are written from reviewed concepts and become learner-facing only after the review process in [Content QA](content-qa.md).
 
 The curriculum teaches broadly useful Standard Nepali while making register, conversational usage, regional usage, family expressions, and code-switching visible where they affect what a learner should say. A labelled variation is not an error merely because it differs from a formal or textbook form.
 

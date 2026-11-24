@@ -19,7 +19,7 @@ Placement can be a concise self-check plus a few tasks (understand, produce, rea
 
 ## What ships
 
-**A validated starter curriculum.** A small set of units, written and accepted by native speakers, covering:
+**A validated starter curriculum.** A small set of units, written and accepted by native speakers, drawn from the [curriculum roadmap](../learning/curriculum-roadmap.md). The starter scope covers:
 
 - A handful of high-use sentence frames.
 - The grammar those frames require (word order, a first pass at pronouns and honorifics, a few postpositions, present-tense forms and negation, simple questions).
@@ -33,17 +33,19 @@ The MVP does not set a unit count before content review capacity is known. Each 
 
 **Progress that respects the split.** Speaking progress and script progress are stored separately, as in [Data](../technical/database.md). The next unit follows prerequisites and obvious weaknesses (missed endings, missed letters).
 
-**An application on Base44** that a learner can sign in to, take placement, study a unit, and see what to do next.
+**A custom web application**, built with TypeScript, Next.js and Tailwind CSS, that a learner can sign in to, take placement, study a unit, and see what to do next.
 
 **This documentation**, published on GitHub Pages, kept aligned with what the MVP actually contains.
 
 ## What waits
 
-- Live AI conversation, speech scoring, and model-written curriculum. Those wait for Tarka licensing and the validation in [AI integration](../technical/ai-integration.md).
+- Native iOS and Android apps and offline synchronisation. The MVP is web-first. Device roles and future native work are described in [Architecture](../technical/architecture.md).
+
+- Live AI conversation, speech scoring, and model-assisted curriculum drafts. These depend on provider approval and the validation in [AI integration](../technical/ai-integration.md).
 - Handwriting instruction, if the first build can only support reading and typing.
 - A large topic catalogue, dialect lessons, exam courses, and classrooms.
 - A finished visual system. The MVP should look calm and readable, and follow [Visual identity](../design/visual-identity.md) — Aafno · आफ्नो, “Your language. Your roots. Your own.” — without inventing a second brand. Logo lockups and a licensed palette can land as soon as they exist; they do not block the first units.
-- Payments and growth features that the platform does not already provide.
+- Payments and growth features.
 
 ## Content rule for the MVP
 
@@ -71,4 +73,4 @@ The MVP is done when a learner from each of the three starts can:
 4. Say a sentence in those forms that is not a line they memorised whole.
 5. Read and type a simple Devanagari sentence if their path includes the script starter.
 
-That is the demonstration. Broader grammar and approved AI practice are the next roadmap, written when this one is true.
+The exact MVP subset is selected during syllabus mapping. The comprehensive syllabus can cover later releases, and published units follow the native-speaker review gate.

@@ -30,7 +30,7 @@ Aafno (आफ्नो) is a Nepali language-learning platform. It helps people 
 
 ## Technical
 
-- [Architecture](technical/architecture.md) — Base44, GitHub, Cursor, and this documentation site.
+- [Architecture](technical/architecture.md) — the custom web application, shared backend direction, and future native mobile apps.
 - [AI integration](technical/ai-integration.md) — Tarka and Nepali language and speech models, after licensing and validation.
 - [Data](technical/database.md) — learner, progress, and content information the product depends on.
 
@@ -40,6 +40,7 @@ Aafno (आफ्नो) is a Nepali language-learning platform. It helps people 
 
 ## Roadmap
 
+- [Curriculum roadmap](learning/curriculum-roadmap.md) — five phases and the review gates between them.
 - [MVP](roadmap/mvp.md) — the first release.
 
 ## Status

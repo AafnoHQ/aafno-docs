@@ -61,7 +61,7 @@ At this architecture level, **concept mastery** means evidence that a learner ca
 
 Detailed assessment rules, evidence counts, and promotion thresholds belong to a later assessment-design phase. Until then, the system should record exposure, completion, practice evidence, and demonstrated mastery separately rather than infer mastery from exercise completion.
 
-## Content object proposal for Base44
+## Content object proposal
 
 For later implementation, model a content concept separately from its rendered activities:
 
@@ -72,7 +72,9 @@ For later implementation, model a content concept separately from its rendered a
 
 This is a proposed modelling boundary, not a database schema. The application data design remains in [Data](../technical/database.md).
 
-## Proposed build order
+## Proposed starter development
+
+The [curriculum roadmap](curriculum-roadmap.md) puts master syllabus mapping and MVP selection before lesson and assessment design. These steps describe how that starter material becomes usable and is evaluated.
 
 1. Define and validate a small starter concept map covering the MVP's approved oral patterns and independent script starter.
 2. Attach unit contracts and activities that satisfy the methodology cycle for each concept.

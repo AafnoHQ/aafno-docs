@@ -6,7 +6,7 @@ nav_order: 3
 
 # Data
 
-Aafno needs a durable record of who is learning, what they have been taught, and what they can do. The store lives with the Base44 application. This page names the information. It is not a schema: tables, field names, and indexes are chosen in the application repository when the data model is designed.
+Aafno needs a durable record of who is learning, what they have been taught, and what they can do. The web application and future native apps share the same backend, accounts, curriculum versions and learner progress. Supabase PostgreSQL, Auth and Storage are proposed for structured records, identity and files respectively. This page names the information. It is not a schema: tables, field names, and indexes are chosen in the application repository when the data model is designed.
 
 No learner data is stored in this documentation repository.
 
@@ -14,8 +14,8 @@ No learner data is stored in this documentation repository.
 
 Enough identity to run an account, and a profile that placement can update.
 
-- Account identity, as provided by the application platform.
-- Preferred writing system for interface chrome where we support a choice. Lesson Nepali stays in Devanagari once the learner is on the script strand; glosses may be in English.
+- Account identity, shared across clients.
+- Romanisation display preference. Learner-facing Nepali shows Devanagari and Romanised Nepali together by default. The learner can hide Romanisation independently of Devanagari and their literacy pathway.
 - Pathway: heritage speech, literacy, beginner, or a combination (speech pathway plus script strand).
 - Starting band within each active strand, from placement.
 - Consent flags relevant to optional AI processing, left unset until [AI integration](ai-integration.md) is real.
@@ -40,7 +40,8 @@ What this learner has done with that content.
 
 - Units started, completed, and revisited. Completion follows the definition in [Curriculum](../learning/curriculum.md): understand, produce, and read when reading is in scope.
 - Item-level results where they change review: correct, incorrect, or hesitant, with the form being practised.
-- Script strand progress, independent of speaking progress.
+- Independent listening, speaking, grammar, reading and writing evidence, including script progress independently of speaking.
+- Exposure, completion, practice evidence and demonstrated mastery as separate records. The server applies the assessment and progress rules to submitted evidence.
 - Placement results, kept so a later reassessment can be compared.
 
 Progress is about forms and tasks. It is not a single global percentage that hides a strong listener who cannot yet speak.
@@ -81,7 +82,13 @@ This is the minimum needed to support personalisation, audit a learner-facing co
 
 ## What we do not need yet
 
-The first data model does not need social graphs, public profiles, class rosters, or a content marketplace. Those can be added when a real feature needs them. Payments, if Base44 or a store handles them, stay at the platform boundary rather than being reinvented in our tables.
+The first data model does not need social graphs, public profiles, class rosters, or a content marketplace. Those can be added when a real feature needs them. Any later payments require a separate design.
+
+## Access and synchronisation
+
+The server verifies identity and authorisation, validates submitted evidence, and owns assessment, progression and publication decisions. If Supabase is selected, design and test row-level security (RLS) for learner ownership and reviewer roles, and storage policies for private recordings and approved audio. Define versioned migrations, deployment and recovery procedures, and privacy rules before implementation.
+
+Future offline practice will need repeat-safe attempt submissions tied to content versions and a way to reconcile edits from more than one device. Conflict rules for preferences, stale content and interrupted or duplicate uploads still need design. Server decisions govern official progress after sync.
 
 ## Care
 
