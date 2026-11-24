@@ -22,7 +22,17 @@ The contributor separately reported these forms from family usage: **hoisinchha,
 | [G09](grammar-catalogue/verbs-and-conjugation.md#g09), [G12-004](grammar-catalogue/verbs-and-conjugation.md#g12), [G16](grammar-catalogue/relationships-and-transformations.md#g16) | Tense and aspect, imperative formation and negation |
 | [G25-005](grammar-catalogue/honorifics-naturalness-and-advanced-language.md#g25), [G28](grammar-catalogue/honorifics-naturalness-and-advanced-language.md#g28), [G31-007](grammar-catalogue/honorifics-naturalness-and-advanced-language.md#g31) | Social selection, morphology and contextual family variation |
 
-Record full and contracted forms within one highest-honorific register where correspondence is supported. The family-reported examples document use in the reporting household. Guide paradigms remain research candidates with unconfirmed independent validity and reuse rights. Review agreement for direct address and third-person reference separately. G08-005 owns conjugation and agreement, G25 owns social selection and highest-honorific imperative formation as allocated in the catalogue, and G31-007 owns household-context interpretation and adaptation. Use the [research matrix](grammar-catalogue/verbs-and-conjugation.md#step-3-family-honorific-research-matrix) for verb and construction coverage.
+Record full and contracted forms within one highest-honorific register where correspondence is supported. The family-reported examples document use in the reporting household. Guide paradigms remain research candidates with unconfirmed independent validity and reuse rights. Review agreement for direct address and third-person reference separately.
+
+Canonical ownership follows the reconciled catalogue.
+
+- [G08-005](concepts/highest-honorific-conjugation-and-agreement.md) covers highest-honorific conjugation and agreement.
+- [G12-004](grammar-catalogue/verbs-and-conjugation.md#g12) covers highest-honorific imperative formation.
+- [G25-005](grammar-catalogue/honorifics-naturalness-and-advanced-language.md#g25) covers social selection of highest-honorific forms.
+- [G25-021](grammar-catalogue/honorifics-naturalness-and-advanced-language.md#g25) covers honorific variation across families and communities.
+- [G31-007](concepts/family-specific-variation.md) covers broader family-specific language variation, including patterns beyond honorifics.
+
+Use the [research matrix](grammar-catalogue/verbs-and-conjugation.md#step-3-family-honorific-research-matrix) for verb and construction coverage.
 
 ## Formation and agreement claims to investigate
 
