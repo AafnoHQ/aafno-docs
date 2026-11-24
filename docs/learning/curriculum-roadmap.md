@@ -12,7 +12,7 @@ Aafno develops the curriculum in five phases. Discuss and agree each phase and e
 
 Complete from a product design perspective, pending applicable native-speaker validation. The [curriculum architecture](curriculum.md), [proficiency framework](proficiency-framework.md) and [curriculum structure](curriculum-structure.md) record the decisions. These include independent listening, speaking, grammar, reading and writing profiles, parallel Devanagari literacy, Romanisation visible by default with an independent toggle, and separate records for lesson completion and demonstrated mastery.
 
-## Phase 2 — Master syllabus
+## Phase 2 — Master syllabus {#phase-2--master-syllabus}
 
 Phase 2 develops the master syllabus across the following stages.
 
@@ -35,10 +35,10 @@ Register and variation run through every stage. Document how everyday, respectfu
 | 2A.3 | Provisional A1–C2 grammar progression | Planned. Map when forms are introduced, developed and demonstrated. |
 | 2A.4 | Grammar prerequisites and dependencies | Planned. Identify the grammar knowledge and evidence that later concepts depend on. |
 
-#### Phase 2A.2 — Concept specification and teaching depth
+#### Phase 2A.2 — Concept specification and teaching depth {#phase-2a2-concept-specification-and-teaching-depth}
 
 1. **Document the specification template, teaching depth and one worked example.** The [grammar concept framework](grammar-concept-framework.md), [teaching depth guide](grammar-teaching-depth.md) and [present habitual example](concepts/present-habitual.md) were reviewed and merged. The linguistic examples remain drafts.
-2. **Create the master concept catalogue collaboratively.** The [grammar catalogue](grammar-catalogue/index.md) records 58 agreed concepts in [G01–G06](grammar-catalogue/grammar-foundations.md), covering 6 of 31 categories (19.4%). Linguistic and native-speaker validation is pending. G07–G13 is next. Reconcile overlaps across all 31 categories to one canonical entry per concept, with links from related categories. Concept IDs remain provisional until reconciliation.
+2. **Create the master concept catalogue collaboratively.** The [grammar catalogue](grammar-catalogue/index.md) records 164 agreed concepts across [G01–G06](grammar-catalogue/grammar-foundations.md) and [G07–G13](grammar-catalogue/verbs-and-conjugation.md), covering 13 of 31 categories (41.9%). Linguistic and native-speaker validation is pending. G14–G18 is next. Reconcile overlaps across all 31 categories to one canonical entry per concept, with links from related categories. Concept IDs remain provisional until reconciliation.
 3. **Write detailed concept specifications in five batches.** Work through G01–G06, G07–G13, G14–G18, G19–G24 and G25–G31.
 4. **Review the full set.** Check coverage, consistency, teaching depth, [family honorific coverage](grammar-concept-framework.md#family-honorifics-across-conjugations), reference integration and [Content QA](content-qa.md).
 

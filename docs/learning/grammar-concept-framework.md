@@ -7,7 +7,7 @@ has_children: true
 
 # Grammar concept framework
 
-Phase 2A.2 step 1 defines the reusable specification for an independently teachable and assessable grammar concept. The [grammar syllabus](grammar-syllabus.md) records category coverage. The [grammar catalogue](grammar-catalogue/index.md) identifies canonical concepts across all 31 categories as Step 2 progresses. Product coverage is agreed for the 58 G01–G06 concepts. Detailed specifications are planned for Step 3, and linguistic and native-speaker validation is pending. Concept specifications explain what to teach and what evidence to look for. Phase 3 authors the actual lessons, activities and review items from reviewed specifications.
+Phase 2A.2 step 1 defines the reusable specification for an independently teachable and assessable grammar concept. The [grammar syllabus](grammar-syllabus.md) records category coverage. The [grammar catalogue](grammar-catalogue/index.md) identifies canonical concepts across all 31 categories as Step 2 progresses. Product coverage is agreed for 164 concepts across G01–G13. Detailed specifications are planned for Step 3, and linguistic and native-speaker validation is pending. Concept specifications explain what to teach and what evidence to look for. Phase 3 authors the actual lessons, activities and review items from reviewed specifications.
 
 Give each distinct learning target one canonical concept identity. Verb and pronoun combinations are forms or examples within a concept. When another category needs the same concept, link to it. Specify a separate extension only if it adds its own teachable and assessable outcome, and link back to the canonical concept. Use [Present habitual](concepts/present-habitual.md) as the worked example and the [curriculum roadmap](curriculum-roadmap.md) for the review sequence.
 
@@ -35,7 +35,7 @@ Complete all 15 sections. Use **N/A** with a reason where a field genuinely does
 
 ## Family honorifics across conjugations
 
-For every conjugation and related construction, check whether a family honorific equivalent such as the *hoisinchha/aisyo* forms applies. Cover habitual, progressive, past, future and perfect constructions, as well as negation, questions, imperatives and modality. [G25](grammar-syllabus.md#g25) supplies the social-register explanation. Each applicable specification carries its own forms, usage and evidence requirements.
+For every conjugation and related construction, check whether a family honorific equivalent such as the *hoisinchha/aisyo* forms applies. Cover habitual, progressive, past, future and perfect constructions, as well as negation, questions, imperatives, modality and compound verbs. Use the [proposed Step 3 family honorific research matrix](grammar-catalogue/verbs-and-conjugation.md#step-3-family-honorific-research-matrix) when specifying applicable constructions. [G25](grammar-syllabus.md#g25) supplies the social-register explanation. Each applicable specification carries its own forms, usage and evidence requirements.
 
 | Illustrative context | Devanagari | Romanisation | English |
 | --- | --- | --- | --- |
