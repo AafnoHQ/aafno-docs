@@ -14,12 +14,12 @@ The project contributor supplied *Nepali Highest Honorific (Ati Uchcha Aadar) Co
 
 The contributor separately reported these forms from family usage: **hoisinchha, gaisinchha, basisyo, khaisyo, gaisyo, aisyo**. These are working Romanisations as reported for this project. The family report attests usage in that setting. The guide separately proposes broader forms and rules. Shared or similar spellings across the two sources do not establish agreement, productivity or distribution. The reported association with Bahun and Chhetri families is neither universal within those communities nor exclusive to them.
 
-**Highest honorific (Ati Uchcha Aadar)** replaces the provisional label *Family high honorific*. Record family use as contextual metadata with the relationship, setting and speech community where documented. The [reconciliation records](grammar-catalogue/reconciliation.md) preserve the original catalogue names, outcomes and IDs. The active targets distinguish conjugation and agreement, imperative formationion, social selection and family-specific variation. Full and contracted forms are proposed variants within one register.
+**Highest honorific (Ati Uchcha Aadar)** replaces the provisional label *Family high honorific*. Record family use as contextual metadata with the relationship, setting and speech community where documented. The [reconciliation records](grammar-catalogue/reconciliation.md) preserve the original catalogue names, outcomes and IDs. The active targets distinguish conjugation and agreement, imperative formation, social selection and family-specific variation. Full and contracted forms are proposed variants within one register.
 
 | Catalogue location | Coverage under the updated terminology |
 | --- | --- |
 | [G07](grammar-catalogue/verbs-and-conjugation.md#g07), [G08-005](grammar-catalogue/verbs-and-conjugation.md#g08) | Stems, conjugation and agreement, including prior family-register coverage |
-| [G09](grammar-catalogue/verbs-and-conjugation.md#g09), [G12-004](grammar-catalogue/verbs-and-conjugation.md#g12), [G16](grammar-catalogue/relationships-and-transformations.md#g16) | Tense and aspect, imperative formationion and negation |
+| [G09](grammar-catalogue/verbs-and-conjugation.md#g09), [G12-004](grammar-catalogue/verbs-and-conjugation.md#g12), [G16](grammar-catalogue/relationships-and-transformations.md#g16) | Tense and aspect, imperative formation and negation |
 | [G25-005](grammar-catalogue/honorifics-naturalness-and-advanced-language.md#g25), [G28](grammar-catalogue/honorifics-naturalness-and-advanced-language.md#g28), [G31-007](grammar-catalogue/honorifics-naturalness-and-advanced-language.md#g31) | Social selection, morphology and contextual family variation |
 
 ## Formation and agreement claims to investigate

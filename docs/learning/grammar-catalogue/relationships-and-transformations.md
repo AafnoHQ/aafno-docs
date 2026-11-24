@@ -132,7 +132,7 @@ Coverage · [G16 in the grammar syllabus](../grammar-syllabus.md#g16) · 19 plan
 | G16-015 | Obligation negation | Express absence of obligation and distinguish it from both obligation and prohibition. | Planned |
 | G16-016 | Permission negation | Express lack of permission and prohibition. Distinguish these from inability and absence of obligation. | Planned |
 | G16-017 | Negative indefinite constructions | Express nobody, nothing and related negative meanings. | Planned |
-| G16-018 | Negative frequency, quantity and degree | Rename to reflect all three dimensions. | Planned |
+| G16-018 | Negative frequency, quantity and degree | Express and interpret negative frequency, quantity and degree, distinguishing meanings such as never, none and not at all. | Planned |
 | G16-019 | Negative scope | Understand which part of a sentence or proposition is being negated. | Planned |
 | G16-020 | Contrastive negation | Reject one interpretation or alternative while establishing another. | Planned |
 | G16-021 | Negative concord | Understand constructions in which multiple elements contribute to a single negative meaning. | Planned |

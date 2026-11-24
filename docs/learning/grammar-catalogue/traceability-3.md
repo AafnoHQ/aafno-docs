@@ -997,21 +997,11 @@ Preserve both original outcomes through the mapping.
 
 **Reconciled name** · Negative frequency, quantity and degree
 
-**Reconciled learning outcome** · Rename to reflect all three dimensions.
+**Reconciled learning outcome** · Express and interpret negative frequency, quantity and degree, distinguishing meanings such as never, none and not at all.
 
 **Approved assessment boundary**
 
-Rename to reflect all three dimensions.
-
-Revised learning target:
-
-Express and interpret negative frequency, quantity and degree, distinguishing meanings such as never, none and not at all.
-
-Maintain separate evidence dimensions within the existing concept.
-
-Do not create three separate IDs.
-
-Cross-reference negative indefinites, negation scope, negative concord and relevant particle functions.
+Assess negative frequency, quantity and degree as separate evidence dimensions under the existing concept ID G16-018. Cross-reference negative indefinites [G16-017](relationships-and-transformations.md#g16), negation scope [G16-019](relationships-and-transformations.md#g16), negative concord [G16-021](relationships-and-transformations.md#g16) and relevant particle functions [G26-005](honorifics-naturalness-and-advanced-language.md#g26).
 
 [Original baseline row](https://github.com/AafnoHQ/aafno-docs/blob/3a103ce954fade63cbd8e0997485eb52309fae2d/docs/learning/grammar-catalogue/relationships-and-transformations.md#L135)
 
