@@ -31,16 +31,16 @@ Register and variation run through every stage. Document how everyday, respectfu
 | Step | Deliverable | Status |
 | --- | --- | --- |
 | 2A.1 | [Master Nepali grammar inventory](grammar-syllabus.md) | Product scope approved. Linguistic and native-speaker validation pending. |
-| 2A.2 | Concept specification and teaching depth | Step 1 reviewed and merged. Step 2 underway with G01–G06 product coverage agreed. Steps 3–4 planned. |
+| 2A.2 | Concept specification and teaching depth | Step 1 reviewed and merged. Step 2 catalogue coverage documented for all 31 categories. Full catalogue reconciliation next. Steps 3–4 planned. |
 | 2A.3 | Provisional A1–C2 grammar progression | Planned. Map when forms are introduced, developed and demonstrated. |
 | 2A.4 | Grammar prerequisites and dependencies | Planned. Identify the grammar knowledge and evidence that later concepts depend on. |
 
 #### Phase 2A.2 — Concept specification and teaching depth {#phase-2a2-concept-specification-and-teaching-depth}
 
 1. **Document the specification template, teaching depth and one worked example.** The [grammar concept framework](grammar-concept-framework.md), [teaching depth guide](grammar-teaching-depth.md) and [present habitual example](concepts/present-habitual.md) were reviewed and merged. The linguistic examples remain drafts.
-2. **Create the master concept catalogue collaboratively.** The [grammar catalogue](grammar-catalogue/index.md) records 379 agreed concepts across [G01–G06](grammar-catalogue/grammar-foundations.md), [G07–G13](grammar-catalogue/verbs-and-conjugation.md), [G14–G18](grammar-catalogue/relationships-and-transformations.md) and [G19–G24](grammar-catalogue/connecting-ideas.md), covering 24 of 31 categories (77.4%). Linguistic and native-speaker validation is pending. G25–G31 are next, with 7 categories remaining. Reconcile overlaps across all 31 categories to one canonical entry per concept, with links from related categories. Concept IDs remain provisional until reconciliation.
+2. **Create and then reconcile the master concept catalogue.** The [grammar catalogue](grammar-catalogue/index.md) documents 527 provisional coverage targets across 31 of 31 categories. [Highest honorific (Ati Uchcha Aadar)](highest-honorific.md) records the cross-cutting research requirements. Next, reconcile overlaps and settle canonical ownership across the full catalogue before detailed specifications. IDs are provisional. Linguistic and native-speaker validation remains pending.
 3. **Write detailed concept specifications in five batches.** Work through G01–G06, G07–G13, G14–G18, G19–G24 and G25–G31.
-4. **Review the full set.** Check coverage, consistency, teaching depth, [family honorific coverage](grammar-concept-framework.md#family-honorifics-across-conjugations), reference integration and [Content QA](content-qa.md).
+4. **Review the full set.** Check coverage, consistency, teaching depth, [Highest honorific (Ati Uchcha Aadar)](highest-honorific.md), reference integration and [Content QA](content-qa.md).
 
 Phase 2A.3 progression and Phase 2A.4 dependency mapping follow this work.
 

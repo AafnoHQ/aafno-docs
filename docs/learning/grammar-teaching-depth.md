@@ -34,3 +34,7 @@ Use multiple-choice evidence for recognition or comprehension where suitable. Ma
 ## Diagnostic dimensions
 
 Assess meaning, basic conjugation, honorific agreement, negation, independent sentence construction and flexible use separately. For example, someone may recognise a habitual sentence and use a familiar first-person form while still needing support with respectful agreement or register switching. A diagnostic can then target the specific missing evidence. Any mock scores used to illustrate an interface or example are fictional and carry no placement or mastery decision.
+
+## Highest honorific across teaching depths
+
+Use reviewed [Highest honorific (Ati Uchcha Aadar)](highest-honorific.md) examples with supporting native audio. Recognition focuses on interpreting the form and its social context. Guided use asks learners to select or produce a reviewed form with context and prompts. Independent application asks learners to choose and sustain contextually appropriate forms in unfamiliar exchanges. Accept validated full or contracted variants when the prompt context permits them and the response demonstrates the target.

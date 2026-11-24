@@ -12,9 +12,9 @@ Phase 2A.1 records the agreed scope of Aafno’s master Nepali grammar inventory
 
 G01–G31 are stable category IDs across five groupings. Learners can encounter a concept in several pathways and at several depths. The IDs organise coverage, with sequencing, prerequisites and integrated MVP selection scheduled in the [curriculum roadmap](curriculum-roadmap.md). Overlapping entries point to one canonical concept identity. The links below are coverage relationships. Individual concept specifications belong to Phase 2A.2 Step 3.
 
-Phase 2A.1 product scope is approved and linguistic validation is pending. Phase 2A.2 step 1 defines the [concept framework](grammar-concept-framework.md) and [teaching depth](grammar-teaching-depth.md), with a [present habitual worked example](concepts/present-habitual.md). The Step 2 [grammar catalogue](grammar-catalogue/index.md) records agreed product coverage for [58 concepts in G01–G06](grammar-catalogue/grammar-foundations.md), [106 concepts in G07–G13](grammar-catalogue/verbs-and-conjugation.md), [101 concepts in G14–G18](grammar-catalogue/relationships-and-transformations.md) and [114 concepts in G19–G24](grammar-catalogue/connecting-ideas.md). This totals 379 agreed concepts across 24 of 31 categories (77.4% category coverage). G25–G31 are next, with 7 categories remaining. Concept IDs remain provisional until full catalogue reconciliation, and linguistic and native-speaker validation is pending.
+Phase 2A.1 product scope is approved and linguistic validation is pending. Phase 2A.2 Step 1 defines the [concept framework](grammar-concept-framework.md) and [teaching depth](grammar-teaching-depth.md), with a [present habitual worked example](concepts/present-habitual.md). The Step 2 [grammar catalogue](grammar-catalogue/index.md) documents 527 provisional coverage targets across 31 of 31 categories, including the [final 148 in G25–G31](grammar-catalogue/honorifics-naturalness-and-advanced-language.md). Full catalogue reconciliation precedes detailed specifications. IDs and linguistic claims remain provisional.
 
-Apply the [family honorific requirement](grammar-concept-framework.md#family-honorifics-across-conjugations) to every applicable conjugation, including habitual, progressive, past, future, perfect, negation, questions, imperatives, modality and compound verbs. Document reviewed family forms, contextual usage, validated native audio and accepted assessment variants. Record a research gap wherever an equivalent is unknown or unvalidated. [G25](#g25) explains register choice across the syllabus.
+[Highest honorific (Ati Uchcha Aadar)](highest-honorific.md) replaces the provisional family high-honorific label. Family usage is a context for the register. Investigate every applicable verb and construction across tense and aspect, negation, questions, imperatives, modality, compounds, complex sentences and evidentiality. Apply the [framework requirements](grammar-concept-framework.md#highest-honorific-across-conjugations) for variants, assessment and native audio.
 
 ## Part 1 — Grammar foundations
 
@@ -210,7 +210,7 @@ Illustrative present habitual conjugation
 | हामी | गर्छौँ | Garchhaũ |
 | उनीहरू | गर्छन् | Garchhan |
 
-Eventually, Aafno could have an interactive conjugation reference where learners select a verb, pronoun, construction and honorific level. That would be a particularly useful learning tool. The [reference requirements](../product/language-reference.md#verb-conjugation-reference) include selectable family register. Family equivalents for the draft habitual table above are a [research gap](concepts/present-habitual.md#present-habitual-agreement).
+Eventually, Aafno could have an interactive conjugation reference where learners select a verb, pronoun, construction and honorific level. That would be a particularly useful learning tool. The [reference requirements](../product/language-reference.md#verb-conjugation-reference) include selectable highest-honorific register. Family equivalents for the draft habitual table above are a [research gap](concepts/present-habitual.md#present-habitual-agreement).
 
 ### G09. Tense and aspect — काल र पक्ष {#g09}
 
@@ -627,7 +627,7 @@ Teach the full grammatical system of honorifics, including how speakers address 
 | Family relationships | Parents, grandparents, relatives |
 | Age and familiarity | Choosing socially appropriate forms |
 | Professional register | Workplace and formal interactions |
-| Family-specific conjugations | Forms such as आइस्यो and होइसिन्छ |
+| Highest-honorific variants in family speech | Reported forms such as आइस्यो and होइसिन्छ |
 | Regional and community variation | Differences in actual usage |
 | Register switching | Adapting speech to different people |
 | Pragmatic meaning | How respect, affection and distance are communicated |
@@ -636,11 +636,11 @@ Teach the full grammatical system of honorifics, including how speakers address 
 | Context | Nepali | Romanisation | English |
 | --- | --- | --- | --- |
 | Standard respectful | तपाईं सन्चै हुनुहुन्छ? | Tapaai sanchai hunnuhunchha? | Are you well? |
-| Family usage variant | हजुर सन्चै होइसिन्छ? | Hajur sanchai hoisinchha? | Are you well? |
+| Highest honorific (reported family usage) | हजुर सन्चै होइसिन्छ? | Hajur sanchai hoisinchha? | Are you well? |
 
 Validate the spelling, conjugation patterns, usage and distribution of both examples. Family forms may vary within a community. Explain the social context in which each form is used and evaluate it in that context. In request practice, compare how agreement and softening change the force of a request. Link pronouns in [G02](#g02), agreement in [G08](#g08), requests in [G12](#g12), negation in [G16](#g16), questions in [G17](#g17) and variation in [G31](#g31).
 
-Apply the [family honorific requirement](grammar-concept-framework.md#family-honorifics-across-conjugations) whenever another category teaches or assesses a conjugation.
+Apply the [highest-honorific requirement](grammar-concept-framework.md#highest-honorific-across-conjugations) whenever another category teaches or assesses a conjugation.
 
 ### G26. Particles and discourse markers {#g26}
 

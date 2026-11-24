@@ -46,7 +46,7 @@ These draft tables illustrate person, gender, number and honorific agreement. Re
 | हामी / Haami | गर्छौँ / garchhaũ | गर्दैनौँ / gardainaũ |
 | उनीहरू / Uniharu | गर्छन् / garchhan | गर्दैनन् / gardainan |
 
-**Family register research gap.** Determine which affirmative and negative habitual equivalents are attested for गर्नु and in which contexts.
+**Highest-honorific research gap.** Determine which affirmative and negative habitual equivalents are attested for गर्नु and in which contexts.
 
 ### खेल्नु / Khelnu / To play
 
@@ -63,7 +63,7 @@ These draft tables illustrate person, gender, number and honorific agreement. Re
 | हामी / Haami | खेल्छौँ / khelchhaũ | खेल्दैनौँ / kheldainaũ |
 | उनीहरू / Uniharu | खेल्छन् / khelchhan | खेल्दैनन् / kheldainan |
 
-**Family register research gap.** Determine which affirmative and negative habitual equivalents are attested for खेल्नु and in which contexts.
+**Highest-honorific research gap.** Determine which affirmative and negative habitual equivalents are attested for खेल्नु and in which contexts.
 
 ### जानु / Jaanu / To go
 
@@ -80,11 +80,11 @@ These draft tables illustrate person, gender, number and honorific agreement. Re
 | हामी / Haami | जान्छौँ / jaanchhaũ | जाँदैनौँ / jãdainaũ |
 | उनीहरू / Uniharu | जान्छन् / jaanchhan | जाँदैनन् / jãdainan |
 
-**Family register research gap.** Determine which affirmative and negative habitual equivalents are attested for जानु and in which contexts.
+**Highest-honorific research gap.** Determine which affirmative and negative habitual equivalents are attested for जानु and in which contexts.
 
 Giving priority to the negative rows, check whether the supplied short forms **जान्नँ** and **जान्न** work for the intended habitual readings and how context distinguishes them from forms of **जान्नु**. Check the nasalisation and acceptability of the supplied first-person versus feminine negatives across all three verbs, the nasalised stem and Romanisation of **जाँदैन-**, the gloss and agreement for singular **उनी**, and the draft transcription of nasalised pronouns. Preserve the supplied contrasts here for reviewer adjudication.
 
-Review the examples and gaps with [native speakers who use the family register](../grammar-concept-framework.md#family-honorifics-across-conjugations). Leave the missing forms unspecified until validated.
+Use the [highest-honorific research reference](../highest-honorific.md) to compare the guide’s proposed formation and agreement with attested contextual usage. Validate affirmative and negative habitual forms, spellings, full and contracted variants, and native audio. Record the outstanding gaps per verb and context, and leave unverified forms unspecified.
 
 ## 6. Examples
 
@@ -155,7 +155,7 @@ Use the learner’s intended meaning and the stated relationship to diagnose the
 | A | हरेक शनिबार खेल्छौ? | Harek Shanibaar khelchhau? | Do you play every Saturday? |
 | B | हो, प्रायः हरेक शनिबार खेल्छु। | Ho, praaya harek Shanibaar khelchhu. | Yes, I play almost every Saturday. |
 
-The exchange illustrates familiar address and how speakers can leave out **म** and **तिमी** after the participants are clear from turns and verb agreement. Check the naturalness and exact reading of the frequency expression during review. A respectful or family-register version needs its own validated context and forms.
+The exchange illustrates familiar address and how speakers can leave out **म** and **तिमी** after the participants are clear from turns and verb agreement. Check the naturalness and exact reading of the frequency expression during review. A respectful or highest-honorific version needs its own validated context and forms.
 
 ## 10. Prerequisites
 
@@ -175,7 +175,7 @@ These describe specific knowledge needs for tasks rather than hard category depe
 | Introduction | Hear or read म काम गर्छु (*Ma kaam garchhu*, I work) in context and recognise the routine meaning. |
 | Guided application | Choose a verb ending for a familiar subject and verb with a cue or model. |
 | Independent application | Describe an original routine and ask about someone else’s routine without a supplied sentence frame. |
-| Flexible application | Transfer to unfamiliar regular verbs and settings, switch register appropriately and choose among habitual, progressive and perfect meanings. Use validated family forms in contexts where they apply. |
+| Flexible application | Transfer to unfamiliar regular verbs and settings, switch register appropriately and choose among habitual, progressive and perfect meanings. Use validated highest-honorific forms in contexts where they apply. |
 
 ## 12. Activity types
 
@@ -191,13 +191,13 @@ Use listening for meaning, construction recognition, gap fill, conjugation, sent
 
 ## 13. Mastery evidence
 
-Ask the learner to describe a typical Saturday morning and afternoon, something they don’t do on Saturdays and a family member’s routine. Use a follow-up question to observe an unscripted response and let the learner ask a question in return. Assess habitual meaning, agreement, polarity, sentence construction and suitability of register to the named context. Accept reviewed alternatives, including family variants where suitable. Avoid penalising unrelated errors or requiring untaught vocabulary.
+Ask the learner to describe a typical Saturday morning and afternoon, something they don’t do on Saturdays and a family member’s routine. Use a follow-up question to observe an unscripted response and let the learner ask a question in return. Assess habitual meaning, agreement, polarity, sentence construction and suitability of register to the named context. Accept reviewed alternatives, including validated highest-honorific variants where suitable. Avoid penalising unrelated errors or requiring untaught vocabulary.
 
 Record recognition and comprehension of routines, guided conjugation, independent production, transfer to unfamiliar contexts and verbs, interaction, and retention on a later occasion. Review how much scaffolding was given and whether the evidence was receptive or productive. See [Grammar teaching depth](../grammar-teaching-depth.md) for diagnostic dimensions and Phase 4 assessment boundaries.
 
 ## 14. Reference integration
 
-The Grammar Library links the explanation and contrasts to reviewed verb forms, dictionary senses and contextual example assets. The Verb Conjugation Reference can show subject, agreement, polarity and register choices, including selectable family register, with validated examples and native audio where applicable. The dictionary can lead from a lemma or inflected form to the same approved content. Reuse approved versions in lessons, flashcards and eventual approved AI role-play. Reference lookup or saving can record exposure.
+The Grammar Library links the explanation and contrasts to reviewed verb forms, dictionary senses and contextual example assets. The Verb Conjugation Reference can show subject, agreement, polarity and register choices, including a selectable highest-honorific register with distinct full and contracted variants, with validated examples and native audio where applicable. The dictionary can lead from a lemma or inflected form to the same approved content. Reuse approved versions in lessons, flashcards and eventual approved AI role-play. Reference lookup or saving can record exposure.
 
 Show Romanisation by default with an independent display toggle. Lookup still supports all approved input formats regardless of the display setting. See [Language reference](../../product/language-reference.md).
 
@@ -206,7 +206,7 @@ Show Romanisation by default with an independent display toggle. Lookup still su
 **Version and status.** Initial documentation draft for review. The supplied examples and paradigms have no recorded linguistic approval, verified external sources, cleared recording rights or approved audio. Accepted variants remain pending. Record reviewer decisions and versioned corrections under [Content QA](../content-qa.md).
 
 - Review classification, terminology, meanings and contextual contrasts.
-- Check formation and all agreement and polarity forms, including the flagged rows and the three family-register research gaps.
-- Check Devanagari spelling, Romanisation, English glosses, conversation naturalness, register and variation with native speakers, including speakers who actually use family forms.
+- Check formation and all agreement and polarity forms, including the flagged rows and the three highest-honorific research gaps.
+- Check Devanagari spelling, Romanisation, English glosses, conversation naturalness, register and variation with native speakers, including speakers who naturally use the register.
 - Validate accepted alternatives, assessment context and explanatory feedback.
 - Confirm source and reuse rights, and validate audio, pronunciation and transcript alignment before release. Publish only approved learner-facing versions.
