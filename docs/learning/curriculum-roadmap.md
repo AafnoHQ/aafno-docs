@@ -14,17 +14,28 @@ Complete from a product design perspective, pending applicable native-speaker va
 
 ## Phase 2 — Master syllabus
 
-Phase 2 starts after review of Phase 1 and this roadmap. These are the questions each stage will cover.
+Phase 2 develops the master syllabus across the following stages.
 
 | Stage | Scope |
 | --- | --- |
-| 2A — Grammar and language | Pronouns, verbs, tense and aspect, honorifics, postpositions, modality and sentence structures. |
+| 2A — Grammar and language | Master grammar inventory, concept specification, provisional progression and grammar dependencies. |
 | 2B — Devanagari literacy | Literacy progression across recognition, decoding, reading and writing. |
 | 2C — Vocabulary | Vocabulary and lexical patterns, including their role in using the language across strands. |
 | 2D — Listening, conversation and pronunciation | Receptive and interactive skills, speech intelligibility and pronunciation development. |
-| 2E — Integrated syllabus | Map the strands to Aafno’s CEFR-inspired A1–C2 bands, identify prerequisites and select the MVP subset. |
+| 2E — Integrated syllabus | Map the strands to Aafno’s CEFR-inspired A1–C2 bands, reconcile prerequisites across strands and select the MVP subset. |
 
 Register and variation run through every stage. Document how everyday, respectful and formal speech, regional and family usage, and code-switching affect examples and accepted responses. Validate claims about Nepali forms, terminology, naturalness, usage and sequencing where applicable.
+
+### Phase 2A — Grammar and language
+
+| Step | Deliverable | Status |
+| --- | --- | --- |
+| 2A.1 | [Master Nepali grammar inventory](grammar-syllabus.md) | Scope agreed and documented for review. Linguistic and native-speaker validation and reconciliation with the full conversation are pending. |
+| 2A.2 | Concept specification and teaching depth | Next, after review of 2A.1. |
+| 2A.3 | Provisional A1–C2 grammar progression | Planned. Map when forms are introduced, developed and demonstrated. |
+| 2A.4 | Grammar prerequisites and dependencies | Planned. Identify the grammar knowledge and evidence that later concepts depend on. |
+
+Integrated mapping across all strands and MVP selection remain in Phase 2E.
 
 ## Phase 3 — Lessons and activities
 

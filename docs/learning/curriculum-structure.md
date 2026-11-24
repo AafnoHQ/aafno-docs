@@ -53,6 +53,14 @@ Typical dependency rules:
 
 Shared content reduces duplication but does not erase assessment distinctions. One sentence may be reused across modalities, while completion, scaffolding, scoring, and the resulting skill update remain separate.
 
+## Language reference and curriculum
+
+The [grammar syllabus](grammar-syllabus.md) organises coverage under stable catalogue IDs. A recurring grammatical concept has one canonical identity across lessons, exercises and the [language reference tools](../product/language-reference.md), even when several catalogue categories point to it.
+
+Lexical entries and senses, verb forms, example sentences and audio can be linked to that concept and reused in the Grammar Library, Verb Conjugation Reference and Nepali Dictionary. Lessons, flashcards and later approved role-play reuse corresponding accepted versions. The same contextual example can illustrate a dictionary sense, a conjugation or a grammar explanation, then serve as a scaffold for a separate practice task.
+
+Lookup, saving and reading an explanation can record exposure. Any practice launched from a reference tool uses the activity’s evidence target and updates the relevant independent skill profile. Learner-facing material uses [Content QA](content-qa.md) and the [curriculum’s Romanisation display preference](curriculum.md#script-and-romanisation-display).
+
 ## Completion and concept mastery
 
 Exposure to a concept, completion of a lesson, and completion of an individual practice activity are useful progress records. None of them alone establishes concept mastery. They show that a learner encountered or attempted material; they do not show that the learner can use it beyond its original example or scaffold.
@@ -81,7 +89,7 @@ The [curriculum roadmap](curriculum-roadmap.md) puts master syllabus mapping and
 3. Pilot placement tasks against the concept prerequisites and revise the maps where learners take unexpected routes.
 4. Expand by concept family and proficiency band, keeping the same review record and dependency model.
 
-Do not expand a topic catalogue or detailed tense/aspect list until native-speaker reviewers approve the concepts, terminology, examples, and sequencing. English tense labels may be useful learner-facing signposts, but they must not be used to force Nepali structures into an unsupported one-to-one scheme.
+The draft grammar inventory records intended coverage. Learner-facing concepts, terminology, examples and sequencing require review before publication. English tense labels may be useful learner-facing signposts, but they must not be used to force Nepali structures into an unsupported one-to-one scheme.
 
 ## Decisions and validation needs
 

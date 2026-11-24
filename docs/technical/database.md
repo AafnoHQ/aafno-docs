@@ -34,6 +34,16 @@ The teaching material, separated from any one learner.
 
 Draft AI output, if it is stored at all, is stored as draft content. It is not linked as a unit a learner can open.
 
+## Shared language reference content
+
+The [language reference tools](../product/language-reference.md) need conceptual links among the same accepted content versions used by curriculum and practice.
+
+- A lexical entry can have multiple senses, forms and search aliases. A sense can link to translations, contextual examples, related senses and usage notes.
+- An inflected verb form can link to its lemma and the grammar concepts that explain the construction, with relevant agreement, polarity, tense/aspect and register context.
+- A grammar concept can link to multiple forms and examples. A shared example can illustrate several concepts or senses, with pronunciation or example audio attached where reviewed.
+- A saved word or personal flashcard can reference an entry, sense, form or approved example. Learner ownership and practice evidence are recorded separately from the shared language content.
+- Reused content carries its source, rights, version and review decision under [Content QA](../learning/content-qa.md).
+
 ## Progress
 
 What this learner has done with that content.

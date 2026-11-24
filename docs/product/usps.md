@@ -6,7 +6,7 @@ nav_order: 3
 
 # What sets Aafno apart
 
-Most language apps optimise for time-in-app: short drills, recognition tasks, and a streak. Aafno optimises for use. Six differences follow from that. They are product requirements, not slogans.
+Most language apps optimise for time-in-app: short drills, recognition tasks, and a streak. Aafno optimises for use. The following differences shape the product. They are product requirements, not slogans.
 
 ## Structured grammar
 
@@ -31,6 +31,10 @@ The three audiences in [Audience](audience.md) do not start at the same lesson. 
 ## Native-speaker-validated content
 
 Anything that teaches Nepali — explanations, example sentences, audio, corrections — is validated by native speakers before it is curriculum. Model output, community submissions, and draft lessons can feed the pipeline. They are not the curriculum until that review has happened. The rule is restated in [AI integration](../technical/ai-integration.md).
+
+## Connected language reference
+
+The [Grammar Library, Verb Conjugation Reference and Nepali Dictionary](language-reference.md) let learners move from a word to its forms, the explanation behind a construction and targeted practice. They share the reviewed content used in lessons and give learners a way to look up what they need during everyday use. These tools are part of the long-term product direction.
 
 ## What this excludes
 

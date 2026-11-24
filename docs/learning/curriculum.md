@@ -6,7 +6,7 @@ nav_order: 2
 
 # Curriculum
 
-This is Aafno's curriculum architecture: the shared system behind a learner's personalised path. It is not a lesson catalogue or detailed grammar syllabus. The [curriculum roadmap](curriculum-roadmap.md) sets out when those are developed. They are written from reviewed concepts and become learner-facing only after the review process in [Content QA](content-qa.md).
+This is Aafno's curriculum architecture: the shared system behind a learner's personalised path. It is not a lesson catalogue or detailed grammar syllabus. The [grammar syllabus](grammar-syllabus.md) records the master inventory, and the [curriculum roadmap](curriculum-roadmap.md) sets out how it develops into reviewed concepts and lessons. They are written from reviewed concepts and become learner-facing only after the review process in [Content QA](content-qa.md).
 
 The curriculum teaches broadly useful Standard Nepali while making register, conversational usage, regional usage, family expressions, and code-switching visible where they affect what a learner should say. A labelled variation is not an error merely because it differs from a formal or textbook form.
 
@@ -74,6 +74,7 @@ These are entry profiles, not permanent tracks. A learner may combine them, add 
 | --- | --- |
 | Placement | Collect enough evidence to recommend separate skill starting bands. |
 | Lessons and exercises | Deliver the unit contract: outcome, prerequisites, target forms, marking rule, and QA state. |
+| [Language reference](../product/language-reference.md) | Reuse accepted grammar concepts, lexical senses, forms, examples and audio for lookup and linked practice. |
 | Flashcards and review | Retrieve validated vocabulary, forms, and sentence patterns by weakness and topic; never replace productive practice. |
 | Role play | Recombine already approved forms in bounded situations; later AI use remains subject to [AI integration](../technical/ai-integration.md). |
 | Listening/audio | Use approved text, audio, transcript, and meaning checks. |

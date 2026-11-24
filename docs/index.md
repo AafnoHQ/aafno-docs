@@ -20,6 +20,7 @@ Aafno (आफ्नो) is a Nepali language-learning platform. It helps people 
 - [Vision](product/vision.md) — the outcome Aafno exists to produce.
 - [Audience](product/audience.md) — second-generation speakers, oral speakers learning literacy, and complete beginners.
 - [What sets Aafno apart](product/usps.md) — grammar, sentence construction, conversation, listening, personalisation, and native-speaker validation.
+- [Language reference](product/language-reference.md) — Grammar Library, Verb Conjugation Reference and Nepali Dictionary.
 
 ## Learning
 
@@ -27,6 +28,7 @@ Aafno (आफ्नो) is a Nepali language-learning platform. It helps people 
 - [Curriculum](learning/curriculum.md) — skill strands and how the three audiences move through them.
 - [Proficiency framework](learning/proficiency-framework.md) — CEFR-inspired skill descriptors and the assessment principles that will support them.
 - [Curriculum structure](learning/curriculum-structure.md) — reusable concepts, dependencies, and flexible routes through the curriculum.
+- [Grammar syllabus](learning/grammar-syllabus.md) — the Phase 2A.1 master grammar inventory.
 
 ## Technical
 
