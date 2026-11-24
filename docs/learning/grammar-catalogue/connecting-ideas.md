@@ -17,24 +17,24 @@ The examples illustrate how learners can connect ideas, explain decisions, descr
 
 Coverage · [G19 in the grammar syllabus](../grammar-syllabus.md#g19)
 
-| ID | Concept | Learning target |
-| --- | --- | --- |
-| G19-001 | Additive conjunctions | Connect related ideas using constructions such as र and अनि. |
-| G19-002 | Alternative conjunctions | Present alternatives using वा, अथवा and related forms. |
-| G19-003 | Contrastive conjunctions | Connect contrasting ideas using forms such as तर. |
-| G19-004 | Causal connectors | Introduce reasons and explanations using forms such as किनभने. |
-| G19-005 | Consequence connectors | Express consequences using forms such as त्यसैले. |
-| G19-006 | Sequential connectors | Connect events in chronological order. |
-| G19-007 | Concessive connectors | Express outcomes despite contrasting circumstances using forms such as तैपनि. |
-| G19-008 | Conditional connectors | Introduce conditions using forms such as यदि. |
-| G19-009 | Purpose connectors | Introduce the intended purpose of an action using appropriate connectors. |
-| G19-010 | Explanatory connectors | Clarify or restate information using forms such as अर्थात्. |
-| G19-011 | Exemplification connectors | Introduce examples using forms such as जस्तै. |
-| G19-012 | Summarising and concluding connectors | Summarise ideas and introduce conclusions. |
-| G19-013 | Topic transition connectors | Move between related or new topics coherently. |
-| G19-014 | Paired conjunctions | Construct relationships using coordinated pairs of connectors. |
-| G19-015 | Connector placement and omission | Understand where connectors appear and when relationships can be expressed without them. |
-| G19-016 | Connector selection | Select appropriate connectors according to the logical relationship between ideas. |
+| ID | Concept | Learning target | Specification status |
+| --- | --- | --- | --- |
+| G19-001 | Additive conjunctions | Connect related ideas using constructions such as र and अनि. | Planned |
+| G19-002 | Alternative conjunctions | Present alternatives using वा, अथवा and related forms. | Planned |
+| G19-003 | Contrastive conjunctions | Connect contrasting ideas using forms such as तर. | Planned |
+| G19-004 | Causal connectors | Introduce reasons and explanations using forms such as किनभने. | Planned |
+| G19-005 | Consequence connectors | Express consequences using forms such as त्यसैले. | Planned |
+| G19-006 | Sequential connectors | Connect events in chronological order. | Planned |
+| G19-007 | Concessive connectors | Express outcomes despite contrasting circumstances using forms such as तैपनि. | Planned |
+| G19-008 | Conditional connectors | Introduce conditions using forms such as यदि. | Planned |
+| G19-009 | Purpose connectors | Introduce the intended purpose of an action using appropriate connectors. | Planned |
+| G19-010 | Explanatory connectors | Clarify or restate information using forms such as अर्थात्. | Planned |
+| G19-011 | Exemplification connectors | Introduce examples using forms such as जस्तै. | Planned |
+| G19-012 | Summarising and concluding connectors | Summarise ideas and introduce conclusions. | Planned |
+| G19-013 | Topic transition connectors | Move between related or new topics coherently. | Planned |
+| G19-014 | Paired conjunctions | Construct relationships using coordinated pairs of connectors. | Planned |
+| G19-015 | Connector placement and omission | Understand where connectors appear and when relationships can be expressed without them. | Planned |
+| G19-016 | Connector selection | Select appropriate connectors according to the logical relationship between ideas. | Planned |
 
 **Total:** 16 concepts.
 
@@ -75,28 +75,28 @@ The English glosses depend on context.
 
 Coverage · [G20 in the grammar syllabus](../grammar-syllabus.md#g20)
 
-| ID | Concept | Learning target |
-| --- | --- | --- |
-| G20-001 | Non-finite construction foundations | Understand how dependent verb forms combine with other grammatical constructions. |
-| G20-002 | Infinitival complements | Use infinitives as complements of other verbs and constructions. |
-| G20-003 | Purpose infinitives — गर्न | Express the purpose of an action using infinitival constructions. |
-| G20-004 | Sequential participles — गरेर | Connect actions occurring in sequence or as part of a related event. |
-| G20-005 | Manner and means participles | Express how an action is performed using dependent verb forms. |
-| G20-006 | Simultaneous participles — गर्दै | Express actions occurring alongside another action. |
-| G20-007 | Continuing simultaneous actions — गर्दागर्दै | Express events occurring during an ongoing activity. |
-| G20-008 | Completed-action participles — गरेको | Express completed or prior actions through participial forms. |
-| G20-009 | Habitual and prospective participles — गर्ने | Express habitual, characteristic or prospective actions through participial forms. |
-| G20-010 | Conditional non-finite forms — गरे | Construct dependent verb forms used to express conditions. |
-| G20-011 | Negative sequential forms — नगरी | Express an action occurring without another action taking place. |
-| G20-012 | Negative participial forms | Construct and interpret negated participial expressions. |
-| G20-013 | Participial noun modification | Use participial constructions to describe or identify nouns. |
-| G20-014 | Verbal nominalisation | Use actions and processes as noun-like grammatical elements. |
-| G20-015 | Participial agreement | Apply relevant gender, number and other agreement patterns to participial forms. |
-| G20-016 | Subject relationships in non-finite constructions | Identify who performs each action within a dependent verb construction. |
-| G20-017 | Temporal relationships in non-finite constructions | Interpret whether dependent actions precede, accompany or follow other events. |
-| G20-018 | Multiple non-finite constructions | Combine several dependent actions within a coherent sentence. |
-| G20-019 | Finite and non-finite construction selection | Choose between independent clauses and dependent verb forms. |
-| G20-020 | Non-finite sentence transformation | Combine or restructure sentences using appropriate non-finite constructions. |
+| ID | Concept | Learning target | Specification status |
+| --- | --- | --- | --- |
+| G20-001 | Non-finite construction foundations | Understand how dependent verb forms combine with other grammatical constructions. | Planned |
+| G20-002 | Infinitival complements | Use infinitives as complements of other verbs and constructions. | Planned |
+| G20-003 | Purpose infinitives — गर्न | Express the purpose of an action using infinitival constructions. | Planned |
+| G20-004 | Sequential participles — गरेर | Connect actions occurring in sequence or as part of a related event. | Planned |
+| G20-005 | Manner and means participles | Express how an action is performed using dependent verb forms. | Planned |
+| G20-006 | Simultaneous participles — गर्दै | Express actions occurring alongside another action. | Planned |
+| G20-007 | Continuing simultaneous actions — गर्दागर्दै | Express events occurring during an ongoing activity. | Planned |
+| G20-008 | Completed-action participles — गरेको | Express completed or prior actions through participial forms. | Planned |
+| G20-009 | Habitual and prospective participles — गर्ने | Express habitual, characteristic or prospective actions through participial forms. | Planned |
+| G20-010 | Conditional non-finite forms — गरे | Construct dependent verb forms used to express conditions. | Planned |
+| G20-011 | Negative sequential forms — नगरी | Express an action occurring without another action taking place. | Planned |
+| G20-012 | Negative participial forms | Construct and interpret negated participial expressions. | Planned |
+| G20-013 | Participial noun modification | Use participial constructions to describe or identify nouns. | Planned |
+| G20-014 | Verbal nominalisation | Use actions and processes as noun-like grammatical elements. | Planned |
+| G20-015 | Participial agreement | Apply relevant gender, number and other agreement patterns to participial forms. | Planned |
+| G20-016 | Subject relationships in non-finite constructions | Identify who performs each action within a dependent verb construction. | Planned |
+| G20-017 | Temporal relationships in non-finite constructions | Interpret whether dependent actions precede, accompany or follow other events. | Planned |
+| G20-018 | Multiple non-finite constructions | Combine several dependent actions within a coherent sentence. | Planned |
+| G20-019 | Finite and non-finite construction selection | Choose between independent clauses and dependent verb forms. | Planned |
+| G20-020 | Non-finite sentence transformation | Combine or restructure sentences using appropriate non-finite constructions. | Planned |
 
 **Total:** 20 concepts.
 
@@ -139,26 +139,26 @@ The finite खाएँ becomes the sequential participle खाएर. The sepa
 
 Coverage · [G21 in the grammar syllabus](../grammar-syllabus.md#g21)
 
-| ID | Concept | Learning target |
-| --- | --- | --- |
-| G21-001 | Conditional construction foundations | Identify the relationship between a condition and its consequence. |
-| G21-002 | Explicit conditional constructions | Construct conditions using यदि, भने and related forms. |
-| G21-003 | Inflected conditional constructions | Express conditions using dependent verb forms such as गरे and भए. |
-| G21-004 | General and habitual conditions | Express outcomes that generally occur when a condition is satisfied. |
-| G21-005 | Open present conditions | Discuss present situations whose conditions may or may not be satisfied. |
-| G21-006 | Possible future conditions | Express possible future situations and their consequences. |
-| G21-007 | Hypothetical present situations | Discuss imagined or unreal present circumstances. |
-| G21-008 | Hypothetical future situations | Discuss imagined or less certain future possibilities. |
-| G21-009 | Past counterfactual conditions | Express alternative outcomes for past events that did not occur as imagined. |
-| G21-010 | Negative conditions | Express consequences dependent on something not happening. |
-| G21-011 | Concessive conditions | Express outcomes that hold even if a condition is satisfied. |
-| G21-012 | Necessary and restrictive conditions | Express meanings such as only if and other restrictions on outcomes. |
-| G21-013 | Conditional requests and suggestions | Use conditional constructions to make requests, suggestions or offers. |
-| G21-014 | Conditional wishes and regrets | Express wishes and regrets through hypothetical relationships. |
-| G21-015 | Conditional consequence omission | Interpret conditions whose consequences are implied rather than explicitly stated. |
-| G21-016 | Multiple and nested conditions | Express outcomes dependent on several conditions. |
-| G21-017 | Conditional tense, aspect and modality | Select appropriate grammatical forms in conditions and consequences. |
-| G21-018 | Conditional construction selection | Distinguish real, possible, hypothetical and counterfactual meanings in context. |
+| ID | Concept | Learning target | Specification status |
+| --- | --- | --- | --- |
+| G21-001 | Conditional construction foundations | Identify the relationship between a condition and its consequence. | Planned |
+| G21-002 | Explicit conditional constructions | Construct conditions using यदि, भने and related forms. | Planned |
+| G21-003 | Inflected conditional constructions | Express conditions using dependent verb forms such as गरे and भए. | Planned |
+| G21-004 | General and habitual conditions | Express outcomes that generally occur when a condition is satisfied. | Planned |
+| G21-005 | Open present conditions | Discuss present situations whose conditions may or may not be satisfied. | Planned |
+| G21-006 | Possible future conditions | Express possible future situations and their consequences. | Planned |
+| G21-007 | Hypothetical present situations | Discuss imagined or unreal present circumstances. | Planned |
+| G21-008 | Hypothetical future situations | Discuss imagined or less certain future possibilities. | Planned |
+| G21-009 | Past counterfactual conditions | Express alternative outcomes for past events that did not occur as imagined. | Planned |
+| G21-010 | Negative conditions | Express consequences dependent on something not happening. | Planned |
+| G21-011 | Concessive conditions | Express outcomes that hold even if a condition is satisfied. | Planned |
+| G21-012 | Necessary and restrictive conditions | Express meanings such as only if and other restrictions on outcomes. | Planned |
+| G21-013 | Conditional requests and suggestions | Use conditional constructions to make requests, suggestions or offers. | Planned |
+| G21-014 | Conditional wishes and regrets | Express wishes and regrets through hypothetical relationships. | Planned |
+| G21-015 | Conditional consequence omission | Interpret conditions whose consequences are implied rather than explicitly stated. | Planned |
+| G21-016 | Multiple and nested conditions | Express outcomes dependent on several conditions. | Planned |
+| G21-017 | Conditional tense, aspect and modality | Select appropriate grammatical forms in conditions and consequences. | Planned |
+| G21-018 | Conditional construction selection | Distinguish real, possible, hypothetical and counterfactual meanings in context. | Planned |
 
 **Total:** 18 concepts.
 
@@ -187,30 +187,30 @@ Catalogue conditional meanings from Nepali forms and their contexts. The English
 
 Coverage · [G22 in the grammar syllabus](../grammar-syllabus.md#g22)
 
-| ID | Concept | Learning target |
-| --- | --- | --- |
-| G22-001 | Clause structure foundations | Distinguish main clauses from dependent and embedded clauses. |
-| G22-002 | Relative clause foundations | Use dependent clauses to identify or describe people, objects and situations. |
-| G22-003 | Participial relative clauses | Modify nouns using participial constructions. |
-| G22-004 | Personal relative-correlative constructions | Express relationships using patterns such as जो ... त्यो. |
-| G22-005 | Non-personal relative-correlative constructions | Identify objects and alternatives using forms such as जुन ... त्यो. |
-| G22-006 | Locative relative-correlative constructions | Connect locations using forms such as जहाँ ... त्यहाँ. |
-| G22-007 | Temporal relative-correlative constructions | Connect events using forms such as जब ... तब. |
-| G22-008 | Manner relative-correlative constructions | Express corresponding manners using forms such as जसरी ... त्यसरी. |
-| G22-009 | Quantity relative-correlative constructions | Connect quantities and degrees using forms such as जति ... त्यति. |
-| G22-010 | Restrictive and descriptive relative meanings | Distinguish identifying information from additional descriptive information. |
-| G22-011 | Temporal subordinate clauses | Express when an event occurs relative to another event. |
-| G22-012 | Causal subordinate clauses | Embed reasons and causes within complex sentences. |
-| G22-013 | Purpose subordinate clauses | Express intended purposes through dependent clauses. |
-| G22-014 | Concessive subordinate clauses | Express circumstances that contrast with an outcome. |
-| G22-015 | Conditional subordinate clauses | Embed conditions within larger sentence structures. |
-| G22-016 | Complement clauses | Express propositions functioning as complements of verbs or other constructions. |
-| G22-017 | Embedded interrogative clauses | Incorporate questions within statements and other clauses. |
-| G22-018 | Nominalised clauses | Use clauses as noun-like grammatical elements. |
-| G22-019 | Clause-level reference and agreement | Maintain appropriate reference and agreement across clauses. |
-| G22-020 | Subordinate clause placement | Position dependent clauses appropriately within larger sentences. |
-| G22-021 | Multiple and nested subordinate clauses | Construct and interpret sentences containing several dependent clauses. |
-| G22-022 | Complex sentence restructuring | Express equivalent information through different appropriate clause structures. |
+| ID | Concept | Learning target | Specification status |
+| --- | --- | --- | --- |
+| G22-001 | Clause structure foundations | Distinguish main clauses from dependent and embedded clauses. | Planned |
+| G22-002 | Relative clause foundations | Use dependent clauses to identify or describe people, objects and situations. | Planned |
+| G22-003 | Participial relative clauses | Modify nouns using participial constructions. | Planned |
+| G22-004 | Personal relative-correlative constructions | Express relationships using patterns such as जो ... त्यो. | Planned |
+| G22-005 | Non-personal relative-correlative constructions | Identify objects and alternatives using forms such as जुन ... त्यो. | Planned |
+| G22-006 | Locative relative-correlative constructions | Connect locations using forms such as जहाँ ... त्यहाँ. | Planned |
+| G22-007 | Temporal relative-correlative constructions | Connect events using forms such as जब ... तब. | Planned |
+| G22-008 | Manner relative-correlative constructions | Express corresponding manners using forms such as जसरी ... त्यसरी. | Planned |
+| G22-009 | Quantity relative-correlative constructions | Connect quantities and degrees using forms such as जति ... त्यति. | Planned |
+| G22-010 | Restrictive and descriptive relative meanings | Distinguish identifying information from additional descriptive information. | Planned |
+| G22-011 | Temporal subordinate clauses | Express when an event occurs relative to another event. | Planned |
+| G22-012 | Causal subordinate clauses | Embed reasons and causes within complex sentences. | Planned |
+| G22-013 | Purpose subordinate clauses | Express intended purposes through dependent clauses. | Planned |
+| G22-014 | Concessive subordinate clauses | Express circumstances that contrast with an outcome. | Planned |
+| G22-015 | Conditional subordinate clauses | Embed conditions within larger sentence structures. | Planned |
+| G22-016 | Complement clauses | Express propositions functioning as complements of verbs or other constructions. | Planned |
+| G22-017 | Embedded interrogative clauses | Incorporate questions within statements and other clauses. | Planned |
+| G22-018 | Nominalised clauses | Use clauses as noun-like grammatical elements. | Planned |
+| G22-019 | Clause-level reference and agreement | Maintain appropriate reference and agreement across clauses. | Planned |
+| G22-020 | Subordinate clause placement | Position dependent clauses appropriately within larger sentences. | Planned |
+| G22-021 | Multiple and nested subordinate clauses | Construct and interpret sentences containing several dependent clauses. | Planned |
+| G22-022 | Complex sentence restructuring | Express equivalent information through different appropriate clause structures. | Planned |
 
 **Total:** 22 concepts.
 
@@ -253,28 +253,28 @@ The underlying question becomes part of a larger proposition.
 
 Coverage · [G23 in the grammar syllabus](../grammar-syllabus.md#g23)
 
-| ID | Concept | Learning target |
-| --- | --- | --- |
-| G23-001 | Direct speech | Reproduce someone's words within a reporting construction. |
-| G23-002 | Indirect speech | Report the meaning of someone's words without necessarily reproducing them exactly. |
-| G23-003 | Quotative constructions — भनेर | Introduce or connect quoted and reported content using भनेर. |
-| G23-004 | Quotative and complement forms — भनी | Interpret and apply भनी and related forms in appropriate contexts. |
-| G23-005 | Reporting verb selection | Select appropriate verbs for saying, telling, asking and other communicative actions. |
-| G23-006 | Reporting statements | Report information or propositions expressed by another speaker. |
-| G23-007 | Reporting yes/no questions | Report questions seeking confirmation or rejection. |
-| G23-008 | Reporting information questions | Report questions seeking specific information. |
-| G23-009 | Reporting commands and instructions | Report instructions given by another person. |
-| G23-010 | Reporting requests and suggestions | Report requests, advice and suggestions. |
-| G23-011 | Reporting thoughts and beliefs | Express what someone thinks, believes or assumes. |
-| G23-012 | Reporting intentions and decisions | Express someone's stated or understood intentions and decisions. |
-| G23-013 | Pronoun and perspective changes | Adjust person and reference according to the reporting perspective. |
-| G23-014 | Temporal and spatial reference changes | Maintain appropriate time and location references when reporting speech. |
-| G23-015 | Honorifics in reported speech | Preserve or appropriately adapt social register and agreement across reporting contexts. |
-| G23-016 | Reported information — रे | Construct utterances that present information as reported by others. |
-| G23-017 | Reported versus directly known information | Distinguish reporting another person's information from asserting firsthand knowledge. |
-| G23-018 | Multiple levels of reported speech | Interpret and construct speech reports containing other reports. |
-| G23-019 | Direct–indirect speech transformation | Reformulate speech while preserving intended meaning and relevant perspective. |
-| G23-020 | Reporting construction selection | Select appropriate reporting constructions according to meaning, source and context. |
+| ID | Concept | Learning target | Specification status |
+| --- | --- | --- | --- |
+| G23-001 | Direct speech | Reproduce someone's words within a reporting construction. | Planned |
+| G23-002 | Indirect speech | Report the meaning of someone's words without necessarily reproducing them exactly. | Planned |
+| G23-003 | Quotative constructions — भनेर | Introduce or connect quoted and reported content using भनेर. | Planned |
+| G23-004 | Quotative and complement forms — भनी | Interpret and apply भनी and related forms in appropriate contexts. | Planned |
+| G23-005 | Reporting verb selection | Select appropriate verbs for saying, telling, asking and other communicative actions. | Planned |
+| G23-006 | Reporting statements | Report information or propositions expressed by another speaker. | Planned |
+| G23-007 | Reporting yes/no questions | Report questions seeking confirmation or rejection. | Planned |
+| G23-008 | Reporting information questions | Report questions seeking specific information. | Planned |
+| G23-009 | Reporting commands and instructions | Report instructions given by another person. | Planned |
+| G23-010 | Reporting requests and suggestions | Report requests, advice and suggestions. | Planned |
+| G23-011 | Reporting thoughts and beliefs | Express what someone thinks, believes or assumes. | Planned |
+| G23-012 | Reporting intentions and decisions | Express someone's stated or understood intentions and decisions. | Planned |
+| G23-013 | Pronoun and perspective changes | Adjust person and reference according to the reporting perspective. | Planned |
+| G23-014 | Temporal and spatial reference changes | Maintain appropriate time and location references when reporting speech. | Planned |
+| G23-015 | Honorifics in reported speech | Preserve or appropriately adapt social register and agreement across reporting contexts. | Planned |
+| G23-016 | Reported information — रे | Construct utterances that present information as reported by others. | Planned |
+| G23-017 | Reported versus directly known information | Distinguish reporting another person's information from asserting firsthand knowledge. | Planned |
+| G23-018 | Multiple levels of reported speech | Interpret and construct speech reports containing other reports. | Planned |
+| G23-019 | Direct–indirect speech transformation | Reformulate speech while preserving intended meaning and relevant perspective. | Planned |
+| G23-020 | Reporting construction selection | Select appropriate reporting constructions according to meaning, source and context. | Planned |
 
 **Total:** 20 concepts.
 
@@ -313,26 +313,26 @@ These examples illustrate an unmarked assertion, reported information with र�
 
 Coverage · [G24 in the grammar syllabus](../grammar-syllabus.md#g24)
 
-| ID | Concept | Learning target |
-| --- | --- | --- |
-| G24-001 | Voice and agency foundations | Identify grammatical participants and their relationships to an action. |
-| G24-002 | Active constructions | Express events with an agent or other appropriate subject as the grammatical focus. |
-| G24-003 | Passive constructions | Express events with the affected participant foregrounded. |
-| G24-004 | Passive agent expression | Express the agent of a passive construction where appropriate. |
-| G24-005 | Agent omission | Express actions without explicitly identifying their performer. |
-| G24-006 | Causative constructions | Express causing another person or entity to perform an action or undergo a change. |
-| G24-007 | Direct causation | Express directly bringing about an action or change of state. |
-| G24-008 | Indirect causation | Express arranging, requesting or otherwise causing an action through another participant. |
-| G24-009 | Multiple levels of causation | Interpret and express events involving more than one level of causation. |
-| G24-010 | Causative participant marking | Apply appropriate case marking to causers, causees and affected participants. |
-| G24-011 | Impersonal constructions | Express events and general situations without an ordinary explicit personal subject. |
-| G24-012 | Experiencer constructions | Express feelings, sensations and experiences through appropriate participant structures. |
-| G24-013 | Reflexive constructions | Express actions directed towards the participant performing them. |
-| G24-014 | Reciprocal constructions | Express actions performed mutually between participants. |
-| G24-015 | Volitional and non-volitional events | Distinguish intentional actions from events occurring without deliberate intention. |
-| G24-016 | Agency and responsibility | Understand how grammatical construction choices affect the expression of responsibility. |
-| G24-017 | Participant structure transformations | Restructure sentences while maintaining appropriate participant relationships. |
-| G24-018 | Voice and agency selection | Select appropriate active, passive, causative, impersonal and related constructions in context. |
+| ID | Concept | Learning target | Specification status |
+| --- | --- | --- | --- |
+| G24-001 | Voice and agency foundations | Identify grammatical participants and their relationships to an action. | Planned |
+| G24-002 | Active constructions | Express events with an agent or other appropriate subject as the grammatical focus. | Planned |
+| G24-003 | Passive constructions | Express events with the affected participant foregrounded. | Planned |
+| G24-004 | Passive agent expression | Express the agent of a passive construction where appropriate. | Planned |
+| G24-005 | Agent omission | Express actions without explicitly identifying their performer. | Planned |
+| G24-006 | Causative constructions | Express causing another person or entity to perform an action or undergo a change. | Planned |
+| G24-007 | Direct causation | Express directly bringing about an action or change of state. | Planned |
+| G24-008 | Indirect causation | Express arranging, requesting or otherwise causing an action through another participant. | Planned |
+| G24-009 | Multiple levels of causation | Interpret and express events involving more than one level of causation. | Planned |
+| G24-010 | Causative participant marking | Apply appropriate case marking to causers, causees and affected participants. | Planned |
+| G24-011 | Impersonal constructions | Express events and general situations without an ordinary explicit personal subject. | Planned |
+| G24-012 | Experiencer constructions | Express feelings, sensations and experiences through appropriate participant structures. | Planned |
+| G24-013 | Reflexive constructions | Express actions directed towards the participant performing them. | Planned |
+| G24-014 | Reciprocal constructions | Express actions performed mutually between participants. | Planned |
+| G24-015 | Volitional and non-volitional events | Distinguish intentional actions from events occurring without deliberate intention. | Planned |
+| G24-016 | Agency and responsibility | Understand how grammatical construction choices affect the expression of responsibility. | Planned |
+| G24-017 | Participant structure transformations | Restructure sentences while maintaining appropriate participant relationships. | Planned |
+| G24-018 | Voice and agency selection | Select appropriate active, passive, causative, impersonal and related constructions in context. | Planned |
 
 **Total:** 18 concepts.
 
