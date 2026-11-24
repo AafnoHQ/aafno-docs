@@ -54,7 +54,7 @@ See [Architecture](docs/technical/architecture.md) for the web and mobile respon
 | [Curriculum structure](docs/learning/curriculum-structure.md) | Reusable concepts, dependencies, and flexible learning routes |
 | [Grammar syllabus](docs/learning/grammar-syllabus.md) | Phase 2A.1 master grammar inventory |
 | [Grammar concept framework](docs/learning/grammar-concept-framework.md) | Phase 2A.2 step 1 template, [teaching depth](docs/learning/grammar-teaching-depth.md) and [present habitual worked example](docs/learning/concepts/present-habitual.md) |
-| [Grammar catalogue](docs/learning/grammar-catalogue/index.md) | Phase 2A.2 Step 2 · 164 agreed concepts across G01–G13 |
+| [Grammar catalogue](docs/learning/grammar-catalogue/index.md) | Phase 2A.2 Step 2 · 265 agreed concepts across 18 of 31 categories (58.1% category coverage) |
 | [Content QA](docs/learning/content-qa.md) | How learner-facing Nepali is reviewed and released |
 | [Architecture](docs/technical/architecture.md) | Platforms and how the pieces fit |
 | [AI integration](docs/technical/ai-integration.md) | Planned use of Tarka and Nepali models |
