@@ -16,6 +16,8 @@ Search by construction, form, or communicative need, such as how to speak respec
 
 Search by lemma or inflected form. Let learners explore forms by pronoun, person, number and gender where relevant, tense and aspect, honorific level or register, and positive or negative polarity. Identify irregular forms and show validated contextual examples. Link forms to their dictionary entries, relevant grammar explanations and practice. Explain the construction in Nepali usage terms with approximate English glosses.
 
+Include a selectable family register for every applicable conjugation, including habitual, progressive, past, future, perfect, negation, questions, imperatives and modality. Show reviewed family forms with contextual usage and validated native-speaker audio. Use the same approved variants in assessments when the prompt context supports them. Record unknown or unvalidated equivalents as research gaps and leave their forms unspecified. Native speakers who actually use these forms review usage and pronunciation. See the [family honorific requirements](../learning/grammar-concept-framework.md#family-honorifics-across-conjugations) and [Content QA](../learning/content-qa.md).
+
 ## Nepali Dictionary
 
 Support bidirectional English–Nepali lookup and searches in English, Romanised Nepali and Devanagari. Use exact matches, reviewed aliases and fuzzy matching for spelling variation and mistyped queries. A search for *ramro*, *raamro* or राम्रो can surface the same entry. An inflected lookup such as *garchhu* can lead to गर्नु and explain the matched form. Rank plausible alternatives when the spelling, form or sense is ambiguous and show what each result matched.
