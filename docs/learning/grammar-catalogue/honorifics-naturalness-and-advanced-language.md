@@ -751,7 +751,117 @@ D.
 ऊ सन्चै छ।  
 U sanchai chha.
 
-These prompts illustrate recognition and guided application. The G31 prompt illustrates assessment policy.
+**Correct answer: C**
+
+तपाईं and हुनुहुन्छ are standard respectful forms for asking whether someone is well.
+
+### Question 2 of 7 — G26 · Particles
+
+**Which sentence means "I drink only tea"?**
+
+A. म पनि चिया पिउँछु।  
+*Ma pani chiyaa piunchhu.*
+
+B. म मात्रै चिया पिउँछु।  
+*Ma maatrai chiyaa piunchhu.*
+
+C. म चिया मात्रै पिउँछु।  
+*Ma chiyaa maatrai piunchhu.*
+
+D. म चिया पनि पिउँछु।  
+*Ma chiyaa pani piunchhu.*
+
+**Correct answer: C**
+
+Explanation: मात्रै follows चिया, restricting the object rather than the person.
+
+### Question 3 of 7 — G27 · Discovery
+
+**You have just discovered that someone is at home. Which sentence explicitly expresses discovery?**
+
+A. ऊ घरमा छ।  
+*U gharma chha.*
+
+B. ऊ घरमा रहेछ।  
+*U gharma rahechha.*
+
+C. ऊ घरमा छ रे।  
+*U gharma chha re.*
+
+D. ऊ घरमा होला।  
+*U gharma holaa.*
+
+**Correct answer: B**
+
+Explanation: रहेछ can communicate newly discovered or newly recognised information.
+
+### Question 4 of 7 — G28 · Morphology
+
+**Which word means "writer"?**
+
+A. लेख्नु — *Lekhnu*
+
+B. लेखन — *Lekhan*
+
+C. लेखक — *Lekhak*
+
+D. लेखाइ — *Lekhaai*
+
+**Correct answer: C**
+
+Explanation: लेखक is an established noun meaning writer or author.
+
+### Question 5 of 7 — G29 · Conversational grammar
+
+**Someone asks खाना खायौ? Which is a natural affirmative response without repeating unnecessary information?**
+
+A. खाएँ। — *Khaaẽ.*
+
+B. खान्छौ। — *Khaanchhau.*
+
+C. खानु। — *Khaanu.*
+
+D. खाएको मान्छे। — *Khaaeko maanchhe.*
+
+**Correct answer: A**
+
+Explanation: The subject and object can be recovered from context, so the conjugated verb can be sufficient.
+
+### Question 6 of 7 — G30 · Figurative language
+
+**What does नाच्न नजान्ने आँगन टेढो generally communicate?**
+
+A. Learning to dance takes time.
+
+B. A courtyard needs repairing.
+
+C. Someone blames circumstances for their own shortcomings.
+
+D. Dancing is an important tradition.
+
+**Correct answer: C**
+
+Explanation: The proverb uses a figurative situation to describe misplaced blame.
+
+### Question 7 of 7 — G31 · Language variation
+
+**A learner uses a validated family honorific form instead of a standard respectful form. How should Aafno respond?**
+
+A. Always mark it incorrect.
+
+B. Accept it where appropriate to the task and context.
+
+C. Automatically accept every unfamiliar form.
+
+D. Remove family honorifics from the exercise.
+
+**Correct answer: B**
+
+Explanation: Validated alternatives should be accepted where they satisfy the target and contextual requirements.
+
+Questions 1–6 illustrate recognition and guided application. Question 7 illustrates Aafno's assessment policy. It does not directly measure Nepali language proficiency.
+
+All seven questions, answer keys and explanations are draft illustrations pending linguistic and native-speaker validation.
 
 ### Independent and flexible application
 
