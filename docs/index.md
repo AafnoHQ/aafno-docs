@@ -30,7 +30,8 @@ Aafno (आफ्नो) is a Nepali language-learning platform. It helps people 
 - [Curriculum structure](learning/curriculum-structure.md) — reusable concepts, dependencies, and flexible routes through the curriculum.
 - [Grammar syllabus](learning/grammar-syllabus.md) — the Phase 2A.1 master grammar inventory.
 - [Grammar concept framework](learning/grammar-concept-framework.md) — the Phase 2A.2 step 1 template, [teaching depth guide](learning/grammar-teaching-depth.md) and [present habitual worked example](learning/concepts/present-habitual.md).
-- [Grammar catalogue](learning/grammar-catalogue/index.md) — Phase 2A.2 Step 2, with 379 agreed concepts across 24 of 31 categories (77.4% category coverage).
+- [Grammar catalogue](learning/grammar-catalogue/index.md) — Phase 2A.2 Step 2, with 527 provisional coverage targets across 31 of 31 categories.
+- [Highest honorific (Ati Uchcha Aadar)](learning/highest-honorific.md) — draft research reference and validation requirements.
 
 ## Technical
 

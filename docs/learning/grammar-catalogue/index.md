@@ -7,7 +7,7 @@ has_children: true
 
 # Grammar catalogue
 
-Phase 2A.2 Step 2 identifies independently teachable and assessable concepts across the 31 categories in the [grammar syllabus](../grammar-syllabus.md). The first four groupings contain **379 agreed concepts** across **24 of 31 categories (77.4% category coverage)**, with 7 categories remaining. The full catalogue has no preset concept count. Category coverage tracks how many syllabus categories have been catalogued.
+Phase 2A.2 Step 2 documents **527 provisional coverage targets across 31 of 31 categories** in the [grammar syllabus](../grammar-syllabus.md). Category coverage tracks how many syllabus categories have been catalogued. The first four groupings contain 379 targets and the final grouping adds 148.
 
 | Grouping | Step 2 status | Concepts |
 | --- | --- | ---: |
@@ -15,9 +15,10 @@ Phase 2A.2 Step 2 identifies independently teachable and assessable concepts acr
 | G07–G13 · [Verbs, conjugation and time](verbs-and-conjugation.md) | Product coverage agreed and documented | 106 |
 | G14–G18 · [Relationships and sentence transformations](relationships-and-transformations.md) | Product coverage agreed and documented | 101 |
 | G19–G24 · [Connecting ideas and constructing complex sentences](connecting-ideas.md) | Product coverage agreed and documented | 114 |
-| G25–G31 · Honorifics, naturalness and advanced language | Next | — |
+| G25–G31 · [Honorifics, naturalness and advanced language](honorifics-naturalness-and-advanced-language.md) | Product coverage agreed and documented | 148 |
+| **Total** | **31 of 31 categories** | **527** |
 
-Concept IDs are provisional until the full catalogue is reconciled. Product agreement covers the scope and granularity of G01–G24. Linguistic and native-speaker validation is pending, including for all examples. Detailed specifications are planned for Step 3 under the [grammar concept framework](../grammar-concept-framework.md). The [curriculum roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth) tracks subsequent work.
+Product agreement covers the scope and granularity of G01–G31. IDs remain provisional pending full catalogue reconciliation, the next task. Detailed specifications follow in Step 3 under the [grammar concept framework](../grammar-concept-framework.md). Linguistic and native-speaker validation remains pending for the inventory and all examples. See the [curriculum roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth).
 
 ## What counts as a concept
 
@@ -25,6 +26,6 @@ A concept has a distinct, observable outcome that can be taught and assessed ind
 
 Give each shared concept one canonical entry and link its applications from related categories. Keep examples, form variants and deeper practice together when they serve the same outcome. Give an extension its own entry when it adds an independently teachable and assessable outcome. Record overlaps for reconciliation while preserving the agreed entries.
 
-## Family honorifics
+## Highest honorific
 
-Family honorifics apply wherever relevant. [G25](../grammar-syllabus.md#g25) owns social usage and register choice, and [G08-005](verbs-and-conjugation.md#g08) owns family honorific agreement, and [G12-004](verbs-and-conjugation.md#g12) owns family honorific imperative formation. Include validated family forms in each applicable conjugation specification under the [family honorific requirements](../grammar-concept-framework.md#family-honorifics-across-conjugations). Record unknown or unvalidated forms as research gaps and use attested forms for eventual teaching and assessment.
+[Highest honorific (Ati Uchcha Aadar)](../highest-honorific.md) carries forward the provisional family high-honorific coverage. [G08-005](verbs-and-conjugation.md#g08) covers conjugation and agreement, [G12-004](verbs-and-conjugation.md#g12) covers imperatives, [G25-005](honorifics-naturalness-and-advanced-language.md#g25) covers social use and [G31-007](honorifics-naturalness-and-advanced-language.md#g31) covers family usage and contextual variation. The existing names, targets and IDs remain in their catalogue rows. The register applies across relevant categories under the [concept framework](../grammar-concept-framework.md#highest-honorific-across-conjugations).

@@ -29,7 +29,7 @@ Each accepted content item needs a durable record of its version, status, review
 - Can the activity be completed using the target form rather than a memorised fixed line?
 - Do the audio and transcript exactly match the approved text?
 - For grammar, check classification, terminology, formation, conjugation, Romanisation, naturalness, glosses, alternatives, explanatory feedback, pronunciation and source and reuse rights using the [concept framework checklist](grammar-concept-framework.md#validation-before-publication).
-- Has every applicable conjugation been checked for [family honorific coverage](grammar-concept-framework.md#family-honorifics-across-conjugations)? Have native speakers who actually use the forms reviewed the relationships and settings, pronunciation and native audio, and which alternatives assessments accept? Record unknown or unvalidated equivalents as research gaps, and avoid universal claims about caste or community usage.
+- Has every applicable verb and construction been checked for [Highest honorific (Ati Uchcha Aadar)](highest-honorific.md)? Verify spelling, Romanisation, formation, agreement including the claimed third-person singular endings, irregularity, productivity, tense and aspect labels, actual usage and the full–contracted relationship. Have speakers who naturally use the register reviewed usage, pronunciation, recorded native audio and contextually acceptable assessment alternatives? Track evidence and rights, and keep draft or unverified forms out of learner-facing content.
 
 ## Corrections in production
 
