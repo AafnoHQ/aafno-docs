@@ -9,20 +9,20 @@ nav_order: 2
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-Product coverage is agreed for all 106 concepts in G07–G13. IDs are provisional until full catalogue reconciliation. Linguistic classifications, Nepali examples, conjugations, Romanisation, English glosses and usage claims are drafts pending linguistic and native-speaker validation. Detailed specifications are planned for Step 3.
+This batch contains **96 planned learner targets** in G07–G13. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-2.md).
 
 Each heading identifies the primary coverage category for its entries. The related-category notes record proposed canonical ownership and linked applications.
 
 ## G07. Verb foundations (क्रिया) {#g07}
 
-Coverage · [G07 in the grammar syllabus](../grammar-syllabus.md#g07) · 11 concepts
+Coverage · [G07 in the grammar syllabus](../grammar-syllabus.md#g07) · 11 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
 | G07-001 | Verb infinitives | Recognise and understand dictionary forms such as गर्नु, खानु and जानु. | Planned |
 | G07-002 | Verb stems | Identify the underlying stem of a verb and understand how it relates to inflected forms. | Planned |
-| G07-003 | Regular verbs | Recognise and apply predictable verb formation patterns. | Planned |
-| G07-004 | Irregular verbs | Recognise verbs that undergo irregular changes during conjugation. | Planned |
+| G07-003 | Regular verbs | Recognise predictable verb formation patterns and apply them to unfamiliar regular verbs within validated conjugation classes. | Planned |
+| G07-004 | Irregular verbs | Recognise irregular verb paradigms and identify the relationship between irregular inflected forms and their underlying verbs. | Planned |
 | G07-005 | Transitive verbs | Understand verbs that take an object. | Planned |
 | G07-006 | Intransitive verbs | Understand verbs that do not require a direct object. | Planned |
 | G07-007 | Ditransitive verbs | Understand verbs involving a transferred entity and a recipient. | Planned |
@@ -48,7 +48,7 @@ The [Nepali Dictionary](../../product/language-reference.md#nepali-dictionary) a
 
 ## G08. Verb conjugation and agreement {#g08}
 
-Coverage · [G08 in the grammar syllabus](../grammar-syllabus.md#g08) · 12 concepts
+Coverage · [G08 in the grammar syllabus](../grammar-syllabus.md#g08) · 12 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
@@ -56,10 +56,10 @@ Coverage · [G08 in the grammar syllabus](../grammar-syllabus.md#g08) · 12 conc
 | G08-002 | Number agreement | Apply relevant singular and plural agreement patterns. | Planned |
 | G08-003 | Gender agreement | Apply gender-dependent verb forms where required. | Planned |
 | G08-004 | Standard honorific agreement | Apply intimate, familiar and standard respectful conjugation patterns. | Planned |
-| G08-005 | Family honorific agreement | Understand and apply validated family-specific conjugation patterns, including forms such as होइसिन्छ and आइस्यो where applicable. | Planned |
-| G08-006 | Tense-dependent conjugation | Understand how verb formation changes across temporal constructions. | Planned |
-| G08-007 | Aspect-dependent conjugation | Understand how stems, participles and auxiliaries change according to aspect. | Planned |
-| G08-008 | Negative conjugation patterns | Understand how polarity changes verb formation and agreement. | Planned |
+| G08-005 | Highest-honorific conjugation and agreement | Form and apply highest-honorific conjugation and agreement using validated patterns. | Planned |
+| G08-006 | Tense-dependent conjugation | Apply conjugation patterns across temporal constructions in unfamiliar contexts. | Planned |
+| G08-007 | Aspect-dependent conjugation | Manipulate stems, participles and auxiliaries across aspectual constructions. | Planned |
+| G08-008 | Negative conjugation patterns | Apply negative formation and agreement across paradigms, including to unfamiliar verbs. | Planned |
 | G08-009 | Object-related agreement | Understand constructions in which object properties can affect agreement. | Planned |
 | G08-010 | Irregular conjugation patterns | Apply irregular stem changes and exceptional inflection patterns. | Planned |
 | G08-011 | Auxiliary verb agreement | Identify which element carries agreement in multi-verb constructions. | Planned |
@@ -67,9 +67,9 @@ Coverage · [G08 in the grammar syllabus](../grammar-syllabus.md#g08) · 12 conc
 
 **Related categories.** [G02](../grammar-syllabus.md#g02) identifies pronouns and address forms. [G08](#g08) owns grammatical agreement and shared conjugation mechanisms. [G09](#g09) teaches specific tense and aspect constructions. [G16](../grammar-syllabus.md#g16) teaches negation and its meanings. [G25](../grammar-syllabus.md#g25) teaches socially appropriate honorific and register selection.
 
-### Family honorific agreement
+### Highest-honorific agreement
 
-G08-005 is the canonical concept for family honorific agreement. Every applicable conjugation specification also includes its validated family honorific forms.
+G08-005 is the canonical concept for highest-honorific agreement. Every applicable conjugation specification also includes its validated highest-honorific forms.
 
 Draft examples
 
@@ -77,7 +77,7 @@ Draft examples
 |---|---|---|---|
 | Familiar | तिमी सन्चै छौ? | Timi sanchai chhau? | Are you well? |
 | Standard respectful | तपाईं सन्चै हुनुहुन्छ? | Tapaai sanchai hunnuhunchha? | Are you well? |
-| Family honorific | हजुर सन्चै होइसिन्छ? | Hajur sanchai hoisinchha? | Are you well? |
+| Highest honorific | हजुर सन्चै होइसिन्छ? | Hajur sanchai hoisinchha? | Are you well? |
 
 All examples require validation, particularly the spelling, formation, pronunciation and contextual usage of family forms.
 
@@ -85,7 +85,7 @@ Describe register choice in context and avoid unsupported claims about caste, et
 
 ## G09. Tense and aspect (काल र पक्ष) {#g09}
 
-Coverage · [G09 in the grammar syllabus](../grammar-syllabus.md#g09) · 23 concepts
+Coverage · [G09 in the grammar syllabus](../grammar-syllabus.md#g09) · 23 planned learner targets
 
 Teach Nepali tense and aspect through the constructions Nepali speakers use.
 
@@ -100,13 +100,13 @@ English grammatical terminology serves as an approximate guide.
 | G09-005 | Simple past | Describe past events and actions. | Planned |
 | G09-006 | Past progressive | Describe actions that were in progress at a past reference time. | Planned |
 | G09-007 | Past perfect | Express actions completed before another past reference point. | Planned |
-| G09-008 | Future constructions | Express future events, predictions and intentions. | Planned |
+| G09-008 | Future constructions | Express events with future time reference using appropriate Nepali constructions, recognising how temporal context contributes to interpretation. | Planned |
 | G09-009 | Immediate intention | Express actions someone is about to undertake. | Planned |
 | G09-010 | Future progressive | Express actions expected to be in progress at a future time. | Planned |
 | G09-011 | Future completion | Express actions expected to be completed by a future time. | Planned |
 | G09-012 | Continuing actions into the present | Express actions or situations that began earlier and continue now. | Planned |
 | G09-013 | Continuing actions in the past | Express actions continuing up to a past reference point. | Planned |
-| G09-014 | Completion and resultative meaning | Understand the distinction between an action occurring and reaching completion. | Planned |
+| G09-014 | Completion and resultative meaning | Interpret whether a construction describes an ongoing action, a reached endpoint or a resulting state. | Planned |
 | G09-015 | Experiential meaning | Express previous experiences, including whether someone has ever done something. | Planned |
 | G09-016 | Repeated and persistent actions | Express repeated or sustained actions using appropriate aspectual constructions. | Planned |
 | G09-017 | Habitual versus progressive | Distinguish recurring actions from actions currently in progress. | Planned |
@@ -161,7 +161,7 @@ The other approved contrast concepts likewise assess contextual selection.
 
 ## G10. Copulas, existence and identity {#g10}
 
-Coverage · [G10 in the grammar syllabus](../grammar-syllabus.md#g10) · 12 concepts
+Coverage · [G10 in the grammar syllabus](../grammar-syllabus.md#g10) · 10 planned learner targets
 
 The English verb "to be" does not map neatly onto a single Nepali verb. Learners need to understand हो, छ, हुनु and their related constructions.
 
@@ -172,13 +172,16 @@ The English verb "to be" does not map neatly onto a single Nepali verb. Learners
 | G10-003 | Existential constructions | Express the existence or presence of people, objects and situations. | Planned |
 | G10-004 | Location constructions | Express where someone or something is located. | Planned |
 | G10-005 | Identity versus state | Distinguish contexts requiring different copular constructions. | Planned |
-| G10-006 | Negative identity | Express negative identification using होइन and related forms. | Planned |
-| G10-007 | Negative existence and states | Express absence or negative states using छैन and related forms. | Planned |
 | G10-008 | Past copular constructions | Express past identity, location, existence and states. | Planned |
 | G10-009 | Future copular constructions | Express future identity, location, existence and states. | Planned |
 | G10-010 | Copular agreement | Apply relevant person, number and register agreement to copular forms. | Planned |
 | G10-011 | Becoming and changes of state | Express becoming something or transitioning into a different state. | Planned |
 | G10-012 | Copular versus auxiliary usage | Distinguish independent copular meanings from auxiliary functions in larger constructions. | Planned |
+
+**Shared coverage and orientation**
+
+- **Negative identity** · Find the shared treatment under [G16-008](relationships-and-transformations.md#g16). [G10-006](traceability-2.md#g10-006).
+- **Negative existence and states** · Find the shared treatment under [G16-009](relationships-and-transformations.md#g16). [G10-007](traceability-2.md#g10-007).
 
 **Related categories.** [G08](#g08) teaches shared agreement patterns. [G15](../grammar-syllabus.md#g15) owns possession expressed through existential constructions. [G16](../grammar-syllabus.md#g16) teaches negation. [G27](../grammar-syllabus.md#g27) owns discovery and inference using forms such as रहेछ.
 
@@ -191,33 +194,36 @@ The English verb "to be" does not map neatly onto a single Nepali verb. Learners
 | Existence | कोठामा किताब छ। | Kothaama kitaab chha. | There is a book in the room. |
 | State | म खुसी छु। | Ma khusi chhu. | I am happy. |
 
-Family honorific forms are particularly relevant to G10-010, but their applicable uses must be included throughout the category.
+Highest-honorific forms are particularly relevant to G10-010, but their applicable uses must be included throughout the category.
 
 ## G11. Modality {#g11}
 
-Coverage · [G11 in the grammar syllabus](../grammar-syllabus.md#g11) · 17 concepts
+Coverage · [G11 in the grammar syllabus](../grammar-syllabus.md#g11) · 14 planned learner targets
 
 Modality allows learners to express ability, obligation, desire, permission, possibility, intention and other meanings beyond actions and facts.
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
 | G11-001 | Ability | Express the ability to perform an action. | Planned |
-| G11-002 | Inability | Express an inability to perform an action. | Planned |
-| G11-003 | Obligation | Express actions that someone must or should perform. | Planned |
-| G11-004 | Absence of obligation | Express that an action is not required. | Planned |
+| G11-003 | Obligation | Express and interpret obligations imposed by rules, expectations or interpersonal requirements, distinguishing them from circumstantial necessity and advice. | Planned |
 | G11-005 | Desire | Express wanting to do something. | Planned |
 | G11-006 | Inclination and feelings | Express feeling like doing something using constructions such as मन लाग्नु. | Planned |
 | G11-007 | Permission | Express whether an action is permitted. | Planned |
-| G11-008 | Prohibition | Express actions that are not permitted. | Planned |
 | G11-009 | Possibility | Express actions or situations that may occur. | Planned |
 | G11-010 | Probability | Express the likelihood of an event or situation. | Planned |
 | G11-011 | Intention | Express intended actions and decisions. | Planned |
 | G11-012 | Necessity | Express that something is necessary or needed. | Planned |
 | G11-013 | Advice and suitability | Express what would be advisable or appropriate. | Planned |
-| G11-014 | Speculation | Express tentative beliefs about uncertain situations. | Planned |
+| G11-014 | Speculation | Express tentative beliefs and degrees of uncertainty, independently of how the underlying information was obtained. | Planned |
 | G11-015 | Willingness | Express readiness or willingness to perform an action. | Planned |
 | G11-016 | Preference | Express preferences between actions or alternatives. | Planned |
 | G11-017 | Modal meaning and strength | Distinguish ability, permission, obligation, advice and other modal meanings in context. | Planned |
+
+**Shared coverage and orientation**
+
+- **Inability** · Find the shared treatment under [G16-014](relationships-and-transformations.md#g16). [G11-002](traceability-2.md#g11-002).
+- **Absence of obligation** · Find the shared treatment under [G16-015](relationships-and-transformations.md#g16). [G11-004](traceability-2.md#g11-004).
+- **Prohibition** · Find the shared treatment under [G16-016](relationships-and-transformations.md#g16). [G11-008](traceability-2.md#g11-008).
 
 **Related categories.** [G09](#g09) teaches future reference and temporal intention. [G12](#g12) teaches requests, suggestions and invitations as communicative constructions. [G16](../grammar-syllabus.md#g16) teaches negation and its grammatical mechanisms. [G27](../grammar-syllabus.md#g27) teaches evidential and inferential meanings of forms such as होला. [G05](../grammar-syllabus.md#g05) teaches adverbs of certainty and probability.
 
@@ -253,7 +259,7 @@ Learners should be able to apply reviewed modal constructions to unfamiliar verb
 
 ## G12. Imperatives, requests and suggestions {#g12}
 
-Coverage · [G12 in the grammar syllabus](../grammar-syllabus.md#g12) · 13 concepts
+Coverage · [G12 in the grammar syllabus](../grammar-syllabus.md#g12) · 12 planned learner targets
 
 This category focuses on grammatical constructions used to influence actions and interact with other people.
 
@@ -262,8 +268,7 @@ This category focuses on grammatical constructions used to influence actions and
 | G12-001 | Intimate imperatives | Construct direct commands appropriate to intimate or low-honorific contexts. | Planned |
 | G12-002 | Familiar imperatives | Construct commands appropriate to familiar relationships. | Planned |
 | G12-003 | Standard respectful imperatives | Construct respectful commands and requests. | Planned |
-| G12-004 | Family honorific imperatives | Construct validated family-register commands and requests. | Planned |
-| G12-005 | Negative imperatives | Express instructions not to perform an action. | Planned |
+| G12-004 | Highest-honorific imperatives | Form highest-honorific commands and requests using validated patterns. | Planned |
 | G12-006 | Polite requests | Ask someone to perform an action politely. | Planned |
 | G12-007 | Invitations | Invite someone to participate in an activity. | Planned |
 | G12-008 | Inclusive suggestions | Suggest doing something together. | Planned |
@@ -273,7 +278,11 @@ This category focuses on grammatical constructions used to influence actions and
 | G12-012 | Wishes and blessings | Express hopes, wishes and blessings using appropriate constructions. | Planned |
 | G12-013 | Request strength and softening | Adjust the directness and force of requests through grammar, particles and context. | Planned |
 
-**Related categories.** [G08-005](#g08) teaches underlying family honorific agreement. G12-004 teaches its application to commands and requests. [G25](../grammar-syllabus.md#g25) teaches the social circumstances in which different registers are appropriate. [G11](#g11) teaches permission and related modal meanings. [G16](../grammar-syllabus.md#g16) teaches negation. [G26](../grammar-syllabus.md#g26) teaches particles that can affect request strength and softening.
+**Shared coverage and orientation**
+
+- **Negative imperatives** · Find the shared treatment under [G16-010](relationships-and-transformations.md#g16). [G12-005](traceability-2.md#g12-005).
+
+**Related categories.** [G08-005](#g08) teaches underlying highest-honorific agreement. G12-004 teaches its application to commands and requests. [G25](../grammar-syllabus.md#g25) teaches the social circumstances in which different registers are appropriate. [G11](#g11) teaches permission and related modal meanings. [G16](../grammar-syllabus.md#g16) teaches negation. [G26](../grammar-syllabus.md#g26) teaches particles that can affect request strength and softening.
 
 ### Draft imperative examples
 
@@ -282,17 +291,17 @@ This category focuses on grammatical constructions used to influence actions and
 | Intimate | आइज। | Aaija. | Come. |
 | Familiar | आऊ। | Aau. | Come. |
 | Standard respectful | आउनुहोस्। | Aaunuhos. | Please come. |
-| Family honorific | आइस्यो। | Aaisyo. | Come — family honorific. |
+| Highest honorific | आइस्यो। | Aaisyo. | Come — highest honorific. |
 
 All forms require validation of spelling, pronunciation, grammatical formation, social appropriateness and contextual usage.
 
-Family honorific imperatives have a dedicated concept because imperative formation represents a distinct learning outcome from general agreement.
+Highest-honorific imperatives have a dedicated concept because imperative formation represents a distinct learning outcome from general agreement.
 
 Imperative register choice depends on speaker, relationship and setting.
 
 ## G13. Advanced verb constructions {#g13}
 
-Coverage · [G13 in the grammar syllabus](../grammar-syllabus.md#g13) · 18 concepts
+Coverage · [G13 in the grammar syllabus](../grammar-syllabus.md#g13) · 14 planned learner targets
 
 Nepali verbs can combine to express additional grammatical and contextual nuances that are not necessarily obvious from the individual words.
 
@@ -308,16 +317,19 @@ These patterns are particularly valuable for developing natural spoken Nepali an
 | G13-006 | Continuative constructions | Express continuing an action using constructions such as गरिरहनु. | Planned |
 | G13-007 | Immediate or decisive action | Express immediacy or decisive action using constructions such as गरिहाल्नु. | Planned |
 | G13-008 | Unintended or regrettable actions | Understand constructions such as गरिबस्नु in their appropriate contexts. | Planned |
-| G13-009 | Causative verb formation | Understand how verbs change to express causing someone or something to act. | Planned |
 | G13-010 | Passive verb formation | Construct passive verb forms and understand their morphology. | Planned |
-| G13-011 | Impersonal verb constructions | Understand verb constructions without an ordinary explicit personal subject. | Planned |
-| G13-012 | Reciprocal verb constructions | Express actions performed mutually between participants. | Planned |
 | G13-013 | Experiential verb constructions | Understand verb combinations used to express having experienced an action. | Planned |
 | G13-014 | Verb reduplication | Understand how repeating verbal forms can modify meaning. | Planned |
-| G13-015 | Verbal nominalisation | Understand how verbal constructions can function as nouns or noun-like expressions. | Planned |
 | G13-016 | Attemptive constructions | Express trying or attempting to perform an action. | Planned |
 | G13-017 | Inceptive constructions | Express beginning an action or entering a new activity. | Planned |
 | G13-018 | Compound verb selection | Select appropriate secondary verbs to express intended nuances in unfamiliar contexts. | Planned |
+
+**Shared coverage and orientation**
+
+- **Causative verb formation** · Find the shared treatment under [G28-012](honorifics-naturalness-and-advanced-language.md#g28). [G13-009](traceability-2.md#g13-009).
+- **Impersonal verb constructions** · Find the shared treatment under [G24-011](connecting-ideas.md#g24). [G13-011](traceability-2.md#g13-011).
+- **Reciprocal verb constructions** · Find the shared treatment under [G24-014](connecting-ideas.md#g24). [G13-012](traceability-2.md#g13-012).
+- **Verbal nominalisation** · Find the shared treatment under [G20-014](connecting-ideas.md#g20). [G13-015](traceability-2.md#g13-015).
 
 **Related categories.** [G09](#g09) teaches the aspectual and temporal meanings of relevant constructions. [G20](../grammar-syllabus.md#g20) teaches non-finite constructions and clause formation. [G24](../grammar-syllabus.md#g24) teaches voice, agency, causation and participant relationships. [G28](../grammar-syllabus.md#g28) teaches word formation and morphology. [G02](../grammar-syllabus.md#g02) teaches reciprocal pronouns. [G30](../grammar-syllabus.md#g30) teaches relevant idiomatic and figurative constructions.
 
@@ -355,7 +367,7 @@ Review which combinations of main and secondary verbs are possible and in what c
 
 ## Cross-category reconciliation
 
-Document the following proposed ownership boundaries and reconciliation notes.
+The following boundaries explain how this batch shares grammatical knowledge with other categories. The [traceability records](traceability-2.md) provide the approved dispositions.
 
 | Overlapping area | Proposed distinction |
 |---|---|
@@ -372,9 +384,9 @@ Document the following proposed ownership boundaries and reconciliation notes.
 | G13 and G20 — Linked verbs | G13 teaches compound verb constructions; G20 teaches non-finite clause formation. |
 | G13 and G24 — Causatives and passives | G13 teaches morphological formation; G24 teaches voice, agency and participant relationships. |
 | G02, G13 and G24 — Reciprocity | Distinguish reciprocal pronouns, verbal constructions and participant relationships. |
-| G13, G20 and G28 — Nominalisation | Distinguish verbal construction, syntactic function and word derivation during reconciliation. |
+| G13, G20 and G28 — Nominalisation | Distinguish verbal construction, syntactic function and word derivation in the shared nominalisation account. |
 
-Also flag any additional potential overlaps within the approved grouping for later review, including:
+Use the [approved boundaries](traceability-2.md) when distinguishing these closely related targets:
 
 - G09-014 and G09-018.
 - G09-008 and G09-021.
@@ -383,37 +395,37 @@ Also flag any additional potential overlaps within the approved grouping for lat
 - G12-003, G12-006 and G12-013.
 - G13-001 and G13-018.
 
-All 106 approved entries remain in the catalogue. Final canonical ownership and deduplication will be resolved after the complete catalogue has been designed.
+[Traceability and approved boundaries](traceability-2.md) records the surviving owners and reopening conditions.
 
-## Family honorific coverage
+## Highest-honorific coverage
 
-Family honorifics are a core Aafno curriculum requirement. Include family conjugation patterns such as *hoisinchha* and *aisyo* wherever applicable. See the [grammar concept framework](../grammar-concept-framework.md#family-honorifics-across-conjugations) and [grammar syllabus](../grammar-syllabus.md#g25) for coverage and social register.
+The highest honorific is a core Aafno curriculum requirement. When attested, include conjugation patterns such as *hoisinchha* and *aisyo* wherever applicable. See the [grammar concept framework](../grammar-concept-framework.md#family-honorifics-across-conjugations) and [grammar syllabus](../grammar-syllabus.md#g25) for coverage and social register.
 
 Maintain the following distinctions:
 
 - G02: pronouns and address forms.
-- G08-005: underlying family honorific agreement.
-- G12-004: family honorific imperative formation.
+- G08-005: underlying highest-honorific agreement.
+- G12-004: highest-honorific imperative formation.
 - G25: social usage and register selection.
-- Every applicable grammatical construction: its validated family honorific forms and usage.
+- Every applicable grammatical construction: its validated highest-honorific forms and usage.
 
 ### Coverage matrix
 
-| Category | Family honorific coverage |
+| Category | Highest-honorific coverage |
 |---|---|
 | G07 — Verb foundations | Link family forms to their underlying verbs and stems. |
-| G08 — Conjugation and agreement | Dedicated family honorific agreement concept. |
+| G08 — Conjugation and agreement | Dedicated highest-honorific agreement concept. |
 | G09 — Tense and aspect | Family equivalents across applicable temporal and aspectual constructions. |
 | G10 — Copulas | Family forms of identity, states, existence and related constructions. |
 | G11 — Modality | Family forms for ability, obligation, desire, intention and other applicable meanings. |
-| G12 — Imperatives and requests | Dedicated family honorific imperative concept and applicable request constructions. |
+| G12 — Imperatives and requests | Dedicated highest-honorific imperative concept and applicable request constructions. |
 | G13 — Advanced verbs | Family conjugation of applicable compound and advanced verb constructions. |
 
-### Proposed family honorific research matrix for Step 3 {#step-3-family-honorific-research-matrix}
+### Proposed highest-honorific research matrix for Step 3 {#step-3-family-honorific-research-matrix}
 
-During detailed specification work, maintain a research matrix to systematically identify and validate family honorific forms.
+During detailed specification work, maintain a research matrix to systematically identify and validate highest-honorific forms.
 
-| Construction | Standard respectful coverage | Family honorific coverage |
+| Construction | Standard respectful coverage | Highest-honorific coverage |
 |---|---|---|
 | Present habitual | Required | Required where applicable |
 | Present progressive | Required | Required where applicable |
@@ -431,7 +443,7 @@ This matrix guides Step 3 research. Family forms remain subject to validation.
 
 Apply these review requirements.
 
-- Use attested forms as the basis for family honorific conjugations.
+- Use attested forms as the basis for highest-honorific conjugations.
 - Record unknown or unvalidated forms as explicit research gaps.
 - Seek native-speaker reviewers who actually use the relevant family forms.
 - Validate spelling, Romanisation, pronunciation, grammatical formation and contextual usage.

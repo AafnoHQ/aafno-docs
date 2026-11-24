@@ -31,15 +31,15 @@ Register and variation run through every stage. Document how everyday, respectfu
 | Step | Deliverable | Status |
 | --- | --- | --- |
 | 2A.1 | [Master Nepali grammar inventory](grammar-syllabus.md) | Product scope approved. Linguistic and native-speaker validation pending. |
-| 2A.2 | Concept specification and teaching depth | Step 1 reviewed and merged. Step 2 catalogue coverage documented for all 31 categories. Full catalogue reconciliation next. Steps 3–4 planned. |
+| 2A.2 | Concept specification and teaching depth | Step 1 reviewed and merged. Step 2 covers all 31 categories. Five reconciliation batches approved. Implementation under PR review and pending merge. Steps 3–4 planned. |
 | 2A.3 | Provisional A1–C2 grammar progression | Planned. Map when forms are introduced, developed and demonstrated. |
 | 2A.4 | Grammar prerequisites and dependencies | Planned. Identify the grammar knowledge and evidence that later concepts depend on. |
 
 #### Phase 2A.2 — Concept specification and teaching depth {#phase-2a2-concept-specification-and-teaching-depth}
 
 1. **Document the specification template, teaching depth and one worked example.** The [grammar concept framework](grammar-concept-framework.md), [teaching depth guide](grammar-teaching-depth.md) and [present habitual example](concepts/present-habitual.md) were reviewed and merged. The linguistic examples remain drafts.
-2. **Create and then reconcile the master concept catalogue.** The [grammar catalogue](grammar-catalogue/index.md) documents 527 provisional coverage targets across 31 of 31 categories. [Highest honorific (Ati Uchcha Aadar)](highest-honorific.md) records the cross-cutting research requirements. Next, reconcile overlaps and settle canonical ownership across the full catalogue before detailed specifications. IDs are provisional. Linguistic and native-speaker validation remains pending.
-3. **Write detailed concept specifications in five batches.** Work through G01–G06, G07–G13, G14–G18, G19–G24 and G25–G31.
+2. **Review and merge the reconciled master concept catalogue.** All five batches have structural approval. The [grammar catalogue](grammar-catalogue/index.md) contains 500 planned learner targets across 31 categories. The [reconciliation records](grammar-catalogue/reconciliation.md) preserve all 527 original IDs and outcomes. Step 2 remains pending implementation review and merge. Linguistic and native-speaker validation remains pending.
+3. **Write detailed grammar concept specifications in five batches.** Begin after Step 2 review and merge, using the approved 15-section framework and four teaching depths. Work through G01–G06, G07–G13, G14–G18, G19–G24 and G25–G31.
 4. **Review the full set.** Check coverage, consistency, teaching depth, [Highest honorific (Ati Uchcha Aadar)](highest-honorific.md), reference integration and [Content QA](content-qa.md).
 
 Phase 2A.3 progression and Phase 2A.4 dependency mapping follow this work.

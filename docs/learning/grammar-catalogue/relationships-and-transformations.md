@@ -9,23 +9,21 @@ nav_order: 3
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-Product coverage is agreed for all 101 concepts in G14–G18. IDs are provisional until full catalogue reconciliation. Linguistic classifications, Nepali examples, conjugations, Romanisation, English glosses and usage claims are drafts pending linguistic and native-speaker validation. Detailed specifications are planned for Step 3.
+This batch contains **95 planned learner targets** in G14–G18. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-3.md).
 
 Each heading identifies the primary coverage category for its entries. The related-category notes record proposed canonical ownership and linked applications. Static demonstrations illustrate product-design prototypes. They are neither implemented features nor approved lessons or assessments.
 
 ## G14. Case marking and postpositions {#g14}
 
-Coverage · [G14 in the grammar syllabus](../grammar-syllabus.md#g14) · 28 concepts
+Coverage · [G14 in the grammar syllabus](../grammar-syllabus.md#g14) · 26 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
-| G14-001 | Case marking foundations | Understand how case markers establish grammatical relationships. | Planned |
 | G14-002 | Unmarked noun constructions | Understand when nouns and pronouns appear without explicit case markers. | Planned |
 | G14-003 | Agentive and ergative marking — ले | Identify and apply ले to agents in appropriate constructions. | Planned |
 | G14-004 | Instrumental marking — ले | Express the instrument or means through which an action is performed. | Planned |
 | G14-005 | Object marking — लाई | Apply लाई to direct objects where appropriate. | Planned |
 | G14-006 | Recipient marking — लाई | Identify and express recipients of actions. | Planned |
-| G14-007 | Experiencer marking — लाई | Express feelings, sensations and experiences through dative constructions. | Planned |
 | G14-008 | Locative marking — मा | Express location, setting and relevant temporal relationships. | Planned |
 | G14-009 | Source marking — बाट | Express origins, sources and movement away from something. | Planned |
 | G14-010 | Starting points — देखि | Express spatial and temporal starting points. | Planned |
@@ -47,6 +45,11 @@ Coverage · [G14 in the grammar syllabus](../grammar-syllabus.md#g14) · 28 conc
 | G14-026 | Split ergative patterns | Understand how agent marking interacts with verb type, aspect and other grammatical conditions. | Planned |
 | G14-027 | Case marking and verb selection | Select appropriate markers according to a verb's grammatical requirements. | Planned |
 | G14-028 | Multiple case relationships | Construct sentences containing several correctly marked participants and relationships. | Planned |
+
+**Shared coverage and orientation**
+
+- **Case marking foundations** · Shared orientation. Understand how case markers establish grammatical relationships. Learner evidence is recorded through [G14-003](relationships-and-transformations.md#g14), [G14-005](relationships-and-transformations.md#g14), [G14-006](relationships-and-transformations.md#g14), [G14-028](relationships-and-transformations.md#g14). [G14-001](traceability-3.md#g14-001).
+- **Experiencer marking — लाई** · Find the shared treatment under [G24-012](connecting-ideas.md#g24). [G14-007](traceability-3.md#g14-007).
 
 ### Draft case marking examples
 
@@ -71,20 +74,20 @@ The draft case marker explorer starts with घर (Ghar, house or home) and offe
 
 ## G15. Possession and relationships {#g15}
 
-Coverage · [G15 in the grammar syllabus](../grammar-syllabus.md#g15) · 11 concepts
+Coverage · [G15 in the grammar syllabus](../grammar-syllabus.md#g15) · 11 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
-| G15-001 | Possessive modifiers | Express possession using forms such as मेरो, तिम्रो and हाम्रो. | Planned |
+| G15-001 | Possessive modifiers | Recognise the possessive pronoun paradigm and use possessive forms in noun phrases. | Planned |
 | G15-002 | Noun-to-noun possession | Express relationships between nouns using genitive constructions. | Planned |
-| G15-003 | Reflexive possession | Apply आफ्नो to express possession relative to the appropriate subject. | Planned |
+| G15-003 | Reflexive possession | Interpret the meaning and referent of आफ्नो and use it with the appropriate antecedent. | Planned |
 | G15-004 | Existential possession | Express having something using constructions such as मसँग ... छ. | Planned |
 | G15-005 | Ownership and belonging | Express who owns something or whom something belongs to. | Planned |
 | G15-006 | Kinship and personal relationships | Express family and other interpersonal relationships grammatically. | Planned |
 | G15-007 | Inalienable possession | Express relationships involving body parts and other inherently associated entities. | Planned |
 | G15-008 | Abstract possession | Express having abstract things such as time, knowledge or experience. | Planned |
 | G15-009 | Negative possession | Express not having or possessing something. | Planned |
-| G15-010 | Possession questions | Ask who owns something or whether someone has something. | Planned |
+| G15-010 | Possession questions | Construct and interpret questions asking whether a person or entity possesses something, using appropriate possessive and existential constructions. | Planned |
 | G15-011 | Possessive construction selection | Select appropriate constructions for ownership, availability, association and other possessive meanings. | Planned |
 
 ### Draft possession examples
@@ -103,7 +106,7 @@ Coverage · [G15 in the grammar syllabus](../grammar-syllabus.md#g15) · 11 conc
 | तिमी आफ्नो काम गर्छौ। | Timi aafno kaam garchhau. | You do your own work. |
 | उहाँ आफ्नो काम गर्नुहुन्छ। | Uhaã aafno kaam garnuhunchha. | They do their own work. |
 
-The interpretation of आफ्नो depends on its grammatical referent. Flag **G15-003 and G02-009** for canonical reconciliation. G02-009 establishes the reflexive possessive form as a pronoun concept. G15-003 applies it within possessive constructions.
+G15-003 owns the interpretation and use of आफ्नो, including identifying the appropriate referent. G02 keeps an index entry for this coverage.
 
 ### Related categories
 
@@ -111,32 +114,35 @@ The interpretation of आफ्नो depends on its grammatical referent. Flag 
 
 ## G16. Negation {#g16}
 
-Coverage · [G16 in the grammar syllabus](../grammar-syllabus.md#g16) · 22 concepts
+Coverage · [G16 in the grammar syllabus](../grammar-syllabus.md#g16) · 19 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
-| G16-001 | Negation foundations | Understand how Nepali expresses negative grammatical meaning. | Planned |
 | G16-002 | Present habitual negation | Negate habitual actions and general statements. | Planned |
 | G16-003 | Simple past negation | Express actions that did not occur in the past. | Planned |
 | G16-004 | Past habitual negation | Negate recurring past actions and habits. | Planned |
 | G16-005 | Progressive negation | Express actions that are not in progress. | Planned |
 | G16-006 | Perfect negation | Express actions that have not been completed or experienced. | Planned |
 | G16-007 | Future negation | Express actions or events that will not occur. | Planned |
-| G16-008 | Identity negation | Negate identity and classification using होइन and related forms. | Planned |
-| G16-009 | Existential and state negation | Express absence and negative states using छैन and related forms. | Planned |
-| G16-010 | Imperative negation | Construct negative commands and instructions. | Planned |
+| G16-008 | Identity negation | Negate identity and classification using होइन and related forms. Contrast positive and negative identification. | Planned |
+| G16-009 | Existential and state negation | Express absence and negative states using छैन and related forms. Contrast each with the relevant affirmative copular construction. | Planned |
+| G16-010 | Imperative negation | Construct negative commands and instructions, applying register-specific imperative formation and preserving appropriate request force. | Planned |
 | G16-011 | Infinitive negation | Form negative infinitives such as नगर्नु. | Planned |
-| G16-012 | Participial negation | Form negative participial constructions such as नगरेको. | Planned |
-| G16-013 | Negative non-finite constructions | Express actions performed without another action occurring. | Planned |
-| G16-014 | Ability negation | Express inability through negative modal constructions. | Planned |
-| G16-015 | Obligation negation | Express absence of obligation and distinguish it from prohibition. | Planned |
-| G16-016 | Permission negation | Express actions that are not permitted. | Planned |
+| G16-014 | Ability negation | Express inability through negative modal constructions and contrast it with ability. | Planned |
+| G16-015 | Obligation negation | Express absence of obligation and distinguish it from both obligation and prohibition. | Planned |
+| G16-016 | Permission negation | Express lack of permission and prohibition. Distinguish these from inability and absence of obligation. | Planned |
 | G16-017 | Negative indefinite constructions | Express nobody, nothing and related negative meanings. | Planned |
-| G16-018 | Negative frequency and quantity | Express meanings such as never, not at all and none. | Planned |
+| G16-018 | Negative frequency, quantity and degree | Rename to reflect all three dimensions. | Planned |
 | G16-019 | Negative scope | Understand which part of a sentence or proposition is being negated. | Planned |
 | G16-020 | Contrastive negation | Reject one interpretation or alternative while establishing another. | Planned |
 | G16-021 | Negative concord | Understand constructions in which multiple elements contribute to a single negative meaning. | Planned |
 | G16-022 | Affirmative–negative transformation | Transform sentences between affirmative and negative forms while preserving other grammatical features. | Planned |
+
+**Shared coverage and orientation**
+
+- **Negation foundations** · Shared orientation. Understand how Nepali expresses negative grammatical meaning. Learner evidence is recorded through [G16-002](relationships-and-transformations.md#g16), [G16-019](relationships-and-transformations.md#g16), [G16-022](relationships-and-transformations.md#g16). [G16-001](traceability-3.md#g16-001).
+- **Participial negation** · Find the shared treatment under [G20-012](connecting-ideas.md#g20). [G16-012](traceability-3.md#g16-012).
+- **Negative non-finite constructions** · Find the shared treatment under [G20-011](connecting-ideas.md#g20). [G16-013](traceability-3.md#g16-013).
 
 ### Draft polarity and scope examples
 
@@ -153,7 +159,7 @@ The proposed conjugation reference could let learners switch between affirmative
 | म आज होइन, भोलि जान्छु। | I'm going tomorrow, not today. |
 | म होइन, ऊ जान्छ। | They are going, not me. |
 
-The scope examples illustrate three readings involving the action, the time and the participant. Research applicable negative constructions across standard respectful and family honorific usage in the [Step 3 extension](#step-3-negative-constructions-research).
+The scope examples illustrate three readings involving the action, the time and the participant. Research applicable negative constructions across standard respectful and highest-honorific usage in the [Step 3 extension](#step-3-negative-constructions-research).
 
 ### Related categories
 
@@ -161,7 +167,7 @@ The scope examples illustrate three readings involving the action, the time and 
 
 ## G17. Questions and interrogative constructions {#g17}
 
-Coverage · [G17 in the grammar syllabus](../grammar-syllabus.md#g17) · 24 concepts
+Coverage · [G17 in the grammar syllabus](../grammar-syllabus.md#g17) · 23 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
@@ -169,26 +175,29 @@ Coverage · [G17 in the grammar syllabus](../grammar-syllabus.md#g17) · 24 conc
 | G17-002 | Question intonation | Recognise and produce appropriate interrogative intonation. | Planned |
 | G17-003 | Person questions — को | Ask about people and identities. | Planned |
 | G17-004 | Object and action questions — के | Ask about objects, actions and information. | Planned |
-| G17-005 | Location questions — कहाँ | Ask where someone or something is located or going. | Planned |
-| G17-006 | Time questions — कहिले | Ask when something happens. | Planned |
-| G17-007 | Reason questions — किन | Ask why something happens. | Planned |
-| G17-008 | Manner questions — कसरी | Ask how something happens or is performed. | Planned |
+| G17-005 | Location questions — कहाँ | Ask where someone or something is located or going using कहाँ. | Planned |
+| G17-006 | Time questions — कहिले | Ask when something happens using कहिले. | Planned |
+| G17-007 | Reason questions — किन | Ask why something happens using किन. | Planned |
+| G17-008 | Manner questions — कसरी | Ask how something happens or is performed using कसरी. | Planned |
 | G17-009 | Selection questions — कुन | Ask which person, object or alternative is intended. | Planned |
 | G17-010 | Quantity questions — कति | Ask about amounts, numbers, prices and quantities. | Planned |
 | G17-011 | Quality and description questions — कस्तो | Ask what someone or something is like. | Planned |
 | G17-012 | Duration and frequency questions | Ask how long or how often something happens. | Planned |
-| G17-013 | Possessive questions — कसको | Ask about ownership and relationships. | Planned |
+| G17-013 | Possessive questions — कसको | Construct and interpret questions identifying ownership or relationships, including whose-questions. | Planned |
 | G17-014 | Case-marked interrogatives | Apply case marking to interrogative forms such as कसले and कसलाई. | Planned |
 | G17-015 | Interrogative placement | Position interrogative elements appropriately within sentences. | Planned |
 | G17-016 | Alternative questions | Construct questions presenting multiple possible answers. | Planned |
 | G17-017 | Negative questions | Construct and interpret questions containing negation. | Planned |
 | G17-018 | Confirmation and tag questions | Seek agreement, confirmation or shared understanding. | Planned |
-| G17-019 | Indirect and embedded questions | Express questions within larger grammatical constructions. | Planned |
 | G17-020 | Rhetorical questions | Recognise and use questions not primarily intended to obtain information. | Planned |
 | G17-021 | Follow-up and clarification questions | Construct questions that develop or clarify an ongoing conversation. | Planned |
 | G17-022 | Multiple interrogative elements | Construct and interpret questions requesting several pieces of information. | Planned |
 | G17-023 | Statement–question transformation | Transform statements into questions while preserving relevant grammatical features. | Planned |
 | G17-024 | Interrogative construction selection | Select appropriate question structures according to the information sought and conversational context. | Planned |
+
+**Shared coverage and orientation**
+
+- **Indirect and embedded questions** · Find the shared treatment under [G22-017](connecting-ideas.md#g22). [G17-019](traceability-3.md#g17-019).
 
 ### Draft statement-to-question transformation
 
@@ -218,9 +227,9 @@ These forms connect pronoun identity (G02), case marking (G14) and interrogative
 | --- | --- | --- |
 | Familiar | तिमी कहाँ जान्छौ? | Timi kahaã jaanchhau? |
 | Standard respectful | तपाईं कहाँ जानुहुन्छ? | Tapaai kahaã jaanuhunchha? |
-| Family honorific | Research pending | Research pending |
+| Highest honorific | Research pending | Research pending |
 
-The intended meaning is *Where are you going?*, subject to context and aspect. The family honorific equivalent is pending native-speaker research.
+The intended meaning is *Where are you going?*, subject to context and aspect. The highest-honorific equivalent is pending native-speaker research.
 
 ### Related categories
 
@@ -228,7 +237,7 @@ The intended meaning is *Where are you going?*, subject to context and aspect. T
 
 ## G18. Comparison and degree {#g18}
 
-Coverage · [G18 in the grammar syllabus](../grammar-syllabus.md#g18) · 16 concepts
+Coverage · [G18 in the grammar syllabus](../grammar-syllabus.md#g18) · 16 planned learner targets
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
@@ -245,7 +254,7 @@ Coverage · [G18 in the grammar syllabus](../grammar-syllabus.md#g18) · 16 conc
 | G18-011 | Insufficiency | Express that a quality or quantity is insufficient. | Planned |
 | G18-012 | Approximate degree and quantity | Express approximate measurements, quantities and degrees. | Planned |
 | G18-013 | Progressive comparison | Express increasing or decreasing degrees over time. | Planned |
-| G18-014 | Proportional comparisons | Express relationships using constructions such as जति ... त्यति. | Planned |
+| G18-014 | Proportional comparisons | Interpret and construct proportional relationships using the syntax of paired जति … त्यति clauses. | Planned |
 | G18-015 | Action and manner comparisons | Compare how actions are performed rather than only comparing noun qualities. | Planned |
 | G18-016 | Comparative construction selection | Select appropriate comparative, superlative, equality and degree constructions in context. | Planned |
 
@@ -314,23 +323,23 @@ The prototype prompts the learner to complete मैले कलम___ ले�
 | G14 and G24 | Agent marking versus voice and agency. |
 | G16 and G29 | Negation scope versus contrastive focus and information structure. |
 
-**Prioritise G16 for canonical reconciliation.** In particular, compare G16-014 with G11-002 (inability). Review G16-002–G16-007 against G08–G09, G16-008 and G16-009 against G10-006 and G10-007, G16-010 against G12-005, G16-011–G16-013 against G20, and G16-015 and G16-016 against G11-004 and G11-008. Review scope and contrastive negation with G29. Reconciliation will determine which entries need their own specifications and which can use linked applications. All 101 entries remain provisional coverage targets in this batch.
+G16 owns shared negative copular, imperative and modal constructions. G20 owns shared negative participial and non-finite constructions. The [traceability record](traceability-3.md) preserves the original coverage and links to both owners.
 
-## Family honorific coverage
+## Highest-honorific coverage
 
-| Category | Family honorific considerations |
+| Category | Highest-honorific considerations |
 | --- | --- |
-| G14 — Case marking | Validate case-marked forms of respectful address and their use with family-register verbs. |
-| G15 — Possession | Validate possessive forms and family-register agreement in possessive constructions. |
+| G14 — Case marking | Validate case-marked forms of respectful address and their use with highest-honorific verbs. |
+| G15 — Possession | Validate possessive forms and highest-honorific agreement in possessive constructions. |
 | G16 — Negation | Include family equivalents across applicable negative constructions. |
-| G17 — Questions | Include family-register question formation and appropriate agreement. |
-| G18 — Comparison | Preserve family-register agreement wherever comparative sentences require it. |
+| G17 — Questions | Include highest-honorific question formation and appropriate agreement. |
+| G18 — Comparison | Preserve highest-honorific agreement wherever comparative sentences require it. |
 
 Record register variation only where it is attested. Keep unknown family forms and any proposed register-specific marker variation pending research.
 
 ### Proposed Step 3 research extension for negative constructions {#step-3-negative-constructions-research}
 
-This extends the [Step 3 family honorific research matrix](verbs-and-conjugation.md#step-3-family-honorific-research-matrix). Research corresponding standard respectful and family honorific forms wherever applicable.
+This extends the [Step 3 highest-honorific research matrix](verbs-and-conjugation.md#step-3-family-honorific-research-matrix). Research corresponding standard respectful and highest-honorific forms wherever applicable.
 
 | Construction | Research focus |
 | --- | --- |

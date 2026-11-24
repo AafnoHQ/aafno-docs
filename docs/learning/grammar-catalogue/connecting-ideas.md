@@ -9,7 +9,7 @@ nav_order: 4
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-Product coverage is agreed for all 114 concepts in G19–G24. IDs are provisional until full catalogue reconciliation. All classifications, Nepali examples, Romanisation and English glosses are drafts pending linguistic and native-speaker validation. All detailed concept specifications are **Planned** for Step 3.
+This batch contains **111 planned learner targets** in G19–G24. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-4.md).
 
 The examples illustrate how learners can connect ideas, explain decisions, describe experiences, tell stories, report conversations and discuss hypothetical situations. The demonstrations and assessment illustrations below are static documentation of draft learning designs.
 
@@ -31,12 +31,12 @@ Coverage · [G19 in the grammar syllabus](../grammar-syllabus.md#g19)
 | G19-010 | Explanatory connectors | Clarify or restate information using forms such as अर्थात्. | Planned |
 | G19-011 | Exemplification connectors | Introduce examples using forms such as जस्तै. | Planned |
 | G19-012 | Summarising and concluding connectors | Summarise ideas and introduce conclusions. | Planned |
-| G19-013 | Topic transition connectors | Move between related or new topics coherently. | Planned |
+| G19-013 | Topic transition connectors | Introduce, resume and signal topics coherently with suitable transition forms in conversation and connected discourse. | Planned |
 | G19-014 | Paired conjunctions | Construct relationships using coordinated pairs of connectors. | Planned |
 | G19-015 | Connector placement and omission | Understand where connectors appear and when relationships can be expressed without them. | Planned |
 | G19-016 | Connector selection | Select appropriate connectors according to the logical relationship between ideas. | Planned |
 
-**Total:** 16 concepts.
+**Total:** 16 planned learner targets.
 
 ### Illustrative connector reference
 
@@ -87,10 +87,10 @@ Coverage · [G20 in the grammar syllabus](../grammar-syllabus.md#g20)
 | G20-008 | Completed-action participles — गरेको | Express completed or prior actions through participial forms. | Planned |
 | G20-009 | Habitual and prospective participles — गर्ने | Express habitual, characteristic or prospective actions through participial forms. | Planned |
 | G20-010 | Conditional non-finite forms — गरे | Construct dependent verb forms used to express conditions. | Planned |
-| G20-011 | Negative sequential forms — नगरी | Express an action occurring without another action taking place. | Planned |
-| G20-012 | Negative participial forms | Construct and interpret negated participial expressions. | Planned |
-| G20-013 | Participial noun modification | Use participial constructions to describe or identify nouns. | Planned |
-| G20-014 | Verbal nominalisation | Use actions and processes as noun-like grammatical elements. | Planned |
+| G20-011 | Negative sequential forms — नगरी | Construct and interpret non-finite sequences expressing one action occurring without another taking place. | Planned |
+| G20-012 | Negative participial forms | Form and interpret negated participial expressions, including applying polarity to a participial construction. | Planned |
+| G20-013 | Participial noun modification | Use participial constructions to describe or identify nouns and interpret the resulting participial relative clauses. | Planned |
+| G20-014 | Verbal nominalisation | Recognise and form verbal nominalisations and use them to express actions and processes in noun-like syntactic positions. | Planned |
 | G20-015 | Participial agreement | Apply relevant gender, number and other agreement patterns to participial forms. | Planned |
 | G20-016 | Subject relationships in non-finite constructions | Identify who performs each action within a dependent verb construction. | Planned |
 | G20-017 | Temporal relationships in non-finite constructions | Interpret whether dependent actions precede, accompany or follow other events. | Planned |
@@ -98,7 +98,7 @@ Coverage · [G20 in the grammar syllabus](../grammar-syllabus.md#g20)
 | G20-019 | Finite and non-finite construction selection | Choose between independent clauses and dependent verb forms. | Planned |
 | G20-020 | Non-finite sentence transformation | Combine or restructure sentences using appropriate non-finite constructions. | Planned |
 
-**Total:** 20 concepts.
+**Total:** 20 planned learner targets.
 
 ### Forms of गर्नु
 
@@ -160,7 +160,7 @@ Coverage · [G21 in the grammar syllabus](../grammar-syllabus.md#g21)
 | G21-017 | Conditional tense, aspect and modality | Select appropriate grammatical forms in conditions and consequences. | Planned |
 | G21-018 | Conditional construction selection | Distinguish real, possible, hypothetical and counterfactual meanings in context. | Planned |
 
-**Total:** 18 concepts.
+**Total:** 18 planned learner targets.
 
 ### Illustrative conditional patterns
 
@@ -191,13 +191,11 @@ Coverage · [G22 in the grammar syllabus](../grammar-syllabus.md#g22)
 | --- | --- | --- | --- |
 | G22-001 | Clause structure foundations | Distinguish main clauses from dependent and embedded clauses. | Planned |
 | G22-002 | Relative clause foundations | Use dependent clauses to identify or describe people, objects and situations. | Planned |
-| G22-003 | Participial relative clauses | Modify nouns using participial constructions. | Planned |
 | G22-004 | Personal relative-correlative constructions | Express relationships using patterns such as जो ... त्यो. | Planned |
 | G22-005 | Non-personal relative-correlative constructions | Identify objects and alternatives using forms such as जुन ... त्यो. | Planned |
 | G22-006 | Locative relative-correlative constructions | Connect locations using forms such as जहाँ ... त्यहाँ. | Planned |
 | G22-007 | Temporal relative-correlative constructions | Connect events using forms such as जब ... तब. | Planned |
 | G22-008 | Manner relative-correlative constructions | Express corresponding manners using forms such as जसरी ... त्यसरी. | Planned |
-| G22-009 | Quantity relative-correlative constructions | Connect quantities and degrees using forms such as जति ... त्यति. | Planned |
 | G22-010 | Restrictive and descriptive relative meanings | Distinguish identifying information from additional descriptive information. | Planned |
 | G22-011 | Temporal subordinate clauses | Express when an event occurs relative to another event. | Planned |
 | G22-012 | Causal subordinate clauses | Embed reasons and causes within complex sentences. | Planned |
@@ -205,14 +203,19 @@ Coverage · [G22 in the grammar syllabus](../grammar-syllabus.md#g22)
 | G22-014 | Concessive subordinate clauses | Express circumstances that contrast with an outcome. | Planned |
 | G22-015 | Conditional subordinate clauses | Embed conditions within larger sentence structures. | Planned |
 | G22-016 | Complement clauses | Express propositions functioning as complements of verbs or other constructions. | Planned |
-| G22-017 | Embedded interrogative clauses | Incorporate questions within statements and other clauses. | Planned |
+| G22-017 | Embedded interrogative clauses | Construct and interpret embedded questions in statements and other clauses. | Planned |
 | G22-018 | Nominalised clauses | Use clauses as noun-like grammatical elements. | Planned |
 | G22-019 | Clause-level reference and agreement | Maintain appropriate reference and agreement across clauses. | Planned |
 | G22-020 | Subordinate clause placement | Position dependent clauses appropriately within larger sentences. | Planned |
 | G22-021 | Multiple and nested subordinate clauses | Construct and interpret sentences containing several dependent clauses. | Planned |
 | G22-022 | Complex sentence restructuring | Express equivalent information through different appropriate clause structures. | Planned |
 
-**Total:** 22 concepts.
+**Shared coverage and orientation**
+
+- **Participial relative clauses** · Find the shared treatment under [G20-013](connecting-ideas.md#g20). [G22-003](traceability-4.md#g22-003).
+- **Quantity relative-correlative constructions** · Find the shared treatment under [G18-014](relationships-and-transformations.md#g18). [G22-009](traceability-4.md#g22-009).
+
+**Total:** 20 planned learner targets.
 
 ### Relative-correlative pairings
 
@@ -270,13 +273,17 @@ Coverage · [G23 in the grammar syllabus](../grammar-syllabus.md#g23)
 | G23-013 | Pronoun and perspective changes | Adjust person and reference according to the reporting perspective. | Planned |
 | G23-014 | Temporal and spatial reference changes | Maintain appropriate time and location references when reporting speech. | Planned |
 | G23-015 | Honorifics in reported speech | Preserve or appropriately adapt social register and agreement across reporting contexts. | Planned |
-| G23-016 | Reported information — रे | Construct utterances that present information as reported by others. | Planned |
-| G23-017 | Reported versus directly known information | Distinguish reporting another person's information from asserting firsthand knowledge. | Planned |
+| G23-017 | Reported versus directly known information | Distinguish reporting attributed information from asserting firsthand or source-unspecified knowledge in reporting contexts. | Planned |
 | G23-018 | Multiple levels of reported speech | Interpret and construct speech reports containing other reports. | Planned |
 | G23-019 | Direct–indirect speech transformation | Reformulate speech while preserving intended meaning and relevant perspective. | Planned |
 | G23-020 | Reporting construction selection | Select appropriate reporting constructions according to meaning, source and context. | Planned |
 
-**Total:** 20 concepts.
+**Shared coverage and orientation**
+
+- **Reported information — रे** · Find the shared treatment under [G27-007](honorifics-naturalness-and-advanced-language.md#g27). [G23-016](traceability-4.md#g23-016).
+- G23-017 preserves reporting-specific contrast and perspective. Use [G27-007](honorifics-naturalness-and-advanced-language.md#g27) for the shared information-source account and [G26-009](honorifics-naturalness-and-advanced-language.md#g26) for particle behaviour.
+
+**Total:** 19 planned learner targets.
 
 ### Illustrative reporting constructions
 
@@ -315,26 +322,26 @@ Coverage · [G24 in the grammar syllabus](../grammar-syllabus.md#g24)
 
 | ID | Concept | Learning target | Specification status |
 | --- | --- | --- | --- |
-| G24-001 | Voice and agency foundations | Identify grammatical participants and their relationships to an action. | Planned |
+| G24-001 | Voice and agency foundations | Identify and track grammatical and semantic participant roles across active, passive, causative and other participant-changing constructions. | Planned |
 | G24-002 | Active constructions | Express events with an agent or other appropriate subject as the grammatical focus. | Planned |
 | G24-003 | Passive constructions | Express events with the affected participant foregrounded. | Planned |
 | G24-004 | Passive agent expression | Express the agent of a passive construction where appropriate. | Planned |
-| G24-005 | Agent omission | Express actions without explicitly identifying their performer. | Planned |
+| G24-005 | Agent omission | Express events with the agent backgrounded or unidentified when appropriate. | Planned |
 | G24-006 | Causative constructions | Express causing another person or entity to perform an action or undergo a change. | Planned |
 | G24-007 | Direct causation | Express directly bringing about an action or change of state. | Planned |
 | G24-008 | Indirect causation | Express arranging, requesting or otherwise causing an action through another participant. | Planned |
 | G24-009 | Multiple levels of causation | Interpret and express events involving more than one level of causation. | Planned |
 | G24-010 | Causative participant marking | Apply appropriate case marking to causers, causees and affected participants. | Planned |
-| G24-011 | Impersonal constructions | Express events and general situations without an ordinary explicit personal subject. | Planned |
-| G24-012 | Experiencer constructions | Express feelings, sensations and experiences through appropriate participant structures. | Planned |
+| G24-011 | Impersonal constructions | Recognise and construct impersonal expressions without an ordinary explicit personal subject. Distinguish these from recoverable subject omission. | Planned |
+| G24-012 | Experiencer constructions | Interpret and express experiencer participant structures, including feelings, sensations and experiences. Identify and apply dative experiencer marking with लाई where appropriate. | Planned |
 | G24-013 | Reflexive constructions | Express actions directed towards the participant performing them. | Planned |
-| G24-014 | Reciprocal constructions | Express actions performed mutually between participants. | Planned |
+| G24-014 | Reciprocal constructions | Interpret mutual-action participant relationships and express actions performed mutually using appropriate reciprocal verb constructions. | Planned |
 | G24-015 | Volitional and non-volitional events | Distinguish intentional actions from events occurring without deliberate intention. | Planned |
 | G24-016 | Agency and responsibility | Understand how grammatical construction choices affect the expression of responsibility. | Planned |
 | G24-017 | Participant structure transformations | Restructure sentences while maintaining appropriate participant relationships. | Planned |
 | G24-018 | Voice and agency selection | Select appropriate active, passive, causative, impersonal and related constructions in context. | Planned |
 
-**Total:** 18 concepts.
+**Total:** 18 planned learner targets.
 
 ### Causative pairs
 
@@ -423,7 +430,7 @@ Assess each targeted grammatical relationship using evidence the response actual
 
 ## Cross-category reconciliation
 
-All provisional coverage targets are retained. Reconcile canonical identities after the inventory covers all 31 categories.
+The [reconciliation overview](reconciliation.md) records approved canonical identities and links to the traceability records.
 
 | Overlapping categories | Proposed ownership distinction |
 | --- | --- |
@@ -452,26 +459,26 @@ All provisional coverage targets are retained. Reconcile canonical identities af
 | G20, G22 and G28 | Verbal nominalisation, nominalised clauses and morphological derivation. |
 | G19, G26 and G29 | Logical connectors, discourse particles and conversational organisation. |
 
-### Priority areas for reconciliation
+### Shared coverage decisions
 
 | Area | Coverage targets | Reconciliation question |
 | --- | --- | --- |
-| Causatives | G13-009, G24-006–010, G28 | Share canonical grammatical knowledge across formation, participant relationships and morphological derivation. |
+| Causatives | [G28-012](honorifics-naturalness-and-advanced-language.md#g28), G24-006–010, G28 | Share canonical grammatical knowledge across formation, participant relationships and morphological derivation. |
 | Passives | G13-010, G24-003–005 | Distinguish passive formation, choice of construction and agent expression or omission. |
-| Nominalisation | G13-015, G20-014, G22-018, G28 | Identify distinct skills and targets that can reference a shared specification. |
-| Reported information | G23-016–017, G26, G27 | Share the underlying description of रे across reporting, particle behaviour and evidence source. |
+| Nominalisation | [G20-014](connecting-ideas.md#g20), G20-014, G22-018, G28 | Identify distinct skills and targets that can reference a shared specification. |
+| Reported information | G23-017, G26-009, G27-007 | Share the underlying description of रे across reporting, particle behaviour and evidence source. |
 | Conditionals | G19-008, G20-010, G21, G22-015 | Distinguish connector selection, verb formation, conditional meaning and syntactic application. |
 
-## Family honorific coverage
+## Highest-honorific coverage
 
-| Category | Family honorific considerations |
+| Category | Highest-honorific considerations |
 | --- | --- |
-| G19 — Connectors | Preserve appropriate family-register agreement across connected clauses. |
+| G19 — Connectors | Preserve appropriate highest-honorific agreement across connected clauses. |
 | G20 — Non-finite constructions | Validate whether dependent forms vary by family register and where honorific agreement is expressed. |
-| G21 — Conditionals | Research applicable family-register conditional and consequence forms. |
+| G21 — Conditionals | Research applicable highest-honorific conditional and consequence forms. |
 | G22 — Relative clauses | Validate respectful reference and agreement across main and dependent clauses. |
 | G23 — Reported speech | Distinguish the register of the original speaker, the reporter and the person being addressed. |
-| G24 — Voice and agency | Validate family-register agreement in causative, passive and other participant constructions wherever applicable. |
+| G24 — Voice and agency | Validate highest-honorific agreement in causative, passive and other participant constructions wherever applicable. |
 
 ### Agreement and perspective in reported speech
 
@@ -481,19 +488,19 @@ All provisional coverage targets are retained. Reconcile canonical identities af
 
 In this draft standard respectful example, आउनुहुन्छ agrees with the person coming in the reported content. भन्नुभयो expresses respect for Mother as the person who said it. The two verbs can have different referents. Establish the original speaker, the reporter, the addressee and the person referred to before interpreting register in either clause.
 
-Validate genuine family-register variation and record any attested invariant forms, including connectors and non-finite forms. Keep unknown family honorific forms as research gaps. Use attested forms and establish their agreement and perspective in context.
+Validate genuine highest-honorific variation and record any attested invariant forms, including connectors and non-finite forms. Keep unknown highest-honorific forms as research gaps. Use attested forms and establish their agreement and perspective in context.
 
 ## Catalogue totals
 
-| Coverage | Agreed concepts |
+| Coverage | Planned learner targets |
 | --- | ---: |
 | G19 | 16 |
 | G20 | 20 |
 | G21 | 18 |
-| G22 | 22 |
-| G23 | 20 |
+| G22 | 20 |
+| G23 | 19 |
 | G24 | 18 |
-| **G19–G24 total** | **114** |
-| **G01–G24 cumulative total** | **379** |
+| **G19–G24 total** | **111** |
+| **G01–G24 cumulative total** | **357** |
 
-The catalogue covers 24 of 31 categories (77.4% category coverage). G25–G31 are next, with seven categories remaining.
+The [final batch](honorifics-naturalness-and-advanced-language.md) contains 143 planned learner targets.
