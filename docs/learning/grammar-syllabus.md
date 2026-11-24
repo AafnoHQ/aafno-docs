@@ -12,6 +12,10 @@ Phase 2A.1 records the agreed scope of Aafno’s master Nepali grammar inventory
 
 G01–G31 are stable catalogue IDs across five groupings. Learners can encounter a concept in several pathways and at several depths. The IDs organise coverage, with sequencing, prerequisites and integrated MVP selection scheduled in the [curriculum roadmap](curriculum-roadmap.md). Overlapping entries point to one canonical concept identity. The links below are coverage relationships. Individual concept specifications belong to Phase 2A.2.
 
+Phase 2A.1 product scope is approved and linguistic validation is pending. Phase 2A.2 step 1 defines the [concept framework](grammar-concept-framework.md) and [teaching depth](grammar-teaching-depth.md), with a [present habitual worked example](concepts/present-habitual.md).
+
+Apply the [family honorific requirement](grammar-concept-framework.md#family-honorifics-across-conjugations) to every applicable conjugation, including habitual, progressive, past, future, perfect, negation, questions, imperatives and modality. Document reviewed family forms, contextual usage, validated native audio and accepted assessment variants. Record a research gap wherever an equivalent is unknown or unvalidated. [G25](#g25) explains register choice across the syllabus.
+
 ## Part 1 — Grammar foundations
 
 ### G01. Sentence structure {#g01}
@@ -206,7 +210,7 @@ Illustrative present habitual conjugation
 | हामी | गर्छौँ | Garchhaũ |
 | उनीहरू | गर्छन् | Garchhan |
 
-Eventually, Aafno could have an interactive conjugation reference where learners select a verb, pronoun, construction and honorific level. That would be a particularly useful learning tool.
+Eventually, Aafno could have an interactive conjugation reference where learners select a verb, pronoun, construction and honorific level. That would be a particularly useful learning tool. The [reference requirements](../product/language-reference.md#verb-conjugation-reference) include selectable family register. Family equivalents for the draft habitual table above are a [research gap](concepts/present-habitual.md#present-habitual-agreement).
 
 ### G09. Tense and aspect — काल र पक्ष {#g09}
 
@@ -623,6 +627,8 @@ Teach the full grammatical system of honorifics, including how speakers address 
 | Family usage variant | हजुर सन्चै होइसिन्छ? | Hajur sanchai hoisinchha? | Are you well? |
 
 Validate the spelling, conjugation patterns, usage and distribution of both examples. Family forms may vary within a community. Explain the social context in which each form is used and evaluate it in that context. In request practice, compare how agreement and softening change the force of a request. Link pronouns in [G02](#g02), agreement in [G08](#g08), requests in [G12](#g12), negation in [G16](#g16), questions in [G17](#g17) and variation in [G31](#g31).
+
+Apply the [family honorific requirement](grammar-concept-framework.md#family-honorifics-across-conjugations) whenever another category teaches or assesses a conjugation.
 
 ### G26. Particles and discourse markers {#g26}
 

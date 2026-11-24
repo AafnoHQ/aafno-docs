@@ -30,10 +30,19 @@ Register and variation run through every stage. Document how everyday, respectfu
 
 | Step | Deliverable | Status |
 | --- | --- | --- |
-| 2A.1 | [Master Nepali grammar inventory](grammar-syllabus.md) | Scope agreed and documented for review. Linguistic and native-speaker validation pending. |
-| 2A.2 | Concept specification and teaching depth | Next, after review of 2A.1. |
+| 2A.1 | [Master Nepali grammar inventory](grammar-syllabus.md) | Product scope approved. Linguistic and native-speaker validation pending. |
+| 2A.2 | Concept specification and teaching depth | Step 1 documented for review. Steps 2–4 planned. |
 | 2A.3 | Provisional A1–C2 grammar progression | Planned. Map when forms are introduced, developed and demonstrated. |
 | 2A.4 | Grammar prerequisites and dependencies | Planned. Identify the grammar knowledge and evidence that later concepts depend on. |
+
+#### Phase 2A.2 — Concept specification and teaching depth
+
+1. **Document the specification template, teaching depth and one worked example.** The [grammar concept framework](grammar-concept-framework.md), [teaching depth guide](grammar-teaching-depth.md) and [present habitual example](concepts/present-habitual.md) are ready for documentation review. The linguistic examples remain drafts.
+2. **Create the master concept catalogue collaboratively.** Cover all 31 categories and reconcile overlaps to one canonical entry per concept, with links from related categories.
+3. **Write detailed concept specifications in five batches.** Work through G01–G06, G07–G13, G14–G18, G19–G24 and G25–G31.
+4. **Review the full set.** Check coverage, consistency, teaching depth, [family honorific coverage](grammar-concept-framework.md#family-honorifics-across-conjugations), reference integration and [Content QA](content-qa.md).
+
+Phase 2A.3 progression and Phase 2A.4 dependency mapping follow this work.
 
 Integrated mapping across all strands and MVP selection remain in Phase 2E.
 
