@@ -61,6 +61,12 @@ Lexical entries and senses, verb forms, example sentences and audio can be linke
 
 Lookup, saving and reading an explanation can record exposure. Any practice launched from a reference tool uses the activity’s evidence target and updates the relevant independent skill profile. Learner-facing material uses [Content QA](content-qa.md) and the [curriculum’s Romanisation display preference](curriculum.md#script-and-romanisation-display).
 
+## Integrating grammar targets into scenarios
+
+Design scenarios that draw on multiple existing concepts, lexical entries and forms. A scenario can provide independent evidence for several local outcomes when each is observable. Record the concept, outcome, depth, skill and scaffolding for each observation. Reference lookup, exposure, saving an expression and selecting a preference establish exposure or personalisation. Use the [variant-aware policy](proficiency-framework.md#variant-aware-assessment) to record communicative success and grammatical evidence.
+
+Classify prerequisites as required, helpful, co-taught or extensions for the individual outcome and depth. Give heritage learners credit for existing oral and receptive knowledge. Use practical expressions before fuller analysis and allow oral learning independently of script literacy.
+
 ## Completion and concept mastery
 
 Exposure to a concept, completion of a lesson, and completion of an individual practice activity are useful progress records. None of them alone establishes concept mastery. They show that a learner encountered or attempted material; they do not show that the learner can use it beyond its original example or scaffold.

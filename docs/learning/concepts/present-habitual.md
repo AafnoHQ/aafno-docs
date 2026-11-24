@@ -7,19 +7,58 @@ nav_order: 1
 
 # Present habitual
 
-**Phase 2A.2 step 1 worked example.** All Nepali forms, labels, Romanisation, glosses, register assignments and assessment examples below are illustrative drafts pending linguistic and native-speaker review.
+**Phase 2A.2 Step 3A specification draft.** Product-owner approval covers the pilot direction. Language examples and assessment alternatives await review. [Pilot index](index.md) · [Content QA](../content-qa.md).
 
 ## 1. Concept identity
 
-**G09-001** is a provisional ID for a tense and aspect construction in [G09](../grammar-syllabus.md#g09). The draft Nepali label is **सामान्य वर्तमान काल** (*Saamaanya wartamaan kaal*). An A1 introduction is illustrative. Final IDs, CEFR placement, schema, sequencing and mastery cutoffs belong to later work.
+- Catalogue ID: **G09-001** · [G09 — Tense and aspect](../grammar-catalogue/verbs-and-conjugation.md#g09).
+- English title: Present habitual.
+- Proposed Nepali terminology: सामान्य वर्तमान काल
+- Romanisation: Saamaanya wartamaan kaal
+- Concept type: Habitual meaning and grammatical construction.
+- Catalogue learning outcome: Express habits, routines and general facts.
+- Specification status: Draft implementing the approved pilot direction.
+- Validation status: Linguistic and native-speaker review pending. Publication eligibility unestablished.
+- CEFR assignment: Unassigned.
 
 ## 2. Learning outcomes
 
-Across the relevant depths, learners can describe their own and others’ routines, ask about habits and respond in an unscripted exchange. They can conjugate familiar and new regular verbs for a given subject, choose an appropriate register, express affirmative and negative habits, and distinguish habitual actions from actions in progress.
+- LO1: Recognise habitual actions, routines, repeated events and general facts.
+- LO2: Describe one's own routines and those of other people.
+- LO3: Apply appropriate present habitual conjugation and agreement using familiar and unfamiliar validated verb patterns.
+- LO4: Construct and interpret affirmative and negative habitual statements.
+- LO5: Ask and respond to habitual questions.
+- LO6: Distinguish habitual meaning from progressive and other relevant aspectual meanings.
+- LO7: Recognise and use appropriate register and honorific forms.
 
 ## 3. Meaning and usage
 
-The construction can express habits, repeated actions and general facts. It may also express future time in some contexts, which requires separate contextual review. The English label *present habitual* highlights the teaching target here, with other uses left for subsequent specifications.
+Teach habitual meaning through:
+
+- Repeated actions.
+- Routines.
+- General facts.
+- Regular behaviour.
+
+Distinguish habitual interpretation from other interpretations of similar surface verb forms.
+
+Examples:
+
+म हरेक दिन जान्छु।
+
+Ma harek din jaanchhu.
+
+I go every day.
+
+म भोलि जान्छु।
+
+Ma bholi jaanchhu.
+
+I will go tomorrow.
+
+The first illustrates habitual meaning. The second illustrates context-dependent future reference.
+
+G09-001 owns habitual meaning, not every interpretation of the same conjugated form.
 
 ## 4. Formation rules
 
@@ -27,9 +66,18 @@ In **म हरेक दिन चिया पिउँछु।** (*Ma harek 
 
 An illustrative affirmative formation is **खेल्नु** (*khelnu*, to play) → **खेल्** (*khel*, stem) + **छु** (*chhu*, first-person singular ending here) → **खेल्छु** (*khelchhu*). Review each stem, ending and polarity before generalising. The draft forms for गर्नु and जानु illustrate why a single mechanical rule would be misleading.
 
+- Verb stems.
+- Person and number agreement.
+- Relevant gender distinctions.
+- Honorific agreement.
+- Stem alternations.
+- Affirmative and negative formation.
+
+G09-001 owns habitual meaning and use. The [G08 catalogue](../grammar-catalogue/verbs-and-conjugation.md#g08) owns the morphological rules.
+
 ## 5. Variations and agreement {#present-habitual-agreement}
 
-These draft tables illustrate person, gender, number and honorific agreement. Review each row, including pronoun roles and register labels, feminine and negative spellings, stem alternations and whether alternative forms fit particular contexts.
+Each row represents the indicated subject doing (or not doing), playing (or not playing), or going (or not going) habitually, according to the table heading and polarity column. These draft tables illustrate person, gender, number and honorific agreement. Review each row, including pronoun roles and register labels, feminine and negative spellings, stem alternations and whether alternative forms fit particular contexts.
 
 ### गर्नु / Garnu / To do
 
@@ -86,7 +134,9 @@ Giving priority to the negative rows, check whether the supplied short forms **�
 
 Use the [highest-honorific research reference](../highest-honorific.md) to compare the guide’s proposed formation and agreement with attested contextual usage. Validate affirmative and negative habitual forms, spellings, full and contracted variants, and native audio. Record the outstanding gaps per verb and context, and leave unverified forms unspecified.
 
-## 6. Examples
+## 6. Contextual examples
+
+Use the contextual requirements below with the [example metadata guidance](../grammar-concept-framework.md#contextual-example-metadata). Unless identified as reported or sourced evidence, the examples are draft instructional illustrations. Record source and audio as pending where unavailable. Review incomplete or provisional language representations before learner-facing use.
 
 | Context | Devanagari | Romanisation | English |
 | --- | --- | --- | --- |
@@ -96,6 +146,8 @@ Use the [highest-honorific research reference](../highest-honorific.md) to compa
 | Respectful reference | उहाँ हरेक दिन काममा जानुहुन्छ। | Uhã harek din kaamma jaanuhunchha. | They go to work every day. |
 
 Audio is pending. Review the first two rows as possible models for a familiar conversation and the last row in a context that makes the respectful singular reference clear.
+
+For the routine examples, use a named time or frequency cue and elicit the intended habitual reading. In subject transformations, identify the new referent and matching agreement. In question and negative tasks, record the intended polarity and level of address. Source and audio remain pending for each draft example.
 
 ### Subject transformations
 
@@ -134,17 +186,21 @@ Audio is pending. Review the first two rows as possible models for a familiar co
 
 [G01](../grammar-syllabus.md#g01) covers sentence structure, [G02](../grammar-syllabus.md#g02) pronouns, [G07](../grammar-syllabus.md#g07) verb foundations and [G08](../grammar-syllabus.md#g08) agreement. Link polarity to [G16](../grammar-syllabus.md#g16), questions to [G17](../grammar-syllabus.md#g17), and social choice to [G25](../grammar-syllabus.md#g25). Link the progressive and perfect comparisons within [G09](../grammar-syllabus.md#g09) until their canonical specifications exist.
 
+See [subject omission](subject-omission.md), [highest-honorific conjugation](highest-honorific-conjugation-and-agreement.md) and the G09-008 future-reference row in [G09](../grammar-catalogue/verbs-and-conjugation.md#g09).
+
 ## 8. Anticipated mistakes and corrective feedback
 
-| Draft response and correction | Feedback to adapt to the learner |
-| --- | --- |
-| म खेल्छ → म खेल्छु (*Ma khelchha → Ma khelchhu*) | The speaker is talking about themselves. With म, use the first-person form खेल्छु. |
-| तिमी खेल्छु → तिमी खेल्छौ (*Timi khelchhu → Timi khelchhau*) | The subject is the person you are addressing. Choose खेल्छौ to agree with तिमी. |
-| तपाईं खेल्छौ → तपाईं खेल्नुहुन्छ (*Tapaai khelchhau → Tapaai khelnuhunchha*) | The sentence uses respectful तपाईं. Match that choice with the respectful verb form. |
-| म छैन खेल्छु → म खेल्दिनँ (*Ma chhaina khelchhu → Ma kheldinã*) | For this negative habit, change the verb to the negative form that agrees with म. Try the same pattern with another reviewed verb. |
-| म खाना खान्छु → म खाना खाँदै छु (*Ma khaana khaanchhu → Ma khaana khãdai chhu*) for an action happening now | A routine and an action underway now have different meanings here. For the action in progress, use खाँदै छु. |
+| Draft response and correction | Intended English meaning | Feedback to adapt to the learner |
+| --- | --- | --- |
+| म खेल्छ → म खेल्छु (*Ma khelchha → Ma khelchhu*) | I play. | The speaker is talking about themselves. With म, use the first-person form खेल्छु. |
+| तिमी खेल्छु → तिमी खेल्छौ (*Timi khelchhu → Timi khelchhau*) | You play. | The subject is the person you are addressing. Choose खेल्छौ to agree with तिमी. |
+| तपाईं खेल्छौ → तपाईं खेल्नुहुन्छ (*Tapaai khelchhau → Tapaai khelnuhunchha*) | You play (respectful). | The sentence uses respectful तपाईं. Match that choice with the respectful verb form. |
+| म छैन खेल्छु → म खेल्दिनँ (*Ma chhaina khelchhu → Ma kheldinã*) | I don’t play. | For this negative habit, change the verb to the negative form that agrees with म. Try the same pattern with another reviewed verb. |
+| म खाना खान्छु → म खाना खाँदै छु (*Ma khaana khaanchhu → Ma khaana khãdai chhu*) for an action happening now | I am eating. | A routine and an action underway now have different meanings here. For the action in progress, use खाँदै छु. |
 
 Use the learner’s intended meaning and the stated relationship to diagnose the error. Explain what needs to change, then invite a retry with a meaningful cue.
+
+**Feedback and retry.** Ask whether the situation repeats, is happening now or refers to a future occasion. Have the learner identify the time cue before trying again. For incorrect formation, ask them to identify the subject, stem and polarity before selecting a reviewed form.
 
 ## 9. Natural usage
 
@@ -170,12 +226,14 @@ These describe specific knowledge needs for tasks rather than hard category depe
 
 ## 11. Teaching depth
 
-| Depth | Illustrative habitual performance |
-| --- | --- |
-| Introduction | Hear or read म काम गर्छु (*Ma kaam garchhu*, I work) in context and recognise the routine meaning. |
-| Guided application | Choose a verb ending for a familiar subject and verb with a cue or model. |
-| Independent application | Describe an original routine and ask about someone else’s routine without a supplied sentence frame. |
-| Flexible application | Transfer to unfamiliar regular verbs and settings, switch register appropriately and choose among habitual, progressive and perfect meanings. Use validated highest-honorific forms in contexts where they apply. |
+| Teaching depth | Outcomes | Observable performance |
+| --- | --- | --- |
+| Introduction | LO1, LO6, LO7 | Recognise a routine and contrast it with an action underway in a contextual pair. |
+| Guided application | LO1, LO2, LO3, LO4, LO5, LO6, LO7 | Describe a familiar routine, then practise agreement, negation and questions with cues. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6, LO7 | Exchange routines and follow-up questions without a model and evaluate each dimension separately. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6, LO7 | Transfer across new validated verbs, time cues and social contexts. |
+
+Assess introductory register recognition separately from productive selection.
 
 ## 12. Activity types
 
@@ -183,9 +241,9 @@ Use listening for meaning, construction recognition, gap fill, conjugation, sent
 
 | Prompt | Draft response or interpretation |
 | --- | --- |
-| म हरेक दिन फुटबल ___। / Ma harek din football ___. / I play football every day. | खेल्छु / khelchhu |
+| म हरेक दिन फुटबल ___। / Ma harek din football ___. / I play football every day. | खेल्छु / khelchhu / (I) play |
 | Ask the same question respectfully. तिमी कहाँ जान्छौ? / Timi kahaã jaanchhau? / Where do you go? | तपाईं कहाँ जानुहुन्छ? / Tapaai kahaã jaanuhunchha? |
-| Identify the meaning of म हरेक बिहान चिया पिउँछु। / Ma harek bihaana chiya piunchhu. | Habitual. I drink tea every morning. |
+| Identify the meaning of म हरेक बिहान चिया पिउँछु। / Ma harek bihaana chiya piunchhu. / I drink tea every morning. | Habitual. I drink tea every morning. |
 | Make म काम गर्छु। / Ma kaam garchhu. / I work. negative. | म काम गर्दिनँ। / Ma kaam gardinã. / I don’t work. |
 | Say that you are currently eating dinner. | म खाना खाँदै छु। / Ma khaana khãdai chhu. / I am eating. Supply dinner context and review whether the model needs a more specific gloss or wording. |
 
@@ -195,11 +253,13 @@ Ask the learner to describe a typical Saturday morning and afternoon, something 
 
 Record recognition and comprehension of routines, guided conjugation, independent production, transfer to unfamiliar contexts and verbs, interaction, and retention on a later occasion. Review how much scaffolding was given and whether the evidence was receptive or productive. See [Grammar teaching depth](../grammar-teaching-depth.md) for diagnostic dimensions and Phase 4 assessment boundaries.
 
+Record separate evidence for asking and answering questions, aspectual contrast and transfer to unfamiliar validated verbs. Formal scoring thresholds remain open.
+
 ## 14. Reference integration
 
 The Grammar Library links the explanation and contrasts to reviewed verb forms, dictionary senses and contextual example assets. The Verb Conjugation Reference can show subject, agreement, polarity and register choices, including a selectable highest-honorific register with distinct full and contracted variants, with validated examples and native audio where applicable. The dictionary can lead from a lemma or inflected form to the same approved content. Reuse approved versions in lessons, flashcards and eventual approved AI role-play. Reference lookup or saving can record exposure.
 
-Show Romanisation by default with an independent display toggle. Lookup still supports all approved input formats regardless of the display setting. See [Language reference](../../product/language-reference.md).
+Use the [three independent display controls](../curriculum.md#script-and-romanisation-display).
 
 ## 15. Content validation
 
@@ -210,3 +270,24 @@ Show Romanisation by default with an independent display toggle. Lookup still su
 - Check Devanagari spelling, Romanisation, English glosses, conversation naturalness, register and variation with native speakers, including speakers who naturally use the register.
 - Validate accepted alternatives, assessment context and explanatory feedback.
 - Confirm source and reuse rights, and validate audio, pronunciation and transcript alignment before release. Publish only approved learner-facing versions.
+
+Investigate:
+
+- Regular and irregular stems.
+- Negative formation.
+- Gender and number agreement.
+- उनी agreement.
+- Feminine negative forms.
+- Nasalisation.
+- Spelling.
+- Highest-honorific forms.
+- Temporal interpretation.
+- जान्नँ and जान्न ambiguity involving जानु and जान्नु.
+- Romanisation.
+- Naturalness.
+- English glosses.
+- Native audio and reuse rights.
+
+
+
+**Review record.** All items above are open. Verify accepted assessment alternatives, clarify any incomplete Devanagari, Romanisation or English representations, and record sources, audio status, reuse rights, reviewer decisions and the approved version through [Content QA](../content-qa.md).

@@ -10,7 +10,7 @@ Aafno develops the curriculum in five phases. Discuss and agree each phase and e
 
 ## Phase 1 — Product and learning design
 
-Complete from a product design perspective, pending applicable native-speaker validation. The [curriculum architecture](curriculum.md), [proficiency framework](proficiency-framework.md) and [curriculum structure](curriculum-structure.md) record the decisions. These include independent listening, speaking, grammar, reading and writing profiles, parallel Devanagari literacy, Romanisation visible by default with an independent toggle, and separate records for lesson completion and demonstrated mastery.
+Complete from a product design perspective, pending applicable native-speaker validation. The [curriculum architecture](curriculum.md), [proficiency framework](proficiency-framework.md) and [curriculum structure](curriculum-structure.md) record the decisions. These include independent listening, speaking, grammar, reading and writing profiles, parallel Devanagari literacy, Devanagari, Romanisation and English visible by default with independent controls, and separate records for lesson completion and demonstrated mastery.
 
 ## Phase 2 — Master syllabus {#phase-2--master-syllabus}
 
@@ -31,16 +31,21 @@ Register and variation run through every stage. Document how everyday, respectfu
 | Step | Deliverable | Status |
 | --- | --- | --- |
 | 2A.1 | [Master Nepali grammar inventory](grammar-syllabus.md) | Product scope approved. Linguistic and native-speaker validation pending. |
-| 2A.2 | Concept specification and teaching depth | Step 1 reviewed and merged. Step 2 covers all 31 categories. Five reconciliation batches approved. Implementation under PR review and pending merge. Steps 3–4 planned. |
+| 2A.2 | Concept specification and teaching depth | Step 1 reviewed and merged. Step 2 covers all 31 categories. Five reconciliation batches approved and merged. Seven Step 3A pilot drafts await review. Steps 3B–4 are planned. |
 | 2A.3 | Provisional A1–C2 grammar progression | Planned. Map when forms are introduced, developed and demonstrated. |
 | 2A.4 | Grammar prerequisites and dependencies | Planned. Identify the grammar knowledge and evidence that later concepts depend on. |
 
 #### Phase 2A.2 — Concept specification and teaching depth {#phase-2a2-concept-specification-and-teaching-depth}
 
 1. **Document the specification template, teaching depth and one worked example.** The [grammar concept framework](grammar-concept-framework.md), [teaching depth guide](grammar-teaching-depth.md) and [present habitual example](concepts/present-habitual.md) were reviewed and merged. The linguistic examples remain drafts.
-2. **Review and merge the reconciled master concept catalogue.** All five batches have structural approval. The [grammar catalogue](grammar-catalogue/index.md) contains 500 planned learner targets across 31 categories. The [reconciliation records](grammar-catalogue/reconciliation.md) preserve all 527 original IDs and outcomes. Step 2 remains pending implementation review and merge. Linguistic and native-speaker validation remains pending.
-3. **Write detailed grammar concept specifications in five batches.** Begin after Step 2 review and merge, using the approved 15-section framework and four teaching depths. Work through G01–G06, G07–G13, G14–G18, G19–G24 and G25–G31.
+2. **Review and merge the reconciled master concept catalogue.** All five batches have structural approval. The [grammar catalogue](grammar-catalogue/index.md) contains 500 planned learner targets across 31 categories. The [reconciliation records](grammar-catalogue/reconciliation.md) preserve all 527 original IDs and outcomes. The Step 2 implementation was merged in PR #8. Linguistic and native-speaker validation remains pending.
+3. **Author grammar concept specifications.**
+   - **Step 3A — Pilot consolidation.** The product owner approved seven pilot directions. The [seven canonical drafts](concepts/index.md), updated framework and supporting requirements await product-owner review of the implementation PR. Linguistic and native-speaker validation remains open.
+   - **Step 3B — Remaining specifications.** Begin after explicit product-owner approval. Author the remaining 493 in controlled batches, initially 10–15 concepts, adjusted for complexity and review effort. Use the 15-section framework and the workflow below.
+   - **Step 3C — Cross-category consistency.** After authoring, check canonical ownership and conflicting rules, duplicate evidence, prerequisites, terminology, highest-honorific and variant coverage, teaching depth, language representations and validation completeness. Submit proposed catalogue changes for approval.
 4. **Review the full set.** Check coverage, consistency, teaching depth, [Highest honorific (Ati Uchcha Aadar)](highest-honorific.md), reference integration and [Content QA](content-qa.md).
+
+**Step 3B batch workflow.** Inspect catalogue outcomes, reconciliation and traceability. Identify canonical owners, draft all 15 sections, assign local outcome IDs and map them to the four teaching depths. Record prerequisites and assessment boundaries, add contextual examples, log research gaps, run internal consistency checks and submit each batch for review.
 
 Phase 2A.3 progression and Phase 2A.4 dependency mapping follow this work.
 

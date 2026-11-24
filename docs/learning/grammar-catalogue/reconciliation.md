@@ -7,7 +7,7 @@ nav_order: 6
 
 # Grammar catalogue reconciliation
 
-Phase 2A.2 Step 2 reconciles the 527 provisional coverage targets recorded at [baseline 3a103ce](https://github.com/AafnoHQ/aafno-docs/commit/3a103ce954fade63cbd8e0997485eb52309fae2d). All five review batches have structural approval. The implementation is under pull request review. The catalogue contains **500 planned learner targets across 31 categories**. Research-dependent targets remain provisional, and linguistic and native-speaker validation is pending.
+Phase 2A.2 Step 2 reconciles the 527 provisional coverage targets recorded at [baseline 3a103ce](https://github.com/AafnoHQ/aafno-docs/commit/3a103ce954fade63cbd8e0997485eb52309fae2d). All five review batches have structural approval. The implementation was merged in PR #8. The catalogue contains **500 planned learner targets across 31 categories**. Research-dependent targets remain provisional, and linguistic and native-speaker validation is pending.
 
 The review compared observable learner evidence, grammatical formation, interpretation, contextual selection and productive application. A concept can remain independent while sharing its language specification with another concept. Reference inventories, attestation and contextual variation belong on the relevant forms and shared assets.
 

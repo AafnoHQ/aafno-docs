@@ -9,7 +9,7 @@ nav_order: 1
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-This batch contains **55 planned learner targets** in G01–G06. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-1.md).
+This batch contains **55 planned learner targets** in G01–G06. The reconciliation is structurally approved and its repository implementation has been merged. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-1.md).
 
 Each heading identifies the coverage category for its entries. The related categories below each table record shared coverage and linked applications.
 
@@ -22,7 +22,7 @@ Coverage · [G01 in the grammar syllabus](../grammar-syllabus.md#g01) · 9 plann
 | G01-001 | Basic sentence structure | Understand and construct basic subject–object–verb sentences. | Planned |
 | G01-002 | Sentence components | Identify subjects, predicates, objects and other sentence components. | Planned |
 | G01-003 | Direct and indirect objects | Distinguish what is acted upon and who receives or benefits from an action. | Planned |
-| G01-004 | Subject omission | Understand and construct sentences with an omitted subject and recover the subject from context where appropriate. | Planned |
+| G01-004 | [Subject omission](../concepts/subject-omission.md) | Understand and construct sentences with an omitted subject and recover the subject from context where appropriate. | Planned |
 | G01-005 | Flexible word order | Recognise how word order changes without necessarily changing the core meaning. | Planned |
 | G01-006 | Sentence expansion | Add time, place, manner or other circumstances to a sentence. | Planned |
 | G01-007 | Simple sentences | Express a complete idea with a single independent clause. | Planned |

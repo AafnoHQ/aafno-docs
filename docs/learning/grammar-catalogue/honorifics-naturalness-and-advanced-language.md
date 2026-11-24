@@ -9,7 +9,7 @@ nav_order: 5
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-This batch contains **143 planned learner targets** in G25–G31. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-5.md).
+This batch contains **143 planned learner targets** in G25–G31. The reconciliation is structurally approved and its repository implementation has been merged. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-5.md).
 
 [Highest honorific (Ati Uchcha Aadar)](../highest-honorific.md) documents the register, the distinction between guide claims and reported family usage, and validation requirements.
 
@@ -235,7 +235,7 @@ English can express these distinctions, but often requires additional words or p
 | G27-004 | Discovery constructions — रहेछ | Express newly discovered or newly recognised information. | Planned |
 | G27-005 | Event discovery — गरेछ | Express discovery or recognition of an event through appropriate verb forms. | Planned |
 | G27-006 | Negative discovery constructions | Express discovery that an expected event or state did not occur or exist. | Planned |
-| G27-007 | Reported information and hearsay | Interpret and use hearsay रे to attribute information to another speaker or source, including in reported speech. | Planned |
+| G27-007 | [Reported information and hearsay](../concepts/reported-information-and-hearsay.md) | Interpret and use hearsay रे to attribute information to another speaker or source, including in reported speech. | Planned |
 | G27-008 | Inference from evidence | Express conclusions based on available evidence rather than direct observation. | Planned |
 | G27-009 | Assumption and conjecture — होला | Express assumptions and conjectures using appropriate constructions. | Planned |
 | G27-010 | Past-event inference | Infer or speculate about events that occurred in the past. | Planned |
@@ -644,7 +644,7 @@ Aafno should teach a reliable common foundation while helping learners understan
 | G31-004 | Formal spoken register | Adapt language to formal spoken situations. | Planned |
 | G31-005 | Formal written register | Recognise and construct language appropriate to formal written communication. | Planned |
 | G31-006 | Literary register | Recognise grammatical and lexical patterns associated with literary language. | Planned |
-| G31-007 | Family-specific variation | Understand and appropriately use validated family-specific language variation, including variation beyond honorifics. | Planned |
+| G31-007 | [Family-specific variation](../concepts/family-specific-variation.md) | Understand and appropriately use validated family-specific language variation, including variation beyond honorifics. | Planned |
 | G31-008 | Regional variation | Comprehend validated regional grammatical and lexical alternatives. | Planned |
 | G31-009 | Community variation | Comprehend attested patterns across speech communities. | Planned |
 | G31-010 | Generational variation | Recognise and comprehend documented differences in usage across generations. | Planned |

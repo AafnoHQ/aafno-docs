@@ -9,7 +9,7 @@ nav_order: 4
 
 [Grammar catalogue](index.md) · Phase 2A.2 Step 2
 
-This batch contains **111 planned learner targets** in G19–G24. The reconciliation is structurally approved and its repository implementation is under review. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-4.md).
+This batch contains **111 planned learner targets** in G19–G24. The reconciliation is structurally approved and its repository implementation has been merged. All examples, language classifications and usage claims remain drafts pending linguistic and native-speaker validation. [Traceability and approved boundaries](traceability-4.md).
 
 The examples illustrate how learners can connect ideas, explain decisions, describe experiences, tell stories, report conversations and discuss hypothetical situations. The demonstrations and assessment illustrations below are static documentation of draft learning designs.
 
@@ -333,7 +333,7 @@ Coverage · [G24 in the grammar syllabus](../grammar-syllabus.md#g24)
 | G24-009 | Multiple levels of causation | Interpret and express events involving more than one level of causation. | Planned |
 | G24-010 | Causative participant marking | Apply appropriate case marking to causers, causees and affected participants. | Planned |
 | G24-011 | Impersonal constructions | Recognise and construct impersonal expressions without an ordinary explicit personal subject. Distinguish these from recoverable subject omission. | Planned |
-| G24-012 | Experiencer constructions | Interpret and express experiencer participant structures, including feelings, sensations and experiences. Identify and apply dative experiencer marking with लाई where appropriate. | Planned |
+| G24-012 | [Experiencer constructions](../concepts/experiencer-constructions.md) | Interpret and express experiencer participant structures, including feelings, sensations and experiences. Identify and apply dative experiencer marking with लाई where appropriate. | Planned |
 | G24-013 | Reflexive constructions | Express actions directed towards the participant performing them. | Planned |
 | G24-014 | Reciprocal constructions | Interpret mutual-action participant relationships and express actions performed mutually using appropriate reciprocal verb constructions. | Planned |
 | G24-015 | Volitional and non-volitional events | Distinguish intentional actions from events occurring without deliberate intention. | Planned |

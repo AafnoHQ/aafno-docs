@@ -47,6 +47,20 @@ The MVP does not set a unit count before content review capacity is known. Each 
 - A finished visual system. The MVP should look calm and readable, and follow [Visual identity](../design/visual-identity.md) — Aafno · आफ्नो, “Your language. Your roots. Your own.” — without inventing a second brand. Logo lockups and a licensed palette can land as soon as they exist; they do not block the first units.
 - Payments and growth features.
 
+## Feature backlog
+
+These Step 3A proposals are available for future scope review. MVP commitments are listed under [What ships](#what-ships).
+
+| Capability | Product requirement |
+| --- | --- |
+| Interactive sentence explorer | Inspect subjects, understood subjects, roles, case markers, predicates, agreement and contextual meaning. Link to canonical grammar and dictionary entries. Offer “Show understood subject” where appropriate and independent Devanagari, Romanisation and English controls. |
+| Meaning-based construction discovery | Search by intentions such as expressing hunger or uncertainty, saying what one likes, reporting information and asking respectfully. Make grammatical terminology optional. |
+| Grammatical meaning comparison explorer | Compare habitual and progressive, agent and experiencer, hearsay and discovery, and source-unspecified assertions and conjecture. Show shared content and explain how the change affects meaning and context. |
+| Household language preferences | Prioritise validated examples and practice reflecting standard respectful forms, highest-honorific forms, both or unsure. Retain access to the full shared curriculum and validated variants. Use evidence and context for correctness. Avoid requiring caste, ethnicity or community disclosure. Onboarding design remains open. |
+| Variant-aware references | Surface multiple validated alternatives, meanings, contexts, register, audio and canonical links across all three reference tools. Present reviewed full and contracted highest-honorific variants within the same register. |
+| Moderated learner contributions | Take a Romanised expression, intended meaning, optional Devanagari, usage context, social relationship or register, and optional audio with appropriate consent. Queue for evidence and duplication checks, linguistic and native-speaker review, and approval or further research. Protect privacy and record consent and reuse rights before publication. |
+| Information relay activities | Have a learner receive information from one speaker and convey it to another. Observe comprehension, meaning preservation, personal and temporal reference, agreement, register and source marking separately where demonstrated. |
+
 ## Content rule for the MVP
 
 Every Nepali sentence, explanation, accepted answer, transcript, and audio file in the learner path has a native-speaker acceptance recorded against its version. Volume is whatever can be validated, not whatever can be generated. A short course that is right is the MVP. A long course that is unreviewed is a different product, and not this one.

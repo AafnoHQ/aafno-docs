@@ -42,7 +42,7 @@ The normal learning cycle is **hear/read in context → understand construction 
 
 ## Script and Romanisation display
 
-**Product requirement:** learner-facing Nepali displays Devanagari and Romanised Nepali together by default. A learner can independently hide Romanisation at any time; hiding it must not hide Devanagari or change the active literacy pathway. Romanisation supports access and early practice, but it does not replace Devanagari literacy evidence.
+**Product requirement.** Ordinary learning and reference display Devanagari, Romanised Nepali and English by default for applicable model sentences, conjugations, dialogues, corrections and exercise examples. Learners can independently show or hide each representation, and preferences persist across applicable experiences. Provide combined and single-script Nepali views, with English independently configurable. When written Nepali is needed, keep at least one usable Nepali representation visible. Assessments may restrict a representation that gives away the answer or invalidates the target skill, such as Romanisation in a Devanagari reading task. Oral grammar, listening and speaking evidence does not require script literacy.
 
 The precise Romanisation convention remains an editorial decision and must be applied consistently once it is approved.
 
