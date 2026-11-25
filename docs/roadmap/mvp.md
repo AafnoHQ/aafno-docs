@@ -61,6 +61,9 @@ These Step 3A proposals are available for future scope review. MVP commitments a
 | Moderated learner contributions | Take a Romanised expression, intended meaning, optional Devanagari, usage context, social relationship or register, and optional audio with appropriate consent. Queue for evidence and duplication checks, linguistic and native-speaker review, and approval or further research. Protect privacy and record consent and reuse rights before publication. |
 | Information relay activities | Have a learner receive information from one speaker and convey it to another. Observe comprehension, meaning preservation, personal and temporal reference, agreement, register and source marking separately where demonstrated. |
 
+| Progressive sentence builder | Build a core sentence, then add or remove time, place, frequency, manner or other optional information in reviewed frames. Use contextual feedback, canonical component annotations and links to vocabulary and conjugation. Reuse the sentence explorer annotations, support the three display controls, and record guided and independent evidence separately. |
+| Interactive pronoun reference | Future Grammar Library capability for searching reviewed person, number, register, case and possessive forms, agreement and household alternatives. Reuse canonical entries, examples, approved audio and variant-aware usage notes. |
+
 ## Content rule for the MVP
 
 Every Nepali sentence, explanation, accepted answer, transcript, and audio file in the learner path has a native-speaker acceptance recorded against its version. Volume is whatever can be validated, not whatever can be generated. A short course that is right is the MVP. A long course that is unreviewed is a different product, and not this one.
