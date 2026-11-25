@@ -12,6 +12,12 @@ Aafno’s agreed long-term reference tools help learners look up a word, underst
 
 Search by construction, form, or communicative need, such as how to speak respectfully about a past event. Each entry can explain how a construction is formed, what it communicates and where it is appropriate. Include contextual examples, comparisons with related constructions, linked conjugation tables and targeted practice. Use the [grammar syllabus](../learning/grammar-syllabus.md) to organise entries and link recurring forms to their canonical concepts.
 
+### Interactive pronoun reference
+
+The proposed [pronoun reference](../roadmap/mvp.md#feature-backlog) connects first-, second- and third-person entries, singular and plural readings, validated register and household variants, case and possessive forms, contextual examples and approved audio. Link dictionary senses, canonical grammar and verb agreement in the Verb Conjugation Reference. Use the same three-language display policy. Household preferences can prioritise examples while reviewed usage and context govern correctness.
+
+The proposed [progressive sentence builder](../roadmap/mvp.md#feature-backlog) reuses the sentence explorer’s canonical annotations. The explorer helps learners interpret existing sentences. The builder supports construction and controlled expansion, with separate evidence for guided and independent practice.
+
 ## Verb Conjugation Reference
 
 Search by lemma or inflected form. Let learners explore forms by pronoun, person, number and gender where relevant, tense and aspect, honorific level or register, and positive or negative polarity. Identify irregular forms and show validated contextual examples. Link forms to their dictionary entries, relevant grammar explanations and practice. Explain the construction in Nepali usage terms with approximate English glosses.

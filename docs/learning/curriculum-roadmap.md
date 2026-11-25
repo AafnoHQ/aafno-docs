@@ -31,7 +31,7 @@ Register and variation run through every stage. Document how everyday, respectfu
 | Step | Deliverable | Status |
 | --- | --- | --- |
 | 2A.1 | [Master Nepali grammar inventory](grammar-syllabus.md) | Product scope approved. Linguistic and native-speaker validation pending. |
-| 2A.2 | Concept specification and teaching depth | Step 1 reviewed and merged. Step 2 covers all 31 categories. Five reconciliation batches approved and merged. Seven Step 3A pilot drafts await review. Steps 3B–4 are planned. |
+| 2A.2 | Concept specification and teaching depth | Step 1 reviewed and merged. Step 2 covers all 31 categories. Five reconciliation batches approved and merged. Step 3A merged. Step 3B Batch 1 awaits product-owner review. Later batches, Step 3C and Step 4 are planned. |
 | 2A.3 | Provisional A1–C2 grammar progression | Planned. Map when forms are introduced, developed and demonstrated. |
 | 2A.4 | Grammar prerequisites and dependencies | Planned. Identify the grammar knowledge and evidence that later concepts depend on. |
 
@@ -40,12 +40,12 @@ Register and variation run through every stage. Document how everyday, respectfu
 1. **Document the specification template, teaching depth and one worked example.** The [grammar concept framework](grammar-concept-framework.md), [teaching depth guide](grammar-teaching-depth.md) and [present habitual example](concepts/present-habitual.md) were reviewed and merged. The linguistic examples remain drafts.
 2. **Review and merge the reconciled master concept catalogue.** All five batches have structural approval. The [grammar catalogue](grammar-catalogue/index.md) contains 500 planned learner targets across 31 categories. The [reconciliation records](grammar-catalogue/reconciliation.md) preserve all 527 original IDs and outcomes. The Step 2 implementation was merged in PR #8. Linguistic and native-speaker validation remains pending.
 3. **Author grammar concept specifications.**
-   - **Step 3A — Pilot consolidation.** The product owner approved seven pilot directions. The [seven canonical drafts](concepts/index.md), updated framework and supporting requirements await product-owner review of the implementation PR. Linguistic and native-speaker validation remains open.
-   - **Step 3B — Remaining specifications.** Begin after explicit product-owner approval. Author the remaining 493 in controlled batches, initially 10–15 concepts, adjusted for complexity and review effort. Use the 15-section framework and the workflow below.
+   - **Step 3A — Pilot consolidation.** The product owner approved seven pilot directions. The [seven canonical drafts](concepts/index.md#step-3a-pilots), framework and supporting requirements were reviewed and merged in [PR #9](https://github.com/AafnoHQ/aafno-docs/pull/9). Linguistic and native-speaker validation remains open.
+   - **Step 3B — Remaining specifications.** The approved [first batch](specification-batches.md#step-3b-batch-1) covers sentence structure and personal pronouns and awaits product-owner review. The [tracker](specification-progress.md) derives the number remaining. Continue after explicit approval, using the [authoring workflow](specification-authoring.md) and adaptive batch sizes.
    - **Step 3C — Cross-category consistency.** After authoring, check canonical ownership and conflicting rules, duplicate evidence, prerequisites, terminology, highest-honorific and variant coverage, teaching depth, language representations and validation completeness. Submit proposed catalogue changes for approval.
 4. **Review the full set.** Check coverage, consistency, teaching depth, [Highest honorific (Ati Uchcha Aadar)](highest-honorific.md), reference integration and [Content QA](content-qa.md).
 
-**Step 3B batch workflow.** Inspect catalogue outcomes, reconciliation and traceability. Identify canonical owners, draft all 15 sections, assign local outcome IDs and map them to the four teaching depths. Record prerequisites and assessment boundaries, add contextual examples, log research gaps, run internal consistency checks and submit each batch for review.
+The [authoring guide](specification-authoring.md) defines drafting, validation, progress tracking, decision escalation, QA and PR review.
 
 Phase 2A.3 progression and Phase 2A.4 dependency mapping follow this work.
 

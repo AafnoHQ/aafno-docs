@@ -1,0 +1,48 @@
+{
+  "phase": "2A.2",
+  "expected_active": 500,
+  "expected_original": 527,
+  "baseline": "f573510a121a5d7529bc1879648f8ffb2bcd8b44",
+  "batches": [
+    {
+      "id": "Step 3A",
+      "title": "Pilot consolidation",
+      "anchor": "step-3a",
+      "ids": [
+        "G01-004",
+        "G08-005",
+        "G09-001",
+        "G14-003",
+        "G24-012",
+        "G27-007",
+        "G31-007"
+      ],
+      "structural": "Approved",
+      "pr": "https://github.com/AafnoHQ/aafno-docs/pull/9"
+    },
+    {
+      "id": "Step 3B Batch 1",
+      "title": "Sentence structure and personal pronouns",
+      "anchor": "step-3b-batch-1",
+      "ids": [
+        "G01-001",
+        "G01-002",
+        "G01-003",
+        "G01-005",
+        "G01-006",
+        "G01-007",
+        "G01-008",
+        "G01-009",
+        "G02-001",
+        "G02-002",
+        "G02-003",
+        "G02-004"
+      ],
+      "structural": "Awaiting review",
+      "pr": "https://github.com/AafnoHQ/aafno-docs/pulls?q=head%3Acodex%2Fstep-3b-batch-1-sentence-structure-pronouns"
+    }
+  ],
+  "validation": {},
+  "active_sha256": "fc25ad10448c70087270709b11b800ec0f28a851a69d3100b78503571cfea0c7",
+  "original_sha256": "cebd0525da2931a558130212b08d8e91a29141ead85e2218e2957a13053a2af3"
+}

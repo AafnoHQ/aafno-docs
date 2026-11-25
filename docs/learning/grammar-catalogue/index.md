@@ -18,7 +18,7 @@ Phase 2A.2 Step 2 reconciles 527 original coverage targets into **500 planned le
 | G25–G31 · [Honorifics, naturalness and advanced language](honorifics-naturalness-and-advanced-language.md) | 148 | 143 |
 | **Total** | **527** | **500** |
 
-All five reconciliation batches have structural approval. The reconciliation has been merged. The [seven Step 3A drafts](../concepts/index.md) track specification progress separately from catalogue planning status. Linguistic and native-speaker validation is pending. See the [curriculum roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth).
+All five reconciliation batches have structural approval. The reconciliation has been merged. The [specification progress tracker](../specification-progress.md) records specification authoring and review separately from catalogue planning status. Linguistic and native-speaker validation is pending. See the [curriculum roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth).
 
 ## What counts as a concept
 

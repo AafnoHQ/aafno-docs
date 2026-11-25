@@ -53,7 +53,7 @@ See [Architecture](docs/technical/architecture.md) for the web and mobile respon
 | [Proficiency framework](docs/learning/proficiency-framework.md) | CEFR-inspired skill descriptors and assessment principles |
 | [Curriculum structure](docs/learning/curriculum-structure.md) | Reusable concepts, dependencies, and flexible learning routes |
 | [Grammar syllabus](docs/learning/grammar-syllabus.md) | Phase 2A.1 master grammar inventory |
-| [Grammar concept framework](docs/learning/grammar-concept-framework.md) | Phase 2A.2 step 1 template, [teaching depth](docs/learning/grammar-teaching-depth.md) and [seven Step 3A pilot specifications](docs/learning/concepts/index.md) |
+| [Grammar concept framework](docs/learning/grammar-concept-framework.md) | Phase 2A.2 step 1 template, [teaching depth](docs/learning/grammar-teaching-depth.md) and [canonical specifications](docs/learning/concepts/index.md) |
 | [Grammar catalogue](docs/learning/grammar-catalogue/index.md) | Phase 2A.2 Step 2 · 500 planned learner targets across 31 categories |
 | [Highest honorific (Ati Uchcha Aadar)](docs/learning/highest-honorific.md) | Draft research reference and validation requirements |
 | [Content QA](docs/learning/content-qa.md) | How learner-facing Nepali is reviewed and released |
