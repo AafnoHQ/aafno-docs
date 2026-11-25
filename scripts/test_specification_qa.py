@@ -96,3 +96,28 @@ class RepositoryTests(unittest.TestCase):
         errors = []
         qa.check_inventory(active, original, manifest, errors)
         self.assertTrue(any("active ID set differs" in item for item in errors))
+
+    def test_evidence_anchor_must_resolve(self):
+        path = PurePosixPath("docs/reviews.md")
+        files = {path: "## Review decision {#approved-g01-001}"}
+        errors = []
+        qa.check_evidence("G01-001", {"linguistic_evidence": "docs/reviews.md#approved-g01-001"}, files, errors)
+        self.assertEqual(errors, [])
+        qa.check_evidence("G01-001", {"linguistic_evidence": "docs/reviews.md#missing"}, files, errors)
+        qa.check_evidence("G01-001", {"native_evidence": "https://example.com/evidence"}, files, errors)
+        self.assertEqual(len(errors), 2)
+
+    def test_semantic_baseline_guards(self):
+        trace = qa.CAT / "traceability-1.md"
+        original = ("## G01-001 {#g01-001}\n\n"
+                    "**Surviving destination or evidence owner** · [G01-001](foundation.md#g01)\n")
+        files = {trace: original}
+        active = {"G01-001": ("Example", "Construct a clause.")}
+        baseline = {**qa.content_fingerprints(files, active), "baseline": "fixture"}
+        errors = []
+        qa.check_content(files, active, baseline, errors)
+        self.assertEqual(errors, [])
+        qa.check_content(files, {"G01-001": ("Example", "Recognise a clause.")}, baseline, errors)
+        qa.check_content({trace: original.replace("[G01-001]", "[G01-002]")}, active, baseline, errors)
+        self.assertTrue(any("outcomes differ" in item for item in errors))
+        self.assertTrue(any("destinations differ" in item for item in errors))

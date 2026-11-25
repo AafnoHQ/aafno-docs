@@ -37,9 +37,19 @@ Plural personal pronouns refer to groups in the speech situation. Identify wheth
 
 Use हामी / Haami / we as an inherently plural starting form. Compare forms with हरू / Haru / plural, including तिमीहरू / Timiharu / you (plural), तपाईंहरू / Tapaaiharu / you (respectful plural), उनीहरू / Uniharu / they, and उहाँहरू / Uhãharu / they (respectful). Teach reviewed form combinations individually and explain when explicit marking is appropriate.
 
+### Worked example
+
+Start with the group’s relation to the conversation. Use the inherent first-person plural form when speaking as one of them. Compare an addressee group and an absent group with reviewed explicitly marked forms. Reinterpret the same group after the speaker changes.
+
+**Draft model.** तपाईंहरू कहाँ जानुहुन्छ? / Tapaaiharu kahaã jaanuhunchha? / Where are you all going? हामी घर जान्छौँ। / Haami ghar jaanchhaũ. / We’re going home.
+
 ## 5. Variations and agreement
 
 Context may clarify number without an explicit marker. Honorific agreement does not reliably count people. Review optionality, family variation, group register and case or possessive transformations through G14 and G15. Keep predicate agreement separate.
+
+### Context and contrast
+
+Compare one respectful referent with several using explicit plural marking; similar-looking predicate agreement does not settle actual group size. Where a variant lacks explicit marking, use a clear group context and verify acceptable readings.
 
 ## 6. Contextual examples
 
@@ -66,6 +76,8 @@ If the learner counts people from the verb ending alone, replay the singular and
 
 Use the [variant-aware assessment policy](../proficiency-framework.md#variant-aware-assessment) for reviewed alternatives, contextual mismatches and unreviewed forms.
 
+**Targeted retry.** If a learner infers plurality from the verb ending or adds a plural suffix mechanically, ask them to name the actual participants and choose an attested form. Retry with the respectful singular–plural pair.
+
 ## 9. Natural usage
 
 Use a team organiser scenario: speak as the team, ask a group about plans, then report about people who are absent. Contrast addressing one person respectfully with addressing the whole group.
@@ -79,6 +91,11 @@ Draft exchange for review. One member answers for the group. The same people are
 
 ## 10. Prerequisites
 
+- Required: distinguish speaker, listener and third person.
+- Helpful: recognise common plural forms.
+- Co-teach: explicit plural marking and contextual number.
+- Extension: case, possession and household alternatives.
+
 Basic speech-participant roles and contextual number. Co-teach reviewed group forms and comparison with singular respect. Extend to case, possession and household variants as evidence becomes available. Requirements vary by outcome and depth. Use contextual audio and glosses for oral tasks so learners can demonstrate the target without script literacy.
 
 ## 11. Teaching depth
@@ -86,9 +103,9 @@ Basic speech-participant roles and contextual number. Co-teach reviewed group fo
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1, LO2, LO3 | Point to the people in an addressed or discussed group. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Sort speaker groups, addressee groups and third-person groups with cues, then compare respectful singular and plural examples. |
-| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Apply the target independently in a new reviewed prompt. Address a group and report on a different group independently. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Vary the setting, participants or reviewed construction and explain the resulting interpretation or choice. |
+| Guided application | LO1, LO2, LO3, LO4, LO5 | Give a roster including two addressees, an absent team and the current speaker’s group. Ask the learner to point to the referents and produce one utterance for each perspective. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Elicit interpretation and production in three person groups. Include a respectful singular foil and an explicit versus context-dependent plural comparison. Score person, actual number, and formation or agreement independently. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Follow a respectful group exchange in which one member replies for the group. Reassign first-, second- and third-person reference as perspective shifts and explain why identical agreement can still accompany different referent counts. |
 
 ## 12. Activity types
 
@@ -96,9 +113,17 @@ Basic speech-participant roles and contextual number. Co-teach reviewed group fo
 - Compare respectful singular and plural examples.
 - Address a group and report on a different group independently.
 
+### Draft activity prototype
+
+- **Prompt.** Ask several people respectfully where they are going, then answer as a member of that group.
+- **Expected response.** तपाईंहरू कहाँ जानुहुन्छ? / Tapaaiharu kahaã jaanuhunchha? / Where are you all going? हामी घर जान्छौँ। / Haami ghar jaanchhaũ. / We’re going home.
+- **Feedback.** The group stays the same while its person classification changes. Compare the same question to one known addressee with तपाईं / Tapaai / you.
+
 ## 13. Mastery evidence
 
 Switch among three unfamiliar groups and one respectful singular referent. Require an interpretation of person and actual number plus original group reference. Credit case, suffix formation beyond reviewed target forms and agreement only when separately assessed.
+
+**Coverage check.** Elicit interpretation and production in three person groups. Include a respectful singular foil and an explicit versus context-dependent plural comparison. Score person, actual number, and formation or agreement independently.
 
 ## 14. Reference integration
 
@@ -117,3 +142,5 @@ Use the proposed [interactive pronoun reference](../../product/language-referenc
 - Review romanisation and glosses.
 - Confirm candidate alternatives in context and review accepted responses separately from related targets.
 - Check audio alignment, source provenance and reuse rights before release. Record the evidence and reviewer decision against the affected version under [Content QA](../content-qa.md). No reviewer or approved recording is recorded for these illustrations.
+
+**Evidence to resolve open questions.** Collect speaker judgments on optional explicit marking with known singular and group referents. Confirm group agreement, case transformations, naturalness and the limits of each accepted form. Record source, reviewer, contextual limits, accepted alternatives and rights in the QA record. Status: open.

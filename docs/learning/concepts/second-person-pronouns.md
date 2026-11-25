@@ -37,9 +37,19 @@ These forms can point to the person being addressed. Working descriptions includ
 
 Identify the interlocutor and scenario first. Select from reviewed forms and apply compatible agreement by reference to the relevant owner. Hold the intended question constant when comparing address forms. Distinguish pronoun use of हजुर from other discourse uses that require separate analysis.
 
+### Worked example
+
+Keep the destination question fixed while selecting a reviewed address form for the interlocutor. Then match the predicate independently. Compare the same message in familiar and standard respectful contexts before comparing a household-context candidate.
+
+**Draft model.** Draft mismatch for this scenario: तिमी कहाँ जानुहुन्छ? / Timi kahaã jaanuhunchha? / Where are you going? Target retry: तिमी कहाँ जान्छौ? / Timi kahaã jaanchhau? / Where are you going?
+
 ## 5. Variations and agreement
 
 Teach singular and group address with G02-004, case and possession with G14 and G15, and recoverable omission with G01-004. हजुर alone does not determine highest-honorific agreement. Avoid rigid rules based on age, friendship, unfamiliarity or assumed rudeness.
+
+### Context and contrast
+
+Two families may use different forms in a similar relationship. An explicit pronoun and its agreement each provide evidence; a household example with हजुर / Hajur / you does not predict a universal highest-honorific ending.
 
 ## 6. Contextual examples
 
@@ -64,6 +74,8 @@ If a learner chooses a form using age alone, ask what the interlocutors normally
 
 Use the [variant-aware assessment policy](../proficiency-framework.md#variant-aware-assessment) for reviewed alternatives, contextual mismatches and unreviewed forms.
 
+**Targeted retry.** If a learner selects by age alone, give relationship and household conventions and invite a new choice. If the pronoun fits but agreement does not, ask the learner to hold the address form fixed and retry the ending.
+
 ## 9. Natural usage
 
 Role-play asking the same destination question in familiar, respectful and explicitly described household settings. Give the relationship and conventions in the scenario before asking for the form. Compare possible responses when those cues are incomplete.
@@ -77,6 +89,11 @@ Draft exchange for review. Describe interlocutors and their conventions. Match t
 
 ## 10. Prerequisites
 
+- Required: know who is addressed and the relevant context.
+- Helpful: recognise basic agreement.
+- Co-teach: form choice and separate agreement feedback.
+- Extension: attested highest-honorific agreement and other discourse uses of हजुर / Hajur / respectful address.
+
 An identifiable interlocutor and enough social context to choose a form. Co-teach contextual variation and basic agreement as needed. Highest-honorific comparison requires attested examples. Requirements vary by outcome and depth. Use contextual audio and glosses for oral tasks so learners can demonstrate the target without script literacy.
 
 ## 11. Teaching depth
@@ -84,9 +101,9 @@ An identifiable interlocutor and enough social context to choose a form. Co-teac
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1, LO2, LO3 | Identify who is being addressed and compare familiar and respectful forms. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Match a destination question to an attested context with cues, then role-play a change of interlocutor while keeping the message constant. |
-| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Apply the target independently in a new reviewed prompt. Listen for address and assess the agreement response separately. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Vary the setting, participants or reviewed construction and explain the resulting interpretation or choice. |
+| Guided application | LO1, LO2, LO3, LO4, LO5 | Present a familiar scenario and show a form with a mismatched respectful predicate. Ask which part fits the scenario and which part needs changing. Compare with a validated respectful alternative in a second scenario. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Require recognition of all four forms and production in multiple sufficiently specified contexts. Include one case of correct pronoun choice with an incorrect ending and report each evidence dimension independently. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Keep one intention fixed across reviewed household and non-household settings. Choose a form with context evidence, recognise when more than one is valid and identify when agreement needs a separate correction. |
 
 ## 12. Activity types
 
@@ -94,9 +111,17 @@ An identifiable interlocutor and enough social context to choose a form. Co-teac
 - Role-play a change of interlocutor while keeping the message constant.
 - Listen for address and assess the agreement response separately.
 
+### Draft activity prototype
+
+- **Prompt.** In the reviewed familiar scenario, a learner chooses the intended pronoun but uses the standard respectful ending. Correct only the agreement.
+- **Expected response.** Draft mismatch for this scenario: तिमी कहाँ जानुहुन्छ? / Timi kahaã jaanuhunchha? / Where are you going? Target retry: तिमी कहाँ जान्छौ? / Timi kahaã jaanchhau? / Where are you going?
+- **Feedback.** Credit the address-form evidence separately. Review whether the combination is attested elsewhere before labelling it generally unsuitable.
+
 ## 13. Mastery evidence
 
 Use unfamiliar scenarios with explicit review-supported context and allow appropriate alternative forms. Ask which person is addressed and why the selection fits. Record pronoun choice, social selection and agreement against their respective targets.
+
+**Coverage check.** Require recognition of all four forms and production in multiple sufficiently specified contexts. Include one case of correct pronoun choice with an incorrect ending and report each evidence dimension independently.
 
 ## 14. Reference integration
 
@@ -116,3 +141,5 @@ Use the proposed [interactive pronoun reference](../../product/language-referenc
 - Review romanisation and glosses.
 - Confirm candidate alternatives in context and review accepted responses separately from related targets.
 - Check audio alignment, source provenance and reuse rights before release. Record the evidence and reviewer decision against the affected version under [Content QA](../content-qa.md). No reviewer or approved recording is recorded for these illustrations.
+
+**Evidence to resolve open questions.** Seek speakers who naturally use the relevant forms, recording context and relation. Compare standard respectful and household agreement with the same address form, and verify non-pronominal uses separately. Record source, reviewer, contextual limits, accepted alternatives and rights in the QA record. Status: open.

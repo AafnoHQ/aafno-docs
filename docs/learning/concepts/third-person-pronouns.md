@@ -37,9 +37,19 @@ Third-person pronouns refer to people other than the current speaker and address
 
 Start with an antecedent or shared referent. Choose a pronoun that suits the context and use separate agreement evidence to check the predicate. Track changes in turn and distinguish describing someone from speaking to that person. Restore a name or other explicit phrase when the referent would be unclear.
 
+### Worked example
+
+Introduce the absent person by name or relationship. Use a reviewed third-person form in the next turn and check that the listener can resolve it. Contrast the same familiar pronoun with two reviewed predicate-agreement candidates, then use a respectful form for a known singular person.
+
+**Draft model.** उहाँ काम गर्नुहुन्छ। / Uhã kaam garnuhunchha. / He works, respectfully. Here the context identifies one person.
+
 ## 5. Variations and agreement
 
 Keep inherent referent number separate from the apparent number of a verb ending. Review उनी distribution, possible readings and contextual agreement, including gender distinctions with familiar forms. Highest-honorific third-person reference is a separate agreement research area. G14, G15 and G01-004 own case, possession and subject omission respectively.
+
+### Context and contrast
+
+Pronoun form does not establish an English gender gloss or actual number by itself. With two plausible referents, repeat a name or use a clarifying description. Treat the exact scope of उनी / Uni / third-person reference as contextual and open.
 
 ## 6. Contextual examples
 
@@ -64,6 +74,8 @@ If the learner interprets every respectful verb as plural, ask how many people w
 
 Use the [variant-aware assessment policy](../proficiency-framework.md#variant-aware-assessment) for reviewed alternatives, contextual mismatches and unreviewed forms.
 
+**Targeted retry.** If a learner infers a group from a respectful predicate, ask them to point to the people already mentioned. Retry with one singular and one plural context and ask which evidence actually distinguishes them.
+
 ## 9. Natural usage
 
 After one speaker mentions two people, have a partner describe one of them. Ask whether the listener can tell who it is and invite a name or explicit description if the context leaves two possible referents.
@@ -77,6 +89,11 @@ Draft exchange for review. The question identifies older brother, so the reply c
 
 ## 10. Prerequisites
 
+- Required: a supported referent in discourse.
+- Helpful: recognise common verb endings.
+- Co-teach: continuation and repair of ambiguity.
+- Extension: gender- and honorific-sensitive agreement and case forms.
+
 An explicit or recoverable referent and basic conversation turn tracking. Co-teach case or agreement when examples require it. Extend to complex discourse and attested highest-honorific reference separately. Requirements vary by outcome and depth. Use contextual audio and glosses for oral tasks so learners can demonstrate the target without script literacy.
 
 ## 11. Teaching depth
@@ -84,9 +101,9 @@ An explicit or recoverable referent and basic conversation turn tracking. Co-tea
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1, LO2 | Resolve a clearly cued third-person referent. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Match pronouns to named discourse referents with cues, then interpret referent number and repair ambiguity. |
-| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Apply the target independently in a new reviewed prompt. Describe someone absent using a contextually suitable form. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Vary the setting, participants or reviewed construction and explain the resulting interpretation or choice. |
+| Guided application | LO1, LO2, LO3, LO4, LO5 | Present a dialogue about one older brother, then a separate one about a group. Ask who the pronoun refers to, how many people it denotes, and which clues come from the predicate rather than the pronoun. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Use unseen audio with singular respectful, context-sensitive and clearly marked group readings. Test antecedent recovery, appropriate selection and ambiguity repair separately from agreement. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Track two third-person referents through several turns. Adapt when one becomes the addressee, repair ambiguity, and explain whether context or morphology determined number and the English gloss. |
 
 ## 12. Activity types
 
@@ -94,9 +111,17 @@ An explicit or recoverable referent and basic conversation turn tracking. Co-tea
 - Interpret referent number and repair ambiguity.
 - Describe someone absent using a contextually suitable form.
 
+### Draft activity prototype
+
+- **Prompt.** A speaker mentions one older brother and answers a question about him. Identify the referent and whether the respectful verb indicates a group.
+- **Expected response.** उहाँ काम गर्नुहुन्छ। / Uhã kaam garnuhunchha. / He works, respectfully. Here the context identifies one person.
+- **Feedback.** Compare with the ऊ / U / he or she examples in §6 and ask which differences concern the predicate and which concern the pronoun.
+
 ## 13. Mastery evidence
 
 Provide an unfamiliar exchange with two candidate referents and contextual evidence. Ask the learner to identify the intended person, choose an appropriate form and clarify a genuinely ambiguous reference without requiring an agreement paradigm.
+
+**Coverage check.** Use unseen audio with singular respectful, context-sensitive and clearly marked group readings. Test antecedent recovery, appropriate selection and ambiguity repair separately from agreement.
 
 ## 14. Reference integration
 
@@ -116,3 +141,5 @@ Use the proposed [interactive pronoun reference](../../product/language-referenc
 - Review romanisation and glosses.
 - Confirm candidate alternatives in context and review accepted responses separately from related targets.
 - Check audio alignment, source provenance and reuse rights before release. Record the evidence and reviewer decision against the affected version under [Content QA](../content-qa.md). No reviewer or approved recording is recorded for these illustrations.
+
+**Evidence to resolve open questions.** Collect matched exchanges identifying the referent before annotation. Ask reviewers to document their judgments about उनी, contextual number, gender-related agreement and respectful reference. Record source, reviewer, contextual limits, accepted alternatives and rights in the QA record. Status: open.

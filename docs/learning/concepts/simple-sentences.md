@@ -37,9 +37,19 @@ Teach a simple sentence as one independent clause. A single clause can contain s
 
 Choose one proposition or question with an independent predicate frame. Add required components and optional modifiers as needed. Infer omitted participants only from a supporting context. Examine whether additional words are parts of the same clause or introduce another clause relationship.
 
+### Worked example
+
+Build one independent clause by choosing a predicate frame and supplying its needed participants. Insert frequency and keep the same clause. Form a question or negative using a reviewed pattern without adding a clause.
+
+**Draft model.** म हरेक दिन फुटबल खेल्छु। / Ma harek din football khelchhu. / I play football every day, is one independent clause. चिया। / Chiya. / Tea, is a fragment in this menu scenario. म फुटबल खेल्दिनँ। / Ma football kheldinã. / I do not play football, is a complete negative clause.
+
 ## 5. Variations and agreement
 
 Transitive, intransitive and descriptive predicates can all occur. Questions and negation do not by themselves add a clause. Multiword predicates, omission, non-finite forms and conversational fragments need contextual analysis.
+
+### Context and contrast
+
+Compare an expanded clause, a question, a negative and a menu fragment. A fragment can answer successfully in conversation without demonstrating independent-clause construction. A multiword predicate or omitted recoverable subject requires contextual analysis.
 
 ## 6. Contextual examples
 
@@ -65,6 +75,8 @@ If a learner counts words or verbs, ask what can stand alone and whether several
 
 Use the [variant-aware assessment policy](../proficiency-framework.md#variant-aware-assessment) for reviewed alternatives, contextual mismatches and unreviewed forms.
 
+**Targeted retry.** If a learner counts a frequency phrase as another clause, ask which proposition it could express by itself. Retry by marking the complete predicate and bracketing the phrase within the same clause.
+
 ## 9. Natural usage
 
 In a short sports interview, alternate a complete question, a statement and a negative reply. Then compare the same topic expressed across two coordinated clauses or a dependent construction.
@@ -78,6 +90,11 @@ Draft exchange for review. The question and the expanded reply each contain one 
 
 ## 10. Prerequisites
 
+- Required: understand the clause proposition.
+- Helpful: recognise modifiers and verbal groupings.
+- Co-teach: independence, questions and negation.
+- Extension: ellipsis and non-finite classification.
+
 Familiar predicate and proposition meanings. Co-teach clause independence and recoverable participants. Compare advanced non-finite or ellipsis boundaries only when validated. Requirements vary by outcome and depth. Use contextual audio and glosses for oral tasks so learners can demonstrate the target without script literacy.
 
 ## 11. Teaching depth
@@ -85,9 +102,9 @@ Familiar predicate and proposition meanings. Co-teach clause independence and re
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1, LO2 | Identify a complete single-clause message. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Sort independent clauses and plausible conversation fragments with cues, then contrast a long simple sentence with a short two-clause sentence. |
-| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Apply the target independently in a new reviewed prompt. Elicit original single-clause statements, questions and negatives. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Vary the setting, participants or reviewed construction and explain the resulting interpretation or choice. |
+| Guided application | LO1, LO2, LO3, LO4, LO5 | Ask which examples could stand as an independent message, then expand the positive sports example using a frequency phrase. Compare it with a two-clause sports contrast. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Use unseen positive, negative and interrogative examples plus a fragment and a two-clause foil. Require both independent classification and original single-clause production. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Recognise a single independent clause even when expanded, negative, interrogative or spoken with an understood subject. Explain why a meaningful menu reply may be a fragment. |
 
 ## 12. Activity types
 
@@ -95,9 +112,17 @@ Familiar predicate and proposition meanings. Co-teach clause independence and re
 - Contrast a long simple sentence with a short two-clause sentence.
 - Elicit original single-clause statements, questions and negatives.
 
+### Draft activity prototype
+
+- **Prompt.** Classify the expanded sports statement and the short menu answer. Then make a complete negative sports statement.
+- **Expected response.** म हरेक दिन फुटबल खेल्छु। / Ma harek din football khelchhu. / I play football every day, is one independent clause. चिया। / Chiya. / Tea, is a fragment in this menu scenario. म फुटबल खेल्दिनँ। / Ma football kheldinã. / I do not play football, is a complete negative clause.
+- **Feedback.** Ask for the entire proposition and predicate instead of counting words. The menu answer can communicate successfully.
+
 ## 13. Mastery evidence
 
 Present unseen examples including an expanded one-clause message, a fragment and a two-clause message. Ask for classification with a cue based on independence and for an original complete single-clause answer.
+
+**Coverage check.** Use unseen positive, negative and interrogative examples plus a fragment and a two-clause foil. Require both independent classification and original single-clause production.
 
 ## 14. Reference integration
 
@@ -116,3 +141,5 @@ Link the Grammar Library entry and sentence explorer to the canonical component 
 - Review romanisation and glosses.
 - Confirm candidate alternatives in context and review accepted responses separately from related targets.
 - Check audio alignment, source provenance and reuse rights before release. Record the evidence and reviewer decision against the affected version under [Content QA](../content-qa.md). No reviewer or approved recording is recorded for these illustrations.
+
+**Evidence to resolve open questions.** Review examples with predicate complexes, omission and fragments across question–answer contexts. Establish when ordinary conversation supplies an interpretation without licensing an independence label. Record source, reviewer, contextual limits, accepted alternatives and rights in the QA record. Status: open.

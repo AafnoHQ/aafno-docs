@@ -20,6 +20,16 @@ Step 3B turns active catalogue targets into reviewable specifications, grouped b
 
 Routine drafting uses approved conventions. Log linguistic uncertainties as research, and flag suspected duplicate concepts for Step 3C or explicit review. Escalate changes to canonical ownership, curriculum-wide rules, catalogue scope, assessment design and new product commitments. If material uncertainty prevents coherent drafting, request a decision. Formal progression, curriculum-wide dependencies, MVP selection and lesson authoring belong to later [roadmap phases](curriculum-roadmap.md).
 
+## Educational completeness review
+
+For each specification, a reviewer must compare the full catalogue target with the draft’s coverage and use the approved pilots as the quality benchmark. Section count, tracker generation and successful structural QA do not establish educational completeness. There is no word-count target. Document omissions or unresolved coverage before approving the batch.
+
+- Walk through at least the representative construction or analysis step by step. Review meaningful variants, contrasting examples, contextual limits and rule ownership. Keep plausible provisional teaching analysis separate from claims that need evidence.
+- Review actual learner prompts, expected responses, corrections and meaningful retries. Check whether independent tasks elicit each outcome and distinguish adjacent targets, and whether flexible application requires a concept-specific decision or transfer.
+- Review required, helpful, co-taught and extension prerequisites where applicable. Check that substantive research questions identify evidence needed, context, scope and the reviewer decision to record.
+- Manually review Devanagari, Romanisation and English in worked models, prose, dialogue, tables, corrections and activity prototypes. QA checks structured contextual tables, so other formats need manual inspection. Record any missing representation as a research gap.
+- Before awarding any approval, open the linked evidence and confirm reviewer authority, the concept and reviewed version, the exact decision, and its applicability and reuse or publication scope. An existing link alone does not establish approval.
+
 ## Tracker sources and update process
 
 | Field | Authority |
@@ -27,7 +37,7 @@ Routine drafting uses approved conventions. Log linguistic uncertainties as rese
 | ID, title and category | Active rows and category headings in the canonical catalogue |
 | Specification path and authoring status | Canonical concept files and their identity sections |
 | Batch membership, PR, structural review | `scripts/specification-status.json` batch records |
-| Linguistic and native-speaker validation, mapping, publication | Draft defaults derived by QA. For any approved change, use a per-concept evidence-backed record in the same status file and update the corresponding specification identity. |
+| Linguistic and native-speaker validation, mapping, publication | Draft defaults derived by QA. For any approved change, use a per-concept evidence-backed record in the same status file with a repository-relative Markdown path and anchor for each approval and update the corresponding specification identity. |
 | Related decisions and research | Batch register and concept validation sections |
 | Totals and status presentation | Generated tracker |
 
@@ -43,6 +53,6 @@ python3 scripts/specification_qa.py
 python3 -m unittest discover -s scripts -p 'test_*.py'
 ```
 
-`--write` regenerates the progress tracker after source checks pass. The normal command detects stale generated output and exits with actionable errors for mandatory failures. Compare the active and original ID sets against the recorded approved baseline. A hash change requires an explicitly approved inventory change. Use the pull-request QA workflow for repeatable checks.
+`--write` regenerates the progress tracker after source checks pass. The normal command detects stale generated output and exits with actionable errors for mandatory failures. Compare active and original ID sets, active learning outcomes and reconciliation destinations against the recorded approved baseline. An approved change to those records is required before updating a fingerprint. QA checks that approval evidence paths and anchors resolve. The reviewer verifies the decision’s content and applicability. Use the pull-request QA workflow for repeatable checks.
 
 Check learning and linguistic quality during review. Automated QA checks Markdown structure, explicit and common heading anchors, selected link syntax and representation fields, draft status consistency and tracker freshness. It does not render Jekyll, verify external links or validate language, translations, educational completeness, appropriate social context or the full ownership model. Verify those separately where tooling and evidence permit.

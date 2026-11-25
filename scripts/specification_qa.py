@@ -88,6 +88,26 @@ def inventory(files, errors):
     return active, original
 
 
+def content_fingerprints(files, active):
+    outcomes = (f"{cid}\t{row[1]}" for cid, row in active.items())
+    destinations = []
+    for path, text in files.items():
+        if path.parent != CAT or not path.stem.startswith("traceability-"):
+            continue
+        blocks = re.split(r"^## (G[^\s]+) (.*)$", text, flags=re.M)
+        for cid, body in zip(blocks[1::3], blocks[3::3]):
+            owner = re.search(r"^\*\*Surviving destination or evidence owner\*\* · (.+)$", body, re.M)
+            destinations.extend(f"{cid}\t{dest}\t{uri}" for dest, uri in LINK.findall(owner[1] if owner else ""))
+    return {"outcomes_sha256": fingerprint(outcomes), "destinations_sha256": fingerprint(destinations)}
+
+
+def check_content(files, active, manifest, errors):
+    labels = {"outcomes_sha256": "learning outcomes", "destinations_sha256": "traceability destinations"}
+    for key, digest in content_fingerprints(files, active).items():
+        if digest != manifest[key]:
+            errors.append(f"Catalogue: {labels[key]} differ from approved baseline {manifest['baseline']}")
+
+
 def check_inventory(active, original, manifest, errors):
     if not set(active) <= original or len({cid[:3] for cid in active}) != 31:
         errors.append("Catalogue: expected 31 categories with each active ID traceable")
@@ -147,6 +167,20 @@ def specification(path, text, active, errors, legacy=False):
             if "Research gap" in line and "representation" not in sections.get(15, "").lower():
                 errors.append(f"{path}: missing representation needs a section 15 research entry")
     return cid, identity
+
+
+def check_evidence(cid, record, files, errors):
+    for key, value in record.items():
+        if not key.endswith("_evidence"):
+            continue
+        if not isinstance(value, str):
+            errors.append(f"{cid}: {key} must be a repository Markdown path with an explicit evidence anchor")
+            continue
+        uri = urlsplit(value)
+        path = PurePosixPath(uri.path)
+        if (uri.scheme or uri.netloc or uri.query or path.is_absolute() or ".." in path.parts
+                or path not in files or not uri.fragment or unquote(uri.fragment) not in anchors(files[path])):
+            errors.append(f"{cid}: {key} does not resolve to a repository Markdown evidence anchor: {value}")
 
 
 def status(cid, identity, record, errors):
@@ -243,6 +277,7 @@ def build(root):
     errors = []
     active, original = inventory(files, errors)
     check_inventory(active, original, manifest, errors)
+    check_content(files, active, manifest, errors)
     assigned = {}
     batches = manifest["batches"]
     batch_ids = set()
@@ -268,7 +303,9 @@ def build(root):
         add_spec(specs, cid, path, identity, errors)
         if cid not in assigned or cid not in active or active[cid][5] != path:
             errors.append(f"{path}: inconsistent batch assignment or catalogue link")
-        states[cid] = status(cid, identity, manifest["validation"].get(cid, {}), errors)
+        record = manifest["validation"].get(cid, {})
+        states[cid] = status(cid, identity, record, errors)
+        check_evidence(cid, record, files, errors)
         front = source.split("---\n", 2)[1] if source.startswith("---\n") else ""
         order = re.search(r"^nav_order: (\d+)$", front, re.M)
         if not order or order[1] in orders or "parent: Grammar concept framework\n" not in front or "grand_parent: Learning\n" not in front:

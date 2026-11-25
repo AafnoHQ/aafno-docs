@@ -37,9 +37,19 @@ Some changes in constituent order can preserve the core proposition while shifti
 
 Compare two versions with the same words and predicate. Keep participant and time readings fixed where the context supports them. Identify case, agreement, predicate meaning, discourse and prosody as possible evidence. Review whether the object-first candidate fits the intended context before using it as a model.
 
+### Worked example
+
+Build a neutral meal answer, then hold the predicate and participants fixed and consider placing the food first. Compare after an open ‘what do you eat?’ prompt and a question that already raises rice. Separately move a time expression to the beginning of a plan.
+
+**Draft model.** म भात खान्छु। / Ma bhaat khaanchhu. / I eat rice. Compare भात म खान्छु। / Bhaat ma khaanchhu. / I eat rice, with rice already under discussion.
+
 ## 5. Variations and agreement
 
 Predicate position, modifier scope, omission and ambiguous unmarked participants can change the result. Case cues do not resolve every ambiguity, and even a clearly recoverable proposition may sound unsuitable in a particular context or register.
+
+### Context and contrast
+
+For two animate participants, context and marking can help resolve who acted on whom. Reordering forms without decisive cues can leave the roles unclear or reverse the reading. An object-first candidate can preserve the event and still sound marked out of context.
 
 ## 6. Contextual examples
 
@@ -64,6 +74,8 @@ If the learner rejects every departure from SOV, ask whether roles and circumsta
 
 Use the [variant-aware assessment policy](../proficiency-framework.md#variant-aware-assessment) for reviewed alternatives, contextual mismatches and unreviewed forms.
 
+**Targeted retry.** If the learner accepts all permutations, ask them to paraphrase the agent, object and modifier scope. Retry after a lead-in that sets up one contrast and withhold acceptance where the reading remains ambiguous.
+
 ## 9. Natural usage
 
 Play the baseline and candidate orders after a broad question and after a focused question. Ask what stays the same, what becomes prominent and where a listener might need clarification.
@@ -77,6 +89,11 @@ Draft exchange for review. The question has already put rice under discussion. R
 
 ## 10. Prerequisites
 
+- Required: understand the baseline event.
+- Helpful: recognise case and prosody.
+- Co-teach: context-supported interpretation.
+- Extension: deliberate topic and focus production in G29-006.
+
 An understood baseline clause and its participants. Co-teach marking and context clues. Sustained discourse and focus production belong to a later extension. Requirements vary by outcome and depth. Use contextual audio and glosses for oral tasks so learners can demonstrate the target without script literacy.
 
 ## 11. Teaching depth
@@ -84,9 +101,9 @@ An understood baseline clause and its participants. Co-teach marking and context
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1, LO2, LO3 | Compare two orders after a supplied question. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Match alternative orders to a spoken context with cues, then test core meaning with paraphrases and changed-scope foils. |
-| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Apply the target independently in a new reviewed prompt. Use a new pair and ask for an interpretation with evidence. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Vary the setting, participants or reviewed construction and explain the resulting interpretation or choice. |
+| Guided application | LO1, LO2, LO3, LO4, LO5 | Play the baseline and the two candidate orders after questions about the food, the eater and the time. Ask which meanings are recoverable and which candidate a reviewer would prefer in each context. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Score preservation of roles, interpretation of context and the ability to flag ambiguity separately. Accept a neutral-order response when the task asks for meaning; require alternative-order interpretation when that is the target. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Interpret a new object-first or time-first candidate after two different lead-ins. Distinguish unchanged proposition from changed prominence, changed scope or genuine ambiguity. |
 
 ## 12. Activity types
 
@@ -94,9 +111,17 @@ An understood baseline clause and its participants. Co-teach marking and context
 - Test core meaning with paraphrases and changed-scope foils.
 - Use a new pair and ask for an interpretation with evidence.
 
+### Draft activity prototype
+
+- **Prompt.** Rice is already under discussion. Compare the two answers. Who eats, and what is eaten?
+- **Expected response.** म भात खान्छु। / Ma bhaat khaanchhu. / I eat rice. Compare भात म खान्छु। / Bhaat ma khaanchhu. / I eat rice, with rice already under discussion.
+- **Feedback.** Both are intended to retain the speaker and food. Have a reviewer judge naturalness in each lead-in, and allow ‘unclear’ when context and prosody fail to resolve a candidate.
+
 ## 13. Mastery evidence
 
 Use a new pair and a new potentially ambiguous arrangement. Ask for who did what and whether the alternatives are equivalent for the intended context. Credit initial construction, discourse focus and flexible-order interpretation only against their own outcomes.
+
+**Coverage check.** Score preservation of roles, interpretation of context and the ability to flag ambiguity separately. Accept a neutral-order response when the task asks for meaning; require alternative-order interpretation when that is the target.
 
 ## 14. Reference integration
 
@@ -116,3 +141,5 @@ Link the Grammar Library entry and sentence explorer to the canonical component 
 - Review romanisation and English glosses.
 - Confirm candidate alternatives in context and review accepted responses separately from related targets.
 - Check audio alignment, source provenance and reuse rights before release. Record the evidence and reviewer decision against the affected version under [Content QA](../content-qa.md). No reviewer or approved recording is recorded for these illustrations.
+
+**Evidence to resolve open questions.** Record matched question–answer pairs with different emphasis and intonation. Ask speakers for naturalness judgments and interpretations before choosing accepted alternatives. Record source, reviewer, contextual limits, accepted alternatives and rights in the QA record. Status: open.

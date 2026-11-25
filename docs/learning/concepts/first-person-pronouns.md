@@ -37,9 +37,19 @@ nav_order: 16
 
 Track speech turns and ask who is speaking. Select the individual or group form for the intended referent, then check the associated predicate separately. Introduce case and possessive forms through their owners when context requires them, and recover omitted first-person subjects using G01-004.
 
+### Worked example
+
+Name who is talking before choosing the form. A player speaking only about themself chooses the singular form. The same participant reporting for the team chooses the group form; identify each group member from the scene.
+
+**Draft model.** हामी भोलि जान्छौँ। / Haami bholi jaanchhaũ. / We will go tomorrow. म भोलि जान्छु। / Ma bholi jaanchhu. / I will go tomorrow.
+
 ## 5. Variations and agreement
 
 Compare explicit and understood reference, group membership and agreement. A different speaker changes the person picked out by म. A stable group can still be described differently by different speakers. Review plural variants, case and possessive relationships.
+
+### Context and contrast
+
+A team update can exclude the addressee, whereas an invitation can include them. The first-person plural form alone does not settle this difference. Changing the speaker changes the referent of an individual first-person form.
 
 ## 6. Contextual examples
 
@@ -63,6 +73,8 @@ If a learner always includes the listener in हामी, ask who is going in t
 
 Use the [variant-aware assessment policy](../proficiency-framework.md#variant-aware-assessment) for reviewed alternatives, contextual mismatches and unreviewed forms.
 
+**Targeted retry.** If a learner automatically includes the listener in every ‘we’, ask who was invited or named in the previous turn. Retry after switching the listener while keeping the speaker’s group fixed.
+
 ## 9. Natural usage
 
 Have partners alternate a self-description with a group plan. Use the same we sentence in an invitation and in a report about a group that excludes the addressee.
@@ -76,6 +88,11 @@ Draft exchange for review. Specify the respondent's team in the scenario and var
 
 ## 10. Prerequisites
 
+- Required: track the current speaker.
+- Helpful: know the scenario participants.
+- Co-teach: group cues and relevant agreement.
+- Extension: bound, case-marked and possessive forms with their owners.
+
 Ability to identify who is speaking and group membership in context. Co-teach pronoun recognition and any relevant agreement. Case and possessive variants are extensions. Requirements vary by outcome and depth. Use contextual audio and glosses for oral tasks so learners can demonstrate the target without script literacy.
 
 ## 11. Teaching depth
@@ -83,9 +100,9 @@ Ability to identify who is speaking and group membership in context. Co-teach pr
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1, LO2, LO3 | Point to the speaker and their group in short recordings. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Identify the speaker in changing turns with cues, then sort listener-inclusive and listener-exclusive contexts. |
-| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Apply the target independently in a new reviewed prompt. Describe a solo routine and speak for a group in an unscripted exchange. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Vary the setting, participants or reviewed construction and explain the resulting interpretation or choice. |
+| Guided application | LO1, LO2, LO3, LO4, LO5 | Play the same tomorrow plan in a conversation with a teammate and in a report to a person outside the team. Ask who is going, then elicit a solo version. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Ask learners to select and interpret reference in two new dialogues with different inclusion cues, and produce individual and group turns. Observe pronoun reference even if an ending is inaccurate. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Follow the same group across speaker switches, decide whether the addressee belongs to it and change solo to group reference without changing who actually participates. |
 
 ## 12. Activity types
 
@@ -93,9 +110,17 @@ Ability to identify who is speaking and group membership in context. Co-teach pr
 - Sort listener-inclusive and listener-exclusive contexts.
 - Describe a solo routine and speak for a group in an unscripted exchange.
 
+### Draft activity prototype
+
+- **Prompt.** A captain tells an outside reporter about the team’s plan. Then the captain describes only their own plans.
+- **Expected response.** हामी भोलि जान्छौँ। / Haami bholi jaanchhaũ. / We will go tomorrow. म भोलि जान्छु। / Ma bholi jaanchhu. / I will go tomorrow.
+- **Feedback.** Ask the learner to list group members and explain why the reporter is excluded. Repeat with an invitation that includes the listener.
+
 ## 13. Mastery evidence
 
 Change the speaker and group membership in two reviewed dialogues. Ask for the actual referent and then for original solo and group responses. Observe pronoun/reference evidence independently of morphology.
+
+**Coverage check.** Ask learners to select and interpret reference in two new dialogues with different inclusion cues, and produce individual and group turns. Observe pronoun reference even if an ending is inaccurate.
 
 ## 14. Reference integration
 
@@ -113,3 +138,5 @@ Use the proposed [interactive pronoun reference](../../product/language-referenc
 - Review romanisation and glosses.
 - Confirm candidate alternatives in context and review accepted responses separately from related targets.
 - Check audio alignment, source provenance and reuse rights before release. Record the evidence and reviewer decision against the affected version under [Content QA](../content-qa.md). No reviewer or approved recording is recorded for these illustrations.
+
+**Evidence to resolve open questions.** Collect contextual exchanges with explicit participant rosters and ask reviewers to confirm when inclusion is clear, inferred or ambiguous. Review corresponding agreement and accepted alternate pronoun forms separately. Record source, reviewer, contextual limits, accepted alternatives and rights in the QA record. Status: open.

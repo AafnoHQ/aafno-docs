@@ -37,9 +37,19 @@ A transfer provides a clear contrast between what is transferred and who receive
 
 Begin with the predicate and its possible participant roles. For ‘give’, identify giver, item and recipient. Ask which expression fills each role. For a perception predicate, identify who is seen. Compare the hunger construction where the marked participant feels the state. Case morphology is taught by G14, and predicate frames by G07 and G24.
 
+### Worked example
+
+In the book transfer, start from ‘give’ and map giver, transferred item and receiver. In ‘saw me’, map perceiver and person seen. In the hunger construction, identify who feels the state before attempting a syntactic label.
+
+**Draft model.** म पाहुनाका लागि चिया बनाउँछु। / Ma paahunaakaa laagi chiya banaaunchhu. / I make tea for the guest. The guest benefits; actual receipt is unstated.
+
 ## 5. Variations and agreement
 
 लाई / Laai can occur with recipients, some direct objects and experiencers. Review differential marking, order and agreement by predicate, and distinguish beneficiaries from recipients when the event does not entail transfer. Do not generalise from one marked form or one word order.
+
+### Context and contrast
+
+A beneficiary can benefit from an action without receiving the thing directly. The tea example below gives an intended ‘for the guest’ reading. Review whether that expression is a beneficiary phrase or an indirect object in the selected construction.
 
 ## 6. Contextual examples
 
@@ -64,6 +74,8 @@ If a learner treats the first लाई form as a recipient everywhere, ask whet
 
 Use the [variant-aware assessment policy](../proficiency-framework.md#variant-aware-assessment) for reviewed alternatives, contextual mismatches and unreviewed forms.
 
+**Targeted retry.** If a learner calls the person seen a recipient, ask what changes hands in the perception report. Retry by choosing between ‘person seen’ and ‘person receiving something’.
+
 ## 9. Natural usage
 
 Set up a conversation about who received what. Follow it with a comparison about seeing the same person. Ask learners to explain the roles before offering any grammatical terminology.
@@ -77,6 +89,11 @@ Draft exchange for review. The question singles out the recipient. In a separate
 
 ## 10. Prerequisites
 
+- Required: understand the predicate and event.
+- Helpful: recognise marking clues.
+- Co-teach: participant roles and indirect-object terminology.
+- Extension: differential object marking and ambiguous beneficiary frames.
+
 Familiar transfer and perception vocabulary and an understood event. Co-teach basic semantic roles and case clues. Extend to more ambiguous beneficiary frames after review. Requirements vary by outcome and depth. Use contextual audio and glosses for oral tasks so learners can demonstrate the target without script literacy.
 
 ## 11. Teaching depth
@@ -84,9 +101,9 @@ Familiar transfer and perception vocabulary and an understood event. Co-teach ba
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1, LO2, LO3 | Interpret a transfer and identify what and to whom. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Match givers, entities and recipients to an event with cues, then compare marked forms across transfer and perception. |
-| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Apply the target independently in a new reviewed prompt. Ask a learner to explain who received what and transfer to a new frame. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Vary the setting, participants or reviewed construction and explain the resulting interpretation or choice. |
+| Guided application | LO1, LO2, LO3, LO4, LO5 | Read or hear a transfer followed by a perception report. Ask ‘What was transferred? Who received it? Who was seen in the second sentence?’ |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Use unfamiliar examples with no uniform marker cue. Ask for the direct object or theme, recipient where present and beneficiary where justified. Ask for a separate explanation of the experiencer foil. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Interpret the same marked form across a transfer, a perception event and an experience. Explain its role using the predicate and context, including where a beneficiary analysis is provisional. |
 
 ## 12. Activity types
 
@@ -94,9 +111,17 @@ Familiar transfer and perception vocabulary and an understood event. Co-teach ba
 - Compare marked forms across transfer and perception.
 - Ask a learner to explain who received what and transfer to a new frame.
 
+### Draft activity prototype
+
+- **Prompt.** A guest is elsewhere. I am making tea for them now. Who benefits, and can we tell who receives the tea?
+- **Expected response.** म पाहुनाका लागि चिया बनाउँछु। / Ma paahunaakaa laagi chiya banaaunchhu. / I make tea for the guest. The guest benefits; actual receipt is unstated.
+- **Feedback.** Contrast the beneficiary phrase with सीतालाई / Sitaalaai / to Sita in the transfer example and मलाई / Malaai / me in the perception and hunger examples.
+
 ## 13. Mastery evidence
 
 Use two unfamiliar reviewed predicate frames including a person as the direct object in one. Ask for the affected or transferred entity and any recipient or beneficiary, and require a meaning-based explanation even when the same marking appears.
+
+**Coverage check.** Use unfamiliar examples with no uniform marker cue. Ask for the direct object or theme, recipient where present and beneficiary where justified. Ask for a separate explanation of the experiencer foil.
 
 ## 14. Reference integration
 
@@ -116,3 +141,5 @@ Link the Grammar Library entry and sentence explorer to the canonical component 
 - Review romanisation, glosses and audio.
 - Confirm candidate alternatives in context and review accepted responses separately from related targets.
 - Check audio alignment, source provenance and reuse rights before release. Record the evidence and reviewer decision against the affected version under [Content QA](../content-qa.md). No reviewer or approved recording is recorded for these illustrations.
+
+**Evidence to resolve open questions.** Collect reviewed verb frames and contextual pairs where a beneficiary receives an item, benefits without receiving it, or remains ambiguous. Record acceptable semantic and syntactic labels separately. Record source, reviewer, contextual limits, accepted alternatives and rights in the QA record. Status: open.

@@ -37,9 +37,19 @@ Coordination connects propositions that can be expressed as independent clauses.
 
 Start with two independent messages and decide their relationship. Use a reviewed connector and order: र / Ra / and, तर / Tara / but, वा / Waa / or, अथवा / Athawaa / or, subject to context and register. Preserve each proposition and its participants, polarity and agreement. Compare the separate clauses with the contrastive combination below.
 
+### Worked example
+
+Separate the football and cricket propositions. Keep their predicates and subjects, then join them with the contrast connector. Repeat with the tea and coffee propositions for addition and with two full questions for a choice.
+
+**Draft model.** म फुटबल खेल्छु, तर ऊ क्रिकेट खेल्छ। / Ma football khelchhu, tara u cricket khelchha. / I play football, but he plays cricket.
+
 ## 5. Variations and agreement
 
 Shared subjects, ellipsis and coordination without an overt connector can obscure clause boundaries. Punctuation and pauses support interpretation. Review these cases before classification, and keep connector distribution under G19.
+
+### Context and contrast
+
+Compare two complete tea/coffee propositions with one predicate and coordinated objects. Shared subjects, ellipsis and spoken pauses can obscure boundaries; use only reviewed cases as answers.
 
 ## 6. Contextual examples
 
@@ -66,6 +76,8 @@ If a learner identifies any र as clause coordination, ask what predicate each 
 
 Use the [variant-aware assessment policy](../proficiency-framework.md#variant-aware-assessment) for reviewed alternatives, contextual mismatches and unreviewed forms.
 
+**Targeted retry.** If a learner points to every connector as evidence of two clauses, ask for the predicate on each side. Retry with the tea-and-coffee object phrase and then with the additive two-clause form.
+
 ## 9. Natural usage
 
 Have two people describe routines, then ask a learner to retell both in one utterance as an addition or contrast. Compare a choice between two plans with a list of two things.
@@ -79,6 +91,11 @@ Draft exchange for review. The reply compares two identified people; supply who 
 
 ## 10. Prerequisites
 
+- Required: identify two independent messages.
+- Helpful: know familiar connectors.
+- Co-teach: discourse relationship and clause bracketing.
+- Extension: shared subjects, omission and asyndetic coordination.
+
 Ability to interpret two independent propositions. Co-teach suitable connectors and discourse relations. Ellipsis and asyndetic coordination are extensions. Requirements vary by outcome and depth. Use contextual audio and glosses for oral tasks so learners can demonstrate the target without script literacy.
 
 ## 11. Teaching depth
@@ -86,9 +103,9 @@ Ability to interpret two independent propositions. Co-teach suitable connectors 
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1, LO2 | Recognise two joined propositions. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Pair propositions and pick a discourse relation with cues, then contrast phrase coordination with joined clauses. |
-| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Apply the target independently in a new reviewed prompt. Retell a preference or schedule using two different coordination frames. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Vary the setting, participants or reviewed construction and explain the resulting interpretation or choice. |
+| Guided application | LO1, LO2, LO3, LO4, LO5 | Give two complete preference statements. Ask the learner to join them to contrast two people, then combine two independently phrased options as a choice. Identify both propositions after each combination. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Elicit two independent productions with different relations and an explanation of a third reviewed relation. Check proposition preservation and independent clause evidence, and separately note connector-selection errors. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Preserve both propositions while switching among addition, alternatives and contrast for different communicative goals. Explain when an apparently similar connector joins only phrases. |
 
 ## 12. Activity types
 
@@ -96,9 +113,17 @@ Ability to interpret two independent propositions. Co-teach suitable connectors 
 - Contrast phrase coordination with joined clauses.
 - Retell a preference or schedule using two different coordination frames.
 
+### Draft activity prototype
+
+- **Prompt.** Combine the two sports routines with a contrast, then identify both propositions.
+- **Expected response.** म फुटबल खेल्छु, तर ऊ क्रिकेट खेल्छ। / Ma football khelchhu, tara u cricket khelchha. / I play football, but he plays cricket.
+- **Feedback.** Ask for the two standalone clauses. Repeat with the additive and alternative candidates in §6, then bracket the two coordinated objects in the phrase foil.
+
 ## 13. Mastery evidence
 
 Ask the learner to combine newly supplied propositions in two different relationships and explain what each clause says. Include a phrase coordination foil and keep connector-specific mastery distinct from clause construction.
+
+**Coverage check.** Elicit two independent productions with different relations and an explanation of a third reviewed relation. Check proposition preservation and independent clause evidence, and separately note connector-selection errors.
 
 ## 14. Reference integration
 
@@ -118,3 +143,5 @@ Link the Grammar Library entry and sentence explorer to the canonical component 
 - Review romanisation and glosses.
 - Confirm candidate alternatives in context and review accepted responses separately from related targets.
 - Check audio alignment, source provenance and reuse rights before release. Record the evidence and reviewer decision against the affected version under [Content QA](../content-qa.md). No reviewer or approved recording is recorded for these illustrations.
+
+**Evidence to resolve open questions.** Collect recordings contrasting two clauses, shared-subject cases and coordinated phrases. Review whether pauses, punctuation and each connector support the intended classification and reading. Record source, reviewer, contextual limits, accepted alternatives and rights in the QA record. Status: open.

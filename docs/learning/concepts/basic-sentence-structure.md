@@ -37,9 +37,19 @@ Teach S–O–V as a common starting arrangement for transitive clauses. It help
 
 Start with the intended proposition and a familiar predicate. In the model about rice, म / Ma / I is the subject, भात / Bhaat / rice is the object, and खान्छु / Khaanchhu / eat is the finite verb. Build a transitive clause with an object where the frame calls for one. For a familiar intransitive clause, combine the subject and the relevant predicate. A state may use a descriptive element with a form of ‘be’.
 
+### Worked example
+
+At a meal, start with the speaker, choose rice as the object of eating, and put the finite predicate last. For departure, keep the speaker and use a motion predicate; a destination answers ‘where’. For a mood, combine the descriptive element with the matching copula.
+
+**Draft model.** म भात खान्छु। / Ma bhaat khaanchhu. / I eat rice. → म जान्छु। / Ma jaanchhu. / I go. → म खुसी छु। / Ma khusi chhu. / I am happy.
+
 ## 5. Variations and agreement
 
 Use agreement cues to identify the intended participant and keep the selected verb frame intact. A recoverable subject may remain implicit. Case, register and agreement are relevant to whether the completed sentence works. Review subject and predicate placement and natural alternatives by context.
+
+### Context and contrast
+
+Use the same subject across the three frames so learners can see which parts come from the predicate. Compare a stated subject with a recoverable one only after establishing the neutral frame.
 
 ## 6. Contextual examples
 
@@ -65,6 +75,8 @@ English-influenced order can place the verb before its object in a neutral routi
 
 Use the [variant-aware assessment policy](../proficiency-framework.md#variant-aware-assessment) for reviewed alternatives, contextual mismatches and unreviewed forms.
 
+**Targeted retry.** If a learner treats खुसी / Khusi / happy as an object, ask what is being acted on. Invite a retry with ‘How does the speaker feel?’ and rebuild the description with the copula.
+
 ## 9. Natural usage
 
 Assign a familiar narrative prompt about a meal, bedtime or mood. Elicit two different frames in one exchange and let the listener identify what happened or what state was described.
@@ -78,6 +90,11 @@ Draft exchange for review. Compare the reply with a motion or state answer. The 
 
 ## 10. Prerequisites
 
+- Required: understand the intended action or state.
+- Helpful: recognise familiar subjects.
+- Co-teach: neutral constituent order and reviewed agreement.
+- Extension: omitted subjects and discourse-conditioned orders.
+
 Familiar predicate meanings; basic subject, object and verb roles can be co-taught. Extend to unfamiliar frames only after reviewing their argument structures. Requirements vary by outcome and depth. Use contextual audio and glosses for oral tasks so learners can demonstrate the target without script literacy.
 
 ## 11. Teaching depth
@@ -85,9 +102,9 @@ Familiar predicate meanings; basic subject, object and verb roles can be co-taug
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1, LO2 | Identify a meal, motion or state pattern in context. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Sort transitive, intransitive and descriptive frames with cues, then arrange a meal or reading sentence and check whether a direct object is needed. |
-| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Apply the target independently in a new reviewed prompt. Elicit separate spoken and written examples using unfamiliar reviewed verbs. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Vary the setting, participants or reviewed construction and explain the resulting interpretation or choice. |
+| Guided application | LO1, LO2, LO3, LO4, LO5 | Build from three cues: speaker + rice + eat; speaker + go; speaker + happy. Then ask which frame needs an object and which describes a state. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6 | Use three unseen frames, score interpretation and construction separately, and check the learner can identify when an object may be absent. Keep agreement errors separately diagnosable. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6 | Choose a frame when a new predicate shifts from taking an object to expressing motion or a state. Explain the role of any location expression and produce a complete response. |
 
 ## 12. Activity types
 
@@ -95,9 +112,17 @@ Familiar predicate meanings; basic subject, object and verb roles can be co-taug
 - Arrange a meal or reading sentence and check whether a direct object is needed.
 - Elicit separate spoken and written examples using unfamiliar reviewed verbs.
 
+### Draft activity prototype
+
+- **Prompt.** Build an answer for rice, then for going and feeling happy.
+- **Expected response.** म भात खान्छु। / Ma bhaat khaanchhu. / I eat rice. → म जान्छु। / Ma jaanchhu. / I go. → म खुसी छु। / Ma khusi chhu. / I am happy.
+- **Feedback.** Check object, absence of object, and description plus copula in that order.
+
 ## 13. Mastery evidence
 
 Use a novel meal or reading prompt and a separate motion or mood prompt. Assess meaning and construction of each frame independently. A label such as SOV or an accurate ending in isolation does not establish construction evidence.
+
+**Coverage check.** Use three unseen frames, score interpretation and construction separately, and check the learner can identify when an object may be absent. Keep agreement errors separately diagnosable.
 
 ## 14. Reference integration
 
@@ -118,3 +143,5 @@ Link the Grammar Library entry and sentence explorer to the canonical component 
 - Review audio and reuse rights.
 - Confirm candidate alternatives in context and review accepted responses separately from related targets.
 - Check audio alignment, source provenance and reuse rights before release. Record the evidence and reviewer decision against the affected version under [Content QA](../content-qa.md). No reviewer or approved recording is recorded for these illustrations.
+
+**Evidence to resolve open questions.** Compare neutral transitive, intransitive and descriptive recordings with the same subject. Ask reviewers whether a proposed alternative preserves the intended role and register. Record source, reviewer, contextual limits, accepted alternatives and rights in the QA record. Status: open.
