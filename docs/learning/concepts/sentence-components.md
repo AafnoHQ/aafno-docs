@@ -111,11 +111,26 @@ An understood sentence meaning, supplied by context or gloss as needed. Co-teach
 - Use contextual listening to locate a full predicate.
 - Compare an agent and an experiencer with separate role and function labels.
 
-### Draft activity prototype
+### Identify the predicate
 
-- **Prompt.** Mark the component that answers ‘what is happening now?’ in the reading example.
-- **Expected response.** पढ्दै छु / Padhdai chhu / am reading. In रामले सीतालाई किताब दियो। / Raamle Sitaalaai kitaab diyo. / Ram gave Sita a book, रामले / Raamle / Ram is the agent in the event; subject is a working analysis.
-- **Feedback.** Underline both predicate elements in the reading example. Unlike the agent label, the subject label requires syntactic analysis.
+**Model sentence.** म किताब पढ्दै छु। / Ma kitaab padhdai chhu. / I am reading a book.
+
+- **Learner prompt.** Select all the words that together form the verbal predicate.
+- **Expected response.** पढ्दै छु / Padhdai chhu / am reading.
+- **Assessment target.** LO2, identification of the complete multiword verbal predicate. Score this independently of participant-role identification.
+- **Feedback.** If you selected only पढ्दै / Padhdai / reading or छु / Chhu / am, reread or replay the sentence. Which two words together tell us what the speaker is doing? Select both on your retry.
+- **Validation status.** Draft. Review naturalness, the predicate span and accepted responses before learner-facing use.
+
+### Identify participant roles
+
+**Model sentence.** रामले सीतालाई किताब दियो। / Raamle Sitaalaai kitaab diyo. / Ram gave Sita a book.
+
+- **Learner prompt.** Who gave something? Who received it? What was transferred? Identify a separate expression for each role.
+- **Expected response.** Giver: रामले / Raamle / Ram. Recipient: सीतालाई / Sitaalaai / to Sita. Transferred item: किताब / Kitaab / book.
+- **Assessment target.** LO5, distinguishing semantic participant roles from grammatical functions. Record evidence for each of the three roles. The grammatical subject analysis of रामले / Raamle / Ram remains provisional and is outside this activity’s scoring.
+- **Feedback.** If you swap the giver and recipient, trace who had the book before the transfer and who received it. On your retry, match the two people to those roles and identify the item that changed hands.
+- **Validation status.** Draft. Review the example, role labels and accepted responses. Confirm any grammatical subject analysis separately.
+
 
 ## 13. Mastery evidence
 
