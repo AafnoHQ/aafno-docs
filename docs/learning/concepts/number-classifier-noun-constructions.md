@@ -115,7 +115,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO4 — Recover omitted elements from context without assuming unrestricted omission
 
-- **Learner prompt.** A bookseller has just asked how many books you want. What does the abbreviated object count leave unsaid?
+- **Learner prompt.** A bookseller just asked how many books you want. Read तीनवटा / Tinwata with its full gloss hidden. What does this reply leave unsaid?
 - **Expected response.** The noun ‘books’ is understood; the count and classifier remain explicit.
 - **Assessment target.** LO4 only. Score the assembly of the supplied components. Keep classifier choice, noun plurality, adjective agreement and stand-alone demonstrative choice independent.
 - **Feedback and retry.** Return to the question to recover the noun. Retry after a new count question where a different item is salient.

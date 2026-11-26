@@ -96,7 +96,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO1 — Interpret an ordinary clock expression
 
-- **Learner prompt.** Match the ordinary expression in row 1 to the displayed clock point: 5:00 or 6:00.
+- **Learner prompt.** Read or hear the Nepali expression in row 1 and match it to 5:00 or 6:00. Hide the full gloss and supply a numeral key if needed.
 - **Expected response.** 5:00. Morning or evening is not established by the phrase alone.
 - **Assessment target.** LO1 only. Score linguistic readings with displayed clock values and durations. Keep arithmetic, independent clock-reading skill, tense and detailed boundary morphology separate.
 - **Feedback and retry.** Use the supplied number key to match the named hour, then try a new clock point.
@@ -112,7 +112,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO3 — Interpret conventional fractional clock readings
 
-- **Learner prompt.** Match the three conventional fractional phrases to supplied displays for 5:15, 5:30 and 5:45.
+- **Learner prompt.** Match the Nepali expressions in rows 2–4 to the supplied displays 5:15, 5:30 and 5:45. Hide the glosses and keep the matches out of the display order.
 - **Expected response.** Rows 2, 3 and 4 respectively. In the last, six is the following hour.
 - **Assessment target.** LO3 only. Score linguistic readings with displayed clock values and durations. Keep arithmetic, independent clock-reading skill, tense and detailed boundary morphology separate.
 - **Feedback and retry.** Use a diagram with the frames labelled quarter after, half after and quarter before. Retry with new displayed hours and supplied vocabulary.
@@ -120,7 +120,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO4 — Distinguish time of occurrence from duration
 
-- **Learner prompt.** Compare the at-five expression with the five-hours expression. Which locates the appointment in this scene and which gives only an elapsed amount?
+- **Learner prompt.** Compare पाँच बजे / Paanch baje and पाँच घण्टा / Paanch ghantaa in a travel scene, with the full glosses hidden. Which locates an appointment on the clock and which can give the length of a wait?
 - **Expected response.** At five gives the clock point; five hours gives a duration without a start time.
 - **Assessment target.** LO4 only. Score linguistic readings with displayed clock values and durations. Keep arithmetic, independent clock-reading skill, tense and detailed boundary morphology separate.
 - **Feedback and retry.** Mark a point and a span, then match the expressions again in a travel context.
@@ -136,7 +136,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO6 — Interpret starting and ending boundaries independently of elapsed time
 
-- **Learner prompt.** For each phrase in the boundary pair, mark its role on a labelled timeline. Is the elapsed time given by either alone?
+- **Learner prompt.** Read or hear पाँच बजेदेखि / Paanch bajedekhi and पाँच बजेसम्म / Paanch bajesamma with the glosses hidden. Place each at its appropriate boundary on the labelled timeline. Does either supply a duration on its own?
 - **Expected response.** The first marks the start, the second the end. Neither gives elapsed length alone.
 - **Assessment target.** LO6 only. Score linguistic readings with displayed clock values and durations. Keep arithmetic, independent clock-reading skill, tense and detailed boundary morphology separate.
 - **Feedback and retry.** Move the arrow to the direction each boundary constrains, then retry with two new supplied clock endpoints.

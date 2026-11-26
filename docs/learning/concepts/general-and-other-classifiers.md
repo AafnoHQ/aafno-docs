@@ -115,11 +115,19 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO4 — Identify limits of form-generation and omission rules
 
-- **Learner prompt.** Can a single observed apple phrase establish that the same classifier is needed with every noun or always joins the same way?
-- **Expected response.** No. Distribution, omission and form need evidence in other contexts.
+- **Learner prompt.** Compare the Nepali object and measure phrases in rows 2–4 with only the numeral and noun glosses supplied. Identify the forms used with each. Do these examples alone justify using one counting form with every noun or spelling it the same way?
+- **Expected response.** The apple phrase uses वटा / Wata, the rice phrase किलो / Kilo, and the water phrase लिटर / Litar. The forms cannot be generalised to every noun or spelling context from these examples.
 - **Assessment target.** LO4 only. Score recognition or selection of the correct counting expression or unit. Do not infer numerical composition mastery or general countability from that choice.
 - **Feedback and retry.** Compare with a measured substance and a one-object candidate before making a narrower claim.
 - **Validation status.** Draft. Confirm naturalness, interpretation, scoring limits and acceptable contextual alternatives before use.
+
+### LO3b — Select a general counting form for objects
+
+- **Learner prompt.** A stocktake shows three separate books. With the complete phrase hidden, supply तीन / Tin / three and किताब / Kitaab / book as separate cue cards. Give only the counting form appropriate for the books.
+- **Expected response.** वटा / Wata / general counting form. Accept the classifier identified as the counting element in a supported variant. Do not require an assembled phrase.
+- **Assessment target.** LO3, individual-object classifier selection. Score separately from measurement-unit selection. G06-009 owns phrase composition.
+- **Feedback and retry.** If you name a unit of weight or volume, point to a single book and ask what is being counted. Retry with two apples and their numeral and noun supplied.
+- **Validation status.** Draft. Confirm contextual suitability and acceptable forms, including any alternatives or possible omission, before use.
 
 ## 13. Mastery evidence
 

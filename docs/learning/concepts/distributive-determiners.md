@@ -90,7 +90,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO1 — Identify the domain of a distributive determiner
 
-- **Learner prompt.** What is the domain in the every-day example?
+- **Learner prompt.** A notice about a routine uses हरेक दिन / Harek din. With the full translation hidden, what set does the determiner range over?
 - **Expected response.** The days of the stated routine.
 - **Assessment target.** LO1 only. Score domain and individual application. Do not award repeated-number evidence or infer that noun plural or predicate agreement has been demonstrated.
 - **Feedback and retry.** Mark the days rather than the people affected, then retry with a new weekly schedule.
@@ -98,15 +98,15 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO2 — Contrast individual distribution and collective reference
 
-- **Learner prompt.** In one scene the teacher addresses the whole class together. In another, one rule is checked for each student. Which scene explicitly requires individual application?
-- **Expected response.** The second scene. A phrase meaning all students does not settle the choice without context.
+- **Learner prompt.** At assembly a teacher addresses the class together using सबै विद्यार्थी / Sabai vidyaarthi. In a one-to-one checklist the heading is प्रत्येक विद्यार्थी / Pratyek vidyaarthi. Read the Nepali phrases with determiner glosses hidden and only the noun gloss supplied. Which explicitly requires applying the rule separately? Does the other phrase require collective action in every context?
+- **Expected response.** प्रत्येक विद्यार्थी / Pratyek vidyaarthi / each student explicitly distributes the rule in the checklist. सबै विद्यार्थी / Sabai vidyaarthi / all students includes the whole class. The assembly scenario supports a collective action, but a different predicate or context can apply to each student separately.
 - **Assessment target.** LO2 only. Score domain and individual application. Do not award repeated-number evidence or infer that noun plural or predicate agreement has been demonstrated.
-- **Feedback and retry.** Draw a group arrow for the first and individual arrows for the second. Retry with a new example.
+- **Feedback and retry.** If you read ‘all’ as invariably collective, reuse the same Nepali phrase in a register where all students signed separately. Explain what comes from the determiner and what comes from the new context.
 - **Validation status.** Draft. Confirm naturalness, interpretation, scoring limits and acceptable contextual alternatives before use.
 
 ### LO3 — Distinguish determiner distribution from repeated numerical marking
 
-- **Learner prompt.** Which sample specifies an amount per recipient as well as a distribution pattern?
+- **Learner prompt.** Compare प्रत्येक विद्यार्थी / Pratyek vidyaarthi with दुई-दुईवटा किताब / Dui-duiwata kitaab in a book handout. With translations hidden and noun glosses supplied, which phrase specifies how much each recipient gets?
 - **Expected response.** The repeated-number book phrase; it specifies two per recipient in the scene.
 - **Assessment target.** LO3 only. Score domain and individual application. Do not award repeated-number evidence or infer that noun plural or predicate agreement has been demonstrated.
 - **Feedback and retry.** Separate which members get counted from how much each gets and repeat with different quantities supplied.

@@ -97,7 +97,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO2 — Interpret a human count with or without a noun
 
-- **Learner prompt.** A teacher asks how many students arrived. What does the bare two-people reply convey in this exchange?
+- **Learner prompt.** A teacher asks how many students arrived. Read the reply दुई जना / Dui jana, with the gloss hidden and a numeral key available. What count and group does the reply convey?
 - **Expected response.** Two students, because the question establishes the people being counted.
 - **Assessment target.** LO2 only. Score the human classifier and interpretation separately. Phrase ordering and general classifier use stay with G06-009 and G06-008 respectively.
 - **Feedback and retry.** Ask what group the question established, then try the same reply after a question about volunteers.
@@ -113,7 +113,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO4 — Distinguish omitted nouns from omitted classifiers using contextual evidence
 
-- **Learner prompt.** In the bare reply for two people, which element is left implicit: the noun or the classifier?
+- **Learner prompt.** Compare the abbreviated reply दुई जना / Dui jana in the student-arrival exchange with the explicit student phrase in row 2. Hide the full glosses. Which element remains implicit in the reply?
 - **Expected response.** The noun is implicit; the classifier is still present.
 - **Assessment target.** LO4 only. Score the human classifier and interpretation separately. Phrase ordering and general classifier use stay with G06-009 and G06-008 respectively.
 - **Feedback and retry.** Circle the visible classifier and name what the listener recovers from the previous question. Retry with the explicit student phrase.

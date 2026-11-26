@@ -50,7 +50,7 @@ Illustrative drafts from the approved Batch 4 scope and authoring comparisons. T
 | तीन | Tin | Three | Value 3 or ३; count the books when used with the supplied book-counting frame. |
 | दुई लिटर पानी | Dui litar paani | Two litres of water | The number counts litres, rather than bottles. |
 | एक लाख | Ek laakh | One lakh, 100,000 | १,००,००० and 1,00,000 use South Asian grouping; 100,000 represents the same value. |
-| एक करोड | Ek karod | One crore, 10,000,000 | १,००,००,००० and 1,00,00,000 represent the same value as 10,000,000. |
+| एक करोड | Ek karod | One crore, 10,000,000 | १,००,००,००० and 1,00,00,000 represent the same value as One crore is 10,000,000. One lakh is 100,000. |
 
 ## 7. Related constructions and contrasts
 
@@ -90,7 +90,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO1 — Identify the quantity a cardinal expresses
 
-- **Learner prompt.** In the water order, how many litres were requested? Supply the English gloss for the unit.
+- **Learner prompt.** A vendor receives दुई लिटर पानी / Dui litar paani. Give a glossary for the unit and substance only. Which quantity did the customer request?
 - **Expected response.** Two litres.
 - **Assessment target.** LO1 only. Score applying quantity in a frame independently of memorised number words and classifier selection; establish arithmetic or scale facts with a key.
 - **Feedback and retry.** Identify the unit before matching the numeral. Retry with an order that gives three litres.
@@ -106,7 +106,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO3 — Interpret lakh and crore in context
 
-- **Learner prompt.** A budget label uses one crore. Using the displayed scale key, select 100,000 or 10,000,000.
+- **Learner prompt.** Read the Nepali budget label एक करोड / Ek karod. With a scale key and no English gloss of the label, select 100,000 or 10,000,000. Then match एक लाख / Ek laakh to the other value.
 - **Expected response.** 10,000,000.
 - **Assessment target.** LO3 only. Score applying quantity in a frame independently of memorised number words and classifier selection; establish arithmetic or scale facts with a key.
 - **Feedback and retry.** Match the budget term to the value on the key, then retry with one lakh.

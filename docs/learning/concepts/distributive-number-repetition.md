@@ -100,7 +100,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO2 — Interpret a quantity per recipient
 
-- **Learner prompt.** In a scene where three readers each receive books, what does the repeated two-book phrase specify per reader?
+- **Learner prompt.** Three readers are receiving books. Read दुई-दुईवटा किताब / Dui-duiwata kitaab with its full gloss hidden and a numeral key supplied. What allocation does this express per reader?
 - **Expected response.** Two books per reader.
 - **Assessment target.** LO2 only. Score repetition, per-recipient or per-occurrence interpretation and production separately. Supply any required total. General full reduplication belongs to G28-017.
 - **Feedback and retry.** Follow one reader’s allocation rather than adding the books, then retry with a new labelled set of recipients.
@@ -108,7 +108,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO3 — Distinguish a distributed quantity from a total
 
-- **Learner prompt.** The diagram already gives the total as six. Does the repeated numeral name six books or the amount allocated to each reader?
+- **Learner prompt.** The diagram shows three recipients and gives the total as six. Read दुई-दुईवटा किताब / Dui-duiwata kitaab without the full gloss. Does its repeated numeral express the total or the per-reader quantity?
 - **Expected response.** The amount per reader. Six is a separate total supplied by the diagram.
 - **Assessment target.** LO3 only. Score repetition, per-recipient or per-occurrence interpretation and production separately. Supply any required total. General full reduplication belongs to G28-017.
 - **Feedback and retry.** Point separately to a recipient’s allocation and the stock total, then try with an alternative diagram.
@@ -116,8 +116,8 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO4 — Identify the contextually supplied distribution domain
 
-- **Learner prompt.** The distribution is between tables with several readers at each table. What determines whether each table or each individual gets the allocation?
-- **Expected response.** The stated allocation rule or preceding dialogue. The repeated numeral alone does not establish the domain.
+- **Learner prompt.** Read दुई-दुईवटा किताब / Dui-duiwata kitaab after two different Nepali handout instructions or scenarios that establish each reader versus each table as the recipient. Keep the phrase’s gloss hidden. Which domain makes sense in each case, and does the repeated phrase alone select one?
+- **Expected response.** It distributes two books per reader in the first context and two per table in the second. The preceding rule, not the repeated number alone, determines the domain.
 - **Assessment target.** LO4 only. Score repetition, per-recipient or per-occurrence interpretation and production separately. Supply any required total. General full reduplication belongs to G28-017.
 - **Feedback and retry.** Mark the possible groups and individuals and retry with a rule that explicitly names the recipient per table.
 - **Validation status.** Draft. Confirm naturalness, interpretation, scoring limits and acceptable contextual alternatives before use.
@@ -132,7 +132,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO6 — Interpret grouping across repeated occasions
 
-- **Learner prompt.** At a door, two people enter per turn. Interpret the last expression using those turns as the domain.
+- **Learner prompt.** Staff admit successive groups through a door and report दुई-दुई जना / Dui-dui jana. Hide the full gloss and show the turns without a headcount. What group size does the report convey?
 - **Expected response.** Two people in each turn or group. The total number of people and the number of turns are unstated.
 - **Assessment target.** LO6 only. Score repetition, per-recipient or per-occurrence interpretation and production separately. Supply any required total. General full reduplication belongs to G28-017.
 - **Feedback and retry.** Draw one box per turn with two people and try a new entry pattern with the turns marked.

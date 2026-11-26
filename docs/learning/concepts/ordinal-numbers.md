@@ -99,7 +99,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO2 — Recognise conventional ordinal forms
 
-- **Learner prompt.** From the forms in rows 3 and 4, identify the ordinal that occurs with floor.
+- **Learner prompt.** From the Nepali modifiers in rows 3 and 4, identify the ordinal for position two. Keep the ordinal glosses hidden and supply noun glosses separately.
 - **Expected response.** दोस्रो / Dosro / second.
 - **Assessment target.** LO2 only. Score position and ordinal use; supply the conventional words when evaluating construction rather than recall. General derivational rules remain with G28.
 - **Feedback and retry.** Separate the reference noun from the rank word; repeat with the expression for third place.
@@ -107,7 +107,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO3 — Interpret position in different sequences
 
-- **Learner prompt.** In a festival schedule numbered in order, which date goes with row 2 if day one is Monday? Use a supplied schedule.
+- **Learner prompt.** Read तेस्रो दिन / Tesro din with the ordinal gloss hidden. On a supplied schedule starting Monday, choose the date the phrase refers to.
 - **Expected response.** Wednesday, the third listed day.
 - **Assessment target.** LO3 only. Score position and ordinal use; supply the conventional words when evaluating construction rather than recall. General derivational rules remain with G28.
 - **Feedback and retry.** Point to each position on the schedule, then retry with a different starting day.

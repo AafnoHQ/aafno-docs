@@ -107,10 +107,10 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO3 — Interpret visible and discourse referents and relevant number
 
-- **Learner prompt.** The speakers have just discussed the books on one shelf but cannot see that shelf. Would a plural demonstrative phrase identify one book or a set in that dialogue, and what makes the referent recoverable?
-- **Expected response.** The previously discussed books if the set is recoverable. No fixed physical distance follows from the wording alone.
+- **Learner prompt.** Two people have been discussing the books on the back shelf, which is now out of sight. One says ती किताबहरू / Ti kitaabaharu. With the full translation hidden, identify whether the phrase refers to one book or more than one, and which book or set is recoverable.
+- **Expected response.** More than one book. The likely referent is the books already discussed on the back shelf. Accept a clarification request if another salient set is introduced.
 - **Assessment target.** LO3 only. Score use of the demonstrative to modify a stated noun. G02-005 owns standalone reference and G03-008 owns definiteness and specificity.
-- **Feedback and retry.** Ask what the previous turn established and whether one book or a set is meant; retry with a different salient set.
+- **Feedback and retry.** If you relied only on physical distance, identify the set established by the previous turn. Retry after a different set is introduced and name the cue for both number and reference.
 - **Validation status.** Draft. Confirm naturalness, interpretation, scoring limits and acceptable contextual alternatives before use.
 
 ### LO4 — Produce a reviewed demonstrative noun phrase
@@ -120,6 +120,14 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 - **Assessment target.** LO4 only. Score use of the demonstrative to modify a stated noun. G02-005 owns standalone reference and G03-008 owns definiteness and specificity.
 - **Feedback and retry.** If the noun is omitted, the listener may still identify the book, but retry using a demonstrative that modifies the supplied noun.
 - **Validation status.** Draft. Confirm naturalness, interpretation, scoring limits and acceptable contextual alternatives before use.
+
+### LO3b — Recover a visible referent and number
+
+- **Learner prompt.** One book is in the speaker’s hand and another is on a shelf. The speaker points at the book in their hand and says यो किताब / Yo kitaab. With the full translation hidden and the noun gloss supplied if needed, identify the referent and whether the phrase picks out one book or more than one.
+- **Expected response.** One book, the one indicated in the speaker’s hand. Pointing and shared attention establish the referent in this scene. Accept equivalent identifications without a general distance rule.
+- **Assessment target.** LO3, visible-reference interpretation. Record number and referent explicitly and score separately from the discourse-reference activity.
+- **Feedback and retry.** If the learner picks the shelf book, trace the pointing cue with them. Retry with a new table arrangement and ask which indicated object the reply identifies.
+- **Validation status.** Draft. Confirm the wording and pointing scenario with speakers and review unresolved alternatives before scoring.
 
 ## 13. Mastery evidence
 

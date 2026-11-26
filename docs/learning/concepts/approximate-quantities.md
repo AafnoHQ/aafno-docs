@@ -91,7 +91,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO1 — Distinguish exact, estimated, ranged and unspecified quantities
 
-- **Learner prompt.** Sort the first, second, fourth and fifth examples into exact count, estimate, range and unspecified amount.
+- **Learner prompt.** Sort the Nepali expressions in rows 1, 2, 4 and 5 into exact count, estimate, range and unspecified amount. Hide full glosses and provide the numeral key only.
 - **Expected response.** Rows 1, 2, 4 and 5 respectively.
 - **Assessment target.** LO1 only. Score exactness, anchor or stated bounds as appropriate. Supply numerals and intervals and leave classifier choice and numeric conversions outside the score.
 - **Feedback and retry.** Ask whether each report supplies one firm count, an anchor, bounds or no anchor; retry with a different headcount.
@@ -99,7 +99,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO2 — Interpret an estimate without inventing bounds
 
-- **Learner prompt.** Does ‘about ten’ establish that the count is between nine and eleven?
+- **Learner prompt.** An organiser reports दस जना जति / Das jana jati. Supply a numeral key and the group context, with the full gloss hidden. Does the wording establish a count between nine and eleven?
 - **Expected response.** No. Ten is the estimate’s anchor, and the phrase gives no universal bounds.
 - **Assessment target.** LO2 only. Score exactness, anchor or stated bounds as appropriate. Supply numerals and intervals and leave classifier choice and numeric conversions outside the score.
 - **Feedback and retry.** Check whether the wording actually states endpoints, then compare with a clearly bounded schedule estimate.
@@ -107,7 +107,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO3 — Interpret a stated range
 
-- **Learner prompt.** In the explicitly bounded attendance scenario, what are the stated endpoints?
+- **Learner prompt.** Read दस–बाह्र जना / Das-baahra jana as the organiser’s stated attendance range. With a numeral key and full gloss hidden, mark the endpoints.
 - **Expected response.** Ten and twelve.
 - **Assessment target.** LO3 only. Score exactness, anchor or stated bounds as appropriate. Supply numerals and intervals and leave classifier choice and numeric conversions outside the score.
 - **Feedback and retry.** Point to both endpoints on a supplied number line, then retry with another supplied interval.

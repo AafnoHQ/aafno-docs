@@ -94,7 +94,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO1 — Interpret many, few, some and all in context
 
-- **Learner prompt.** Match the following four scenes to their reviewed quantifiers: a large stock, a small amount, an unspecified subset, and the entire class.
+- **Learner prompt.** Show rows 1–4 with the quantifier glosses hidden. Match the Nepali expressions to a large stock, a small amount, an unspecified subset and the entire class. Supply noun glosses only.
 - **Expected response.** Use the many, few or little, some, and all examples respectively. The size of the stock or small amount is relative to the supplied situation.
 - **Assessment target.** LO1 only. Score amount or contextual function in the noun phrase. G05-005 owns degree, G02-010 owns standalone indefinite reference and G03-007 owns countability.
 - **Feedback and retry.** Mark the group boundary and retry with a different class list.
@@ -102,7 +102,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO2 — Identify a quantified entity or substance
 
-- **Learner prompt.** In the water example in row 1, what is quantified?
+- **Learner prompt.** Read धेरै पानी / Dherai paani. Without a full gloss, identify what is quantified.
 - **Expected response.** The amount of water.
 - **Assessment target.** LO2 only. Score amount or contextual function in the noun phrase. G05-005 owns degree, G02-010 owns standalone indefinite reference and G03-007 owns countability.
 - **Feedback and retry.** Point to the quantified substance and retry with the books example.
@@ -110,7 +110,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO3 — Distinguish quantity from intensity or activity extent
 
-- **Learner prompt.** Compare the two uses of the shared word in ‘many books’ and ‘very good’. What changes?
+- **Learner prompt.** Read धेरै किताब / Dherai kitaab and धेरै राम्रो / Dherai raamro with the full glosses hidden. Give glosses for the hosts only. Explain what the shared word contributes to each.
 - **Expected response.** One quantifies books; the other intensifies a quality.
 - **Assessment target.** LO3 only. Score amount or contextual function in the noun phrase. G05-005 owns degree, G02-010 owns standalone indefinite reference and G03-007 owns countability.
 - **Feedback and retry.** Identify the expression being modified and retry with the activity example as an open context-dependent comparison.
@@ -118,7 +118,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO4 — Distinguish quantity from standalone indefinite reference
 
-- **Learner prompt.** Which expression leaves the thing itself unspecified rather than quantifying people?
+- **Learner prompt.** Compare केही मान्छे / Kehi maanchhe and केही चाहिन्छ। / Kehi chaahinchha. with the full translations hidden. Which identifies an unspecified thing rather than an amount of people?
 - **Expected response.** The standalone indefinite in the final row.
 - **Assessment target.** LO4 only. Score amount or contextual function in the noun phrase. G05-005 owns degree, G02-010 owns standalone indefinite reference and G03-007 owns countability.
 - **Feedback and retry.** Ask whether a noun names the people or things, then retry with the subset phrase.

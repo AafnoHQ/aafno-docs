@@ -93,7 +93,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO1 — Interpret a part of a supplied whole
 
-- **Learner prompt.** Given a bar divided into four equal parts, point to the amount in the three-quarters expression.
+- **Learner prompt.** Read तीन चौथाइ / Tin chauthaai with the gloss hidden. Select its match from supplied quartered diagrams.
 - **Expected response.** Three of the four equal parts.
 - **Assessment target.** LO1 only. Supply the values and fraction diagrams. Score the language interpretation or unit construction independently of computation and clock reading.
 - **Feedback and retry.** Mark the whole first, then shade three parts on a new bar.
@@ -101,7 +101,7 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO2 — Identify a conventional mixed amount
 
-- **Learner prompt.** Match the expression for one and a half kilograms to supplied diagrams for 1.5 and 2.5 kilograms.
+- **Learner prompt.** Read डेढ किलो / Dedh kilo with the quantity gloss hidden. With the unit supplied, match it to the 1.5 or 2.5 kilogram diagram.
 - **Expected response.** The 1.5 kilogram diagram.
 - **Assessment target.** LO2 only. Supply the values and fraction diagrams. Score the language interpretation or unit construction independently of computation and clock reading.
 - **Feedback and retry.** Compare the full units in the diagrams, then retry with another mixed amount shown at the same scale.
@@ -117,15 +117,15 @@ Use the contextual rows in section 6 where referenced. Devanagari, Romanisation 
 
 ### LO4 — Distinguish exact fractional meaning from estimation
 
-- **Learner prompt.** The recipe specifies half a kilogram; the shopper says ‘about half a kilogram’. Which specifies an exact target?
-- **Expected response.** The recipe. The shopper presents the fraction as an estimate.
+- **Learner prompt.** A recipe lists आधा किलो / Aadhaa kilo. A shopper considering how much to buy says करिब आधा किलो / Karib aadhaa kilo. Show both Nepali expressions with answer-revealing translations hidden. Which sets a fixed fractional target and which leaves room for an estimate?
+- **Expected response.** The recipe sets a half-kilogram target. The shopper gives an estimate centred on that same amount. No tolerance is stated.
 - **Assessment target.** LO4 only. Supply the values and fraction diagrams. Score the language interpretation or unit construction independently of computation and clock reading.
-- **Feedback and retry.** Keep the fractional value fixed and identify what makes the second speaker less precise.
+- **Feedback and retry.** If both sound exact, compare the shared half and unit with the extra word in the shopper’s phrase. Retry with the same fractional amount in an exact order and a rough shopping report.
 - **Validation status.** Draft. Confirm naturalness, interpretation, scoring limits and acceptable contextual alternatives before use.
 
 ### LO5 — Distinguish a general fractional quantity from a clock expression
 
-- **Learner prompt.** Compare the mixed amount followed by ‘litres’ with the same fractional wording in a clock-reading scene. What does each refer to?
+- **Learner prompt.** Read साढे दुई लिटर / Saadhe dui litar on a recipe card and साढे दुई / Saadhe dui next to a clock in a timetable. Hide the full glosses and supply the unit meaning. Which describes an amount and which locates an event?
 - **Expected response.** One measures volume, while the clock scene locates a time. G06-011 owns the clock reading.
 - **Assessment target.** LO5 only. Supply the values and fraction diagrams. Score the language interpretation or unit construction independently of computation and clock reading.
 - **Feedback and retry.** Ask what is being measured or scheduled, then retry in a kitchen or appointment scene.
@@ -153,6 +153,7 @@ Link reviewed examples and contextual constraints through the Grammar Library an
 | --- | --- | --- |
 | Which forms, readings and contrasts are supported? | Elicit halves, quarters and mixed forms with quantities and clocks separated. Test number restrictions, contextual readings, conventional alternatives and naturalness rather than inferring interchangeability from arithmetic. | Record accepted readings and forms, context, exclusions where supported, and unresolved alternatives. |
 | Are the models and tasks appropriate? | Review Devanagari, provisional Romanisation, English, spoken naturalness and each activity’s expected response. | Record accepted variants and scoring limits against the reviewed version. |
+| Is the estimated fraction natural in the shopping context? | Compare the exact recipe amount and the approximate shopping report with speakers while keeping the unit and fraction fixed. | Record acceptable phrasing and interpretations. Detailed estimation remains with G06-006. |
 | Can sources or recordings be reused? | Collect provenance, speaker context, audio alignment and reuse rights. | Record reviewer decisions under [Content QA](../content-qa.md). |
 
 All questions are open. No illustrative example or analysis has recorded linguistic or native-speaker approval.
