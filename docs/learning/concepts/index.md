@@ -97,4 +97,20 @@ The seven pilot specifications were structurally reviewed and merged in [PR #9](
 | G06-011 | [Clock time and numerical time expressions](clock-time-and-numerical-time-expressions.md) |
 | G06-012 | [Distributive number repetition](distributive-number-repetition.md) |
 
+## Step 3B Batch 5
+
+| Catalogue ID | Canonical specification |
+| --- | --- |
+| G07-001 | [Verb infinitives](verb-infinitives.md) |
+| G07-002 | [Verb stems](verb-stems.md) |
+| G07-003 | [Regular verbs](regular-verbs.md) |
+| G07-004 | [Irregular verbs](irregular-verbs.md) |
+| G07-005 | [Transitive verbs](transitive-verbs.md) |
+| G07-006 | [Intransitive verbs](intransitive-verbs.md) |
+| G07-007 | [Ditransitive verbs](ditransitive-verbs.md) |
+| G07-008 | [Stative and dynamic verbs](stative-and-dynamic-verbs.md) |
+| G07-009 | [Main verbs and auxiliary verbs](main-verbs-and-auxiliary-verbs.md) |
+| G07-010 | [Finite and non-finite verbs](finite-and-non-finite-verbs.md) |
+| G07-011 | [Verb valency](verb-valency.md) |
+
 See the [catalogue](../grammar-catalogue/index.md) for planning status, the [roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth) for the authoring workflow and [Content QA](../content-qa.md) for release gates.

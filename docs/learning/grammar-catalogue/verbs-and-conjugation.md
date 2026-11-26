@@ -19,17 +19,17 @@ Coverage · [G07 in the grammar syllabus](../grammar-syllabus.md#g07) · 11 plan
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
-| G07-001 | Verb infinitives | Recognise and understand dictionary forms such as गर्नु, खानु and जानु. | Planned |
-| G07-002 | Verb stems | Identify the underlying stem of a verb and understand how it relates to inflected forms. | Planned |
-| G07-003 | Regular verbs | Recognise predictable verb formation patterns and apply them to unfamiliar regular verbs within validated conjugation classes. | Planned |
-| G07-004 | Irregular verbs | Recognise irregular verb paradigms and identify the relationship between irregular inflected forms and their underlying verbs. | Planned |
-| G07-005 | Transitive verbs | Understand verbs that take an object. | Planned |
-| G07-006 | Intransitive verbs | Understand verbs that do not require a direct object. | Planned |
-| G07-007 | Ditransitive verbs | Understand verbs involving a transferred entity and a recipient. | Planned |
-| G07-008 | Stative and dynamic verbs | Distinguish states from actions, events and processes. | Planned |
-| G07-009 | Main verbs and auxiliary verbs | Understand how multiple verbs work together to express grammatical meaning. | Planned |
-| G07-010 | Finite and non-finite verbs | Distinguish independently inflected verbs from dependent verb forms. | Planned |
-| G07-011 | Verb valency | Understand which participants and complements a verb requires or permits. | Planned |
+| G07-001 | [Verb infinitives](../concepts/verb-infinitives.md) | Recognise and understand dictionary forms such as गर्नु, खानु and जानु. | Planned |
+| G07-002 | [Verb stems](../concepts/verb-stems.md) | Identify the underlying stem of a verb and understand how it relates to inflected forms. | Planned |
+| G07-003 | [Regular verbs](../concepts/regular-verbs.md) | Recognise predictable verb formation patterns and apply them to unfamiliar regular verbs within validated conjugation classes. | Planned |
+| G07-004 | [Irregular verbs](../concepts/irregular-verbs.md) | Recognise irregular verb paradigms and identify the relationship between irregular inflected forms and their underlying verbs. | Planned |
+| G07-005 | [Transitive verbs](../concepts/transitive-verbs.md) | Understand verbs that take an object. | Planned |
+| G07-006 | [Intransitive verbs](../concepts/intransitive-verbs.md) | Understand verbs that do not require a direct object. | Planned |
+| G07-007 | [Ditransitive verbs](../concepts/ditransitive-verbs.md) | Understand verbs involving a transferred entity and a recipient. | Planned |
+| G07-008 | [Stative and dynamic verbs](../concepts/stative-and-dynamic-verbs.md) | Distinguish states from actions, events and processes. | Planned |
+| G07-009 | [Main verbs and auxiliary verbs](../concepts/main-verbs-and-auxiliary-verbs.md) | Understand how multiple verbs work together to express grammatical meaning. | Planned |
+| G07-010 | [Finite and non-finite verbs](../concepts/finite-and-non-finite-verbs.md) | Distinguish independently inflected verbs from dependent verb forms. | Planned |
+| G07-011 | [Verb valency](../concepts/verb-valency.md) | Understand which participants and complements a verb requires or permits. | Planned |
 
 **Related categories.** [G08](#g08) teaches irregular conjugation and agreement patterns. [G14](../grammar-syllabus.md#g14) teaches case marking and participant relationships. [G20](../grammar-syllabus.md#g20) teaches specific non-finite constructions.
 

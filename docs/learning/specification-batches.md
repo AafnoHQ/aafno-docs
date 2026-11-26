@@ -36,4 +36,10 @@ The [Batch 4 index](concepts/index.md#step-3b-batch-4) covers all twelve active 
 
 ### Grammar Foundations authoring milestone
 
-All 55 active G01–G06 concept specifications are authored. Batch 4 passed the structural validator and regression tests, and underwent manual educational review and a second pass through the assessment evidence for every local learning outcome. Batch 4 awaits product-owner review. Linguistic and native-speaker validation, CEFR assignment and publication approval remain separate pending decisions for the draft material.
+All 55 active G01–G06 concept specifications are authored. Batch 4 passed the structural validator and regression tests, and underwent manual educational review and a second pass through the assessment evidence for every local learning outcome. Batch 4 passed product-owner structural review and merged in [PR #13](https://github.com/AafnoHQ/aafno-docs/pull/13). Structural review is complete across the relevant Grammar Foundations batches. Linguistic and native-speaker validation, CEFR assignment and publication approval remain separate pending decisions for the draft material.
+
+## Step 3B Batch 5
+
+The [Batch 5 index](concepts/index.md#step-3b-batch-5) covers all eleven active G07 Verb Foundations targets. G08 remains for subsequent authoring. Batch 5 awaits product-owner review. Linguistic and native-speaker validation, CEFR assignment and publication approval remain pending.
+
+Decisions B5-01–15 cover scope, ownership and evidence, three [proposed product extensions](../product/language-reference.md#interactive-verb-form-explorer) and the [manual assessment audit](specification-authoring.md#pre-pr-assessment-audit). See the [tracker](specification-progress.md) for per-concept status and the [research index](specification-research.md#batch-5-research-themes) for evidence still needed.

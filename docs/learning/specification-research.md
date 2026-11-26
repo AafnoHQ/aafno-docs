@@ -61,3 +61,15 @@ Collect matched-context examples and speaker judgments against the per-concept e
 | Quantity, approximation and distribution | [G06-004](concepts/quantifiers.md#15-content-validation), [G06-005](concepts/distributive-determiners.md#15-content-validation), [G06-006](concepts/approximate-quantities.md#15-content-validation), [G06-012](concepts/distributive-number-repetition.md#15-content-validation) | Open |
 | Classifier selection, omission and phrase ordering | [G06-007](concepts/human-classifiers.md#15-content-validation), [G06-008](concepts/general-and-other-classifiers.md#15-content-validation), [G06-009](concepts/number-classifier-noun-constructions.md#15-content-validation) | Open |
 | Demonstrative number, salience and noun modification | [G06-010](concepts/demonstrative-determiners.md#15-content-validation) | Open |
+
+## Batch 5 research themes
+
+The linked registers identify what evidence is needed from matched contexts and speaker review. Keep lemma, stem and contextual roles distinct and retain uncertainty for proposed analyses, register and spelling.
+
+| Theme | Affected specifications and evidence plans | Status |
+| --- | --- | --- |
+| Dictionary lookup, stem analysis and alternate forms | [G07-001](concepts/verb-infinitives.md#15-content-validation), [G07-002](concepts/verb-stems.md#15-content-validation), [G07-004](concepts/irregular-verbs.md#15-content-validation) | Open |
+| Predictable patterns and class-limited transfer | [G07-003](concepts/regular-verbs.md#15-content-validation) | Open |
+| Object omission, motion and transfer roles | [G07-005](concepts/transitive-verbs.md#15-content-validation), [G07-006](concepts/intransitive-verbs.md#15-content-validation), [G07-007](concepts/ditransitive-verbs.md#15-content-validation) | Open |
+| Situation type and participant or complement frames | [G07-008](concepts/stative-and-dynamic-verbs.md#15-content-validation), [G07-011](concepts/verb-valency.md#15-content-validation) | Open |
+| Lexical and auxiliary roles, finiteness and dependency | [G07-009](concepts/main-verbs-and-auxiliary-verbs.md#15-content-validation), [G07-010](concepts/finite-and-non-finite-verbs.md#15-content-validation) | Open |
