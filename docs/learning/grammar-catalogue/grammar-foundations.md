@@ -153,18 +153,18 @@ Coverage · [G06 in the grammar syllabus](../grammar-syllabus.md#g06) · 12 plan
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
-| G06-001 | Cardinal numbers | Express quantities. | Planned |
-| G06-002 | Ordinal numbers | Express position or ordering. | Planned |
-| G06-003 | Fractions and partial quantities | Express halves, quarters and other partial quantities. | Planned |
-| G06-004 | Quantifiers | Express quantities such as many, few, some and all. | Planned |
-| G06-005 | Distributive determiners | Use forms such as each and every to express individual distribution. | Planned |
-| G06-006 | Approximate quantities | Express estimated or imprecise amounts. | Planned |
-| G06-007 | Human classifiers | Use जना appropriately when counting people. | Planned |
-| G06-008 | General and other classifiers | Use वटा and other counting forms. | Planned |
-| G06-009 | Number–classifier–noun constructions | Place and combine numbers, classifiers and nouns. | Planned |
-| G06-010 | Demonstrative determiners | Use demonstrative forms to modify nouns. | Planned |
-| G06-011 | Clock time and numerical time expressions | Express clock time or numerical duration, such as at five o’clock or for two hours. | Planned |
-| G06-012 | Distributive number repetition | Express quantities such as one each or two at a time using number repetition. | Planned |
+| G06-001 | [Cardinal numbers](../concepts/cardinal-numbers.md) | Express quantities. | Planned |
+| G06-002 | [Ordinal numbers](../concepts/ordinal-numbers.md) | Express position or ordering. | Planned |
+| G06-003 | [Fractions and partial quantities](../concepts/fractions-and-partial-quantities.md) | Express halves, quarters and other partial quantities. | Planned |
+| G06-004 | [Quantifiers](../concepts/quantifiers.md) | Express quantities such as many, few, some and all. | Planned |
+| G06-005 | [Distributive determiners](../concepts/distributive-determiners.md) | Use forms such as each and every to express individual distribution. | Planned |
+| G06-006 | [Approximate quantities](../concepts/approximate-quantities.md) | Express estimated or imprecise amounts. | Planned |
+| G06-007 | [Human classifiers](../concepts/human-classifiers.md) | Use जना appropriately when counting people. | Planned |
+| G06-008 | [General and other classifiers](../concepts/general-and-other-classifiers.md) | Use वटा and other counting forms. | Planned |
+| G06-009 | [Number–classifier–noun constructions](../concepts/number-classifier-noun-constructions.md) | Place and combine numbers, classifiers and nouns. | Planned |
+| G06-010 | [Demonstrative determiners](../concepts/demonstrative-determiners.md) | Use demonstrative forms to modify nouns. | Planned |
+| G06-011 | [Clock time and numerical time expressions](../concepts/clock-time-and-numerical-time-expressions.md) | Express clock time or numerical duration, such as at five o’clock or for two hours. | Planned |
+| G06-012 | [Distributive number repetition](../concepts/distributive-number-repetition.md) | Express quantities such as one each or two at a time using number repetition. | Planned |
 
 **Related categories.** [Phase 2C](../curriculum-roadmap.md#phase-2--master-syllabus) covers number vocabulary. This category covers how learners use numbers in grammatical constructions. See [G02](#g02) for demonstrative pronouns and [G05](#g05) for adverbial duration.
 

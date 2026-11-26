@@ -80,4 +80,21 @@ The seven pilot specifications were structurally reviewed and merged in [PR #9](
 | G05-008 | [Adverbs of certainty and probability](adverbs-of-certainty-and-probability.md) |
 | G05-010 | [Adverb placement and scope](adverb-placement-and-scope.md) |
 
+## Step 3B Batch 4
+
+| Catalogue ID | Canonical specification |
+| --- | --- |
+| G06-001 | [Cardinal numbers](cardinal-numbers.md) |
+| G06-002 | [Ordinal numbers](ordinal-numbers.md) |
+| G06-003 | [Fractions and partial quantities](fractions-and-partial-quantities.md) |
+| G06-004 | [Quantifiers](quantifiers.md) |
+| G06-005 | [Distributive determiners](distributive-determiners.md) |
+| G06-006 | [Approximate quantities](approximate-quantities.md) |
+| G06-007 | [Human classifiers](human-classifiers.md) |
+| G06-008 | [General and other classifiers](general-and-other-classifiers.md) |
+| G06-009 | [Number–classifier–noun constructions](number-classifier-noun-constructions.md) |
+| G06-010 | [Demonstrative determiners](demonstrative-determiners.md) |
+| G06-011 | [Clock time and numerical time expressions](clock-time-and-numerical-time-expressions.md) |
+| G06-012 | [Distributive number repetition](distributive-number-repetition.md) |
+
 See the [catalogue](../grammar-catalogue/index.md) for planning status, the [roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth) for the authoring workflow and [Content QA](../content-qa.md) for release gates.

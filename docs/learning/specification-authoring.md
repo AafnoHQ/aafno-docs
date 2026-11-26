@@ -41,6 +41,8 @@ Make a second pass through sections 12 and 13 of every new specification before 
 4. Check the canonical boundary. Separate adjective class from applying agreement, noun gender and plurality from adjective selection, and recognising a construction from producing it. For adverbs distinguish recognition, attachment and scope; keep tense, habitual aspect, numeral formation, information source and noun quantity separate. Check event-order interpretation separately from sequencing production.
 5. Record the audit findings in the PR alongside outstanding validation limitations. Automated structural QA supports this review.
 
+**Outcome coverage.** In the pre-PR audit, cross-check sections 2, 11, 12 and 13. Every local outcome needs its own concrete representative prompt or separately scored sub-task in section 12, linked to observable evidence, expected responses, ownership, meaningful retry and validation limitations. Record a coverage matrix in the review. Supply values, vocabulary, clocks, proportions or totals when arithmetic and number recall are supporting knowledge. Keep the target wording hidden in production. Flag and fix uncovered or misaligned outcomes before review.
+
 ## Tracker sources and update process
 
 | Field | Authority |

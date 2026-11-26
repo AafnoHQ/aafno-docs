@@ -86,8 +86,29 @@
         "G05-008",
         "G05-010"
       ],
+      "structural": "Approved",
+      "pr": "https://github.com/AafnoHQ/aafno-docs/pull/12"
+    },
+    {
+      "id": "Step 3B Batch 4",
+      "title": "Numbers, quantities and determiners",
+      "anchor": "step-3b-batch-4",
+      "ids": [
+        "G06-001",
+        "G06-002",
+        "G06-003",
+        "G06-004",
+        "G06-005",
+        "G06-006",
+        "G06-007",
+        "G06-008",
+        "G06-009",
+        "G06-010",
+        "G06-011",
+        "G06-012"
+      ],
       "structural": "Awaiting review",
-      "pr": "https://github.com/AafnoHQ/aafno-docs/pulls?q=head%3Acodex%2Fstep-3b-batch-3-adjectives-adverbs"
+      "pr": "https://github.com/AafnoHQ/aafno-docs/pulls?q=head%3Acodex%2Fstep-3b-batch-4-numbers-quantities-determiners"
     }
   ],
   "validation": {},

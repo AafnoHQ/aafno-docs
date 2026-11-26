@@ -38,6 +38,18 @@ Extend the proposed progressive sentence builder and sentence explorer to add ti
 
 Both extensions reuse canonical content and independent Devanagari, Romanisation and English controls. They remain proposals for future review.
 
+### Quantity and classifier builder
+
+Extend the proposed contextual noun phrase builder and Grammar Library with a quantity or fraction, a referent and supported human and general counting forms. Compare object counts, measurement units and containers. Highlight the numeral, counting expression and noun. Compare reviewed noun or classifier omission, adjective and demonstrative modifiers, explicit and contextual plurality, and per-member distributions. This helps learners distinguish choice of counting form from assembly of the phrase.
+
+For example, a draft progression is किताब / Kitaab / book → तीनवटा किताब / Tinwata kitaab / three books → तीनवटा नयाँ किताब / Tinwata nayaã kitaab / three new books → ती तीनवटा नयाँ किताब / Ti tinwata nayaã kitaab / those three new books. Review supported combinations and variants with G06-001, G06-003–010 and G06-012 and the G03 noun number and G04 agreement owners. Separate grammatical validity, naturalness and contextual fit. Restrict interactions to reviewed examples and combinations, with no unrestricted generation from independently listed components.
+
+### Numerical time explorer
+
+Extend the proposed Grammar Library with analogue and digital displays, conventional fractional and numerical minute readings, parts-of-day cues, duration and boundary timelines, and fractional quantity diagrams. Compare a draft clock reading साढे पाँच / Saadhe paanch / half past five with साढे पाँच घण्टा / Saadhe paanch ghantaa / five and a half hours as a duration candidate. Learners can practise interpreting a schedule or supplying a Nepali expression from a displayed value without being required to solve elapsed-time arithmetic. Hide the language model before production responses.
+
+Use G06-001, G06-003 and G06-011, with G05 temporal and duration interpretation, G09 and G14 retained as dependencies. Review quarter-hour and numerical readings, omission and register, boundaries, pronunciation and any future audio before release. Both proposed extensions reuse canonical examples and independent Devanagari, Romanisation and English controls.
+
 ## Verb Conjugation Reference
 
 Search by lemma or inflected form. Let learners explore forms by pronoun, person, number and gender where relevant, tense and aspect, honorific level or register, and positive or negative polarity. Identify irregular forms and show validated contextual examples. Link forms to their dictionary entries, relevant grammar explanations and practice. Explain the construction in Nepali usage terms with approximate English glosses.

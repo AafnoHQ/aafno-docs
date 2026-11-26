@@ -26,6 +26,14 @@ Decisions B2-01–13 govern scope, ownership boundaries, depth and the two [prod
 
 ## Step 3B Batch 3
 
-The [Batch 3 index](concepts/index.md#step-3b-batch-3) records all seven active G04 and nine active G05 concepts. The product owner approved the 16-concept scope as a one-concept exception. Drafts await product-owner review. Linguistic and native-speaker review, CEFR assignment and publication approval remain open.
+The [Batch 3 index](concepts/index.md#step-3b-batch-3) records all seven active G04 and nine active G05 concepts. The product owner approved the 16-concept scope as a one-concept exception. Batch 3 completed product-owner structural review and merged in [PR #12](https://github.com/AafnoHQ/aafno-docs/pull/12). Linguistic and native-speaker review, CEFR assignment and publication approval remain open.
 
 Decisions B3-01–13 cover scope, canonical boundaries, proposed product extensions and the [assessment audit](specification-authoring.md#pre-pr-assessment-audit). The [generated tracker](specification-progress.md) reports individual statuses. See the [research index](specification-research.md#batch-3-research-themes) for outstanding evidence.
+
+## Step 3B Batch 4
+
+The [Batch 4 index](concepts/index.md#step-3b-batch-4) covers all twelve active G06 concepts. See decisions B4-01–14, the [assessment audit](specification-authoring.md#pre-pr-assessment-audit), [research themes](specification-research.md#batch-4-research-themes) and the [generated tracker](specification-progress.md).
+
+### Grammar Foundations authoring milestone
+
+All 55 active G01–G06 concept specifications are authored. Batch 4 passed the structural validator and regression tests, and underwent manual educational review and a second pass through the assessment evidence for every local learning outcome. Batch 4 awaits product-owner review. Linguistic and native-speaker validation, CEFR assignment and publication approval remain separate pending decisions for the draft material.
