@@ -49,3 +49,15 @@ The linked validation registers describe what evidence is needed. Compare matche
 | Manner, intensity and quantity | [G05-004](concepts/adverbs-of-manner.md#15-content-validation), [G05-005](concepts/adverbs-of-degree.md#15-content-validation) | Open |
 | Confidence, modality and evidence | [G05-008](concepts/adverbs-of-certainty-and-probability.md#15-content-validation) | Open |
 | Attachment, prosody and negation scope | [G05-010](concepts/adverb-placement-and-scope.md#15-content-validation) | Open |
+
+## Batch 4 research themes
+
+Collect matched-context examples and speaker judgments against the per-concept evidence plans. Distinguish conventional forms from productive patterns and interpretations requiring contextual support.
+
+| Theme | Affected specifications and evidence plans | Status |
+| --- | --- | --- |
+| Number representation and ordinal formation | [G06-001](concepts/cardinal-numbers.md#15-content-validation), [G06-002](concepts/ordinal-numbers.md#15-content-validation) | Open |
+| Fractional quantities and clock conventions | [G06-003](concepts/fractions-and-partial-quantities.md#15-content-validation), [G06-011](concepts/clock-time-and-numerical-time-expressions.md#15-content-validation) | Open |
+| Quantity, approximation and distribution | [G06-004](concepts/quantifiers.md#15-content-validation), [G06-005](concepts/distributive-determiners.md#15-content-validation), [G06-006](concepts/approximate-quantities.md#15-content-validation), [G06-012](concepts/distributive-number-repetition.md#15-content-validation) | Open |
+| Classifier selection, omission and phrase ordering | [G06-007](concepts/human-classifiers.md#15-content-validation), [G06-008](concepts/general-and-other-classifiers.md#15-content-validation), [G06-009](concepts/number-classifier-noun-constructions.md#15-content-validation) | Open |
+| Demonstrative number, salience and noun modification | [G06-010](concepts/demonstrative-determiners.md#15-content-validation) | Open |

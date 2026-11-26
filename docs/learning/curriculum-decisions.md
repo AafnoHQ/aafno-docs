@@ -67,6 +67,22 @@ The product owner approved the framework and Step 3A directions in the pilot rev
 | B3-11 | Adjective agreement explorer | Approved · Batch 3 | Extend the Grammar Library and contextual noun phrase builder to explore adjective classes and agreement. | [Batch register](specification-batches.md#step-3b-batch-3) |
 | B3-12 | Progressive sentence modifier | Approved · Batch 3 | Extend the existing sentence builder to explore adverbial information, placement and interpretation. | [Batch register](specification-batches.md#step-3b-batch-3) |
 | B3-13 | Assessment quality | Approved · Batch 3 | Strengthen the existing pre-PR manual review of independently assessable learning outcomes. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B4-01 | Batch scope | Approved · Batch 4 | Author all twelve active G06 concepts together. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-02 | Number vocabulary boundary | Approved · Batch 4 | Separate grammatical application of numbers from Phase 2C vocabulary learning. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-03 | Numerical representation | Approved · Batch 4 | Include South Asian numerical grouping, lakh and crore, while distinguishing written and spoken representations. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-04 | Ordinal formation | Approved · Batch 4 | Investigate conventional and productive ordinal forms without universal suffix rules. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-05 | Fractional quantities | Approved · Batch 4 | Cover conventional fractional expressions and distinguish their general use from clock-specific constructions. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-06 | Quantifier interpretation | Approved · Batch 4 | Distinguish quantity, degree, indefinite reference and contextual grammatical function. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-07 | Distribution and approximation | Approved · Batch 4 | Distinguish collective, individual, exact, approximate and repeated quantities. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-08 | Classifier behaviour | Approved · Batch 4 | Investigate classifier selection, omission and contextual usage without unsupported mandatory rules. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-09 | Quantity phrase composition | Approved · Batch 4 | Preserve noun number, adjective agreement and classifier ownership boundaries. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-10 | Demonstrative determiners | Approved · Batch 4 | Distinguish noun modification from demonstrative pronouns, including discourse reference. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-11 | Numerical time | Approved · Batch 4 | Cover conventional clock expressions, numerical duration and temporal boundaries separately. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-12 | Quantity and classifier builder | Approved · Batch 4 | Extend the existing contextual noun phrase builder to explore numerical constructions. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-13 | Numerical time explorer | Approved · Batch 4 | Document an interactive clock, duration and fractional quantity extension to the Grammar Library. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B4-14 | Assessment coverage | Approved · Batch 4 | Extend the existing manual assessment audit to explicitly verify coverage of every local learning outcome. | [Batch register](specification-batches.md#step-3b-batch-4) |
+
+B4-12 and B4-13 approve documenting proposed extensions. B4-14 requires representative coverage of every local learning outcome.
 
 B3-11 and B3-12 approve documenting proposed extensions. See B3-13 for the [manual assessment audit](specification-authoring.md#pre-pr-assessment-audit).
 
