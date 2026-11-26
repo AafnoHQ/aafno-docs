@@ -50,7 +50,7 @@ Illustrative drafts from the approved Batch 4 scope and authoring comparisons. T
 | तीन | Tin | Three | Value 3 or ३; count the books when used with the supplied book-counting frame. |
 | दुई लिटर पानी | Dui litar paani | Two litres of water | The number counts litres, rather than bottles. |
 | एक लाख | Ek laakh | One lakh, 100,000 | १,००,००० and 1,00,000 use South Asian grouping; 100,000 represents the same value. |
-| एक करोड | Ek karod | One crore, 10,000,000 | १,००,००,००० and 1,00,00,000 represent the same value as One crore is 10,000,000. One lakh is 100,000. |
+| एक करोड | Ek karod | One crore, 10,000,000 | १,००,००,००० and 1,00,00,000 represent the same value as 10,000,000. One crore is 10,000,000; one lakh is 100,000. |
 
 ## 7. Related constructions and contrasts
 
