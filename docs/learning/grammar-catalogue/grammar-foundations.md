@@ -48,12 +48,12 @@ Coverage · [G02 in the grammar syllabus](../grammar-syllabus.md#g02) · 10 plan
 | G02-002 | [Second-person pronouns](../concepts/second-person-pronouns.md) | Distinguish तँ, तिमी, तपाईं and हजुर. | Planned |
 | G02-003 | [Third-person pronouns](../concepts/third-person-pronouns.md) | Distinguish ऊ, उनी and उहाँ. | Planned |
 | G02-004 | [Plural personal pronouns](../concepts/plural-personal-pronouns.md) | Recognise and use forms such as उनीहरू and तपाईंहरू. | Planned |
-| G02-005 | Demonstrative pronouns | Recognise and use यो, त्यो, यी and ती to refer to entities. | Planned |
-| G02-006 | Interrogative pronouns | Choose को, के or कुन in appropriate contexts. | Planned |
-| G02-008 | Reflexive pronouns | Use आफू and आफैँ to refer back to a participant. | Planned |
-| G02-010 | Indefinite pronouns | Use कोही and केही to refer to unspecified entities. | Planned |
-| G02-011 | Relative pronouns | Recognise and use जो and जुन. | Planned |
-| G02-012 | Reciprocal pronouns | Use एकअर्का to express reciprocity. | Planned |
+| G02-005 | [Demonstrative pronouns](../concepts/demonstrative-pronouns.md) | Recognise and use यो, त्यो, यी and ती to refer to entities. | Planned |
+| G02-006 | [Interrogative pronouns](../concepts/interrogative-pronouns.md) | Choose को, के or कुन in appropriate contexts. | Planned |
+| G02-008 | [Reflexive pronouns](../concepts/reflexive-pronouns.md) | Use आफू and आफैँ to refer back to a participant. | Planned |
+| G02-010 | [Indefinite pronouns](../concepts/indefinite-pronouns.md) | Use कोही and केही to refer to unspecified entities. | Planned |
+| G02-011 | [Relative pronouns](../concepts/relative-pronouns.md) | Recognise and use जो and जुन. | Planned |
+| G02-012 | [Reciprocal pronouns](../concepts/reciprocal-pronouns.md) | Use एकअर्का to express reciprocity. | Planned |
 
 **Shared coverage and orientation**
 
@@ -70,14 +70,14 @@ Coverage · [G03 in the grammar syllabus](../grammar-syllabus.md#g03) · 8 plann
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
-| G03-001 | Common and proper nouns | Distinguish general entities from named entities. | Planned |
-| G03-002 | Abstract nouns | Identify nouns for feelings, qualities and ideas. | Planned |
-| G03-003 | Collective nouns | Identify nouns that refer to groups or collections. | Planned |
-| G03-004 | Noun gender | Recognise natural and grammatical gender where relevant. | Planned |
-| G03-005 | Singular and plural nouns | Interpret and construct singular and plural forms. | Planned |
-| G03-006 | Optional plural marking | Identify when plurality is communicated without हरू. | Planned |
-| G03-007 | Countable and mass nouns | Distinguish countable entities from substances or quantities. | Planned |
-| G03-008 | Definiteness and specificity | Distinguish specific from non-specific entities using contextual and grammatical cues. | Planned |
+| G03-001 | [Common and proper nouns](../concepts/common-and-proper-nouns.md) | Distinguish general entities from named entities. | Planned |
+| G03-002 | [Abstract nouns](../concepts/abstract-nouns.md) | Identify nouns for feelings, qualities and ideas. | Planned |
+| G03-003 | [Collective nouns](../concepts/collective-nouns.md) | Identify nouns that refer to groups or collections. | Planned |
+| G03-004 | [Noun gender](../concepts/noun-gender.md) | Recognise natural and grammatical gender where relevant. | Planned |
+| G03-005 | [Singular and plural nouns](../concepts/singular-and-plural-nouns.md) | Interpret and construct singular and plural forms. | Planned |
+| G03-006 | [Optional plural marking](../concepts/optional-plural-marking.md) | Identify when plurality is communicated without हरू. | Planned |
+| G03-007 | [Countable and mass nouns](../concepts/countable-and-mass-nouns.md) | Distinguish countable entities from substances or quantities. | Planned |
+| G03-008 | [Definiteness and specificity](../concepts/definiteness-and-specificity.md) | Distinguish specific from non-specific entities using contextual and grammatical cues. | Planned |
 
 **Related categories.** [G06](#g06) owns classifiers, [G28](../grammar-syllabus.md#g28) owns compound nouns and [G15](../grammar-syllabus.md#g15) owns possessive relationships. Reconcile ownership of nominalisation across [G20](../grammar-syllabus.md#g20) and [G28](../grammar-syllabus.md#g28) later.
 
