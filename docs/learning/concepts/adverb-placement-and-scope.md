@@ -123,6 +123,22 @@ References to rows are to section 6. Provide Devanagari, Romanisation and Englis
 - **Feedback and retry.** Separate which day is asserted from emphasis and quantity. Retry after a lead-in that asks about a different detail.
 - **Validation status.** Draft. Confirm naturalness, context and acceptable responses before scored use.
 
+### Explain contextual prominence and ambiguity
+
+- **Learner prompt.** A friend offers to help with revision either today or tomorrow and asks which day you plan to study. You answer आज म धेरै पढ्छु। / Aaja ma dherai padhchhu. / Today I will study a lot. What does the reply establish, which detail is especially relevant to the friend’s question, and what can the friend still not tell about the amount of studying?
+- **Expected response and acceptable alternatives.** The speaker plans to study a lot today. The day is conversationally prominent because the friend asked which day. The reply gives no exact measure, such as hours or pages, and leaves tomorrow’s plans open. Accept equivalent explanations that distinguish relevance in this exchange from a claim about grammatical focus. The written order alone does not establish how a speaker would stress the sentence or whether time-first order necessarily changes its meaning.
+- **Assessment target.** LO4 only. Score whether the learner distinguishes the stated interpretation, the detail made relevant by the question and the information still unresolved. An answer that only identifies the position or host of the time expression earns no LO4 credit.
+- **Feedback and retry.** If the learner says that placing ‘today’ first rules out studying tomorrow, point back to the two offered days and ask what the answer actually says about either one. Then use the same reply after a question about how much revision the speaker plans to do today. Ask which detail now answers the question and what still needs clarification.
+- **Validation status.** Draft. Confirm the naturalness of both exchanges and investigate ordering and prosody separately before scoring any language-specific focus claim.
+
+### Interpret a new arrangement in context
+
+- **Learner prompt.** A study partner asks where you will study tomorrow so they can arrange a meeting. You reply भोलि म घरमा पढ्छु। / Bholi ma gharmaa padhchhu. / Tomorrow I will study at home. For the interpretation check, use the Nepali wording and meeting scenario with the English gloss hidden until feedback. What plan should the partner infer about the study session?
+- **Expected response and acceptable alternatives.** The speaker plans to study at home tomorrow. Accept a paraphrase or a schedule entry linking both ‘tomorrow’ and ‘at home’ to the same study event. घरमा / Gharmaa / at home gives the location of studying. The reply supplies no clock time and does not itself confirm a meeting.
+- **Assessment target.** LO5 only. Score whether the learner uses the scenario to interpret the new arrangement as one study event with both a day and a location. Identifying word positions or naming a modifier’s host alone is insufficient. Do not score case formation or comparison with an alternative order.
+- **Feedback and retry.** If the learner treats home as a meeting location already agreed by both people, ask whose activity the reply describes. Then change the situation: the partner asks where the speaker will be studying tomorrow to decide whether to call. Use the same Nepali reply and ask the learner to explain what they can infer and name one scheduling detail they would still need.
+- **Validation status.** Draft. Confirm the sentence and both conversational contexts with speakers. The task does not depend on a claim that another placement would change the reading.
+
 ## 13. Mastery evidence
 
 Locate a modifier, identify its host and explain a contextual reading on separate unseen items. Include a case where the evidence supports ambiguity and one where negation or prosody needs more information. Record what learners actually identify, interpret, select or produce against the applicable local outcome. Keep uncertainty visible and avoid inferring one outcome from evidence for another.
@@ -137,6 +153,8 @@ Link reviewed examples through the Grammar Library and dictionary. The proposed 
 | --- | --- | --- |
 | Which forms, readings and contrasts are supported? | Test matched positions with context, intonation and negation controlled. Record separate judgments for naturalness, attachment, emphasis and semantic scope. | Record the accepted scope, disallowed interpretations where supported, unresolved alternatives and evidence for each. |
 | Are the models and tasks natural and clear? | Review Devanagari, provisional Romanisation, English gloss, context, feedback and accepted responses with speakers. | Record approved wording, variants and scoring boundaries against the reviewed version. |
+| How do the two LO4 lead-ins affect conversational prominence? | Elicit the same reply after each question with natural prosody. Compare which detail answers the question, what is heard as prominent, and whether speakers infer any particular measure or contrast with tomorrow. | Record context-supported interpretations separately from placement- or prosody-dependent effects. |
+| Is the LO5 time-and-place arrangement natural in both scenarios? | Ask speakers to paraphrase the reply and distinguish the location of studying from any meeting plan. Check whether a different arrangement affects interpretation or preference before teaching such a contrast. | Record acceptable paraphrases and contextual limits. Leave untested placement effects unscored. |
 | Is supporting material reusable? | Record source, audio alignment, speaker context and reuse rights. | Record provenance and publication decision under [Content QA](../content-qa.md). |
 
 All questions are open. No example or analysis in this draft has a recorded linguistic or native-speaker approval.
