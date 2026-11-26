@@ -40,4 +40,23 @@ The seven pilot specifications were structurally reviewed and merged in [PR #9](
 | G02-003 | [Third-person pronouns](third-person-pronouns.md) |
 | G02-004 | [Plural personal pronouns](plural-personal-pronouns.md) |
 
+## Step 3B Batch 2
+
+| Catalogue ID | Canonical specification |
+| --- | --- |
+| G02-005 | [Demonstrative pronouns](demonstrative-pronouns.md) |
+| G02-006 | [Interrogative pronouns](interrogative-pronouns.md) |
+| G02-008 | [Reflexive pronouns](reflexive-pronouns.md) |
+| G02-010 | [Indefinite pronouns](indefinite-pronouns.md) |
+| G02-011 | [Relative pronouns](relative-pronouns.md) |
+| G02-012 | [Reciprocal pronouns](reciprocal-pronouns.md) |
+| G03-001 | [Common and proper nouns](common-and-proper-nouns.md) |
+| G03-002 | [Abstract nouns](abstract-nouns.md) |
+| G03-003 | [Collective nouns](collective-nouns.md) |
+| G03-004 | [Noun gender](noun-gender.md) |
+| G03-005 | [Singular and plural nouns](singular-and-plural-nouns.md) |
+| G03-006 | [Optional plural marking](optional-plural-marking.md) |
+| G03-007 | [Countable and mass nouns](countable-and-mass-nouns.md) |
+| G03-008 | [Definiteness and specificity](definiteness-and-specificity.md) |
+
 See the [catalogue](../grammar-catalogue/index.md) for planning status, the [roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth) for the authoring workflow and [Content QA](../content-qa.md) for release gates.

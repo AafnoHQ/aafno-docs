@@ -18,6 +18,16 @@ The proposed [pronoun reference](../roadmap/mvp.md#feature-backlog) connects fir
 
 The proposed [progressive sentence builder](../roadmap/mvp.md#feature-backlog) reuses the sentence explorer’s canonical annotations. The explorer helps learners interpret existing sentences. The builder supports construction and controlled expansion, with separate evidence for guided and independent practice.
 
+### Reference explorer extension
+
+Extend the proposed sentence explorer and interactive pronoun reference with conversational speaker and listener switches, highlighted referents and tracking across turns. Compare visible and discourse-based demonstratives, self and mutual relationships, unspecified entities and linked relative references. When a scenario cannot distinguish candidates, offer the possible readings or allow a clarification request. This gives learners practice interpreting reference from evidence. Use the approved versions of G02-005, G02-006, G02-008, G02-010, G02-011 and G02-012 and reviewed dialogue with documented viewpoint, participants and ambiguity. Reuse shared examples and the independent Devanagari, Romanisation and English controls.
+
+### Noun phrase builder extension
+
+Extend the proposed progressive sentence builder with noun selection, explicit or contextual number, demonstratives, numerals, classifiers, quantities, and count and measurement units. Add eligible adjective and possessive combinations after reviewing their specifications. Compare alternatives in a situation and distinguish grammatical validity, naturalness, contextual suitability and meaning. Use reviewed combinations and canonical constraints from G03-004–008, G02-005, G06-010 and relevant G04, G06 and G15 specifications. Validate grouping, quantity, number and reference in context before supplying feedback. Use the same shared presentation controls.
+
+Both extensions remain proposed capabilities for later product review.
+
 ## Verb Conjugation Reference
 
 Search by lemma or inflected form. Let learners explore forms by pronoun, person, number and gender where relevant, tense and aspect, honorific level or register, and positive or negative polarity. Identify irregular forms and show validated contextual examples. Link forms to their dictionary entries, relevant grammar explanations and practice. Explain the construction in Nepali usage terms with approximate English glosses.

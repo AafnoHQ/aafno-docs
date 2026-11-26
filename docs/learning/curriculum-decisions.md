@@ -41,5 +41,20 @@ The product owner approved the framework and Step 3A directions in the pilot rev
 | B1-09 | Interactive pronoun reference | Approved · Batch 1 | Record an interactive pronoun reference as a future Grammar Library capability. | [Batch register](specification-batches.md#step-3b-batch-1) |
 | B1-10 | Reusable authoring infrastructure | Approved · Batch 1 | Establish reusable specification tracking, decision registers, QA tooling and persistent authoring instructions. | [Batch register](specification-batches.md#step-3b-batch-1) |
 | B1-11 | Specification quality | Approved · Batch 1 | Preserve comprehensive educational coverage without arbitrary length requirements. | [Batch register](specification-batches.md#step-3b-batch-1) |
+| B2-01 | Batch scope | Approved · Batch 2 | Author all six remaining pronoun concepts and all eight noun concepts. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-02 | Demonstrative distinction | Approved · Batch 2 | Distinguish standalone pronouns from noun-modifying demonstratives. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-03 | Interrogative and indefinite reference | Approved · Batch 2 | Teach contextual meaning rather than fixed English equivalents. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-04 | Reflexive and reciprocal reference | Approved · Batch 2 | Distinguish self-reference, emphasis, possession and mutual relationships. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-05 | Relative pronoun boundaries | Approved · Batch 2 | Cover relative reference without duplicating the detailed relative clause system. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-06 | Nepali-specific noun classification | Approved · Batch 2 | Avoid importing English capitalisation and grammatical classifications uncritically. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-07 | Noun gender | Approved · Batch 2 | Distinguish natural gender, grammatical gender and agreement without universal ending rules. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-08 | Plurality | Approved · Batch 2 | Distinguish explicit plural formation from contextual and numerical plurality. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-09 | Countability | Approved · Batch 2 | Teach countability as context-sensitive, with links to quantity and classifier concepts. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-10 | Definiteness and specificity | Approved · Batch 2 | Teach contextual reference without imposing an English-style article system. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-11 | Reference explorer | Approved · Batch 2 | Record an extension to existing sentence explorer and pronoun reference capabilities. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-12 | Noun phrase builder | Approved · Batch 2 | Record an extension to the progressive sentence builder. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B2-13 | Educational depth | Approved · Batch 2 | Allow additional detail for complex concepts while preserving the approved Batch 1 quality standard. | [Batch register](specification-batches.md#step-3b-batch-2) |
+
+B2-11 and B2-12 approve documenting extensions to existing proposals. Implementation and release scope remain open.
 
 B1-08 and B1-09 approve documenting proposed capabilities. Release scope and UX design remain open. SPEC-02, PILOT-03, B1-04 and B1-07 govern ownership and mastery boundaries. Linguistic open questions are tracked in the [research index](specification-research.md). Use the [escalation workflow](specification-authoring.md#drafting-and-review-workflow) for a new convention, scope change or unresolved product decision.
