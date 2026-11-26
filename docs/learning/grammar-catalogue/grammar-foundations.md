@@ -95,13 +95,13 @@ Coverage · [G04 in the grammar syllabus](../grammar-syllabus.md#g04) · 7 plann
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
-| G04-001 | Descriptive adjectives | Use adjectives to express qualities and characteristics. | Planned |
-| G04-002 | Variable adjectives | Recognise variable adjective classes and alternating forms. | Planned |
-| G04-003 | Invariable adjectives | Recognise and use forms that stay constant in the same contexts. | Planned |
-| G04-004 | Adjective agreement | Apply relevant gender and number patterns. | Planned |
-| G04-005 | Attributive adjectives | Describe a noun within a noun phrase. | Planned |
-| G04-006 | Predicative adjectives | Express qualities through a predicate. | Planned |
-| G04-007 | Multiple adjectives | Combine descriptions naturally. | Planned |
+| G04-001 | [Descriptive adjectives](../concepts/descriptive-adjectives.md) | Use adjectives to express qualities and characteristics. | Planned |
+| G04-002 | [Variable adjectives](../concepts/variable-adjectives.md) | Recognise variable adjective classes and alternating forms. | Planned |
+| G04-003 | [Invariable adjectives](../concepts/invariable-adjectives.md) | Recognise and use forms that stay constant in the same contexts. | Planned |
+| G04-004 | [Adjective agreement](../concepts/adjective-agreement.md) | Apply relevant gender and number patterns. | Planned |
+| G04-005 | [Attributive adjectives](../concepts/attributive-adjectives.md) | Describe a noun within a noun phrase. | Planned |
+| G04-006 | [Predicative adjectives](../concepts/predicative-adjectives.md) | Express qualities through a predicate. | Planned |
+| G04-007 | [Multiple adjectives](../concepts/multiple-adjectives.md) | Combine descriptions naturally. | Planned |
 
 **Related categories.** [G18](../grammar-syllabus.md#g18) owns comparative, superlative and degree constructions. [G28](../grammar-syllabus.md#g28) owns derivation.
 
@@ -120,15 +120,15 @@ Coverage · [G05 in the grammar syllabus](../grammar-syllabus.md#g05) · 9 plann
 
 | ID | Name | Observable learning target | Specification status |
 | --- | --- | --- | --- |
-| G05-001 | Adverbs of time | Express when something happens using forms such as आज, भोलि and हिजो. | Planned |
-| G05-002 | Adverbs of place | Express where something happens using forms such as यहाँ, त्यहाँ and माथि. | Planned |
-| G05-003 | Adverbs of frequency | Express how often something happens using forms such as सधैँ and कहिलेकाहीँ. | Planned |
-| G05-004 | Adverbs of manner | Express how something happens using forms such as बिस्तारै and छिटो. | Planned |
-| G05-005 | Adverbs of degree | Express intensity using forms such as धेरै, अलि and एकदम. | Planned |
-| G05-006 | Adverbial duration | Express how long something lasts. | Planned |
-| G05-007 | Adverbs of sequence | Order events using forms such as पहिले and त्यसपछि. | Planned |
-| G05-008 | Adverbs of certainty and probability | Express confidence or uncertainty using forms such as पक्कै and सायद. | Planned |
-| G05-010 | Adverb placement and scope | Identify what an adverb modifies and how placement affects interpretation. | Planned |
+| G05-001 | [Adverbs of time](../concepts/adverbs-of-time.md) | Express when something happens using forms such as आज, भोलि and हिजो. | Planned |
+| G05-002 | [Adverbs of place](../concepts/adverbs-of-place.md) | Express where something happens using forms such as यहाँ, त्यहाँ and माथि. | Planned |
+| G05-003 | [Adverbs of frequency](../concepts/adverbs-of-frequency.md) | Express how often something happens using forms such as सधैँ and कहिलेकाहीँ. | Planned |
+| G05-004 | [Adverbs of manner](../concepts/adverbs-of-manner.md) | Express how something happens using forms such as बिस्तारै and छिटो. | Planned |
+| G05-005 | [Adverbs of degree](../concepts/adverbs-of-degree.md) | Express intensity using forms such as धेरै, अलि and एकदम. | Planned |
+| G05-006 | [Adverbial duration](../concepts/adverbial-duration.md) | Express how long something lasts. | Planned |
+| G05-007 | [Adverbs of sequence](../concepts/adverbs-of-sequence.md) | Order events using forms such as पहिले and त्यसपछि. | Planned |
+| G05-008 | [Adverbs of certainty and probability](../concepts/adverbs-of-certainty-and-probability.md) | Express confidence or uncertainty using forms such as पक्कै and सायद. | Planned |
+| G05-010 | [Adverb placement and scope](../concepts/adverb-placement-and-scope.md) | Identify what an adverb modifies and how placement affects interpretation. | Planned |
 
 **Shared coverage and orientation**
 

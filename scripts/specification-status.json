@@ -61,8 +61,33 @@
         "G03-007",
         "G03-008"
       ],
+      "structural": "Approved",
+      "pr": "https://github.com/AafnoHQ/aafno-docs/pull/11"
+    },
+    {
+      "id": "Step 3B Batch 3",
+      "title": "Adjectives and adverbs",
+      "anchor": "step-3b-batch-3",
+      "ids": [
+        "G04-001",
+        "G04-002",
+        "G04-003",
+        "G04-004",
+        "G04-005",
+        "G04-006",
+        "G04-007",
+        "G05-001",
+        "G05-002",
+        "G05-003",
+        "G05-004",
+        "G05-005",
+        "G05-006",
+        "G05-007",
+        "G05-008",
+        "G05-010"
+      ],
       "structural": "Awaiting review",
-      "pr": "https://github.com/AafnoHQ/aafno-docs/pulls?q=head%3Acodex%2Fstep-3b-batch-2-pronouns-nouns"
+      "pr": "https://github.com/AafnoHQ/aafno-docs/pulls?q=head%3Acodex%2Fstep-3b-batch-3-adjectives-adverbs"
     }
   ],
   "validation": {},

@@ -31,6 +31,16 @@ For each specification, a reviewer must compare the full catalogue target with t
 - Manually review Devanagari, Romanisation and English in worked models, prose, dialogue, tables, corrections and activity prototypes. QA checks structured contextual tables, so other formats need manual inspection. Record any missing representation as a research gap.
 - Before awarding any approval, open the linked evidence and confirm reviewer authority, the concept and reviewed version, the exact decision, and its applicability and reuse or publication scope. An existing link alone does not establish approval.
 
+### Pre-PR assessment audit
+
+Make a second pass through sections 12 and 13 of every new specification before requesting review.
+
+1. Compare each prompt and expected response with its stated local outcome. Identify the observable response and check that it requires recognition, interpretation, selection or production as claimed.
+2. Record independent evidence separately even when prompts share a scene. Hide model answers for unaided production. If wording or examples are supplied as a scaffold, record the response as guided practice.
+3. Check that feedback explains a plausible mistake and asks the learner to apply the distinction in a meaningful retry. Record acceptable contextual alternatives and take unresolved analyses out of scoring until reviewed.
+4. Check the canonical boundary. Separate adjective class from applying agreement, noun gender and plurality from adjective selection, and recognising a construction from producing it. For adverbs distinguish recognition, attachment and scope; keep tense, habitual aspect, numeral formation, information source and noun quantity separate. Check event-order interpretation separately from sequencing production.
+5. Record the audit findings in the PR alongside outstanding validation limitations. Automated structural QA supports this review.
+
 ## Tracker sources and update process
 
 | Field | Authority |

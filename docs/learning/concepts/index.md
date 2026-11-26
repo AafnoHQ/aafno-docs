@@ -59,4 +59,25 @@ The seven pilot specifications were structurally reviewed and merged in [PR #9](
 | G03-007 | [Countable and mass nouns](countable-and-mass-nouns.md) |
 | G03-008 | [Definiteness and specificity](definiteness-and-specificity.md) |
 
+## Step 3B Batch 3
+
+| Catalogue ID | Canonical specification |
+| --- | --- |
+| G04-001 | [Descriptive adjectives](descriptive-adjectives.md) |
+| G04-002 | [Variable adjectives](variable-adjectives.md) |
+| G04-003 | [Invariable adjectives](invariable-adjectives.md) |
+| G04-004 | [Adjective agreement](adjective-agreement.md) |
+| G04-005 | [Attributive adjectives](attributive-adjectives.md) |
+| G04-006 | [Predicative adjectives](predicative-adjectives.md) |
+| G04-007 | [Multiple adjectives](multiple-adjectives.md) |
+| G05-001 | [Adverbs of time](adverbs-of-time.md) |
+| G05-002 | [Adverbs of place](adverbs-of-place.md) |
+| G05-003 | [Adverbs of frequency](adverbs-of-frequency.md) |
+| G05-004 | [Adverbs of manner](adverbs-of-manner.md) |
+| G05-005 | [Adverbs of degree](adverbs-of-degree.md) |
+| G05-006 | [Adverbial duration](adverbial-duration.md) |
+| G05-007 | [Adverbs of sequence](adverbs-of-sequence.md) |
+| G05-008 | [Adverbs of certainty and probability](adverbs-of-certainty-and-probability.md) |
+| G05-010 | [Adverb placement and scope](adverb-placement-and-scope.md) |
+
 See the [catalogue](../grammar-catalogue/index.md) for planning status, the [roadmap](../curriculum-roadmap.md#phase-2a2-concept-specification-and-teaching-depth) for the authoring workflow and [Content QA](../content-qa.md) for release gates.
