@@ -89,15 +89,23 @@ For oral activities, supply enough context through audio or the scene so Devanag
 
 ## 12. Activity types
 
-Row references below refer to the contextual examples in section 6. Use all three language representations by default; adjust visibility only for the evidence target.
+Row references below refer to the contextual examples in section 6. Use all three language representations by default. Adjust visibility only for the evidence target.
 
-### Initial target
+### Interpret a mutual relationship
 
-- **Learner prompt.** Each colleague helps the other. Draw the arrows and give a report.
-- **Expected response.** Two arrows between the colleagues; say row 1.
-- **Assessment target.** LO2 and LO5. Record the response against this target separately from the other prototype.
-- **Feedback and retry.** If both arrows go to Ram, compare row 3 and rebuild the mutual scene.
-- **Validation status.** Draft. Review the scenario, intended reading and accepted responses before use.
+- **Learner prompt.** Look at the two-colleague diagram with one help arrow in each direction. Who helps whom?
+- **Expected response.** Colleague A helps colleague B, and colleague B helps colleague A.
+- **Assessment target.** LO2. Score correct interpretation of both directions. Accept an explanation or labels on the diagram.
+- **Feedback and retry.** If you gave only one direction or pointed to a third person, trace each arrow from its source to its endpoint and describe both actions again.
+- **Validation status.** Draft. Review the diagram and accepted interpretations before use.
+
+### Produce a reciprocal sentence
+
+- **Learner prompt.** Two colleagues help each other. Report what they do in Nepali without looking at the model in row 1.
+- **Expected response.** उनीहरू एकअर्कालाई मद्दत गर्छन्। / Uniharu ekaarkaalaai maddat garchhan. / They help each other.
+- **Assessment target.** LO5. Score production of a reciprocal report that expresses mutual help. Record diagram interpretation separately under LO2.
+- **Feedback and retry.** If your sentence describes two independent actions or help directed at a third person, return to the two-colleague scenario and use the reciprocal expression to restate who they help.
+- **Validation status.** Draft. Review the model’s naturalness, agreement and acceptable variants before use.
 
 ### Contrast target
 

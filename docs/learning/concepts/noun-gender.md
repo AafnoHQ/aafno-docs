@@ -95,15 +95,23 @@ For oral activities, supply enough context through audio or the scene so Devanag
 
 ## 12. Activity types
 
-Row references below refer to the contextual examples in section 6. Use all three language representations by default; adjust visibility only for the evidence target.
+Row references below refer to the contextual examples in section 6. Use all three language representations by default. Adjust visibility only for the evidence target.
 
-### Initial target
+### Recognise a lexical gender contrast
 
-- **Learner prompt.** Which family terms give gender information, and does the teacher scenario supply it?
-- **Expected response.** The son/daughter lexemes do. The scenario does not establish the teacher's gender.
-- **Assessment target.** LO1 and LO3. Record the response against this target separately from the other prototype.
-- **Feedback and retry.** Ask whether each item names a relation or a role, then retry with a new role.
-- **Validation status.** Draft. Review the scenario, intended reading and accepted responses before use.
+- **Learner prompt.** Match the two Nepali kinship terms in row 2 to ‘son’ and ‘daughter’.
+- **Expected response.** छोरा / Chhora / son. छोरी / Chhori / daughter.
+- **Assessment target.** LO1. Score recognition of the two familiar lexical meanings.
+- **Feedback and retry.** If you swapped the terms, review the kinship meanings in row 2, then try the match again with the options reordered. Use the meaning of each word as your cue.
+- **Validation status.** Draft. Review the lexical glosses and accepted responses before use.
+
+### Identify when gender is unspecified
+
+- **Learner prompt.** Read or listen to the teacher’s arrival in row 4. The context tells you only the person’s role. What can you establish about their gender?
+- **Expected response.** The person is a teacher. The scenario leaves their gender unspecified.
+- **Assessment target.** LO3. Score whether the learner identifies the limit of the evidence in this scenario.
+- **Feedback and retry.** If you inferred gender from the role noun or respectful verb, identify what the scenario actually tells you about the person. Retry with the same information and state what remains unknown.
+- **Validation status.** Draft. Review the naturalness of the teacher example and the cues available in the scenario.
 
 ### Contrast target
 

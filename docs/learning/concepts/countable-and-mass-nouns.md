@@ -91,15 +91,23 @@ For oral activities, supply enough context through audio or the scene so Devanag
 
 ## 12. Activity types
 
-Row references below refer to the contextual examples in section 6. Use all three language representations by default; adjust visibility only for the evidence target.
+Row references below refer to the contextual examples in section 6. Use all three language representations by default. Adjust visibility only for the evidence target.
 
-### Initial target
+### Produce a quantity expression
 
-- **Learner prompt.** Ask for two litres of water for the recipe. What does two count?
-- **Expected response.** Row 2. It counts litres.
-- **Assessment target.** LO2. Record the response against this target separately from the other prototype.
-- **Feedback and retry.** If you count waters or bottles, clarify whether the recipe specifies volume or containers.
-- **Validation status.** Draft. Review the scenario, intended reading and accepted responses before use.
+- **Learner prompt.** The recipe calls for two litres of water. Give the Nepali quantity phrase without looking at row 2.
+- **Expected response.** दुई लिटर पानी / Dui litar paani / two litres of water.
+- **Assessment target.** Practise production of a quantity expression. For LO4, record only whether the learner selected litres as the appropriate unit. Detailed phrase formation belongs to G06.
+- **Feedback and retry.** If you named bottles or individual items, check whether the recipe calls for a container count or a volume. Choose the volume unit and try the phrase again.
+- **Validation status.** Draft. Review the expression, unit choice and acceptable wording before use.
+
+### Interpret a quantity expression
+
+- **Learner prompt.** Read or listen to the phrase in row 2. What does the numeral ‘two’ count?
+- **Expected response.** Litres, the unit used to measure the water’s volume. The phrase counts neither individual waters nor bottles.
+- **Assessment target.** LO2. Score identification of the measured unit independently of the learner’s ability to produce the phrase.
+- **Feedback and retry.** If you answered ‘bottles’ or ‘waters’, find the word for the unit in the phrase. On your retry, name what ‘two’ counts and what substance is being measured.
+- **Validation status.** Draft. Review the intended interpretation and accepted responses before use.
 
 ### Contrast target
 
