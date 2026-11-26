@@ -45,6 +45,8 @@ Make a second pass through sections 12 and 13 of every new specification before 
 
 **Outcome coverage.** In the pre-PR audit, cross-check sections 2, 11, 12 and 13. Every local outcome needs its own concrete representative prompt or separately scored sub-task in section 12, linked to observable evidence, expected responses, ownership, meaningful retry and validation limitations. Record a coverage matrix in the review. Supply values, vocabulary, clocks, proportions or totals when arithmetic and number recall are supporting knowledge. Keep the target wording hidden in production. Flag and fix uncovered or misaligned outcomes before review.
 
+**Recognition, interpretation, production and transfer.** A recognition response identifies the relevant form or structure. An interpretation response explains the meaning or relationship in the supplied context. A production response requires learner-generated language with the target hidden. Where the catalogue requires transfer, provide a genuinely unfamiliar example within an established class or construction, supply the supporting vocabulary, forms or stem as needed, and hide the expected output. Score transfer independently of recognising the model or reciting a memorised paradigm. Record where class membership, register or construction remains uncertain. Keep Phase 2C vocabulary recall outside grammatical scoring unless separately assessed.
+
 ## Tracker sources and update process
 
 | Field | Authority |

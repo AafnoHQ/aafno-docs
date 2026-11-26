@@ -50,6 +50,20 @@ Extend the proposed Grammar Library with analogue and digital displays, conventi
 
 Use G06-001, G06-003 and G06-011, with G05 temporal and duration interpretation, G09 and G14 retained as dependencies. Review quarter-hour and numerical readings, omission and register, boundaries, pronunciation and any future audio before release. Both proposed extensions reuse canonical examples and independent Devanagari, Romanisation and English controls.
 
+### Interactive verb form explorer
+
+Extend the proposed Dictionary and Verb Conjugation Reference to explore related forms in both directions. For example, a draft lookup starts with जानु / Jaanu / to go and can show जान्छु / Jaanchhu / I go, गएँ / Gaẽ / I went and जाँदै छु / Jaandai chhu / I am going. Searching the past form can lead back to a supported entry and any other reviewed analysis, with the context needed to distinguish them. This supports form recognition and class-limited transfer while keeping vocabulary, stem analysis, detailed conjugation and assessment evidence separate. Use G07-001–004 with G08, G09 and Phase 2C as dependencies. Review pronunciation, spelling, stem relationships and class or register boundaries before displaying them. Hide model responses in production or transfer tasks.
+
+### Verb participant explorer
+
+Extend the contextual sentence builder to show reviewed sleeper, eater and transfer frames for a chosen verb sense. Visualise who participates, what passes to whom, and how a prior turn can establish a participant without expressing it again. Distinguish roles, grammatical functions, case, complement status, omission and circumstances; compare alternative frames rather than assigning each verb a permanent template. This helps learners interpret a new scene before constructing a response. Use G07-005–008 and G07-011 with G01, G05, G08, G14 and G24 as dependencies. Confirm contextual recoverability and any proposed syntactic analysis before authorising combinations.
+
+### Verbal construction analyser
+
+Extend the Grammar Library and reference explorer to highlight reviewed predicate spans and how lexical, auxiliary, finite and non-finite components work together. In the draft example म पढ्दै छु। / Ma padhdai chhu. / I am reading, पढ्दै / Padhdai / reading contributes the activity and छु / Chhu / am provides support in the construction. The combined predicate is पढ्दै छु / Padhdai chhu / am reading. Compare a multi-action construction and explain unresolved analyses rather than treating every second verb as an auxiliary. Link G07-009–010, G01-002, G08-011, G09, G13 and G20. Review agreement, component boundaries, speaker pronunciation and any later recordings before use.
+
+A learner can move from an encountered form to its entry, explore related forms, inspect the participant frame and verbal construction, then practise an independently scored target. All three proposals reuse canonical entries, reviewed examples and the independent Devanagari, Romanisation and English controls. Use supported alternatives and contextual restrictions. MVP commitments remain as recorded in the release scope.
+
 ## Verb Conjugation Reference
 
 Search by lemma or inflected form. Let learners explore forms by pronoun, person, number and gender where relevant, tense and aspect, honorific level or register, and positive or negative polarity. Identify irregular forms and show validated contextual examples. Link forms to their dictionary entries, relevant grammar explanations and practice. Explain the construction in Nepali usage terms with approximate English glosses.

@@ -107,8 +107,28 @@
         "G06-011",
         "G06-012"
       ],
+      "structural": "Approved",
+      "pr": "https://github.com/AafnoHQ/aafno-docs/pull/13"
+    },
+    {
+      "id": "Step 3B Batch 5",
+      "title": "Verb foundations",
+      "anchor": "step-3b-batch-5",
+      "ids": [
+        "G07-001",
+        "G07-002",
+        "G07-003",
+        "G07-004",
+        "G07-005",
+        "G07-006",
+        "G07-007",
+        "G07-008",
+        "G07-009",
+        "G07-010",
+        "G07-011"
+      ],
       "structural": "Awaiting review",
-      "pr": "https://github.com/AafnoHQ/aafno-docs/pulls?q=head%3Acodex%2Fstep-3b-batch-4-numbers-quantities-determiners"
+      "pr": "https://github.com/AafnoHQ/aafno-docs/pulls?q=head%3Acodex%2Fstep-3b-batch-5-verb-foundations"
     }
   ],
   "validation": {},

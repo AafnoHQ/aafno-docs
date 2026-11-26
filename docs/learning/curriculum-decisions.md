@@ -81,6 +81,23 @@ The product owner approved the framework and Step 3A directions in the pilot rev
 | B4-12 | Quantity and classifier builder | Approved · Batch 4 | Extend the existing contextual noun phrase builder to explore numerical constructions. | [Batch register](specification-batches.md#step-3b-batch-4) |
 | B4-13 | Numerical time explorer | Approved · Batch 4 | Document an interactive clock, duration and fractional quantity extension to the Grammar Library. | [Batch register](specification-batches.md#step-3b-batch-4) |
 | B4-14 | Assessment coverage | Approved · Batch 4 | Extend the existing manual assessment audit to explicitly verify coverage of every local learning outcome. | [Batch register](specification-batches.md#step-3b-batch-4) |
+| B5-01 | Batch scope | Approved · Batch 5 | Author all eleven G07 verb foundation concepts together, leaving G08 for a subsequent batch. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-02 | Infinitive and vocabulary boundary | Approved · Batch 5 | Distinguish dictionary-form recognition and grammatical relationships from systematic verb vocabulary learning in Phase 2C. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-03 | Stem analysis | Approved · Batch 5 | Distinguish roots, stems and surface forms where educationally useful, without imposing a universal remove-नु rule. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-04 | Regular verb patterns | Approved · Batch 5 | Teach predictable patterns and transfer within validated conjugation classes, rather than assigning universal regularity to an entire verb. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-05 | Irregular verb relationships | Approved · Batch 5 | Separate recognition of exceptional form relationships from detailed irregular conjugation production. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-06 | Transitivity | Approved · Batch 5 | Distinguish transitivity from the overt presence or absence of an object. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-07 | Participant relationships | Approved · Batch 5 | Teach ditransitive constructions through contextual participant roles while preserving case and grammatical-function ownership. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-08 | Stative and dynamic interpretation | Approved · Batch 5 | Investigate state, action, event and process distinctions without importing unsupported English aspect restrictions. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-09 | Main verbs and auxiliaries | Approved · Batch 5 | Teach contextual verbal functions while distinguishing auxiliaries from other multi-verb constructions. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-10 | Finite and non-finite forms | Approved · Batch 5 | Teach inflection and dependency distinctions while preserving G20 ownership of specific constructions. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-11 | Verb valency | Approved · Batch 5 | Use contextual participant and complement frames rather than assigning every verb one immutable argument structure. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-12 | Verb form explorer | Approved · Batch 5 | Extend the Dictionary and Verb Conjugation Reference with forward and reverse exploration of related verb forms. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-13 | Verb participant explorer | Approved · Batch 5 | Extend the sentence builder with contextual verb frames and participant visualisations. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-14 | Verbal construction analyser | Approved · Batch 5 | Extend the Grammar Library with explanations of lexical verbs, auxiliaries and other supported verbal components. | [Batch register](specification-batches.md#step-3b-batch-5) |
+| B5-15 | Assessment refinement | Approved · Batch 5 | Distinguish form recognition, functional interpretation, production and pattern transfer, with unfamiliar validated examples where appropriate. | [Batch register](specification-batches.md#step-3b-batch-5) |
+
+B5-12–14 approve documenting product proposals. B5-15 distinguishes recognition, interpretation, production and transfer in the existing authoring audit.
 
 B4-12 and B4-13 approve documenting proposed extensions. B4-14 requires representative coverage of every local learning outcome.
 
