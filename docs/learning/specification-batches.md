@@ -20,6 +20,12 @@ Open research includes functions versus roles, word-order interpretation, clause
 
 ## Step 3B Batch 2
 
-The [Batch 2 index](concepts/index.md#step-3b-batch-2) records the six remaining pronoun and eight noun specifications. The merged Batch 1 implementation is the authoring baseline. Batch 2 is drafted and awaiting product-owner review. Linguistic and native-speaker review remains open, CEFR is unassigned, and no example is approved for publication.
+The [Batch 2 index](concepts/index.md#step-3b-batch-2) records the six remaining pronoun and eight noun specifications. The merged Batch 1 implementation is the authoring baseline. Batch 2 completed product-owner structural review and merged in [PR #11](https://github.com/AafnoHQ/aafno-docs/pull/11). Linguistic and native-speaker review remains open, CEFR is unassigned, and no example is approved for publication.
 
 Decisions B2-01–13 govern scope, ownership boundaries, depth and the two [product capability extensions](../product/language-reference.md#reference-explorer-extension). The [tracker](specification-progress.md) derives the per-concept statuses, and the [research index](specification-research.md#batch-2-research-themes) groups the evidence still needed.
+
+## Step 3B Batch 3
+
+The [Batch 3 index](concepts/index.md#step-3b-batch-3) records all seven active G04 and nine active G05 concepts. The product owner approved the 16-concept scope as a one-concept exception. Drafts await product-owner review. Linguistic and native-speaker review, CEFR assignment and publication approval remain open.
+
+Decisions B3-01–13 cover scope, canonical boundaries, proposed product extensions and the [assessment audit](specification-authoring.md#pre-pr-assessment-audit). The [generated tracker](specification-progress.md) reports individual statuses. See the [research index](specification-research.md#batch-3-research-themes) for outstanding evidence.

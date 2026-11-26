@@ -34,3 +34,18 @@ Open questions below link to the canonical per-concept validation registers. Evi
 | Lexical gender, cue limits and agreement | [G03-004](concepts/noun-gender.md#15-content-validation) | Open |
 | Count units and material portions | [G03-007](concepts/countable-and-mass-nouns.md#15-content-validation) | Open |
 | Identifiability, specificity and discourse | [G03-008](concepts/definiteness-and-specificity.md#15-content-validation) | Open |
+
+## Batch 3 research themes
+
+The linked validation registers describe what evidence is needed. Compare matched contexts and document speaker judgments, agreement, register, naturalness and unresolved interpretations before using examples in assessment.
+
+| Theme | Affected specifications and evidence plans | Status |
+| --- | --- | --- |
+| Contextual description and adjective classes | [G04-001](concepts/descriptive-adjectives.md#15-content-validation), [G04-002](concepts/variable-adjectives.md#15-content-validation), [G04-003](concepts/invariable-adjectives.md#15-content-validation) | Open |
+| Agreement across noun phrases and predicates | [G04-004](concepts/adjective-agreement.md#15-content-validation), [G04-005](concepts/attributive-adjectives.md#15-content-validation), [G04-006](concepts/predicative-adjectives.md#15-content-validation) | Open |
+| Ordering and coordination in descriptive phrases | [G04-007](concepts/multiple-adjectives.md#15-content-validation) | Open |
+| Time, duration, frequency and event anchors | [G05-001](concepts/adverbs-of-time.md#15-content-validation), [G05-003](concepts/adverbs-of-frequency.md#15-content-validation), [G05-006](concepts/adverbial-duration.md#15-content-validation), [G05-007](concepts/adverbs-of-sequence.md#15-content-validation) | Open |
+| Spatial viewpoint and relational forms | [G05-002](concepts/adverbs-of-place.md#15-content-validation) | Open |
+| Manner, intensity and quantity | [G05-004](concepts/adverbs-of-manner.md#15-content-validation), [G05-005](concepts/adverbs-of-degree.md#15-content-validation) | Open |
+| Confidence, modality and evidence | [G05-008](concepts/adverbs-of-certainty-and-probability.md#15-content-validation) | Open |
+| Attachment, prosody and negation scope | [G05-010](concepts/adverb-placement-and-scope.md#15-content-validation) | Open |

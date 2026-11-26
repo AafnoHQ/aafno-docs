@@ -54,6 +54,21 @@ The product owner approved the framework and Step 3A directions in the pilot rev
 | B2-11 | Reference explorer | Approved · Batch 2 | Record an extension to existing sentence explorer and pronoun reference capabilities. | [Batch register](specification-batches.md#step-3b-batch-2) |
 | B2-12 | Noun phrase builder | Approved · Batch 2 | Record an extension to the progressive sentence builder. | [Batch register](specification-batches.md#step-3b-batch-2) |
 | B2-13 | Educational depth | Approved · Batch 2 | Allow additional detail for complex concepts while preserving the approved Batch 1 quality standard. | [Batch register](specification-batches.md#step-3b-batch-2) |
+| B3-01 | Batch scope | Approved · Batch 3 | Author all seven G04 and nine G05 concepts together, allowing a one-concept exception to the usual batch size. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-02 | Adjective classification | Approved · Batch 3 | Distinguish variable and invariable adjective classes without universal ending-based rules. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-03 | Adjective agreement | Approved · Batch 3 | Investigate gender, number, honorific and contextual agreement patterns separately from noun and verb agreement. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-04 | Attributive and predicative distinction | Approved · Batch 3 | Distinguish description within a noun phrase from expressing a quality through a predicate. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-05 | Multiple adjectives | Approved · Batch 3 | Investigate natural Nepali adjective ordering rather than importing English ordering rules. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-06 | Contextual word classes | Approved · Batch 3 | Teach grammatical function in context rather than assuming every lexical form belongs to one fixed class. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-07 | Temporal distinctions | Approved · Batch 3 | Distinguish time, frequency, duration and sequence from tense and aspect. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-08 | Manner and degree | Approved · Batch 3 | Distinguish action manner, intensity and quantity, preserving canonical ownership. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-09 | Certainty and probability | Approved · Batch 3 | Distinguish speaker confidence from modality, inference and evidentiality without fixed probability percentages. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-10 | Adverb placement and scope | Approved · Batch 3 | Teach what an adverb modifies and contextual effects without imposing rigid word-order rules. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-11 | Adjective agreement explorer | Approved · Batch 3 | Extend the Grammar Library and contextual noun phrase builder to explore adjective classes and agreement. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-12 | Progressive sentence modifier | Approved · Batch 3 | Extend the existing sentence builder to explore adverbial information, placement and interpretation. | [Batch register](specification-batches.md#step-3b-batch-3) |
+| B3-13 | Assessment quality | Approved · Batch 3 | Strengthen the existing pre-PR manual review of independently assessable learning outcomes. | [Batch register](specification-batches.md#step-3b-batch-3) |
+
+B3-11 and B3-12 approve documenting proposed extensions. See B3-13 for the [manual assessment audit](specification-authoring.md#pre-pr-assessment-audit).
 
 B2-11 and B2-12 approve documenting extensions to existing proposals. Implementation and release scope remain open.
 

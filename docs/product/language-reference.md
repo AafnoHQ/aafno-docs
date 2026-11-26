@@ -28,6 +28,16 @@ Extend the proposed progressive sentence builder with noun selection, explicit o
 
 Both extensions remain proposed capabilities for later product review.
 
+### Adjective agreement explorer
+
+Extend the proposed Grammar Library and contextual noun phrase builder so learners can compare supported variable and invariable forms, change a known referent’s relevant gender or number cues, inspect explicit or contextual plurality and compare attributive and predicative frames. Highlight what the adjective describes and explain why its form changes or stays constant. Keep class recognition separate from form selection and treat personal identity as distinct from grammatical cues. Use reviewed examples and constraints from G04-001–007 with dependencies on G03-004–006, G08 and G25; collect matched evidence for agreement, register and contextual alternatives before supporting combinations. Distinguish validity, naturalness and contextual fit, and show unresolved patterns as such.
+
+### Progressive sentence modifier
+
+Extend the proposed progressive sentence builder and sentence explorer to add time, place, frequency, manner, degree, duration, sequence and certainty to a clause. Highlight the modified expression, compare supported positions and explain changes in scope or ambiguity. Distinguish lexical adverbs from noun phrases or other expressions functioning adverbially. This helps learners interpret changes in a message before trying to produce them. Use reviewed relationships from G05-001–008 and G05-010 with dependencies on G01-005–006, G06, G09, G14, G16, G17 and G29. Validate attachment, prosody, naturalness and contextual meaning before exposing combinations. A supported form in isolation does not establish that it fits every other modifier or placement.
+
+Both extensions reuse canonical content and independent Devanagari, Romanisation and English controls. They remain proposals for future review.
+
 ## Verb Conjugation Reference
 
 Search by lemma or inflected form. Let learners explore forms by pronoun, person, number and gender where relevant, tense and aspect, honorific level or register, and positive or negative polarity. Identify irregular forms and show validated contextual examples. Link forms to their dictionary entries, relevant grammar explanations and practice. Explain the construction in Nepali usage terms with approximate English glosses.
