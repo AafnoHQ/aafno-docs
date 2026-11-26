@@ -83,7 +83,7 @@ Related canonical targets: [G07-001](verb-infinitives.md), [G07-009](main-verbs-
 | Introduction | LO1 | Explain the first recognition or interpretation item using a supplied scene and lexical meaning. |
 | Guided application | LO1, LO2, LO3, LO4, LO5 | Link eating to going on a timeline and mark the finite form. Then identify the supporting form in the reading predicate. |
 | Independent application | LO1, LO2, LO3, LO4, LO5 | Use new matched items for the responses in section 12. Supply context or lexical knowledge outside the target, and keep form or analysis answers hidden. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5 | Explain dependency and the position of finite inflection in an unfamiliar reviewed clause or larger predicate without treating standalone use as decisive. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5 | Explain dependency and the position of finite inflection in an unfamiliar reviewed clause or larger predicate without treating standalone use or visible agreement alone as decisive. |
 
 ## 12. Activity types
 
@@ -129,6 +129,14 @@ Row references are to section 6. Provide Devanagari, Romanisation and English by
 - **Feedback and retry.** Compare the grammatical contribution before judging whether a fragment could work in speech. Try a reviewed shortened dialogue.
 - **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.
 
+### LO5b — Evaluate an agreement cue independently
+
+- **Learner prompt.** Compare म पढ्दै छु। / Ma padhdai chhu. and हामी पढ्दै छौँ। / Haami padhdai chhaũ. in scenes with one reader and several readers including the speaker. Which part changes and which stays constant? Does the unchanged reading element by itself settle the finiteness of the whole predicate?
+- **Expected response.** छु / Chhu changes to छौँ / Chhaũ while पढ्दै / Padhdai stays constant. In this draft comparison, the supporting form carries the visible contrast and belongs to the larger finite predicate. Invariance of the lexical component alone cannot diagnose the whole construction or establish a universal test.
+- **Assessment target.** LO5 only, agreement-evidence sub-task. Score the limits of the inference separately from stand-alone use. G08 owns agreement, G09 aspect and G20 specific dependent forms.
+- **Feedback and retry.** If the learner calls the whole predicate non-finite from the unchanged lexical element, point to the changing support and ask them to distinguish its contribution from the entire construction. Retry on a reviewed pair with a different lexical activity.
+- **Validation status.** Draft. Confirm the forms, accepted analysis and what the contrast supports before use.
+
 ## 13. Mastery evidence
 
 Explain dependency and the position of finite inflection in an unfamiliar reviewed clause or larger predicate without treating standalone use as decisive. Score responses to new matched items using the expected evidence in section 12. Keep vocabulary, clause labeling, formation and interpretation evidence separate.
@@ -137,7 +145,7 @@ Explain dependency and the position of finite inflection in an unfamiliar review
 - **LO2.** Recognise a supported dependent verbal form. Use an unseen equivalent of the LO2 task and assess its stated response independently.
 - **LO3.** Interpret the dependency between verbal elements. Use an unseen equivalent of the LO3 task and assess its stated response independently.
 - **LO4.** Distinguish a dependent lexical element from a complete finite predicate. Use an unseen equivalent of the LO4 task and assess its stated response independently.
-- **LO5.** Explain the limits of stand-alone and agreement tests. Use an unseen equivalent of the LO5 task and assess its stated response independently.
+- **LO5.** Assess the stand-alone test and the agreement-cue test separately on new comparisons. Require an explanation grounded in each construction.
 
 Assess foundational inflection and dependency. G20 owns individual non-finite constructions and G08/G09 detailed inflection and aspect.
 

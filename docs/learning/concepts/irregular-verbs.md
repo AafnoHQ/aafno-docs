@@ -80,7 +80,7 @@ Related canonical targets: [G07-001](verb-infinitives.md), [G07-002](verb-stems.
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1 | Explain the first recognition or interpretation item using a supplied scene and lexical meaning. |
-| Guided application | LO1, LO2, LO3, LO4 | Place the journey and arrival forms in their corresponding entries, then compare with a predictable habitual correspondence. |
+| Guided application | LO1, LO2, LO3, LO4 | Place the journey and arrival forms in their corresponding entries, then compare with candidate predictable correspondences in the same first-person past frame. |
 | Independent application | LO1, LO2, LO3, LO4 | Use new matched items for the responses in section 12. Supply context or lexical knowledge outside the target, and keep form or analysis answers hidden. |
 | Flexible application | LO1, LO2, LO3, LO4 | Identify an exceptional-looking form in unfamiliar supported context, recover its entry and distinguish recognition from independent formation. |
 
@@ -90,11 +90,11 @@ Row references are to section 6. Provide Devanagari, Romanisation and English by
 
 ### LO1 — Recognise an exceptional correspondence in a supplied set
 
-- **Learner prompt.** Use the two dictionary entries जानु / Jaanu and पढ्नु / Padhnu and the proposed past form गएँ / Gaẽ. Which entry shows an exceptional-looking relationship to this form in the reviewed journey scene?
-- **Expected response.** जानु / Jaanu / to go.
-- **Assessment target.** LO1 only. Assess recognition of exceptional correspondence and entry recovery. G08-010 owns detailed irregular production. G09 owns tense and aspect interpretation.
-- **Feedback and retry.** Look at the journey pairing and retry a comparison with the coming pair.
-- **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.
+- **Learner prompt.** The dictionary link is already supplied: जानु / Jaanu / to go → गएँ / Gaẽ / I went. Mark what changes in the visible or spoken form, and explain why matching the unchanged lexical material of the entry is insufficient to recognise its past partner.
+- **Expected response.** The entry has visible जा / Jaa material, whereas the illustrative past form starts differently. The two forms do not show straightforward retention of the entry base. Accept a grounded comparison without requiring a final stem segmentation or suppletion analysis.
+- **Assessment target.** LO1 only. Score the observed correspondence and contrast, not entry selection or irregular-form production.
+- **Feedback and retry.** If the learner only repeats the lemma, compare the beginning of each form. Then show आउनु / Aaunu / to come → आएँ / Aaẽ / I came with the link supplied and ask what actually changes, without classifying it on appearance alone.
+- **Validation status.** Draft. Confirm both the analysis and accepted responses with speakers before scored use.
 
 ### LO2 — Recover the underlying verb from a contextual exceptional form
 
@@ -106,11 +106,11 @@ Row references are to section 6. Provide Devanagari, Romanisation and English by
 
 ### LO3 — Distinguish exceptional relationships from supported predictable changes
 
-- **Learner prompt.** Compare read and write in the habitual frame with the go dictionary-to-past pair. Which comparison supports the supplied same-frame predictable class, and which needs a separate correspondence?
-- **Expected response.** Read and write support the class. The past go form requires its own relationship.
-- **Assessment target.** LO3 only. Assess recognition of exceptional correspondence and entry recovery. G08-010 owns detailed irregular production. G09 owns tense and aspect interpretation.
-- **Feedback and retry.** Keep the construction fixed when testing predictability; retry with a second comparable habitual pair.
-- **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.
+- **Learner prompt.** Compare पढ्नु → पढेँ / Padhnu → Padhẽ / to read → I read (past), लेख्नु → लेखेँ / Lekhnu → Lekhẽ / to write → I wrote, and जानु → गएँ / Jaanu → Gaẽ / to go → I went. All encountered forms are in supplied first-person completed-event scenes. Which pairs fit the supplied candidate past pattern, and which needs a separate correspondence in this set?
+- **Expected response.** The first two retain the compared lexical material and share the same surface past ending. The go pair does not retain its entry base in the same way and requires a separately documented correspondence in this comparison. These examples do not establish productivity or a categorical classification.
+- **Assessment target.** LO3 only. Score comparison across the same construction. G08-010 retains irregular production.
+- **Feedback and retry.** If the learner treats every change from the dictionary form as exceptional, bracket the recurring material and ending in the first two. Then test the same proposed relationship against the go pair.
+- **Validation status.** Draft. Verify all three same-frame readings with speakers and references. Confirm class productivity and the distribution of the go alternation before assigning an analytical label.
 
 ### LO4 — Explain why a local formation rule should not be extrapolated
 
@@ -136,6 +136,8 @@ Assess recognition of exceptional correspondence and entry recovery. G08-010 own
 Reuse reviewed annotations in the Grammar Library and Dictionary. The proposed [verb form explorer](../../product/language-reference.md#interactive-verb-form-explorer) can connect the evidence to shared examples without generating unsupported forms or analyses. Preserve the independent language controls.
 
 ## 15. Content validation
+
+For the same-construction comparison, collect matched first-person past examples with person, construction and register controlled. Check written segmentation against pronunciation and independently documented paradigms. Look for recurrence across additional class members before calling a pattern predictable, a demonstrable restriction by lexeme or environment before calling it restricted, and evidence that a supported class pattern cannot account for a correspondence before calling it exceptional. Keep classifications open if the sample cannot distinguish these possibilities.
 
 | Open question | Context and evidence needed | Reviewer decision |
 | --- | --- | --- |

@@ -107,19 +107,19 @@ Row references are to section 6. Provide Devanagari, Romanisation and English by
 
 ### LO3 — Distinguish supported class transfer from extrapolation to another construction
 
-- **Learner prompt.** The habitual models are supplied but the past forms are not. Can the examples alone establish the past of a new member?
-- **Expected response.** No. The evidence supports transfer in the specified habitual frame.
-- **Assessment target.** LO3 only. Assess pattern transfer within the supplied construction, separately from verb vocabulary, habitual interpretation and detailed agreement production under G08 and G09.
-- **Feedback and retry.** Return to the frame label, then compare the supplied go forms across habitual and past.
-- **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.
+- **Learner prompt.** Compare पढ्छु / Padhchhu and लेख्छु / Lekhchhu in routine reports, then जान्छु / Jaanchhu and गएँ / Gaẽ in routine and completed-trip reports. Which actual forms support transfer within the supplied habitual frame, and what does the go pair show about applying that pattern to a past report? Hide full glosses.
+- **Expected response.** The read and write forms share the habitual ending in this frame. जान्छु / Jaanchhu / I go and गएँ / Gaẽ / I went share an entry, but the past example is not made by applying the habitual pattern. A past model or class evidence is needed.
+- **Assessment target.** LO3 only. Score a form-based explanation of the transfer limit. G08/G09 retain inflection and tense interpretation.
+- **Feedback and retry.** If the learner carries the habitual ending into the completed-trip report, compare both go forms and identify which one belongs to which scenario. Retry by evaluating a claim that the read pattern alone supplies the past of the write verb.
+- **Validation status.** Draft. Confirm both the analysis and accepted responses with speakers before scored use.
 
 ### LO4 — Identify missing information needed for transfer
 
-- **Learner prompt.** An unseen dictionary form is supplied without class information. What additional evidence would justify transferring the model?
-- **Expected response.** A reviewed class match or relevant forms in the same construction, plus any necessary stem information.
-- **Assessment target.** LO4 only. Assess pattern transfer within the supplied construction, separately from verb vocabulary, habitual interpretation and detailed agreement production under G08 and G09.
-- **Feedback and retry.** Identify what frame and base the models contain. Retry after receiving one such piece of evidence.
-- **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.
+- **Learner prompt.** The candidate is नाच्नु / Naachnu / to dance. Show the read and write habitual models without any dance inflection or class label. What would you check before applying their first-person habitual pattern to this entry?
+- **Expected response.** Check a supported stem for this construction and evidence that the verb follows the same pattern in the same person, construction and register. Accept a reviewed same-frame form or documented class membership with relevant stem evidence. The dictionary ending alone is insufficient.
+- **Assessment target.** LO4 only. Score identifying the missing evidence for this candidate. Do not score producing its inflected form.
+- **Feedback and retry.** If the learner relies on the shared ending, ask whether that shows the same stem behaviour and habitual inflection. Retry by choosing between an unrelated past example and a same-frame reference.
+- **Validation status.** Draft. Review the candidate and class membership before any transfer task. This item does not assert the candidate belongs to the class.
 
 ## 13. Mastery evidence
 

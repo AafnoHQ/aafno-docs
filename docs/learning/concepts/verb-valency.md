@@ -28,6 +28,9 @@ nav_order: 72
 - LO4: Compare alternative uses without counting visible phrases.
 - LO5: Identify when evidence about required or permitted complements is insufficient.
 
+- LO6: Distinguish participant requirements from permitted or required overt expressions in supported frames.
+- LO7: Apply a supplied verb frame to an unfamiliar supported context.
+
 ## 3. Meaning and usage
 
 Valency concerns which participants and complements a predicate meaning and construction require or permit. Semantic participants and spelled-out expressions are distinct. An optional expression is not automatically an adjunct, and a meaningful participant may remain unspoken.
@@ -85,9 +88,9 @@ Related canonical targets: [G07-005](transitive-verbs.md), [G07-006](intransitiv
 | Teaching depth | Outcomes | Observable performance |
 | --- | --- | --- |
 | Introduction | LO1 | Explain the first recognition or interpretation item using a supplied scene and lexical meaning. |
-| Guided application | LO1, LO2, LO3, LO4, LO5 | Map slots in the sleep, meal and transfer frames. Remove one overt phrase and distinguish hidden information from a change of frame. |
-| Independent application | LO1, LO2, LO3, LO4, LO5 | Use new matched items for the responses in section 12. Supply context or lexical knowledge outside the target, and keep form or analysis answers hidden. |
-| Flexible application | LO1, LO2, LO3, LO4, LO5 | Analyse a reviewed unfamiliar frame with overt and recoverable roles and explain when apparent alternatives are driven by context, omission or genuine frame differences. |
+| Guided application | LO1, LO2, LO3, LO4, LO5, LO6, LO7 | Map sleeper, eater and transfer slots. Compare a permitted time cue with a necessary participant in the event, then use a supplied transfer frame on a new scene with one role left implicit. |
+| Independent application | LO1, LO2, LO3, LO4, LO5, LO6, LO7 | Use new matched items for the responses in section 12. Supply context or lexical knowledge outside the target, and keep form or analysis answers hidden. |
+| Flexible application | LO1, LO2, LO3, LO4, LO5, LO6, LO7 | Analyse a reviewed unfamiliar frame with overt and recoverable roles and explain when apparent alternatives are driven by context, omission or genuine frame differences. |
 
 ## 12. Activity types
 
@@ -133,6 +136,22 @@ Row references are to section 6. Provide Devanagari, Romanisation and English by
 - **Feedback and retry.** Ask what the one example establishes, then request a matched context with an omitted destination.
 - **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.
 
+### LO6 — Distinguish participant requirements from overt expression
+
+- **Learner prompt.** Compare बच्चा सुत्छ। / Bachchaa sutchha., बच्चा आज सुत्छ। / Bachchaa aaja sutchha., and सुत्छ। / Sutchha. as a short reply after a question about that child. Give lexical glosses only. In this supported sleep frame, which participant is necessary to interpret the event, which extra expression is permitted, and which participant need not be spoken in the short reply?
+- **Expected response.** There must be a sleeper in the interpreted event. आज / Aaja / today is a permitted time expression in the second report. The known child can be recovered without an overt noun in the short reply. If the context does not identify a child, request a clarifying expression rather than claiming that a noun is always grammatically obligatory.
+- **Assessment target.** LO6 only. Score required participant, permitted overt expression and recoverable omission separately within the supplied frame. G01-004 owns subject omission as a construction and G05 owns temporal meaning.
+- **Feedback and retry.** If the learner says no overt noun means no sleeper, replay the prior question. Retry with the sleeper established and then with two eligible sleepers. Ask when clarification is needed.
+- **Validation status.** Draft. Review the short reply, the exact contexts that support omission, and any claims of obligatory expression separately.
+
+### LO7 — Apply a supplied frame to an unfamiliar context
+
+- **Learner prompt.** Supply the reviewed giving frame with three slots: giver, transferred item and recipient. In a new dialogue, the interlocutors have just established that a particular pen is intended for Maya. Then the learner hears गीताले कलम दिइन्। / Gitaale kalam diin. with lexical glosses only. Map overt and recoverable information onto the supplied frame, and say what would remain unknown if the first turn were removed.
+- **Expected response.** Gita is the giver and the pen is the item. Maya is the intended recipient only if the preceding turn establishes that the pen was for her. If the actual lead-in leaves more than one recipient plausible, identify Maya as a candidate and request clarification. With no prior turn, the recipient is unspecified.
+- **Assessment target.** LO7 only. Score applying the supplied frame to the unfamiliar report, including limits on recovering a missing slot. Do not score case, agreement or whole-clause component labels.
+- **Feedback and retry.** If the learner drops the recipient slot or treats Maya as certain from the verb alone, revisit which roles the frame makes relevant and which the discourse establishes. Retry with a reviewed transfer and explicit prior recipient cue.
+- **Validation status.** Draft. Validate the example’s agreement and naturalness, and establish which lead-in is sufficient for participant recovery before use.
+
 ## 13. Mastery evidence
 
 Analyse a reviewed unfamiliar frame with overt and recoverable roles and explain when apparent alternatives are driven by context, omission or genuine frame differences. Score responses to new matched items using the expected evidence in section 12. Keep vocabulary, clause labeling, formation and interpretation evidence separate.
@@ -142,6 +161,8 @@ Analyse a reviewed unfamiliar frame with overt and recoverable roles and explain
 - **LO3.** Interpret a contextually recoverable omitted participant. Use an unseen equivalent of the LO3 task and assess its stated response independently.
 - **LO4.** Compare alternative uses without counting visible phrases. Use an unseen equivalent of the LO4 task and assess its stated response independently.
 - **LO5.** Identify when evidence about required or permitted complements is insufficient. Use an unseen equivalent of the LO5 task and assess its stated response independently.
+- **LO6.** Distinguish the necessary event participant from a permitted expression and a recoverable unspoken participant in a new matched context.
+- **LO7.** Apply a supplied frame to a new supported report and explain separately what it states and what context supplies.
 
 Assess the supported frame, supported omission and limits of inference. Keep whole-clause labels, transitivity contrasts, case and adverbial meaning with their existing owners.
 

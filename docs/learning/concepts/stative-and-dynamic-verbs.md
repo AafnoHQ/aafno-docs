@@ -125,8 +125,8 @@ Row references are to section 6. Provide Devanagari, Romanisation and English by
 
 ### LO5 — Explain why a lexical classification needs contextual evidence
 
-- **Learner prompt.** Can the two contextual readings of the familiarity example justify a single fixed classification for every use?
-- **Expected response.** No. Record the supported construction and cues, and request more evidence for other uses.
+- **Learner prompt.** Revisit म उसलाई चिन्छु। / Ma uslaai chinchhu. in the neighbour and photo contexts. Identify what each lead-in supports, and explain why classifying every use from just one of those contexts would go beyond the evidence.
+- **Expected response.** The neighbour context supports familiarity. The photo context invites a recognition reading, which remains provisional. More examples with controlled contexts are needed before classifying other uses.
 - **Assessment target.** LO5 only. Assess contextual situation meaning. Detailed aspect stays with G09 and experiencer constructions with G24. Do not award a second mastery result for these features.
 - **Feedback and retry.** Point to a different scenario that could change what is being reported, then explain what evidence you would need.
 - **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.

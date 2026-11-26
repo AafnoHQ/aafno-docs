@@ -26,7 +26,7 @@ nav_order: 70
 - LO2: Identify a supported auxiliary element.
 - LO3: Explain the lexical contribution.
 - LO4: Explain the grammatical contribution in context.
-- LO5: Identify the complete construction without awarding separate predicate-span mastery.
+- LO5: Explain how the elements of a complete verbal construction work together.
 - LO6: Distinguish an auxiliary pattern from a second lexical action.
 
 ## 3. Meaning and usage
@@ -117,19 +117,19 @@ Row references are to section 6. Provide Devanagari, Romanisation and English by
 
 ### LO4 — Explain the grammatical contribution in context
 
-- **Learner prompt.** With only the lexical meaning supplied, compare म पढ्छु। / Ma padhchhu. in a routine conversation and म पढ्दै छु। / Ma padhdai chhu. in a reply about the present moment. What grammatical contribution does the second construction make when the activity stays the same?
-- **Expected response.** It presents reading as in progress in the supplied scene. The grammatical meaning comes from the construction.
-- **Assessment target.** LO4 only. Assess how the verbal parts work together. G01-002 owns independent predicate-span identification, G08-011 detailed auxiliary agreement and G09 specific aspect constructions. G13 owns complex verbal construction classifications.
-- **Feedback and retry.** Hold the activity constant and compare a routine with what the speaker is doing now. Retry with a fresh scene.
-- **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.
+- **Learner prompt.** Compare म पढ्छु। / Ma padhchhu. and म पढ्दै छु। / Ma padhdai chhu. with lexical meanings only. In the second report, explain what पढ्दै / Padhdai and छु / Chhu contribute together to the interpretation. Would calling the meaning ‘progressive’ explain how the elements work together?
+- **Expected response.** पढ्दै / Padhdai carries the reading activity in the construction. छु / Chhu supplies finite support for that lexical element. Together they present the same reading as ongoing in the supplied scene. A progressive label alone is insufficient, and the supporting form does not introduce a second lexical action.
+- **Assessment target.** LO4 only. Score the joint grammatical contribution. G09 owns specific aspect constructions and G08-011 owns detailed auxiliary agreement.
+- **Feedback and retry.** If the learner assigns the whole meaning to one element, hold the activity fixed and ask what the supported combination adds. Retry with a reviewed contrast using another activity.
+- **Validation status.** Draft. Confirm both the analysis and accepted responses with speakers before scored use.
 
-### LO5 — Identify the complete construction without awarding separate predicate-span mastery
+### LO5 — Explain how the elements of a complete verbal construction work together
 
-- **Learner prompt.** From the ongoing Nepali report, select the verbal elements that work together to express the activity and its grammatical presentation.
-- **Expected response.** पढ्दै छु / Padhdai chhu / am reading. Both elements work together.
-- **Assessment target.** LO5 only. Assess how the verbal parts work together. G01-002 owns independent predicate-span identification, G08-011 detailed auxiliary agreement and G09 specific aspect constructions. G13 owns complex verbal construction classifications.
-- **Feedback and retry.** If you selected only one, pair the lexical activity with its auxiliary and retry with the perfect candidate.
-- **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.
+- **Learner prompt.** Read मैले पढेको छु। / Maile padheko chhu. in a report about a book already read. Select the elements forming the verbal construction and explain which contributes the activity and why the supporting form belongs with it rather than expressing another action.
+- **Expected response.** पढेको छु / Padheko chhu is the combination. पढेको / Padheko carries the reading activity in the lexical form, and छु / Chhu supports it in the complete report about reading already done. Accept equivalent explanations of the dependency and shared contribution. Selecting the span alone earns no LO5 credit.
+- **Assessment target.** LO5 only. Score identifying the combination and explaining its interaction in this second construction. G01-002 owns span identification, G08-011 agreement and G09 detailed aspect.
+- **Feedback and retry.** If the learner lists the words without linking them, ask which contributes the activity and what the other contributes to the same report. Retry with an independently reviewed comparable multiword example.
+- **Validation status.** Draft. Confirm the candidate analysis and the contextual reading rather than treating a disputed decomposition as settled.
 
 ### LO6 — Distinguish an auxiliary pattern from a second lexical action
 
@@ -147,7 +147,7 @@ Interpret the division of labour in an unfamiliar reviewed verbal construction a
 - **LO2.** Identify a supported auxiliary element. Use an unseen equivalent of the LO2 task and assess its stated response independently.
 - **LO3.** Explain the lexical contribution. Use an unseen equivalent of the LO3 task and assess its stated response independently.
 - **LO4.** Explain the grammatical contribution in context. Use an unseen equivalent of the LO4 task and assess its stated response independently.
-- **LO5.** Identify the complete construction without awarding separate predicate-span mastery. Use an unseen equivalent of the LO5 task and assess its stated response independently.
+- **LO5.** Explain how the elements of a complete verbal construction work together. Use an unseen equivalent of the LO5 task and assess its stated response independently.
 - **LO6.** Distinguish an auxiliary pattern from a second lexical action. Use an unseen equivalent of the LO6 task and assess its stated response independently.
 
 Assess how the verbal parts work together. G01-002 owns independent predicate-span identification, G08-011 detailed auxiliary agreement and G09 specific aspect constructions. G13 owns complex verbal construction classifications.

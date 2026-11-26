@@ -99,8 +99,8 @@ Row references are to section 6. Provide Devanagari, Romanisation and English by
 
 ### LO2 — Interpret participant requirements in a new clause
 
-- **Learner prompt.** In the Nepali laugh report, what participant must the listener identify to understand who laughed?
-- **Expected response.** The laughing participant, recovered from ऊ / U / they and the situation.
+- **Learner prompt.** Read ऊ हाँस्छ। / U haanschha. with only the lexical gloss for laugh. Which participant is supplied in this frame, and is there a second participant that the verb needs as a direct object here?
+- **Expected response.** The laughing participant is identified by ऊ / U and the situation. This draft frame does not require anyone or anything as a direct object.
 - **Assessment target.** LO2 only. Assess direct-object requirements in the frame. G07-011 owns wider valency and complement analysis, G05 adverbial meaning and G14 marking.
 - **Feedback and retry.** Track the recently introduced person and retry with another known participant.
 - **Validation status.** Draft. Confirm the example, analysis and accepted responses before use.
